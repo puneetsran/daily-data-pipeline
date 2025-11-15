@@ -1,0 +1,6 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,8,47,Patchy rain nearby,92,7,2025-11-15T00:59:02.514553
+Toronto,7,45,Clear,76,9,2025-11-15T00:59:04.053353
+Seattle,9,49,"Light rain, mist",93,4,2025-11-15T00:59:05.117710
+San Francisco,17,62,Partly cloudy,75,5,2025-11-15T00:59:06.185918
+New York,9,49,Cloudy,41,12,2025-11-15T00:59:06.883924
