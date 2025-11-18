@@ -1,0 +1,6 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,9,48,Partly cloudy,81,4,2025-11-18T01:00:28.112583
+Toronto,3,38,Partly cloudy,52,20,2025-11-18T01:00:33.799984
+Seattle,8,47,Mist,90,7,2025-11-18T01:00:42.475055
+San Francisco,13,56,Partly cloudy,77,29,2025-11-18T01:00:55.162590
+New York,6,42,Clear,34,20,2025-11-18T01:00:57.919424
