@@ -37,7 +37,7 @@ def format_github_table(df):
     for _, row in df.head(5).iterrows():  # Show top 5
         name = row['name']
         stars = f"{int(row['stars']):,}"
-        language = row['language']
+        language = row['language'] if pd.notna(row['language']) else 'N/A'
         description = row['description'][:80] + "..." if len(row['description']) > 80 else row['description']
         
         table_rows.append(f"| [{name}]({row['url']}) | {stars} | {language} | {description} |")
@@ -103,12 +103,12 @@ def update_readme():
         current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
         
         # Update GitHub Trending section
-        github_pattern = r'(### GitHub Trending Repositories \(Last Updated:)[^)]*(\).*?\| Repository \| Stars \| Language \| Description \|.*?\|[-\s|]+\|)(.*?)(\n\n###|\n\n##)'
+        github_pattern = r'(### GitHub Trending Repositories \(Last Updated:)[^)]*(\).*?\| Repository \| Stars \| Language \| Description \|\n\|[-\s|]+\|)(.*?)(\n\n###|\n\n##)'
         github_replacement = rf'\1 {current_time}\2\n{github_table}\4'
         readme_content = re.sub(github_pattern, github_replacement, readme_content, flags=re.DOTALL)
         
         # Update Weather Data section
-        weather_pattern = r'(### Weather Data Summary.*?\| Metric \| Value \|.*?\|[-\s|]+\|)(.*?)(\n\n##)'
+        weather_pattern = r'(### Weather Data Summary\n\n\| Metric \| Value \|\n\|[-\s|]+\|)(.*?)(\n\n##)'
         weather_replacement = rf'\1\n{weather_table}\3'
         readme_content = re.sub(weather_pattern, weather_replacement, readme_content, flags=re.DOTALL)
         
