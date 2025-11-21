@@ -10,7 +10,6 @@ import pandas as pd
 from datetime import datetime
 import logging
 import os
-import re
 
 # Configure logging
 logging.basicConfig(
@@ -74,7 +73,7 @@ def update_readme():
     try:
         # Read current README
         with open('README.md', 'r') as f:
-            readme_content = f.read()
+            lines = f.readlines()
         
         # Get latest processed data
         github_file = get_latest_file('data/processed/github_processed_*.csv')
@@ -102,24 +101,71 @@ def update_readme():
         # Get current timestamp
         current_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S UTC')
         
-        # Update GitHub Trending section
-        github_pattern = r'(### GitHub Trending Repositories \(Last Updated:)[^)]*(\).*?\| Repository \| Stars \| Language \| Description \|\n\|[-\s|]+\|)(.*?)(\n\n###|\n\n##)'
-        github_replacement = rf'\1 {current_time}\2\n{github_table}\4'
-        readme_content = re.sub(github_pattern, github_replacement, readme_content, flags=re.DOTALL)
-        
-        # Update Weather Data section
-        weather_pattern = r'(### Weather Data Summary\n\n\| Metric \| Value \|\n\|[-\s|]+\|)(.*?)(\n\n##)'
-        weather_replacement = rf'\1\n{weather_table}\3'
-        readme_content = re.sub(weather_pattern, weather_replacement, readme_content, flags=re.DOTALL)
-        
-        # Update the final timestamp at the bottom
-        timestamp_pattern = r'\*This README is automatically updated by the data pipeline\. Last update: .*?\*'
-        timestamp_replacement = f'*This README is automatically updated by the data pipeline. Last update: {current_time}*'
-        readme_content = re.sub(timestamp_pattern, timestamp_replacement, readme_content)
+        # Process line by line
+        new_lines = []
+        i = 0
+        while i < len(lines):
+            line = lines[i]
+            
+            # Update GitHub section
+            if line.startswith('### GitHub Trending Repositories'):
+                new_lines.append(f'### GitHub Trending Repositories (Last Updated: {current_time})\n')
+                i += 1
+                # Skip until we find the table header
+                while i < len(lines) and not lines[i].startswith('| Repository'):
+                    i += 1
+                if i < len(lines):
+                    new_lines.append(lines[i])  # Add header
+                    i += 1
+                    if i < len(lines) and lines[i].startswith('|---'):
+                        new_lines.append(lines[i])  # Add separator
+                        i += 1
+                    # Skip old data rows until next section
+                    while i < len(lines) and not lines[i].startswith('###') and not lines[i].startswith('##'):
+                        if lines[i].strip() and not lines[i].startswith('|'):
+                            break
+                        i += 1
+                    # Add new data
+                    new_lines.append(github_table + '\n')
+                    new_lines.append('\n')  # Add blank line after table
+                continue
+            
+            # Update Weather section
+            elif line.startswith('### Weather Data Summary'):
+                new_lines.append(line)
+                i += 1
+                # Skip until we find the table header
+                while i < len(lines) and not lines[i].startswith('| Metric'):
+                    new_lines.append(lines[i])
+                    i += 1
+                if i < len(lines):
+                    new_lines.append(lines[i])  # Add header
+                    i += 1
+                    if i < len(lines) and lines[i].startswith('|---'):
+                        new_lines.append(lines[i])  # Add separator
+                        i += 1
+                    # Skip old data rows until next section
+                    while i < len(lines) and not lines[i].startswith('##'):
+                        if lines[i].strip() and not lines[i].startswith('|'):
+                            break
+                        i += 1
+                    # Add new data
+                    new_lines.append(weather_table + '\n')
+                    new_lines.append('\n')  # Add blank line after table
+                continue
+            
+            # Update timestamp at bottom
+            elif '*This README is automatically updated' in line:
+                new_lines.append(f'*This README is automatically updated by the data pipeline. Last update: {current_time}*\n')
+                i += 1
+                continue
+            
+            new_lines.append(line)
+            i += 1
         
         # Write updated README
         with open('README.md', 'w') as f:
-            f.write(readme_content)
+            f.writelines(new_lines)
         
         logger.info("README.md updated successfully!")
         return True
