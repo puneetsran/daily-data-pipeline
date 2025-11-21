@@ -17,22 +17,24 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2025-11-21 15:37:43 UTC)
+### GitHub Trending Repositories (Last Updated: 2025-11-21 22:39:09 UTC)
 
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 441,310 | Markdown | Master programming by recreating your favorite technologies from scratch. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 432,795 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,... |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 416,556 | N/A | 😎 Awesome lists about all kinds of interesting topics |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 379,963 | Python | A collective list of free APIs |
+|
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 441,313 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 432,796 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,... |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 416,558 | N/A | 😎 Awesome lists about all kinds of interesting topics |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 379,964 | Python | A collective list of free APIs |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 377,300 | Python | :books: Freely available programming books |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
+|
 | Cities Tracked | Vancouver, Toronto, Seattle, San Francisco, New York |
-| Average Temperature | 11.2°C (52.2°F) |
+| Average Temperature | 11.0°C (52.0°F) |
 | Average Humidity | 70% |
 | Data Points | 5 cities |
 
@@ -160,4 +162,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2025-11-21 15:37:43 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2025-11-21 22:39:09 UTC*
