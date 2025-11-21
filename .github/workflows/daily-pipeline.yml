@@ -42,14 +42,18 @@ jobs:
               run: |
                   python scripts/process_data.py
 
+            - name: Update README
+              run: |
+                  python scripts/update_readme.py
+
             - name: Configure Git
               run: |
                   git config --local user.email "github-actions[bot]@users.noreply.github.com"
                   git config --local user.name "github-actions[bot]"
 
-            - name: Commit and push data
+            - name: Commit and push changes
               run: |
-                  git add data/
+                  git add data/ README.md
                   git diff --quiet && git diff --staged --quiet || (git commit -m "🤖 Automated data update - $(date +'%Y-%m-%d %H:%M:%S UTC')" && git push)
 
             - name: Upload artifacts
