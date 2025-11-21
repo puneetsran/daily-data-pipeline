@@ -1,0 +1,6 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,8,47,Light rain,100,13,2025-11-21T22:33:19.172804
+Toronto,9,48,Partly cloudy,62,17,2025-11-21T22:33:19.903000
+Seattle,12,53,Partly cloudy,66,6,2025-11-21T22:33:20.602480
+San Francisco,16,61,Sunny,56,4,2025-11-21T22:33:21.383442
+New York,11,52,Overcast,66,12,2025-11-21T22:33:22.232041
