@@ -1,0 +1,4 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Seattle,12,54,Overcast,77,13,2025-11-23T01:08:41.879782
+San Francisco,16,61,Sunny,64,7,2025-11-23T01:08:46.942022
+New York,8,46,Clear,49,15,2025-11-23T01:08:48.257301
