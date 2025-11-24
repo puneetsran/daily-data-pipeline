@@ -1,0 +1,4 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Toronto,5,41,Clear,74,23,2025-11-24T01:04:34.785716
+San Francisco,14,57,Partly cloudy,77,9,2025-11-24T01:04:48.214422
+New York,8,47,Clear,58,21,2025-11-24T01:04:54.551340

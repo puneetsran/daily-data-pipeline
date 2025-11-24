@@ -1,0 +1,33 @@
+{
+  "collected_at": "2025-11-24T01:04:54.551475",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Toronto",
+      "temperature_c": "5",
+      "temperature_f": "41",
+      "condition": "Clear",
+      "humidity": "74",
+      "wind_speed_kmph": "23",
+      "collected_at": "2025-11-24T01:04:34.785716"
+    },
+    {
+      "city": "San Francisco",
+      "temperature_c": "14",
+      "temperature_f": "57",
+      "condition": "Partly cloudy",
+      "humidity": "77",
+      "wind_speed_kmph": "9",
+      "collected_at": "2025-11-24T01:04:48.214422"
+    },
+    {
+      "city": "New York",
+      "temperature_c": "8",
+      "temperature_f": "47",
+      "condition": "Clear",
+      "humidity": "58",
+      "wind_speed_kmph": "21",
+      "collected_at": "2025-11-24T01:04:54.551340"
+    }
+  ]
+}
