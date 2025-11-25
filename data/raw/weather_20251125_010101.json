@@ -1,0 +1,24 @@
+{
+  "collected_at": "2025-11-25T01:01:01.539210",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Seattle",
+      "temperature_c": "9",
+      "temperature_f": "48",
+      "condition": "Partly cloudy",
+      "humidity": "80",
+      "wind_speed_kmph": "10",
+      "collected_at": "2025-11-25T01:00:32.849437"
+    },
+    {
+      "city": "San Francisco",
+      "temperature_c": "16",
+      "temperature_f": "60",
+      "condition": "Sunny",
+      "humidity": "78",
+      "wind_speed_kmph": "7",
+      "collected_at": "2025-11-25T01:00:47.189603"
+    }
+  ]
+}
