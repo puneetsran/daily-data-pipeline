@@ -1,0 +1,6 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,7,44,Clear,86,4,2025-12-01T01:13:10.917777
+Toronto,0,32,Light freezing rain,84,30,2025-12-01T01:13:15.936639
+Seattle,7,45,Partly cloudy,63,4,2025-12-01T01:13:20.811329
+San Francisco,11,52,Partly cloudy,71,10,2025-12-01T01:13:24.180488
+New York,6,42,Overcast,82,22,2025-12-01T01:13:28.395888
