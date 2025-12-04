@@ -1,0 +1,6 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,5,41,Mist,95,4,2025-12-04T01:01:54.366893
+Toronto,0,32,Light rain,80,26,2025-12-04T01:01:58.157092
+Seattle,8,47,Overcast,71,4,2025-12-04T01:02:05.598335
+San Francisco,17,62,Partly cloudy,35,8,2025-12-04T01:02:10.404678
+New York,4,39,Clear,44,9,2025-12-04T01:02:13.621437
