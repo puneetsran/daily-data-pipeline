@@ -1,0 +1,6 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,6,43,Light drizzle,99,7,2025-12-05T01:02:33.105506
+Toronto,-8,18,Clear,41,15,2025-12-05T01:02:36.487714
+Seattle,8,46,Mist,93,6,2025-12-05T01:02:39.404559
+San Francisco,13,55,Partly cloudy,66,11,2025-12-05T01:02:46.226389
+New York,1,33,Clear,36,26,2025-12-05T01:02:50.698536
