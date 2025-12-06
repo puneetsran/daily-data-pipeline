@@ -17,12 +17,12 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2025-12-05 22:25:32 UTC)
+### GitHub Trending Repositories (Last Updated: 2025-12-06 06:29:56 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 446,732 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 446,733 | Markdown | Master programming by recreating your favorite technologies from scratch. |
 | [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 434,185 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,... |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 420,408 | N/A | 😎 Awesome lists about all kinds of interesting topics |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 420,409 | N/A | 😎 Awesome lists about all kinds of interesting topics |
 | [public-apis/public-apis](https://github.com/public-apis/public-apis) | 382,794 | Python | A collective list of free APIs |
 | [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 378,309 | Python | :books: Freely available programming books |
 
@@ -159,4 +159,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2025-12-05 22:25:32 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2025-12-06 06:29:56 UTC*
