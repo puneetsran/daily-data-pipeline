@@ -78,12 +78,12 @@ def collect_github_trending():
 
 
 def collect_weather_data():
-    """Collect weather data for major tech cities."""
+    """Collect weather data for Vancouver."""
     logger.info("Collecting weather data...")
     
     try:
         # Using wttr.in - a free weather API that doesn't require API key
-        cities = ['Vancouver', 'Toronto', 'Seattle', 'San Francisco', 'New York']
+        cities = ['Vancouver']
         weather_data = []
         
         for city in cities:

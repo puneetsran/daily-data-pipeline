@@ -57,7 +57,7 @@ def process_github_data():
 
 
 def process_weather_data():
-    """Process weather data."""
+    """Process weather data for Vancouver."""
     logger.info("Processing weather data...")
     
     try:
@@ -76,9 +76,9 @@ def process_weather_data():
         df['temperature_c'] = pd.to_numeric(df['temperature_c'])
         df['humidity'] = pd.to_numeric(df['humidity'])
         
-        # Calculate average temperature
+        # Calculate average temperature for Vancouver
         avg_temp = df['temperature_c'].mean()
-        logger.info(f"Average temperature across cities: {avg_temp:.1f}°C")
+        logger.info(f"Average temperature for Vancouver: {avg_temp:.1f}°C")
         
         # Save processed data
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')

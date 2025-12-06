@@ -49,18 +49,18 @@ def format_weather_table(df):
     if df is None or len(df) == 0:
         return "| *Data will be populated by automated pipeline* | - |"
     
-    # Calculate summary statistics
+    # Calculate summary statistics for Vancouver
     avg_temp_c = df['temperature_c'].mean()
     avg_temp_f = df['temperature_f'].mean()
     avg_humidity = df['humidity'].mean()
     
-    cities_list = ", ".join(df['city'].tolist())
+    city_name = df['city'].iloc[0] if len(df) > 0 else "Vancouver"
     
     table_rows = [
-        f"| Cities Tracked | {cities_list} |",
+        f"| City Tracked | {city_name} |",
         f"| Average Temperature | {avg_temp_c:.1f}°C ({avg_temp_f:.1f}°F) |",
         f"| Average Humidity | {avg_humidity:.0f}% |",
-        f"| Data Points | {len(df)} cities |"
+        f"| Data Points | {len(df)} |"
     ]
     
     return "\n".join(table_rows)
