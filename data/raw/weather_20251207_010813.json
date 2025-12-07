@@ -1,0 +1,15 @@
+{
+  "collected_at": "2025-12-07T01:08:13.699591",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Vancouver",
+      "temperature_c": "10",
+      "temperature_f": "50",
+      "condition": "Partly cloudy",
+      "humidity": "82",
+      "wind_speed_kmph": "11",
+      "collected_at": "2025-12-07T01:08:13.699467"
+    }
+  ]
+}
