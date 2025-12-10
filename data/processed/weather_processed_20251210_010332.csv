@@ -1,0 +1,2 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,10,50,Overcast,87,10,2025-12-10T01:03:32.097858
