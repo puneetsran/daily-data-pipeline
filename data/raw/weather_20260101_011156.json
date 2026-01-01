@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-01-01T01:11:56.441141",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Vancouver",
+      "temperature_c": "4",
+      "temperature_f": "40",
+      "condition": "Parftial fog",
+      "humidity": "100",
+      "wind_speed_kmph": "6",
+      "collected_at": "2026-01-01T01:11:56.441007"
+    }
+  ]
+}
