@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-01-08T01:05:46.976150",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Vancouver",
+      "temperature_c": "4",
+      "temperature_f": "40",
+      "condition": "Light sleet",
+      "humidity": "93",
+      "wind_speed_kmph": "13",
+      "collected_at": "2026-01-08T01:05:46.976008"
+    }
+  ]
+}
