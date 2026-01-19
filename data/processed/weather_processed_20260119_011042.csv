@@ -1,0 +1,2 @@
+city,temperature_c,temperature_f,condition,humidity,wind_speed_kmph,collected_at
+Vancouver,5,41,Fog,100,5,2026-01-19T01:10:41.993885
