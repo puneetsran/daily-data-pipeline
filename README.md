@@ -17,21 +17,21 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-01-21 01:07:56 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-01-22 01:07:41 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 458,799 | Markdown | Master programming by recreating your favorite technologies from scratch. |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 436,103 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,... |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 430,882 | N/A | 😎 Awesome lists about all kinds of interesting topics |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 392,412 | Python | A collective list of free APIs |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 380,802 | Python | :books: Freely available programming books |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 459,116 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 436,146 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,... |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 431,107 | N/A | 😎 Awesome lists about all kinds of interesting topics |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 392,706 | Python | A collective list of free APIs |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 380,878 | Python | :books: Freely available programming books |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 5.0°C (42.0°F) |
+| Average Temperature | 3.0°C (38.0°F) |
 | Average Humidity | 100% |
 | Data Points | 1 |
 
@@ -159,4 +159,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-01-21 01:07:56 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-01-22 01:07:41 UTC*
