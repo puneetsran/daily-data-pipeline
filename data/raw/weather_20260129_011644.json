@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-01-29T01:16:44.653058",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Vancouver",
+      "temperature_c": "9",
+      "temperature_f": "49",
+      "condition": "Overcast",
+      "humidity": "93",
+      "wind_speed_kmph": "12",
+      "collected_at": "2026-01-29T01:16:44.652931"
+    }
+  ]
+}
