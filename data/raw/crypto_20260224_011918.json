@@ -1,0 +1,41 @@
+{
+  "collected_at": "2026-02-24T01:19:18.694944",
+  "source": "CoinGecko API",
+  "data": [
+    {
+      "coin": "bitcoin",
+      "price_usd": 63668,
+      "market_cap": 1295084690757.1394,
+      "change_24h": -2.7140037465793947,
+      "collected_at": "2026-02-24T01:19:18.694805"
+    },
+    {
+      "coin": "cardano",
+      "price_usd": 0.261008,
+      "market_cap": 9713495243.318577,
+      "change_24h": 0.15246082899034716,
+      "collected_at": "2026-02-24T01:19:18.694815"
+    },
+    {
+      "coin": "ethereum",
+      "price_usd": 1821.37,
+      "market_cap": 224916405122.69617,
+      "change_24h": -3.2905128070434775,
+      "collected_at": "2026-02-24T01:19:18.694817"
+    },
+    {
+      "coin": "polkadot",
+      "price_usd": 1.26,
+      "market_cap": 2126175184.4156306,
+      "change_24h": 0.9151469109650577,
+      "collected_at": "2026-02-24T01:19:18.694819"
+    },
+    {
+      "coin": "solana",
+      "price_usd": 77.51,
+      "market_cap": 44547940324.10875,
+      "change_24h": -2.539022830108503,
+      "collected_at": "2026-02-24T01:19:18.694821"
+    }
+  ]
+}
