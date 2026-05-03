@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-05-03T02:03:46.122295",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "codecrafters-io/build-your-own-x",
+      "stars": 498702,
+      "language": "Markdown",
+      "description": "Master programming by recreating your favorite technologies from scratch.",
+      "url": "https://github.com/codecrafters-io/build-your-own-x",
+      "updated_at": "2026-05-03T02:00:21Z"
+    },
+    {
+      "name": "sindresorhus/awesome",
+      "stars": 461659,
+      "language": "N/A",
+      "description": "\ud83d\ude0e Awesome lists about all kinds of interesting topics",
+      "url": "https://github.com/sindresorhus/awesome",
+      "updated_at": "2026-05-03T02:02:50Z"
+    },
+    {
+      "name": "freeCodeCamp/freeCodeCamp",
+      "stars": 444045,
+      "language": "TypeScript",
+      "description": "freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming, and computer scienc",
+      "url": "https://github.com/freeCodeCamp/freeCodeCamp",
+      "updated_at": "2026-05-03T01:33:46Z"
+    },
+    {
+      "name": "public-apis/public-apis",
+      "stars": 430175,
+      "language": "Python",
+      "description": "A collective list of free APIs",
+      "url": "https://github.com/public-apis/public-apis",
+      "updated_at": "2026-05-03T02:03:19Z"
+    },
+    {
+      "name": "EbookFoundation/free-programming-books",
+      "stars": 387533,
+      "language": "Python",
+      "description": ":books: Freely available programming books",
+      "url": "https://github.com/EbookFoundation/free-programming-books",
+      "updated_at": "2026-05-03T01:30:14Z"
+    },
+    {
+      "name": "openclaw/openclaw",
+      "stars": 367588,
+      "language": "TypeScript",
+      "description": "Your own personal AI assistant. Any OS. Any Platform. The lobster way. \ud83e\udd9e ",
+      "url": "https://github.com/openclaw/openclaw",
+      "updated_at": "2026-05-03T02:03:05Z"
+    },
+    {
+      "name": "nilbuild/developer-roadmap",
+      "stars": 354039,
+      "language": "TypeScript",
+      "description": "Interactive roadmaps, guides and other educational content to help developers grow in their careers.",
+      "url": "https://github.com/nilbuild/developer-roadmap",
+      "updated_at": "2026-05-03T01:48:35Z"
+    },
+    {
+      "name": "donnemartin/system-design-primer",
+      "stars": 346733,
+      "language": "Python",
+      "description": "Learn how to design large-scale systems. Prep for the system design interview.  Includes Anki flashc",
+      "url": "https://github.com/donnemartin/system-design-primer",
+      "updated_at": "2026-05-03T01:52:11Z"
+    },
+    {
+      "name": "jwasham/coding-interview-university",
+      "stars": 344600,
+      "language": "N/A",
+      "description": "A complete computer science study plan to become a software engineer.",
+      "url": "https://github.com/jwasham/coding-interview-university",
+      "updated_at": "2026-05-03T01:58:19Z"
+    },
+    {
+      "name": "vinta/awesome-python",
+      "stars": 295657,
+      "language": "Python",
+      "description": "An opinionated list of Python frameworks, libraries, tools, and resources",
+      "url": "https://github.com/vinta/awesome-python",
+      "updated_at": "2026-05-03T01:59:36Z"
+    }
+  ]
+}
