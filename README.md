@@ -17,22 +17,22 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-06-23 02:29:34 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-06-24 02:30:41 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 518,545 | Markdown | Master programming by recreating your favorite technologies from scratch. |
-| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 478,026 | N/A | 😎 Awesome lists about all kinds of interesting topics |
-| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 450,233 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,... |
-| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 443,571 | Python | A collective list of free APIs |
-| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 390,653 | Python | :books: Freely available programming books |
+| [codecrafters-io/build-your-own-x](https://github.com/codecrafters-io/build-your-own-x) | 518,913 | Markdown | Master programming by recreating your favorite technologies from scratch. |
+| [sindresorhus/awesome](https://github.com/sindresorhus/awesome) | 478,303 | N/A | 😎 Awesome lists about all kinds of interesting topics |
+| [freeCodeCamp/freeCodeCamp](https://github.com/freeCodeCamp/freeCodeCamp) | 450,367 | TypeScript | freeCodeCamp.org's open-source codebase and curriculum. Learn math, programming,... |
+| [public-apis/public-apis](https://github.com/public-apis/public-apis) | 443,788 | Python | A collective list of free APIs |
+| [EbookFoundation/free-programming-books](https://github.com/EbookFoundation/free-programming-books) | 390,691 | Python | :books: Freely available programming books |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 27.0°C (80.0°F) |
-| Average Humidity | 39% |
+| Average Temperature | 30.0°C (85.0°F) |
+| Average Humidity | 28% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -159,4 +159,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-06-23 02:29:34 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-06-24 02:30:41 UTC*
