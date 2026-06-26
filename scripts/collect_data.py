@@ -7,8 +7,9 @@ Collects data from various public APIs and saves to raw data directory.
 import requests
 import json
 import csv
-from datetime import datetime
+from datetime import datetime, timedelta
 import os
+import glob
 import logging
 
 # Configure logging
@@ -28,25 +29,25 @@ def ensure_directories():
 
 
 def collect_github_trending():
-    """Collect trending repositories from GitHub."""
+    """Collect genuinely trending repositories from GitHub (new repos gaining stars fast)."""
     logger.info("Collecting GitHub trending data...")
-    
+
     try:
-        # Using GitHub's public API (no auth required for basic data)
         url = "https://api.github.com/search/repositories"
+        week_ago = (datetime.now() - timedelta(days=7)).strftime('%Y-%m-%d')
         params = {
-            'q': 'stars:>1000',
+            'q': f'stars:>10 created:>{week_ago}',
             'sort': 'stars',
             'order': 'desc',
             'per_page': 10
         }
-        
-        response = requests.get(url, params=params, timeout=10)
+
+        headers = {'Accept': 'application/vnd.github.v3+json'}
+        response = requests.get(url, params=params, headers=headers, timeout=10)
         response.raise_for_status()
-        
+
         data = response.json()
-        
-        # Extract relevant information
+
         trending_repos = []
         for repo in data.get('items', [])[:10]:
             trending_repos.append({
@@ -55,26 +56,92 @@ def collect_github_trending():
                 'language': repo['language'] or 'N/A',
                 'description': (repo['description'] or 'No description')[:100],
                 'url': repo['html_url'],
-                'updated_at': repo['updated_at']
+                'created_at': repo['created_at']
             })
-        
-        # Save to file
+
         timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
         filename = f'data/raw/github_trending_{timestamp}.json'
-        
+
         with open(filename, 'w') as f:
             json.dump({
                 'collected_at': datetime.now().isoformat(),
                 'source': 'GitHub API',
                 'data': trending_repos
             }, f, indent=2)
-        
+
         logger.info(f"GitHub trending data saved to {filename}")
         return trending_repos
-        
+
     except Exception as e:
         logger.error(f"Error collecting GitHub data: {e}")
         return []
+
+
+def collect_hn_stories():
+    """Collect top Hacker News stories (no API key required)."""
+    logger.info("Collecting Hacker News top stories...")
+
+    try:
+        top_ids_url = "https://hacker-news.firebaseio.com/v0/topstories.json"
+        response = requests.get(top_ids_url, timeout=10)
+        response.raise_for_status()
+        top_ids = response.json()[:10]
+
+        stories = []
+        for story_id in top_ids:
+            try:
+                item_url = f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+                r = requests.get(item_url, timeout=10)
+                r.raise_for_status()
+                item = r.json()
+
+                if item and item.get('type') == 'story':
+                    stories.append({
+                        'title': item.get('title', 'No title'),
+                        'url': item.get('url', f"https://news.ycombinator.com/item?id={story_id}"),
+                        'score': item.get('score', 0),
+                        'comments': item.get('descendants', 0),
+                        'by': item.get('by', 'unknown'),
+                        'hn_url': f"https://news.ycombinator.com/item?id={story_id}"
+                    })
+            except Exception as e:
+                logger.warning(f"Error fetching HN story {story_id}: {e}")
+                continue
+
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        filename = f'data/raw/hn_stories_{timestamp}.json'
+
+        with open(filename, 'w') as f:
+            json.dump({
+                'collected_at': datetime.now().isoformat(),
+                'source': 'Hacker News API',
+                'data': stories
+            }, f, indent=2)
+
+        logger.info(f"HN stories saved to {filename}")
+        return stories
+
+    except Exception as e:
+        logger.error(f"Error collecting HN data: {e}")
+        return []
+
+
+def cleanup_old_files(days_to_keep=7):
+    """Delete raw and processed files older than days_to_keep."""
+    cutoff = datetime.now() - timedelta(days=days_to_keep)
+    patterns = ['data/raw/*.json', 'data/processed/*.csv']
+    removed = 0
+    for pattern in patterns:
+        for f in glob.glob(pattern):
+            try:
+                mtime = datetime.fromtimestamp(os.path.getmtime(f))
+                if mtime < cutoff:
+                    os.remove(f)
+                    logger.info(f"Removed old file: {f}")
+                    removed += 1
+            except Exception as e:
+                logger.warning(f"Could not remove {f}: {e}")
+    logger.info(f"Cleanup complete: {removed} old files removed")
 
 
 def collect_weather_data():
@@ -185,15 +252,20 @@ def main():
     # Ensure directories exist
     ensure_directories()
     
+    # Clean up old files first
+    cleanup_old_files(days_to_keep=7)
+
     # Collect data from various sources
     github_data = collect_github_trending()
+    hn_data = collect_hn_stories()
     weather_data = collect_weather_data()
     crypto_data = collect_crypto_prices()
-    
+
     # Summary
     logger.info("=" * 50)
     logger.info("Data collection complete!")
     logger.info(f"GitHub repos collected: {len(github_data)}")
+    logger.info(f"HN stories collected: {len(hn_data)}")
     logger.info(f"Weather data points: {len(weather_data)}")
     logger.info(f"Crypto currencies: {len(crypto_data)}")
     logger.info("=" * 50)

@@ -44,6 +44,24 @@ def format_github_table(df):
     return "\n".join(table_rows)
 
 
+def format_hn_table(df):
+    """Format Hacker News data as a markdown table."""
+    if df is None or len(df) == 0:
+        return "| *Data will be populated by automated pipeline* | - | - |"
+
+    table_rows = []
+    for _, row in df.head(10).iterrows():
+        title = str(row['title'])[:80] + "..." if len(str(row['title'])) > 80 else str(row['title'])
+        url = row['url']
+        score = int(row['score'])
+        comments = int(row['comments'])
+        hn_url = row['hn_url']
+
+        table_rows.append(f"| [{title}]({url}) | {score} | [{comments} comments]({hn_url}) |")
+
+    return "\n".join(table_rows)
+
+
 def format_weather_table(df):
     """Format weather data as a markdown table."""
     if df is None or len(df) == 0:
@@ -77,25 +95,34 @@ def update_readme():
         
         # Get latest processed data
         github_file = get_latest_file('data/processed/github_processed_*.csv')
+        hn_file = get_latest_file('data/processed/hn_processed_*.csv')
         weather_file = get_latest_file('data/processed/weather_processed_*.csv')
-        
+
         github_df = None
+        hn_df = None
         weather_df = None
-        
+
         if github_file:
             github_df = pd.read_csv(github_file)
             logger.info(f"Loaded GitHub data: {len(github_df)} repositories")
         else:
             logger.warning("No GitHub data file found")
-        
+
+        if hn_file:
+            hn_df = pd.read_csv(hn_file)
+            logger.info(f"Loaded HN data: {len(hn_df)} stories")
+        else:
+            logger.warning("No HN data file found")
+
         if weather_file:
             weather_df = pd.read_csv(weather_file)
             logger.info(f"Loaded weather data: {len(weather_df)} cities")
         else:
             logger.warning("No weather data file found")
-        
+
         # Format tables
         github_table = format_github_table(github_df)
+        hn_table = format_hn_table(hn_df)
         weather_table = format_weather_table(weather_df)
         
         # Get current timestamp
@@ -107,6 +134,26 @@ def update_readme():
         while i < len(lines):
             line = lines[i]
             
+            # Update HN section
+            if line.startswith('### Hacker News Top Stories'):
+                new_lines.append(f'### Hacker News Top Stories (Last Updated: {current_time})\n')
+                i += 1
+                while i < len(lines) and not lines[i].startswith('| Title'):
+                    i += 1
+                if i < len(lines):
+                    new_lines.append(lines[i])  # header
+                    i += 1
+                    if i < len(lines) and lines[i].startswith('|---'):
+                        new_lines.append(lines[i])  # separator
+                        i += 1
+                    while i < len(lines) and not lines[i].startswith('###') and not lines[i].startswith('##'):
+                        if lines[i].strip() and not lines[i].startswith('|'):
+                            break
+                        i += 1
+                    new_lines.append(hn_table + '\n')
+                    new_lines.append('\n')
+                continue
+
             # Update GitHub section
             if line.startswith('### GitHub Trending Repositories'):
                 new_lines.append(f'### GitHub Trending Repositories (Last Updated: {current_time})\n')

@@ -129,6 +129,33 @@ def process_crypto_data():
         return None
 
 
+def process_hn_data():
+    """Process Hacker News top stories data."""
+    logger.info("Processing HN data...")
+
+    try:
+        latest_file = get_latest_file('data/raw/hn_stories_*.json')
+        if not latest_file:
+            logger.warning("No HN data file found")
+            return None
+
+        with open(latest_file, 'r') as f:
+            data = json.load(f)
+
+        df = pd.DataFrame(data['data'])
+
+        timestamp = datetime.now().strftime('%Y%m%d_%H%M%S')
+        output_file = f'data/processed/hn_processed_{timestamp}.csv'
+        df.to_csv(output_file, index=False)
+
+        logger.info(f"Processed HN data saved to {output_file}")
+        return df
+
+    except Exception as e:
+        logger.error(f"Error processing HN data: {e}")
+        return None
+
+
 def generate_summary():
     """Generate summary statistics."""
     logger.info("Generating summary statistics...")
@@ -136,24 +163,29 @@ def generate_summary():
     summary = {
         'generated_at': datetime.now().isoformat(),
         'github_repos_analyzed': 0,
+        'hn_stories_tracked': 0,
         'weather_cities_tracked': 0,
         'crypto_currencies_tracked': 0
     }
-    
+
     try:
-        # Count processed files
         github_files = glob.glob('data/processed/github_processed_*.csv')
+        hn_files = glob.glob('data/processed/hn_processed_*.csv')
         weather_files = glob.glob('data/processed/weather_processed_*.csv')
         crypto_files = glob.glob('data/processed/crypto_processed_*.csv')
-        
+
         if github_files:
             df = pd.read_csv(github_files[-1])
             summary['github_repos_analyzed'] = len(df)
-        
+
+        if hn_files:
+            df = pd.read_csv(hn_files[-1])
+            summary['hn_stories_tracked'] = len(df)
+
         if weather_files:
             df = pd.read_csv(weather_files[-1])
             summary['weather_cities_tracked'] = len(df)
-        
+
         if crypto_files:
             df = pd.read_csv(crypto_files[-1])
             summary['crypto_currencies_tracked'] = len(df)
@@ -178,16 +210,18 @@ def main():
     
     # Process all data sources
     github_df = process_github_data()
+    hn_df = process_hn_data()
     weather_df = process_weather_data()
     crypto_df = process_crypto_data()
-    
+
     # Generate summary
     summary = generate_summary()
-    
+
     # Log results
     logger.info("=" * 50)
     logger.info("Data processing complete!")
     logger.info(f"GitHub repos: {summary['github_repos_analyzed']}")
+    logger.info(f"HN stories: {summary['hn_stories_tracked']}")
     logger.info(f"Weather cities: {summary['weather_cities_tracked']}")
     logger.info(f"Crypto currencies: {summary['crypto_currencies_tracked']}")
     logger.info("=" * 50)
