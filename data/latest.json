@@ -1,0 +1,167 @@
+{
+  "updated_at": "2026-06-26 07:21 UTC",
+  "github_trending": [
+    {
+      "name": "bozhouDev/codex-orange-book",
+      "stars": 2102,
+      "language": "HTML",
+      "description": "Codex \u6a59\u76ae\u4e66\uff1a\u4ece\u5b89\u88c5\u5230\u5b9e\u6218\u6848\u4f8b\u7684\u5168\u94fe\u8def Codex \u4f7f\u7528\u6307\u5357\uff08\u975e\u5b98\u65b9\u5f00\u6e90\uff0c\u542b\u53ef\u4e0b\u8f7d PDF\uff09",
+      "url": "https://github.com/bozhouDev/codex-orange-book",
+      "created_at": "2026-06-23T02:36:54Z"
+    },
+    {
+      "name": "lyra81604/zhengxi-views",
+      "stars": 1055,
+      "language": "Python",
+      "description": "\u53ef\u6eaf\u6e90\u7684\u90d1\u5e0c(\u6613\u65b9\u8fbe\u57fa\u91d1\u7ecf\u7406)\u6295\u7814 Agent Skill\u2014\u2014\u57fa\u4e8e\u4ed6\u5168\u90e8\u516c\u5f00\u89c2\u70b9\u539f\u6587 + \u6709\u539f\u8bdd\u4f50\u8bc1\u7684\u6295\u8d44\u65b9\u6cd5 + \u5168\u5e02\u573a\u57fa\u91d1\u771f\u5b9e\u6570\u636e\uff0c\u80fd\u6eaf\u6e90\u95ee\u7b54\u3001\u6309\u4ed6\u6846\u67b6\u7ed9\u57fa\u91d1\u6253\u5206\uff0c\u7edd\u4e0d\u675c\u64b0\u3002\u26a0\ufe0f\u4ec5\u7814\u7a76\u5b66\u4e60\u8f85\u52a9\uff0c\u4e0d",
+      "url": "https://github.com/lyra81604/zhengxi-views",
+      "created_at": "2026-06-20T04:27:07Z"
+    },
+    {
+      "name": "kanavtwtgg/birds.cafe",
+      "stars": 783,
+      "language": "JavaScript",
+      "description": "No description",
+      "url": "https://github.com/kanavtwtgg/birds.cafe",
+      "created_at": "2026-06-21T13:57:28Z"
+    },
+    {
+      "name": "BohemiaInteractive/CWR",
+      "stars": 561,
+      "language": "C++",
+      "description": "Arma: Cold War Assault Remastered Source Code Repository.",
+      "url": "https://github.com/BohemiaInteractive/CWR",
+      "created_at": "2026-06-22T12:56:54Z"
+    },
+    {
+      "name": "QwenLM/Qwen-AgentWorld",
+      "stars": 548,
+      "language": "Python",
+      "description": "Qwen-AgentWorld: Language World Models for General Agents",
+      "url": "https://github.com/QwenLM/Qwen-AgentWorld",
+      "created_at": "2026-06-22T13:48:37Z"
+    },
+    {
+      "name": "yo-WASSUP/Good-Badminton",
+      "stars": 543,
+      "language": "Python",
+      "description": "\ud83c\udff8  AI Badminton Hawk-Eye System",
+      "url": "https://github.com/yo-WASSUP/Good-Badminton",
+      "created_at": "2026-06-20T10:16:22Z"
+    },
+    {
+      "name": "HKUDS/AgentSpace",
+      "stars": 447,
+      "language": "TypeScript",
+      "description": "\"AgentSpace: Human + Agents. One Team. One Workspace\"",
+      "url": "https://github.com/HKUDS/AgentSpace",
+      "created_at": "2026-06-22T04:08:03Z"
+    },
+    {
+      "name": "overflowy/make-look-scanned",
+      "stars": 420,
+      "language": "Go",
+      "description": "Makes PDFs look scanned (CLI or in the browser via WASM)",
+      "url": "https://github.com/overflowy/make-look-scanned",
+      "created_at": "2026-06-20T17:39:59Z"
+    },
+    {
+      "name": "benchflow-ai/awesome-evals",
+      "stars": 420,
+      "language": "N/A",
+      "description": "A curated, non-BS library of the best resources for building and evaluating AI agents \u2014 papers, blog",
+      "url": "https://github.com/benchflow-ai/awesome-evals",
+      "created_at": "2026-06-24T08:10:33Z"
+    },
+    {
+      "name": "Yu9191/wloc",
+      "stars": 412,
+      "language": "JavaScript",
+      "description": "\u4fee\u6539 Apple \u7f51\u7edc\u5b9a\u4f4d\uff08gs-loc\uff09\u8fd4\u56de\u5750\u6807 \u00b7 \u652f\u6301 Surge / Quantumult X / Loon / Stash \u00b7 \u5feb\u6377\u6307\u4ee4\u4e00\u952e\u8bbe\u7f6e/\u6062\u590d\u5b9a\u4f4d",
+      "url": "https://github.com/Yu9191/wloc",
+      "created_at": "2026-06-24T06:15:30Z"
+    }
+  ],
+  "hn_stories": [
+    {
+      "title": "Om Malik has died",
+      "url": "https://om.co/2026/06/24/1966-2026/",
+      "score": 1075,
+      "comments": 127,
+      "by": "minimaxir",
+      "hn_url": "https://news.ycombinator.com/item?id=48678852"
+    },
+    {
+      "title": "An entire Herculaneum scroll has been read for the first time",
+      "url": "https://scrollprize.org/firstscroll",
+      "score": 1455,
+      "comments": 303,
+      "by": "verditelabs",
+      "hn_url": "https://news.ycombinator.com/item?id=48675179"
+    },
+    {
+      "title": "Bipartite Matching Is in NC",
+      "url": "https://scottaaronson.blog/?p=9851",
+      "score": 54,
+      "comments": 0,
+      "by": "amichail",
+      "hn_url": "https://news.ycombinator.com/item?id=48637433"
+    },
+    {
+      "title": "Libre Barcode Project",
+      "url": "https://graphicore.github.io/librebarcode/",
+      "score": 217,
+      "comments": 35,
+      "by": "luu",
+      "hn_url": "https://news.ycombinator.com/item?id=48681949"
+    },
+    {
+      "title": "What happened after 2k people tried to hack my AI assistant",
+      "url": "https://www.fernandoi.cl/posts/hackmyclaw/",
+      "score": 250,
+      "comments": 99,
+      "by": "cuchoi",
+      "hn_url": "https://news.ycombinator.com/item?id=48681687"
+    },
+    {
+      "title": "Framework's 10G Ethernet module exposes USB-C's complexity",
+      "url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
+      "score": 240,
+      "comments": 126,
+      "by": "Alupis",
+      "hn_url": "https://news.ycombinator.com/item?id=48681220"
+    },
+    {
+      "title": "Incident CVE-2026-LGTM",
+      "url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+      "score": 14,
+      "comments": 0,
+      "by": "mooreds",
+      "hn_url": "https://news.ycombinator.com/item?id=48686093"
+    },
+    {
+      "title": "Show HN: WebBase-III \u2013 dBASE III rebuilt in the browser with its own interpreter",
+      "url": "https://github.com/DDecoene/WebBaseIII",
+      "score": 25,
+      "comments": 7,
+      "by": "ddecoene",
+      "hn_url": "https://news.ycombinator.com/item?id=48656986"
+    },
+    {
+      "title": "Ultrasound Imaging of the Brain",
+      "url": "https://alephneuro.com/blog/ultrasound-brain",
+      "score": 13,
+      "comments": 1,
+      "by": "rossant",
+      "hn_url": "https://news.ycombinator.com/item?id=48685558"
+    },
+    {
+      "title": "22-year-old Mozart's handwritten notebook unearthed in 'major discovery'",
+      "url": "https://www.classicfm.com/composers/mozart/handwritten-notebook-discovered-major-paris/",
+      "score": 135,
+      "comments": 36,
+      "by": "thunderbong",
+      "hn_url": "https://news.ycombinator.com/item?id=48610137"
+    }
+  ]
+}

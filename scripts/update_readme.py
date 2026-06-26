@@ -224,14 +224,60 @@ def update_readme():
         return False
 
 
+def write_latest_json(github_df, hn_df):
+    """Write data/latest.json — fixed filename for the dashboard to fetch."""
+    import json as _json
+
+    github_rows = []
+    if github_df is not None and len(github_df) > 0:
+        for _, row in github_df.head(10).iterrows():
+            github_rows.append({
+                'name': row['name'],
+                'stars': int(row['stars']),
+                'language': row['language'] if pd.notna(row['language']) else 'N/A',
+                'description': str(row['description']),
+                'url': str(row['url']),
+                'created_at': str(row['created_at']) if 'created_at' in row else ''
+            })
+
+    hn_rows = []
+    if hn_df is not None and len(hn_df) > 0:
+        for _, row in hn_df.head(10).iterrows():
+            hn_rows.append({
+                'title': str(row['title']),
+                'url': str(row['url']),
+                'score': int(row['score']),
+                'comments': int(row['comments']),
+                'by': str(row['by']),
+                'hn_url': str(row['hn_url'])
+            })
+
+    payload = {
+        'updated_at': datetime.now().strftime('%Y-%m-%d %H:%M UTC'),
+        'github_trending': github_rows,
+        'hn_stories': hn_rows
+    }
+
+    with open('data/latest.json', 'w') as f:
+        _json.dump(payload, f, indent=2)
+
+    logger.info("data/latest.json written")
+
+
 def main():
     """Main execution function."""
     logger.info("=" * 50)
     logger.info("Starting README update")
     logger.info("=" * 50)
-    
+
     success = update_readme()
-    
+
+    github_file = get_latest_file('data/processed/github_processed_*.csv')
+    hn_file = get_latest_file('data/processed/hn_processed_*.csv')
+    github_df = pd.read_csv(github_file) if github_file else None
+    hn_df = pd.read_csv(hn_file) if hn_file else None
+    write_latest_json(github_df, hn_df)
+
     if success:
         logger.info("=" * 50)
         logger.info("README update complete!")
