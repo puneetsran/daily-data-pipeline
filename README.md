@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-06-26 14:22:59 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-06-26 14:34:44 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
 | [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 2,102 | HTML | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） |
 | [lyra81604/zhengxi-views](https://github.com/lyra81604/zhengxi-views) | 1,055 | Python | 可溯源的郑希(易方达基金经理)投研 Agent Skill——基于他全部公开观点原文 + 有原话佐证的投资方法 + 全市场基金真实数据，能溯源问答、按他框架给基... |
 | [kanavtwtgg/birds.cafe](https://github.com/kanavtwtgg/birds.cafe) | 783 | JavaScript | No description |
-| [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) | 561 | C++ | Arma: Cold War Assault Remastered Source Code Repository. |
-| [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 548 | Python | Qwen-AgentWorld: Language World Models for General Agents |
+| [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) | 563 | C++ | Arma: Cold War Assault Remastered Source Code Repository. |
+| [QwenLM/Qwen-AgentWorld](https://github.com/QwenLM/Qwen-AgentWorld) | 549 | Python | Qwen-AgentWorld: Language World Models for General Agents |
 
-### Hacker News Top Stories (Last Updated: 2026-06-26 14:22:59 UTC)
+### Hacker News Top Stories (Last Updated: 2026-06-26 14:34:44 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) | 40 | [9 comments](https://news.ycombinator.com/item?id=48686093) |
-| [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted) | 5 | [0 comments](https://news.ycombinator.com/item?id=48686834) |
-| [Om Malik has died](https://om.co/2026/06/24/1966-2026/) | 1085 | [128 comments](https://news.ycombinator.com/item?id=48678852) |
-| [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) | 1463 | [306 comments](https://news.ycombinator.com/item?id=48675179) |
-| [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851) | 57 | [2 comments](https://news.ycombinator.com/item?id=48637433) |
-| [The best thing that has ever happened for multiplayer games](https://mas-bandwidth.com/the-best-thing-that-has-ever-happened-for-multiplayer-games/) | 12 | [1 comments](https://news.ycombinator.com/item?id=48630499) |
-| [Libre Barcode Project](https://graphicore.github.io/librebarcode/) | 220 | [36 comments](https://news.ycombinator.com/item?id=48681949) |
-| [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/) | 254 | [103 comments](https://news.ycombinator.com/item?id=48681687) |
-| [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) | 243 | [134 comments](https://news.ycombinator.com/item?id=48681220) |
-| [Show HN: WebBase-III – dBASE III rebuilt in the browser with its own interpreter](https://github.com/DDecoene/WebBaseIII) | 27 | [7 comments](https://news.ycombinator.com/item?id=48656986) |
+| [Why have papers by one of history's most famous physicists been retracted?](https://www.science.org/content/article/why-have-papers-one-history-s-most-famous-physicists-been-retracted) | 32 | [10 comments](https://news.ycombinator.com/item?id=48686834) |
+| [Incident CVE-2026-LGTM](https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html) | 76 | [21 comments](https://news.ycombinator.com/item?id=48686093) |
+| [The AI backlash is only getting started](https://www.economist.com/leaders/2026/06/25/the-ai-backlash-is-only-getting-started) | 21 | [13 comments](https://news.ycombinator.com/item?id=48686219) |
+| [Om Malik has died](https://om.co/2026/06/24/1966-2026/) | 1093 | [129 comments](https://news.ycombinator.com/item?id=48678852) |
+| [An entire Herculaneum scroll has been read for the first time](https://scrollprize.org/firstscroll) | 1467 | [309 comments](https://news.ycombinator.com/item?id=48675179) |
+| [Bipartite Matching Is in NC](https://scottaaronson.blog/?p=9851) | 59 | [2 comments](https://news.ycombinator.com/item?id=48637433) |
+| [Libre Barcode Project](https://graphicore.github.io/librebarcode/) | 222 | [36 comments](https://news.ycombinator.com/item?id=48681949) |
+| [Ultrasound Imaging of the Brain](https://alephneuro.com/blog/ultrasound-brain) | 22 | [5 comments](https://news.ycombinator.com/item?id=48685558) |
+| [What happened after 2k people tried to hack my AI assistant](https://www.fernandoi.cl/posts/hackmyclaw/) | 261 | [108 comments](https://news.ycombinator.com/item?id=48681687) |
+| [Framework's 10G Ethernet module exposes USB-C's complexity](https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/) | 246 | [134 comments](https://news.ycombinator.com/item?id=48681220) |
 
 ### Weather Data Summary
 
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-06-26 14:22:59 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-06-26 14:34:44 UTC*
