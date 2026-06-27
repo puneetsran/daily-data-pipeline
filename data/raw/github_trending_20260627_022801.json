@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-06-27 02:28 UTC",
-  "github_trending": [
+  "collected_at": "2026-06-27T02:28:01.368809",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "bozhouDev/codex-orange-book",
       "stars": 2147,
@@ -80,88 +81,6 @@
       "description": "A Rust toolkit for the Oura Ring (Gen 3/4/5): reverse-engineered BLE protocol, event decoders, and r",
       "url": "https://github.com/Th0rgal/open_oura",
       "created_at": "2026-06-21T10:43:18Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Previewing GPT\u20115.6 Sol: a next-generation model",
-      "url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-      "score": 860,
-      "comments": 514,
-      "by": "minimaxir",
-      "hn_url": "https://news.ycombinator.com/item?id=48689028"
-    },
-    {
-      "title": "Why does kinetic energy increase quadratically, not linearly, with speed? (2011)",
-      "url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
-      "score": 96,
-      "comments": 42,
-      "by": "ProxyTracer",
-      "hn_url": "https://news.ycombinator.com/item?id=48692946"
-    },
-    {
-      "title": "A C++ implementation of a fast hash map and hash set using hopscotch hashing",
-      "url": "https://github.com/Tessil/hopscotch-map",
-      "score": 67,
-      "comments": 11,
-      "by": "gjvc",
-      "hn_url": "https://news.ycombinator.com/item?id=48692090"
-    },
-    {
-      "title": "MicroVMs: Run isolated sandboxes with full lifecycle control",
-      "url": "https://aws.amazon.com/blogs/aws/run-isolated-sandboxes-with-full-lifecycle-control-aws-lambda-introduces-microvms/",
-      "score": 269,
-      "comments": 152,
-      "by": "justincormack",
-      "hn_url": "https://news.ycombinator.com/item?id=48642510"
-    },
-    {
-      "title": "U.S. government will decide who gets to use GPT-5.6",
-      "url": "https://www.washingtonpost.com/technology/2026/06/26/openai-says-us-government-will-vet-users-its-latest-ai-model/",
-      "score": 841,
-      "comments": 940,
-      "by": "alain94040",
-      "hn_url": "https://news.ycombinator.com/item?id=48690101"
-    },
-    {
-      "title": "Show HN: Hacker News on a Train Station Style Flip Board",
-      "url": "https://popflame.quickish.space/hn-flipboard/",
-      "score": 9,
-      "comments": 0,
-      "by": "PaybackTony",
-      "hn_url": "https://news.ycombinator.com/item?id=48693912"
-    },
-    {
-      "title": "AI in mathematics is forcing big questions",
-      "url": "https://spectrum.ieee.org/ai-in-mathematics",
-      "score": 46,
-      "comments": 20,
-      "by": "rbanffy",
-      "hn_url": "https://news.ycombinator.com/item?id=48692883"
-    },
-    {
-      "title": "The gap between open weights LLMs and closed source LLMs",
-      "url": "https://blog.doubleword.ai/frontier-os-llm",
-      "score": 126,
-      "comments": 105,
-      "by": "kkm",
-      "hn_url": "https://news.ycombinator.com/item?id=48692058"
-    },
-    {
-      "title": "We can still stop California's 3D printer surveillance scheme",
-      "url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
-      "score": 240,
-      "comments": 75,
-      "by": "hn_acker",
-      "hn_url": "https://news.ycombinator.com/item?id=48692051"
-    },
-    {
-      "title": "A Tiny Compiler for Data-Parallel Kernels",
-      "url": "https://healeycodes.com/a-tiny-compiler-for-data-parallel-kernels",
-      "score": 28,
-      "comments": 3,
-      "by": "healeycodes",
-      "hn_url": "https://news.ycombinator.com/item?id=48673115"
     }
   ]
 }
