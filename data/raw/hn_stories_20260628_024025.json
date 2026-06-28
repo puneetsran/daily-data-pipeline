@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-06-28T02:40:25.376597",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
+      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
+      "score": 41,
+      "comments": 2,
+      "by": "jakogut",
+      "hn_url": "https://news.ycombinator.com/item?id=48703258"
+    },
+    {
+      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
+      "url": "https://decomp-academy.dev",
+      "score": 25,
+      "comments": 9,
+      "by": "jackpriceburns",
+      "hn_url": "https://news.ycombinator.com/item?id=48703412"
+    },
+    {
+      "title": "Choosing a Public DNS Resolver",
+      "url": "https://evilbit.de/dns-resolver-guide.html",
+      "score": 66,
+      "comments": 22,
+      "by": "pawal",
+      "hn_url": "https://news.ycombinator.com/item?id=48702273"
+    },
+    {
+      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
+      "url": "https://github.com/bikini/exploitarium",
+      "score": 685,
+      "comments": 269,
+      "by": "binyu",
+      "hn_url": "https://news.ycombinator.com/item?id=48698617"
+    },
+    {
+      "title": "OpenRA",
+      "url": "https://www.openra.net/",
+      "score": 594,
+      "comments": 117,
+      "by": "tosh",
+      "hn_url": "https://news.ycombinator.com/item?id=48697560"
+    },
+    {
+      "title": "Response to AI slop is from Robin Williams",
+      "url": "https://jayacunzo.com/blog/your-move-chief",
+      "score": 32,
+      "comments": 5,
+      "by": "herbertl",
+      "hn_url": "https://news.ycombinator.com/item?id=48703452"
+    },
+    {
+      "title": "AI learns the \u201cdark art\u201d of RFIC design",
+      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
+      "score": 194,
+      "comments": 129,
+      "by": "Brajeshwar",
+      "hn_url": "https://news.ycombinator.com/item?id=48660021"
+    },
+    {
+      "title": "Enhancing X11 Application Security with LXC",
+      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
+      "score": 36,
+      "comments": 10,
+      "by": "shirozuki",
+      "hn_url": "https://news.ycombinator.com/item?id=48701936"
+    },
+    {
+      "title": "Fintech Engineering Handbook",
+      "url": "https://w.pitula.me/fintech-engineering-handbook/",
+      "score": 486,
+      "comments": 163,
+      "by": "signa11",
+      "hn_url": "https://news.ycombinator.com/item?id=48696982"
+    },
+    {
+      "title": "Space Shuttle Endeavour's 20-story vertical display",
+      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
+      "score": 16,
+      "comments": 1,
+      "by": "uticus",
+      "hn_url": "https://news.ycombinator.com/item?id=48686032"
+    }
+  ]
+}

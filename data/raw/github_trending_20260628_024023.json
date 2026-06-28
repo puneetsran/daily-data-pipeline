@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-06-28 02:40 UTC",
-  "github_trending": [
+  "collected_at": "2026-06-28T02:40:23.624602",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "bozhouDev/codex-orange-book",
       "stars": 2216,
@@ -80,88 +81,6 @@
       "description": "\u8fd9\u662f\u4e00\u4e2a\u57fa\u4e8etabbit\u7684\u7814\u7a76\u5305\uff0c\u53ef\u4ee5\u8f6c\u5316\u6210OAI\u683c\u5f0f\u51fa\u6765\uff0c\u540c\u65f6\u589e\u52a0\u4e86\u4f1a\u5458\u8ba4\u8bc1\u529f\u80fd\u548c\u4e00\u952e\u63d0\u53d6cookie\u7684\u6d4f\u89c8\u5668\u62d3\u5c55\uff0c\u65b9\u4fbf\u5feb\u901f\u672c\u5730\u5feb\u901f\u4f7f\u7528claude gpt\u7b49\u6a21\u578b",
       "url": "https://github.com/goehou/tabbit-toy",
       "created_at": "2026-06-23T03:37:12Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "AMD Strix Halo RDMA Cluster Setup Guide",
-      "url": "https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md",
-      "score": 41,
-      "comments": 2,
-      "by": "jakogut",
-      "hn_url": "https://news.ycombinator.com/item?id=48703258"
-    },
-    {
-      "title": "Show HN: Decomp Academy \u2013 Learn to decompile GameCube games into matching C",
-      "url": "https://decomp-academy.dev",
-      "score": 25,
-      "comments": 9,
-      "by": "jackpriceburns",
-      "hn_url": "https://news.ycombinator.com/item?id=48703412"
-    },
-    {
-      "title": "Choosing a Public DNS Resolver",
-      "url": "https://evilbit.de/dns-resolver-guide.html",
-      "score": 66,
-      "comments": 22,
-      "by": "pawal",
-      "hn_url": "https://news.ycombinator.com/item?id=48702273"
-    },
-    {
-      "title": "Anonymous GitHub account mass-dropping undisclosed 0-days",
-      "url": "https://github.com/bikini/exploitarium",
-      "score": 685,
-      "comments": 269,
-      "by": "binyu",
-      "hn_url": "https://news.ycombinator.com/item?id=48698617"
-    },
-    {
-      "title": "OpenRA",
-      "url": "https://www.openra.net/",
-      "score": 594,
-      "comments": 117,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=48697560"
-    },
-    {
-      "title": "Response to AI slop is from Robin Williams",
-      "url": "https://jayacunzo.com/blog/your-move-chief",
-      "score": 32,
-      "comments": 5,
-      "by": "herbertl",
-      "hn_url": "https://news.ycombinator.com/item?id=48703452"
-    },
-    {
-      "title": "AI learns the \u201cdark art\u201d of RFIC design",
-      "url": "https://spectrum.ieee.org/ai-radio-chip-design",
-      "score": 194,
-      "comments": 129,
-      "by": "Brajeshwar",
-      "hn_url": "https://news.ycombinator.com/item?id=48660021"
-    },
-    {
-      "title": "Enhancing X11 Application Security with LXC",
-      "url": "https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/",
-      "score": 36,
-      "comments": 10,
-      "by": "shirozuki",
-      "hn_url": "https://news.ycombinator.com/item?id=48701936"
-    },
-    {
-      "title": "Fintech Engineering Handbook",
-      "url": "https://w.pitula.me/fintech-engineering-handbook/",
-      "score": 486,
-      "comments": 163,
-      "by": "signa11",
-      "hn_url": "https://news.ycombinator.com/item?id=48696982"
-    },
-    {
-      "title": "Space Shuttle Endeavour's 20-story vertical display",
-      "url": "https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack",
-      "score": 16,
-      "comments": 1,
-      "by": "uticus",
-      "hn_url": "https://news.ycombinator.com/item?id=48686032"
     }
   ]
 }
