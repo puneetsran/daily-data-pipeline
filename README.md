@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-06-28 02:40:27 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-06-29 02:40:56 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 2,216 | HTML | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） |
-| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 1,380 | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding... |
-| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 1,252 | Python | A single archive of public exploit PoCs and vulnerability research writeups. At ... |
-| [BohemiaInteractive/CWR](https://github.com/BohemiaInteractive/CWR) | 663 | C++ | Arma: Cold War Assault Remastered Source Code Repository. |
-| [Yu9191/wloc](https://github.com/Yu9191/wloc) | 654 | JavaScript | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复... |
+| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 2,322 | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding... |
+| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 2,292 | HTML | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） |
+| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 2,221 | Python | A single archive of public exploit PoCs and vulnerability research writeups. At ... |
+| [Yu9191/wloc](https://github.com/Yu9191/wloc) | 1,117 | JavaScript | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复... |
+| [winsznx/theeleven](https://github.com/winsznx/theeleven) | 698 | TypeScript | Eleven autonomous AI agents open live football prop markets on X Layer — custom ... |
 
-### Hacker News Top Stories (Last Updated: 2026-06-28 02:40:27 UTC)
+### Hacker News Top Stories (Last Updated: 2026-06-29 02:40:56 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [AMD Strix Halo RDMA Cluster Setup Guide](https://github.com/kyuz0/amd-strix-halo-vllm-toolboxes/blob/main/rdma_cluster/setup_guide.md) | 41 | [2 comments](https://news.ycombinator.com/item?id=48703258) |
-| [Show HN: Decomp Academy – Learn to decompile GameCube games into matching C](https://decomp-academy.dev) | 25 | [9 comments](https://news.ycombinator.com/item?id=48703412) |
-| [Choosing a Public DNS Resolver](https://evilbit.de/dns-resolver-guide.html) | 66 | [22 comments](https://news.ycombinator.com/item?id=48702273) |
-| [Anonymous GitHub account mass-dropping undisclosed 0-days](https://github.com/bikini/exploitarium) | 685 | [269 comments](https://news.ycombinator.com/item?id=48698617) |
-| [OpenRA](https://www.openra.net/) | 594 | [117 comments](https://news.ycombinator.com/item?id=48697560) |
-| [Response to AI slop is from Robin Williams](https://jayacunzo.com/blog/your-move-chief) | 32 | [5 comments](https://news.ycombinator.com/item?id=48703452) |
-| [AI learns the “dark art” of RFIC design](https://spectrum.ieee.org/ai-radio-chip-design) | 194 | [129 comments](https://news.ycombinator.com/item?id=48660021) |
-| [Enhancing X11 Application Security with LXC](https://dobrowolski.dev/article/enhancing-x11-application-security-with-lxc/) | 36 | [10 comments](https://news.ycombinator.com/item?id=48701936) |
-| [Fintech Engineering Handbook](https://w.pitula.me/fintech-engineering-handbook/) | 486 | [163 comments](https://news.ycombinator.com/item?id=48696982) |
-| [Space Shuttle Endeavour's 20-story vertical display](https://californiasciencecenter.org/about-us/samuel-oschin-air-and-space-center/go-for-stack) | 16 | [1 comments](https://news.ycombinator.com/item?id=48686032) |
+| [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) | 486 | [239 comments](https://news.ycombinator.com/item?id=48709670) |
+| [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html) | 175 | [72 comments](https://news.ycombinator.com/item?id=48710092) |
+| [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) | 56 | [12 comments](https://news.ycombinator.com/item?id=48712420) |
+| [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/) | 331 | [86 comments](https://news.ycombinator.com/item?id=48707763) |
+| [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) | 359 | [464 comments](https://news.ycombinator.com/item?id=48708941) |
+| [Deciphering Basmala](https://blog.plover.com/lang/bismillah.html) | 17 | [4 comments](https://news.ycombinator.com/item?id=48657131) |
+| [Better Images of AI](https://betterimagesofai.org/) | 16 | [11 comments](https://news.ycombinator.com/item?id=48713051) |
+| [AI boom risks global financial crash, warn central bankers](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/) | 31 | [12 comments](https://news.ycombinator.com/item?id=48713697) |
+| [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number) | 77 | [37 comments](https://news.ycombinator.com/item?id=48710775) |
+| [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/) | 145 | [199 comments](https://news.ycombinator.com/item?id=48675295) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 22.0°C (71.0°F) |
-| Average Humidity | 49% |
+| Average Temperature | 19.0°C (66.0°F) |
+| Average Humidity | 64% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-06-28 02:40:27 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-06-29 02:40:56 UTC*

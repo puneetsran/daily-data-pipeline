@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+deepseek-ai/DeepSpec,2322,Python,DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms,https://github.com/deepseek-ai/DeepSpec,2026-06-26T12:36:05Z
+bozhouDev/codex-orange-book,2292,HTML,Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF）,https://github.com/bozhouDev/codex-orange-book,2026-06-23T02:36:54Z
+bikini/exploitarium,2221,Python,A single archive of public exploit PoCs and vulnerability research writeups. At the time I post thes,https://github.com/bikini/exploitarium,2026-06-23T05:14:11Z
+Yu9191/wloc,1117,JavaScript,修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复定位,https://github.com/Yu9191/wloc,2026-06-24T06:15:30Z
+winsznx/theeleven,698,TypeScript,"Eleven autonomous AI agents open live football prop markets on X Layer — custom Uniswap v4 hook, gas",https://github.com/winsznx/theeleven,2026-06-25T07:42:50Z
+benchflow-ai/awesome-evals,564,N/A,"A curated, non-BS library of the best resources for building and evaluating AI agents — papers, blog",https://github.com/benchflow-ai/awesome-evals,2026-06-24T08:10:33Z
+AlexandrosGounis/pdfx,491,TypeScript,"An extension of the traditional PDF standard, allowing multiple files to be stored in a single file ",https://github.com/AlexandrosGounis/pdfx,2026-06-24T12:34:36Z
+goehou/tabbit-toy,380,JavaScript,这是一个基于tabbit的研究包，可以转化成OAI格式出来，同时增加了会员认证功能和一键提取cookie的浏览器拓展，方便快速本地快速使用claude gpt等模型,https://github.com/goehou/tabbit-toy,2026-06-23T03:37:12Z
+Pluviobyte/video-production-skills,365,Python,"Reusable AI video production skills library for creation, recreation, motion design, openers, and QA",https://github.com/Pluviobyte/video-production-skills,2026-06-26T05:50:51Z
+playPlumtown/Plumtown,358,JavaScript,"The cozy life-sim that pays. Build a home, master skills, climb careers — earn $PLUM and cash out re",https://github.com/playPlumtown/Plumtown,2026-06-26T22:59:46Z

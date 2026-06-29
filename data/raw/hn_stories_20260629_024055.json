@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-06-29T02:40:55.080364",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "GLM 5.2 beats Claude in our benchmarks",
+      "url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+      "score": 486,
+      "comments": 239,
+      "by": "jms703",
+      "hn_url": "https://news.ycombinator.com/item?id=48709670"
+    },
+    {
+      "title": "Historical memory prices 1960-2026",
+      "url": "https://dam.stanford.edu/memory-prices.html",
+      "score": 175,
+      "comments": 72,
+      "by": "vga1",
+      "hn_url": "https://news.ycombinator.com/item?id=48710092"
+    },
+    {
+      "title": "Knowledge Distillation of Black-Box Large Language Models (2024)",
+      "url": "https://arxiv.org/abs/2401.07013",
+      "score": 56,
+      "comments": 12,
+      "by": "babelfish",
+      "hn_url": "https://news.ycombinator.com/item?id=48712420"
+    },
+    {
+      "title": "5k menus from the New York Public Library\u2019s Buttolph Collection (1880-1920)",
+      "url": "https://pudding.cool/2026/06/menu-story/",
+      "score": 331,
+      "comments": 86,
+      "by": "xbryanx",
+      "hn_url": "https://news.ycombinator.com/item?id=48707763"
+    },
+    {
+      "title": "I used Claude Code to get a second opinion on my MRI",
+      "url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+      "score": 359,
+      "comments": 464,
+      "by": "engmarketer",
+      "hn_url": "https://news.ycombinator.com/item?id=48708941"
+    },
+    {
+      "title": "Deciphering Basmala",
+      "url": "https://blog.plover.com/lang/bismillah.html",
+      "score": 17,
+      "comments": 4,
+      "by": "lordgrenville",
+      "hn_url": "https://news.ycombinator.com/item?id=48657131"
+    },
+    {
+      "title": "Better Images of AI",
+      "url": "https://betterimagesofai.org/",
+      "score": 16,
+      "comments": 11,
+      "by": "Curiositry",
+      "hn_url": "https://news.ycombinator.com/item?id=48713051"
+    },
+    {
+      "title": "AI boom risks global financial crash, warn central bankers",
+      "url": "https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/",
+      "score": 31,
+      "comments": 12,
+      "by": "b-man",
+      "hn_url": "https://news.ycombinator.com/item?id=48713697"
+    },
+    {
+      "title": "TOP500 at ISC\u201926: We have a New Number 1 Supercomputer",
+      "url": "https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number",
+      "score": 77,
+      "comments": 37,
+      "by": "rbanffy",
+      "hn_url": "https://news.ycombinator.com/item?id=48710775"
+    },
+    {
+      "title": "The Boeing 747 begins its final descent",
+      "url": "https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/",
+      "score": 145,
+      "comments": 199,
+      "by": "dbl000",
+      "hn_url": "https://news.ycombinator.com/item?id=48675295"
+    }
+  ]
+}
