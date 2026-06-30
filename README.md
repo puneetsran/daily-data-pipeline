@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-06-29 02:40:56 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-06-30 02:35:12 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 2,322 | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding... |
-| [bozhouDev/codex-orange-book](https://github.com/bozhouDev/codex-orange-book) | 2,292 | HTML | Codex 橙皮书：从安装到实战案例的全链路 Codex 使用指南（非官方开源，含可下载 PDF） |
-| [bikini/exploitarium](https://github.com/bikini/exploitarium) | 2,221 | Python | A single archive of public exploit PoCs and vulnerability research writeups. At ... |
-| [Yu9191/wloc](https://github.com/Yu9191/wloc) | 1,117 | JavaScript | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复... |
-| [winsznx/theeleven](https://github.com/winsznx/theeleven) | 698 | TypeScript | Eleven autonomous AI agents open live football prop markets on X Layer — custom ... |
+| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 3,945 | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding... |
+| [Yu9191/wloc](https://github.com/Yu9191/wloc) | 1,527 | JavaScript | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复... |
+| [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 965 | N/A | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O... |
+| [winsznx/theeleven](https://github.com/winsznx/theeleven) | 715 | TypeScript | Eleven autonomous AI agents open live football prop markets on X Layer — custom ... |
+| [baairon/torlink](https://github.com/baairon/torlink) | 698 | TypeScript | A sleek, zero-setup torrent finder and downloader that lives right in your termi... |
 
-### Hacker News Top Stories (Last Updated: 2026-06-29 02:40:56 UTC)
+### Hacker News Top Stories (Last Updated: 2026-06-30 02:35:12 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [GLM 5.2 beats Claude in our benchmarks](https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/) | 486 | [239 comments](https://news.ycombinator.com/item?id=48709670) |
-| [Historical memory prices 1960-2026](https://dam.stanford.edu/memory-prices.html) | 175 | [72 comments](https://news.ycombinator.com/item?id=48710092) |
-| [Knowledge Distillation of Black-Box Large Language Models (2024)](https://arxiv.org/abs/2401.07013) | 56 | [12 comments](https://news.ycombinator.com/item?id=48712420) |
-| [5k menus from the New York Public Library’s Buttolph Collection (1880-1920)](https://pudding.cool/2026/06/menu-story/) | 331 | [86 comments](https://news.ycombinator.com/item?id=48707763) |
-| [I used Claude Code to get a second opinion on my MRI](https://antoine.fi/mri-analysis-using-claude-code-opus) | 359 | [464 comments](https://news.ycombinator.com/item?id=48708941) |
-| [Deciphering Basmala](https://blog.plover.com/lang/bismillah.html) | 17 | [4 comments](https://news.ycombinator.com/item?id=48657131) |
-| [Better Images of AI](https://betterimagesofai.org/) | 16 | [11 comments](https://news.ycombinator.com/item?id=48713051) |
-| [AI boom risks global financial crash, warn central bankers](https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/) | 31 | [12 comments](https://news.ycombinator.com/item?id=48713697) |
-| [TOP500 at ISC’26: We have a New Number 1 Supercomputer](https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number) | 77 | [37 comments](https://news.ycombinator.com/item?id=48710775) |
-| [The Boeing 747 begins its final descent](https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/) | 145 | [199 comments](https://news.ycombinator.com/item?id=48675295) |
+| [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) | 353 | [199 comments](https://news.ycombinator.com/item?id=48724230) |
+| [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) | 630 | [522 comments](https://news.ycombinator.com/item?id=48721903) |
+| [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/) | 236 | [63 comments](https://news.ycombinator.com/item?id=48698908) |
+| [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches) | 35 | [14 comments](https://news.ycombinator.com/item?id=48727177) |
+| [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html) | 17 | [12 comments](https://news.ycombinator.com/item?id=48727323) |
+| [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) | 29 | [6 comments](https://news.ycombinator.com/item?id=48727116) |
+| [Why Won't Europe Build AI Data Centers in Iceland?](https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/) | 12 | [6 comments](https://news.ycombinator.com/item?id=48727538) |
+| [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) | 374 | [231 comments](https://news.ycombinator.com/item?id=48719485) |
+| [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) | 67 | [22 comments](https://news.ycombinator.com/item?id=48726073) |
+| [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) | 161 | [32 comments](https://news.ycombinator.com/item?id=48722052) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 19.0°C (66.0°F) |
-| Average Humidity | 64% |
+| Average Temperature | 19.0°C (67.0°F) |
+| Average Humidity | 68% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-06-29 02:40:56 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-06-30 02:35:12 UTC*

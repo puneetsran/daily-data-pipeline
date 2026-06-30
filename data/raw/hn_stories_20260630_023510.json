@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-06-30T02:35:10.902649",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": ".self: A new top-level domain designed to support self-hosting",
+      "url": "https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/",
+      "score": 353,
+      "comments": 199,
+      "by": "HumanCCF",
+      "hn_url": "https://news.ycombinator.com/item?id=48724230"
+    },
+    {
+      "title": "Qwen 3.6 27B is the sweet spot for local development",
+      "url": "https://quesma.com/blog/qwen-36-is-awesome/",
+      "score": 630,
+      "comments": 522,
+      "by": "stared",
+      "hn_url": "https://news.ycombinator.com/item?id=48721903"
+    },
+    {
+      "title": "Free the Icons",
+      "url": "https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/",
+      "score": 236,
+      "comments": 63,
+      "by": "zdw",
+      "hn_url": "https://news.ycombinator.com/item?id=48698908"
+    },
+    {
+      "title": "Memory Safe Context Switching (longjmp, setjmp) in Fil-C",
+      "url": "https://fil-c.org/context_switches",
+      "score": 35,
+      "comments": 14,
+      "by": "modeless",
+      "hn_url": "https://news.ycombinator.com/item?id=48727177"
+    },
+    {
+      "title": "Exploring PDP-1 Lisp (1960)",
+      "url": "https://obsolescence.dev/pdp1-lisp-introduction.html",
+      "score": 17,
+      "comments": 12,
+      "by": "ozymandiax",
+      "hn_url": "https://news.ycombinator.com/item?id=48727323"
+    },
+    {
+      "title": "LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active",
+      "url": "https://longcat.chat/blog/longcat-2.0/",
+      "score": 29,
+      "comments": 6,
+      "by": "benjiro29",
+      "hn_url": "https://news.ycombinator.com/item?id=48727116"
+    },
+    {
+      "title": "Why Won't Europe Build AI Data Centers in Iceland?",
+      "url": "https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/",
+      "score": 12,
+      "comments": 6,
+      "by": "type0",
+      "hn_url": "https://news.ycombinator.com/item?id=48727538"
+    },
+    {
+      "title": "Rocketlab acquires Iridium",
+      "url": "https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully",
+      "score": 374,
+      "comments": 231,
+      "by": "everfrustrated",
+      "hn_url": "https://news.ycombinator.com/item?id=48719485"
+    },
+    {
+      "title": "Scientists find molecular-level evidence for two structures in liquid water",
+      "url": "https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html",
+      "score": 67,
+      "comments": 22,
+      "by": "wglb",
+      "hn_url": "https://news.ycombinator.com/item?id=48726073"
+    },
+    {
+      "title": "Ornith-1.0: self-improving open-source models for agentic coding",
+      "url": "https://github.com/deepreinforce-ai/Ornith-1",
+      "score": 161,
+      "comments": 32,
+      "by": "danboarder",
+      "hn_url": "https://news.ycombinator.com/item?id=48722052"
+    }
+  ]
+}
