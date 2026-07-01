@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-06-30 02:35:12 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-01 02:41:31 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 3,945 | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding... |
-| [Yu9191/wloc](https://github.com/Yu9191/wloc) | 1,527 | JavaScript | 修改 Apple 网络定位（gs-loc）返回坐标 · 支持 Surge / Quantumult X / Loon / Stash · 快捷指令一键设置/恢复... |
-| [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 965 | N/A | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O... |
-| [winsznx/theeleven](https://github.com/winsznx/theeleven) | 715 | TypeScript | Eleven autonomous AI agents open live football prop markets on X Layer — custom ... |
-| [baairon/torlink](https://github.com/baairon/torlink) | 698 | TypeScript | A sleek, zero-setup torrent finder and downloader that lives right in your termi... |
+| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 5,337 | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding... |
+| [baairon/torlink](https://github.com/baairon/torlink) | 1,720 | TypeScript | A sleek, zero-setup torrent finder and downloader that lives right in your termi... |
+| [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 1,225 | N/A | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O... |
+| [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) | 831 | Python | No description |
+| [winsznx/theeleven](https://github.com/winsznx/theeleven) | 691 | TypeScript | Eleven autonomous AI agents open live football prop markets on X Layer — custom ... |
 
-### Hacker News Top Stories (Last Updated: 2026-06-30 02:35:12 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-01 02:41:31 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [.self: A new top-level domain designed to support self-hosting](https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/) | 353 | [199 comments](https://news.ycombinator.com/item?id=48724230) |
-| [Qwen 3.6 27B is the sweet spot for local development](https://quesma.com/blog/qwen-36-is-awesome/) | 630 | [522 comments](https://news.ycombinator.com/item?id=48721903) |
-| [Free the Icons](https://weblog.rogueamoeba.com/2026/06/26/free-the-icons/) | 236 | [63 comments](https://news.ycombinator.com/item?id=48698908) |
-| [Memory Safe Context Switching (longjmp, setjmp) in Fil-C](https://fil-c.org/context_switches) | 35 | [14 comments](https://news.ycombinator.com/item?id=48727177) |
-| [Exploring PDP-1 Lisp (1960)](https://obsolescence.dev/pdp1-lisp-introduction.html) | 17 | [12 comments](https://news.ycombinator.com/item?id=48727323) |
-| [LongCat-2.0, a large-scale MoE model with 1.6T total and 48B Active](https://longcat.chat/blog/longcat-2.0/) | 29 | [6 comments](https://news.ycombinator.com/item?id=48727116) |
-| [Why Won't Europe Build AI Data Centers in Iceland?](https://mrkt30.com/why-wont-europe-build-ai-data-centers-in-iceland/) | 12 | [6 comments](https://news.ycombinator.com/item?id=48727538) |
-| [Rocketlab acquires Iridium](https://investors.rocketlabcorp.com/news-releases/news-release-details/rocket-lab-acquire-iridium-historic-deal-creating-fully) | 374 | [231 comments](https://news.ycombinator.com/item?id=48719485) |
-| [Scientists find molecular-level evidence for two structures in liquid water](https://phys.org/news/2026-06-scientists-molecular-evidence-liquid.html) | 67 | [22 comments](https://news.ycombinator.com/item?id=48726073) |
-| [Ornith-1.0: self-improving open-source models for agentic coding](https://github.com/deepreinforce-ai/Ornith-1) | 161 | [32 comments](https://news.ycombinator.com/item?id=48722052) |
+| [The President Made More Than $1Billon in Crypto Deals](https://www.wsj.com/politics/policy/trump-made-more-than-1-billion-on-crypto-deals-part-of-2025-windfall-ee917d3f) | 66 | [10 comments](https://news.ycombinator.com/item?id=48741012) |
+| [Claude Sonnet 5](https://www.anthropic.com/news/claude-sonnet-5) | 889 | [499 comments](https://news.ycombinator.com/item?id=48736605) |
+| [Claude Code is steganographically marking requests](https://thereallo.dev/blog/claude-code-prompt-steganography) | 1429 | [409 comments](https://news.ycombinator.com/item?id=48734373) |
+| [Google copybara: moving code between repositories](https://github.com/google/copybara) | 49 | [6 comments](https://news.ycombinator.com/item?id=48740698) |
+| [Department of Commerce has lifted export controls on Claude Fable 5 and Mythos 5](https://twitter.com/AnthropicAI/status/2072106151890809341) | 232 | [90 comments](https://news.ycombinator.com/item?id=48740771) |
+| [Forestiere Underground Gardens](https://en.wikipedia.org/wiki/Forestiere_Underground_Gardens) | 10 | [1 comments](https://news.ycombinator.com/item?id=48741359) |
+| [From brain waves to words: a new path to communication without surgery](https://ai.meta.com/blog/brain2qwerty-brain-ai-human-communication/?_fb_noscript=1) | 109 | [58 comments](https://news.ycombinator.com/item?id=48739466) |
+| [Claude Science](https://claude.com/product/claude-science) | 371 | [122 comments](https://news.ycombinator.com/item?id=48735770) |
+| [Nano Banana 2 Lite](https://deepmind.google/models/gemini-image/flash-lite/) | 308 | [120 comments](https://news.ycombinator.com/item?id=48735444) |
+| [Leanstral 1.5](https://docs.mistral.ai/models/model-cards/leanstral-1-5-26-06) | 102 | [19 comments](https://news.ycombinator.com/item?id=48738938) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 19.0°C (67.0°F) |
-| Average Humidity | 68% |
+| Average Temperature | 18.0°C (65.0°F) |
+| Average Humidity | 64% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-06-30 02:35:12 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-01 02:41:31 UTC*
