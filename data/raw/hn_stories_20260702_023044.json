@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-02T02:30:44.100253",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "ZCode \u2013 Harness for GLM-5.2",
+      "url": "https://zcode.z.ai/en",
+      "score": 219,
+      "comments": 217,
+      "by": "chvid",
+      "hn_url": "https://news.ycombinator.com/item?id=48753715"
+    },
+    {
+      "title": "Show HN: Searchable directory of 22k+ products from worker-owned co-ops",
+      "url": "https://www.workerowned.info/",
+      "score": 238,
+      "comments": 38,
+      "by": "IESAI_ski",
+      "hn_url": "https://news.ycombinator.com/item?id=48752905"
+    },
+    {
+      "title": "Building an Open-Source Robot Vacuum \u2013 Meet Oomwoo",
+      "url": "https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/",
+      "score": 39,
+      "comments": 2,
+      "by": "devicelimit",
+      "hn_url": "https://news.ycombinator.com/item?id=48755005"
+    },
+    {
+      "title": "For first time, a cell built from scratch grows and divides",
+      "url": "https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/",
+      "score": 743,
+      "comments": 255,
+      "by": "defrost",
+      "hn_url": "https://news.ycombinator.com/item?id=48747304"
+    },
+    {
+      "title": "Global review confirms mRNA vaccines are safe,\u00a0effective\u00a0and full of promise\u00a0",
+      "url": "https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/",
+      "score": 111,
+      "comments": 64,
+      "by": "coloneltcb",
+      "hn_url": "https://news.ycombinator.com/item?id=48754963"
+    },
+    {
+      "title": "What to learn to be a graphics programmer",
+      "url": "https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/",
+      "score": 247,
+      "comments": 130,
+      "by": "atan2",
+      "hn_url": "https://news.ycombinator.com/item?id=48750710"
+    },
+    {
+      "title": "The <Usermedia> HTML Element",
+      "url": "https://developer.chrome.com/blog/usermedia-html-element",
+      "score": 35,
+      "comments": 15,
+      "by": "twapi",
+      "hn_url": "https://news.ycombinator.com/item?id=48754700"
+    },
+    {
+      "title": "Physical disc production ending in Jan 2028 for new games on PlayStation",
+      "url": "https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/",
+      "score": 611,
+      "comments": 633,
+      "by": "Tiberium",
+      "hn_url": "https://news.ycombinator.com/item?id=48745456"
+    },
+    {
+      "title": "The Underhanded C Contest",
+      "url": "https://underhanded-c.org/",
+      "score": 38,
+      "comments": 5,
+      "by": "ccabraldev",
+      "hn_url": "https://news.ycombinator.com/item?id=48754080"
+    },
+    {
+      "title": "Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance",
+      "url": "https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/",
+      "score": 60,
+      "comments": 38,
+      "by": "consumer451",
+      "hn_url": "https://news.ycombinator.com/item?id=48753979"
+    }
+  ]
+}
