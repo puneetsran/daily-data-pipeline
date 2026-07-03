@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-02 02:30:46 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-03 02:06:11 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/DeepSpec](https://github.com/deepseek-ai/DeepSpec) | 5,756 | Python | DeepSpec: a full-stack codebase for training and evaluating speculative decoding... |
-| [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 1,332 | N/A | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O... |
-| [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) | 1,018 | Python | No description |
-| [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) | 752 | N/A | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): re... |
-| [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) | 721 | Python | Build digital human beings — autonomous, collaborative, and socially intelligent... |
+| [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 1,437 | N/A | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O... |
+| [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) | 1,117 | JavaScript | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocke... |
+| [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) | 1,112 | Python | No description |
+| [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) | 897 | N/A | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): re... |
+| [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) | 754 | Python | Build digital human beings — autonomous, collaborative, and socially intelligent... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-02 02:30:46 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-03 02:06:11 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [ZCode – Harness for GLM-5.2](https://zcode.z.ai/en) | 219 | [217 comments](https://news.ycombinator.com/item?id=48753715) |
-| [Show HN: Searchable directory of 22k+ products from worker-owned co-ops](https://www.workerowned.info/) | 238 | [38 comments](https://news.ycombinator.com/item?id=48752905) |
-| [Building an Open-Source Robot Vacuum – Meet Oomwoo](https://makerspet.com/blog/building-an-open-source-robot-vacuum-meet-oomwoo/) | 39 | [2 comments](https://news.ycombinator.com/item?id=48755005) |
-| [For first time, a cell built from scratch grows and divides](https://www.quantamagazine.org/for-the-first-time-a-cell-built-from-scratch-grows-and-divides-20260701/) | 743 | [255 comments](https://news.ycombinator.com/item?id=48747304) |
-| [Global review confirms mRNA vaccines are safe, effective and full of promise ](https://news.ubc.ca/2026/06/mrna-vaccines-are-safe-effective-and-full-of-promise/) | 111 | [64 comments](https://news.ycombinator.com/item?id=48754963) |
-| [What to learn to be a graphics programmer](https://blog.demofox.org/2026/07/01/what-to-learn-to-be-a-graphics-programmer/) | 247 | [130 comments](https://news.ycombinator.com/item?id=48750710) |
-| [The <Usermedia> HTML Element](https://developer.chrome.com/blog/usermedia-html-element) | 35 | [15 comments](https://news.ycombinator.com/item?id=48754700) |
-| [Physical disc production ending in Jan 2028 for new games on PlayStation](https://blog.playstation.com/2026/07/01/physical-disc-production-ending-in-january-2028-for-new-games-releasing-on-playstation-consoles/) | 611 | [633 comments](https://news.ycombinator.com/item?id=48745456) |
-| [The Underhanded C Contest](https://underhanded-c.org/) | 38 | [5 comments](https://news.ycombinator.com/item?id=48754080) |
-| [Opening up 'Zero-Knowledge Proof' technology to promote privacy in age assurance](https://blog.google/innovation-and-ai/technology/safety-security/opening-up-zero-knowledge-proof-technology-to-promote-privacy-in-age-assurance/) | 60 | [38 comments](https://news.ycombinator.com/item?id=48753979) |
+| [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) | 492 | [89 comments](https://news.ycombinator.com/item?id=48767347) |
+| [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) | 138 | [36 comments](https://news.ycombinator.com/item?id=48768992) |
+| [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) | 132 | [27 comments](https://news.ycombinator.com/item?id=48768464) |
+| [GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl) | 59 | [41 comments](https://news.ycombinator.com/item?id=48768997) |
+| [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) | 141 | [48 comments](https://news.ycombinator.com/item?id=48702874) |
+| [Exapunks (2018)](https://www.zachtronics.com/exapunks/) | 219 | [80 comments](https://news.ycombinator.com/item?id=48765663) |
+| [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) | 404 | [190 comments](https://news.ycombinator.com/item?id=48763035) |
+| [Right to Local Intelligence](https://righttointelligence.org/) | 29 | [11 comments](https://news.ycombinator.com/item?id=48768951) |
+| [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html) | 52 | [22 comments](https://news.ycombinator.com/item?id=48768336) |
+| [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/) | 396 | [156 comments](https://news.ycombinator.com/item?id=48762098) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 19.0°C (66.0°F) |
-| Average Humidity | 60% |
+| Average Temperature | 14.0°C (58.0°F) |
+| Average Humidity | 100% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-02 02:30:46 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-03 02:06:11 UTC*
