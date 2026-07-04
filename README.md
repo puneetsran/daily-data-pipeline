@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-03 02:06:11 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-04 02:04:19 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 1,437 | N/A | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O... |
-| [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) | 1,117 | JavaScript | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocke... |
-| [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) | 1,112 | Python | No description |
-| [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) | 897 | N/A | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): re... |
-| [TianhangZhuzth/Fundamental-Ava](https://github.com/TianhangZhuzth/Fundamental-Ava) | 754 | Python | Build digital human beings — autonomous, collaborative, and socially intelligent... |
+| [Krishnagangwal/CS-Fundamentals](https://github.com/Krishnagangwal/CS-Fundamentals) | 1,510 | N/A | Curated CS fundamentals for placement prep: DSA,Computer Networks, DBMS & SQL, O... |
+| [yynxxxxx/Codex-5.5-codex-instruct-5.5](https://github.com/yynxxxxx/Codex-5.5-codex-instruct-5.5) | 1,296 | Python | No description |
+| [mekos2772/ios-location-spoofer](https://github.com/mekos2772/ios-location-spoofer) | 1,251 | JavaScript | Standalone iOS app to spoof GPS location without jailbreak. Includes Shadowrocke... |
+| [Kulaxyz/self-learning-skills](https://github.com/Kulaxyz/self-learning-skills) | 801 | N/A | A self-improving skill for AI coding agents (Claude Code, Cursor, AGENTS.md): re... |
+| [HUANGCHIHHUNGLeo/claude-real-video](https://github.com/HUANGCHIHHUNGLeo/claude-real-video) | 523 | Python | Let Claude (or any LLM) actually watch a video — scene-aware, deduplicated frame... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-03 02:06:11 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-04 02:04:19 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Virginia bans sale of geolocation data](https://www.hunton.com/privacy-and-cybersecurity-law-blog/virginia-bans-sale-of-geolocation-data) | 492 | [89 comments](https://news.ycombinator.com/item?id=48767347) |
-| [An American Privacy Emergency](https://scottaaronson.blog/?p=9902) | 138 | [36 comments](https://news.ycombinator.com/item?id=48768992) |
-| [crustc: entirety of `rustc`, translated to C](https://github.com/FractalFir/crustc) | 132 | [27 comments](https://news.ycombinator.com/item?id=48768464) |
-| [GitHub is proud to announce that you can now obtain your public repo on CD-ROM](https://forms.cloud.microsoft/pages/responsepage.aspx?id=v4j5cvGGr0GRqy180BHbR6G-c11n8yFDlQmk4B-QjDxUQkdTTjZLU0EyTFFRV1E3NVRTVTRTWjRHMy4u&route=shorturl) | 59 | [41 comments](https://news.ycombinator.com/item?id=48768997) |
-| [Reality has a surprising amount of detail (2017)](https://johnsalvatier.org/blog/2017/reality-has-a-surprising-amount-of-detail) | 141 | [48 comments](https://news.ycombinator.com/item?id=48702874) |
-| [Exapunks (2018)](https://www.zachtronics.com/exapunks/) | 219 | [80 comments](https://news.ycombinator.com/item?id=48765663) |
-| [Since Linux 6.9, LUKS suspend stopped wiping disk-encryption keys from memory](https://mathstodon.xyz/@iblech/116769502749142438) | 404 | [190 comments](https://news.ycombinator.com/item?id=48763035) |
-| [Right to Local Intelligence](https://righttointelligence.org/) | 29 | [11 comments](https://news.ycombinator.com/item?id=48768951) |
-| [Mystery identity of 'Green Boots' climber is finally solved after DNA test](https://www.dailymail.com/news/article-15943905/Mystery-identity-Green-Boots-climber-macabre-landmark-frozen-ice-dying-Everest-finally-solved-DNA-test.html) | 52 | [22 comments](https://news.ycombinator.com/item?id=48768336) |
-| [Podman v6.0.0](https://blog.podman.io/2026/07/introducing-podman-v6-0-0/) | 396 | [156 comments](https://news.ycombinator.com/item?id=48762098) |
+| [Giant trees have no trouble pumping water to top branches](https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/) | 85 | [39 comments](https://news.ycombinator.com/item?id=48780870) |
+| [Leanstral 1.5: Proof Abundance for All](https://mistral.ai/news/leanstral-1-5/) | 85 | [22 comments](https://news.ycombinator.com/item?id=48780801) |
+| [MSI Center – How to gain SYSTEM privileges in seconds](https://mrbruh.com/msicenter/) | 22 | [6 comments](https://news.ycombinator.com/item?id=48781688) |
+| [GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell](https://www.wafer.ai/blog/glm52-amd) | 92 | [25 comments](https://news.ycombinator.com/item?id=48780417) |
+| [Steam Controller Auto-Charge – pilot to magnetic charging puck using CV](https://github.com/FossPrime/Steam-Controller-Auto-Charge) | 68 | [11 comments](https://news.ycombinator.com/item?id=48780865) |
+| [SearXNG: A free internet metasearch engine](https://github.com/searxng/searxng) | 133 | [41 comments](https://news.ycombinator.com/item?id=48779454) |
+| [The circuit that lets your brain think and see](https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see) | 38 | [4 comments](https://news.ycombinator.com/item?id=48780996) |
+| [Amsterdam invented the fire department](https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/) | 38 | [9 comments](https://news.ycombinator.com/item?id=48780913) |
+| [Jamesob's guide to running SOTA LLMs locally](https://github.com/jamesob/local-llm) | 277 | [125 comments](https://news.ycombinator.com/item?id=48775921) |
+| [Applied Category Theory Course (2018)](https://math.ucr.edu/home/baez/act_course/index.html) | 54 | [7 comments](https://news.ycombinator.com/item?id=48779723) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 14.0°C (58.0°F) |
-| Average Humidity | 100% |
+| Average Temperature | 20.0°C (68.0°F) |
+| Average Humidity | 68% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-03 02:06:11 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-04 02:04:19 UTC*

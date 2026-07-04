@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-04T02:04:17.163804",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Giant trees have no trouble pumping water to top branches",
+      "url": "https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/",
+      "score": 85,
+      "comments": 39,
+      "by": "hhs",
+      "hn_url": "https://news.ycombinator.com/item?id=48780870"
+    },
+    {
+      "title": "Leanstral 1.5: Proof Abundance for All",
+      "url": "https://mistral.ai/news/leanstral-1-5/",
+      "score": 85,
+      "comments": 22,
+      "by": "programLyrique",
+      "hn_url": "https://news.ycombinator.com/item?id=48780801"
+    },
+    {
+      "title": "MSI Center \u2013 How to gain SYSTEM privileges in seconds",
+      "url": "https://mrbruh.com/msicenter/",
+      "score": 22,
+      "comments": 6,
+      "by": "MrBruh",
+      "hn_url": "https://news.ycombinator.com/item?id=48781688"
+    },
+    {
+      "title": "GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell",
+      "url": "https://www.wafer.ai/blog/glm52-amd",
+      "score": 92,
+      "comments": 25,
+      "by": "latchkey",
+      "hn_url": "https://news.ycombinator.com/item?id=48780417"
+    },
+    {
+      "title": "Steam Controller Auto-Charge \u2013 pilot to magnetic charging puck using CV",
+      "url": "https://github.com/FossPrime/Steam-Controller-Auto-Charge",
+      "score": 68,
+      "comments": 11,
+      "by": "zdw",
+      "hn_url": "https://news.ycombinator.com/item?id=48780865"
+    },
+    {
+      "title": "SearXNG: A free internet metasearch engine",
+      "url": "https://github.com/searxng/searxng",
+      "score": 133,
+      "comments": 41,
+      "by": "theanonymousone",
+      "hn_url": "https://news.ycombinator.com/item?id=48779454"
+    },
+    {
+      "title": "The circuit that lets your brain think and see",
+      "url": "https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see",
+      "score": 38,
+      "comments": 4,
+      "by": "hhs",
+      "hn_url": "https://news.ycombinator.com/item?id=48780996"
+    },
+    {
+      "title": "Amsterdam invented the fire department",
+      "url": "https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/",
+      "score": 38,
+      "comments": 9,
+      "by": "zdw",
+      "hn_url": "https://news.ycombinator.com/item?id=48780913"
+    },
+    {
+      "title": "Jamesob's guide to running SOTA LLMs locally",
+      "url": "https://github.com/jamesob/local-llm",
+      "score": 277,
+      "comments": 125,
+      "by": "livestyle",
+      "hn_url": "https://news.ycombinator.com/item?id=48775921"
+    },
+    {
+      "title": "Applied Category Theory Course (2018)",
+      "url": "https://math.ucr.edu/home/baez/act_course/index.html",
+      "score": 54,
+      "comments": 7,
+      "by": "measurablefunc",
+      "hn_url": "https://news.ycombinator.com/item?id=48779723"
+    }
+  ]
+}
