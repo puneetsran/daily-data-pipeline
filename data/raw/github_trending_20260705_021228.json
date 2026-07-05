@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-05 02:12 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-05T02:12:28.202527",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "mekos2772/ios-location-spoofer",
       "stars": 1287,
@@ -80,88 +81,6 @@
       "description": "\u591a\u7ebf\u7a0b\u5168\u81ea\u52a8\u6ce8\u518cfree \u5f3a\u4e0aK12\u7a7a\u95f4",
       "url": "https://github.com/asz798838958/FrciblyK12",
       "created_at": "2026-07-02T03:47:34Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Scientists reverse brain aging, with a nasal spray",
-      "url": "https://stories.tamu.edu/news/2026/04/14/scientists-reverse-brain-aging-with-a-nasal-spray/",
-      "score": 136,
-      "comments": 49,
-      "by": "cybermango",
-      "hn_url": "https://news.ycombinator.com/item?id=48790066"
-    },
-    {
-      "title": "Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",
-      "url": "https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main",
-      "score": 361,
-      "comments": 142,
-      "by": "asronline",
-      "hn_url": "https://news.ycombinator.com/item?id=48788283"
-    },
-    {
-      "title": "GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance",
-      "url": "https://github.com/openai/codex/issues/30364",
-      "score": 150,
-      "comments": 45,
-      "by": "maille",
-      "hn_url": "https://news.ycombinator.com/item?id=48789428"
-    },
-    {
-      "title": "Google Books (or similar) all book scans \u2013 $200k bounty (2025)",
-      "url": "https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234",
-      "score": 344,
-      "comments": 180,
-      "by": "Cider9986",
-      "hn_url": "https://news.ycombinator.com/item?id=48786838"
-    },
-    {
-      "title": "Jellyfish can heal wounds in minutes. Scientists want their secrets",
-      "url": "https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets",
-      "score": 38,
-      "comments": 7,
-      "by": "hhs",
-      "hn_url": "https://news.ycombinator.com/item?id=48789712"
-    },
-    {
-      "title": "Leaking YouTube creators' private videos",
-      "url": "https://javoriuski.com/post/youtube",
-      "score": 488,
-      "comments": 273,
-      "by": "javxfps",
-      "hn_url": "https://news.ycombinator.com/item?id=48786781"
-    },
-    {
-      "title": "Better Models: Worse Tools",
-      "url": "https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/",
-      "score": 94,
-      "comments": 32,
-      "by": "leemoore",
-      "hn_url": "https://news.ycombinator.com/item?id=48788599"
-    },
-    {
-      "title": "Explanation of everything you can see in htop/top on Linux (2019)",
-      "url": "https://peteris.rocks/blog/htop/",
-      "score": 397,
-      "comments": 52,
-      "by": "theanonymousone",
-      "hn_url": "https://news.ycombinator.com/item?id=48784777"
-    },
-    {
-      "title": "Potential session/cache leakage between workspace instances or consumer accounts",
-      "url": "https://github.com/anthropics/claude-code/issues/74066",
-      "score": 275,
-      "comments": 128,
-      "by": "chatmasta",
-      "hn_url": "https://news.ycombinator.com/item?id=48785485"
-    },
-    {
-      "title": "Zig: All Package Management Functionality Moved from Compiler to Build System",
-      "url": "https://ziglang.org/devlog/2026/#2026-06-30",
-      "score": 140,
-      "comments": 27,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=48786638"
     }
   ]
 }
