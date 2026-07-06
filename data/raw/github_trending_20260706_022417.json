@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-06 02:24 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-06T02:24:17.358548",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "elder-plinius/T3MP3ST",
       "stars": 1736,
@@ -80,88 +81,6 @@
       "description": "\ud83c\udfaf Meccha Vision Ultimate \u2014 Ultimate Enhancement Tool for MECCHA CHAMELEON ESP \u00b7 Aimbot \u00b7 Fly Hack \u00b7 ",
       "url": "https://github.com/CalmNoteDepot/MECCHA-VISION-ULTIMATE",
       "created_at": "2026-07-04T20:05:45Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "GPT-5.6 Sol Ultra will be in Codex",
-      "url": "https://twitter.com/thsottiaux/status/2073933490513752151",
-      "score": 51,
-      "comments": 14,
-      "by": "mfiguiere",
-      "hn_url": "https://news.ycombinator.com/item?id=48799614"
-    },
-    {
-      "title": "OpenPrinter",
-      "url": "https://www.opentools.studio/",
-      "score": 460,
-      "comments": 116,
-      "by": "bouh",
-      "hn_url": "https://news.ycombinator.com/item?id=48797916"
-    },
-    {
-      "title": "Al Vigier: Canada's AI strategy shouldn't include secret Palantir bills",
-      "url": "https://www.readtheline.ca/p/al-vigier-canadas-ai-strategy-shouldnt",
-      "score": 82,
-      "comments": 27,
-      "by": "ClearwayLaw",
-      "hn_url": "https://news.ycombinator.com/item?id=48799256"
-    },
-    {
-      "title": "Has_not_been_viewed_much",
-      "url": "https://iamwillwang.com/notes/has-not-been-viewed-much/",
-      "score": 88,
-      "comments": 22,
-      "by": "wxw",
-      "hn_url": "https://news.ycombinator.com/item?id=48799155"
-    },
-    {
-      "title": "Organic Maps",
-      "url": "https://organicmaps.app/",
-      "score": 820,
-      "comments": 226,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=48794446"
-    },
-    {
-      "title": "Show HN: Homegames. An open-source game platform I've been making for 8 years",
-      "url": "https://homegames.io",
-      "score": 96,
-      "comments": 30,
-      "by": "homegamesjoseph",
-      "hn_url": "https://news.ycombinator.com/item?id=48798153"
-    },
-    {
-      "title": "Does Code Cleanliness Affect Coding Agents?",
-      "url": "https://arxiv.org/abs/2605.20049",
-      "score": 33,
-      "comments": 11,
-      "by": "softwaredoug",
-      "hn_url": "https://news.ycombinator.com/item?id=48798815"
-    },
-    {
-      "title": "Completing a computer science degree on Coursera",
-      "url": "https://notesbylex.com/completing-a-computer-science-degree-on-coursera",
-      "score": 107,
-      "comments": 76,
-      "by": "lexandstuff",
-      "hn_url": "https://news.ycombinator.com/item?id=48798061"
-    },
-    {
-      "title": "The Private Capture of Public Genius",
-      "url": "https://www.wysr.xyz/p/the-private-capture-of-public-genius",
-      "score": 26,
-      "comments": 2,
-      "by": "martialg",
-      "hn_url": "https://news.ycombinator.com/item?id=48799178"
-    },
-    {
-      "title": "It's not about physical vs. digital games, it's about ownership",
-      "url": "https://popcar.bearblog.dev/its-about-ownership/",
-      "score": 328,
-      "comments": 238,
-      "by": "popcar2",
-      "hn_url": "https://news.ycombinator.com/item?id=48794750"
     }
   ]
 }
