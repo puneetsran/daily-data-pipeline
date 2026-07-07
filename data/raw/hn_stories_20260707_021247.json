@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-07T02:12:47.920775",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Fable turned reMarkable into Tom Riddle's diary from Harry Potter",
+      "url": "https://github.com/MaximeRivest/Riddle",
+      "score": 156,
+      "comments": 99,
+      "by": "modinfo",
+      "hn_url": "https://news.ycombinator.com/item?id=48811591"
+    },
+    {
+      "title": "How to sequence your own DNA at home",
+      "url": "https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home",
+      "score": 58,
+      "comments": 15,
+      "by": "bilsbie",
+      "hn_url": "https://news.ycombinator.com/item?id=48812156"
+    },
+    {
+      "title": "OpenWrt One \u2013 Open Hardware Router",
+      "url": "https://openwrt.org/toh/openwrt/one",
+      "score": 447,
+      "comments": 176,
+      "by": "peter_d_sherman",
+      "hn_url": "https://news.ycombinator.com/item?id=48808482"
+    },
+    {
+      "title": "CoMaps \u2013 FOSS Offline Maps",
+      "url": "https://www.comaps.app/",
+      "score": 323,
+      "comments": 63,
+      "by": "basilikum",
+      "hn_url": "https://news.ycombinator.com/item?id=48808928"
+    },
+    {
+      "title": "GLM 5.2 and the coming AI margin collapse",
+      "url": "https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/",
+      "score": 173,
+      "comments": 109,
+      "by": "martinald",
+      "hn_url": "https://news.ycombinator.com/item?id=48809877"
+    },
+    {
+      "title": "Ternlight \u2013 7 MB embedding model that runs in browser (WASM)",
+      "url": "https://ternlight-demo.vercel.app/",
+      "score": 72,
+      "comments": 22,
+      "by": "soycaporal",
+      "hn_url": "https://news.ycombinator.com/item?id=48811644"
+    },
+    {
+      "title": "NSA and IETF: Fairness",
+      "url": "https://blog.cr.yp.to/20260706-fairness.html",
+      "score": 40,
+      "comments": 15,
+      "by": "WatchDog",
+      "hn_url": "https://news.ycombinator.com/item?id=48811887"
+    },
+    {
+      "title": "A global workspace in language models",
+      "url": "https://www.anthropic.com/research/global-workspace",
+      "score": 272,
+      "comments": 98,
+      "by": "in-silico",
+      "hn_url": "https://news.ycombinator.com/item?id=48808002"
+    },
+    {
+      "title": "Pruning RAG context down to what the answer actually needs",
+      "url": "https://www.kapa.ai/blog/how-we-prune-rag-context",
+      "score": 58,
+      "comments": 5,
+      "by": "emil_sorensen",
+      "hn_url": "https://news.ycombinator.com/item?id=48809354"
+    },
+    {
+      "title": "A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku",
+      "url": "https://arxiv.org/abs/2607.02112",
+      "score": 25,
+      "comments": 1,
+      "by": "Jimmc414",
+      "hn_url": "https://news.ycombinator.com/item?id=48782248"
+    }
+  ]
+}
