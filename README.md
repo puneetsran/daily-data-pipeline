@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-07 02:12:49 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-08 01:53:14 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 2,680 | TypeScript | autonomous red teaming platform; multi-agent offensive-security meta-harness |
-| [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 1,154 | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —... |
-| [jamesob/local-llm](https://github.com/jamesob/local-llm) | 1,077 | Shell | Everything I know about running LLMs locally |
-| [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 801 | TypeScript | The open-source AI workbench for scientific research |
-| [xuchonglang/investing-for-beginners](https://github.com/xuchonglang/investing-for-beginners) | 739 | N/A | 小隐寺投资百科官方公开索引：美股、期权与加密货币知识框架 |
+| [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 3,323 | TypeScript | autonomous red teaming platform; multi-agent offensive-security meta-harness |
+| [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 1,383 | TypeScript | The open-source AI workbench for scientific research |
+| [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 1,292 | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —... |
+| [jamesob/local-llm](https://github.com/jamesob/local-llm) | 1,185 | Shell | Everything I know about running LLMs locally |
+| [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | 1,055 | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the ... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-07 02:12:49 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-08 01:53:14 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Fable turned reMarkable into Tom Riddle's diary from Harry Potter](https://github.com/MaximeRivest/Riddle) | 156 | [99 comments](https://news.ycombinator.com/item?id=48811591) |
-| [How to sequence your own DNA at home](https://bradleywoolf.com/links-1/sequencing-my-own-dna-at-home) | 58 | [15 comments](https://news.ycombinator.com/item?id=48812156) |
-| [OpenWrt One – Open Hardware Router](https://openwrt.org/toh/openwrt/one) | 447 | [176 comments](https://news.ycombinator.com/item?id=48808482) |
-| [CoMaps – FOSS Offline Maps](https://www.comaps.app/) | 323 | [63 comments](https://news.ycombinator.com/item?id=48808928) |
-| [GLM 5.2 and the coming AI margin collapse](https://martinalderson.com/posts/the-upcoming-ai-margin-collapse-part-1-glm-5-2/) | 173 | [109 comments](https://news.ycombinator.com/item?id=48809877) |
-| [Ternlight – 7 MB embedding model that runs in browser (WASM)](https://ternlight-demo.vercel.app/) | 72 | [22 comments](https://news.ycombinator.com/item?id=48811644) |
-| [NSA and IETF: Fairness](https://blog.cr.yp.to/20260706-fairness.html) | 40 | [15 comments](https://news.ycombinator.com/item?id=48811887) |
-| [A global workspace in language models](https://www.anthropic.com/research/global-workspace) | 272 | [98 comments](https://news.ycombinator.com/item?id=48808002) |
-| [Pruning RAG context down to what the answer actually needs](https://www.kapa.ai/blog/how-we-prune-rag-context) | 58 | [5 comments](https://news.ycombinator.com/item?id=48809354) |
-| [A 2048-spin bulk acoustic wave Ising machine for number partitioning and Sudoku](https://arxiv.org/abs/2607.02112) | 25 | [1 comments](https://news.ycombinator.com/item?id=48782248) |
+| [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) | 92 | [35 comments](https://news.ycombinator.com/item?id=48824826) |
+| [We charge $10k a week to delete AI-generated code](https://odra.dev/slopfix/) | 195 | [90 comments](https://news.ycombinator.com/item?id=48823359) |
+| [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) | 293 | [68 comments](https://news.ycombinator.com/item?id=48821576) |
+| [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) | 693 | [170 comments](https://news.ycombinator.com/item?id=48816883) |
+| [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211) | 21 | [2 comments](https://news.ycombinator.com/item?id=48786789) |
+| [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) | 443 | [144 comments](https://news.ycombinator.com/item?id=48818311) |
+| [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) | 13 | [2 comments](https://news.ycombinator.com/item?id=48825749) |
+| [Structure and Interpretation of Computer Programs Video Lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) | 19 | [0 comments](https://news.ycombinator.com/item?id=48825664) |
+| [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/) | 14 | [3 comments](https://news.ycombinator.com/item?id=48825816) |
+| [Show HN: Davit, a Apple Containers UI](https://davit.app) | 197 | [44 comments](https://news.ycombinator.com/item?id=48821848) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 27.0°C (81.0°F) |
-| Average Humidity | 32% |
+| Average Temperature | 22.0°C (72.0°F) |
+| Average Humidity | 65% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-07 02:12:49 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-08 01:53:14 UTC*
