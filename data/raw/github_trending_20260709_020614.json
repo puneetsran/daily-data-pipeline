@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-09 02:06 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-09T02:06:14.878984",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "x4gKing/X4G",
       "stars": 2480,
@@ -80,88 +81,6 @@
       "description": "A native macOS UI for Apple's platform",
       "url": "https://github.com/wouterdebie/davit",
       "created_at": "2026-07-04T16:50:17Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "John Deere owners will get the right to repair equipment under FTC settlement",
-      "url": "https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02",
-      "score": 308,
-      "comments": 63,
-      "by": "djoldman",
-      "hn_url": "https://news.ycombinator.com/item?id=48838876"
-    },
-    {
-      "title": "A software engineering interview question I like: computing the median",
-      "url": "https://krisshamloo.com/blog/007",
-      "score": 34,
-      "comments": 22,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=48839434"
-    },
-    {
-      "title": "Separating signal from noise in coding evaluations",
-      "url": "https://openai.com/index/separating-signal-from-noise-coding-evaluations/",
-      "score": 161,
-      "comments": 61,
-      "by": "sk4rekr0w",
-      "hn_url": "https://news.ycombinator.com/item?id=48837396"
-    },
-    {
-      "title": "Chatto is now open source",
-      "url": "https://www.hmans.dev/blog/chatto-is-open-source",
-      "score": 743,
-      "comments": 196,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=48833116"
-    },
-    {
-      "title": "I Think I Have LLM Burnout",
-      "url": "https://www.alecscollon.com/blog/llm-burnout/",
-      "score": 9,
-      "comments": 1,
-      "by": "sosodev",
-      "hn_url": "https://news.ycombinator.com/item?id=48839984"
-    },
-    {
-      "title": "Remote Attestation",
-      "url": "https://www.liamcvw.com/p/remote-attestation",
-      "score": 23,
-      "comments": 11,
-      "by": "lcvw",
-      "hn_url": "https://news.ycombinator.com/item?id=48839397"
-    },
-    {
-      "title": "Mistral's Robostral Navigate: a state of the art robotics navigation model",
-      "url": "https://mistral.ai/news/robostral-navigate/",
-      "score": 417,
-      "comments": 96,
-      "by": "ottomengis",
-      "hn_url": "https://news.ycombinator.com/item?id=48832212"
-    },
-    {
-      "title": "Unicode's transliteration rules are Turing-complete",
-      "url": "https://seriot.ch/computation/uts35/",
-      "score": 39,
-      "comments": 8,
-      "by": "beefburger",
-      "hn_url": "https://news.ycombinator.com/item?id=48829797"
-    },
-    {
-      "title": "Show HN: Microsoft releases Flint, a visualization language for AI agents",
-      "url": "https://microsoft.github.io/flint-chart/#/",
-      "score": 207,
-      "comments": 76,
-      "by": "chenglong-hn",
-      "hn_url": "https://news.ycombinator.com/item?id=48834924"
-    },
-    {
-      "title": "Patching MechCommander's \"left arm bug\" for fun and profit",
-      "url": "https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/",
-      "score": 10,
-      "comments": 1,
-      "by": "Narann",
-      "hn_url": "https://news.ycombinator.com/item?id=48795591"
     }
   ]
 }

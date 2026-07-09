@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-08 01:53:14 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-09 02:06:17 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [elder-plinius/T3MP3ST](https://github.com/elder-plinius/T3MP3ST) | 3,323 | TypeScript | autonomous red teaming platform; multi-agent offensive-security meta-harness |
-| [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 1,383 | TypeScript | The open-source AI workbench for scientific research |
-| [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 1,292 | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —... |
-| [jamesob/local-llm](https://github.com/jamesob/local-llm) | 1,185 | Shell | Everything I know about running LLMs locally |
-| [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | 1,055 | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the ... |
+| [x4gKing/X4G](https://github.com/x4gKing/X4G) | 2,480 | Python | No description |
+| [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 1,766 | TypeScript | The open-source AI workbench for scientific research |
+| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,414 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
+| [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 1,363 | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —... |
+| [jamesob/local-llm](https://github.com/jamesob/local-llm) | 1,276 | Shell | Everything I know about running LLMs locally |
 
-### Hacker News Top Stories (Last Updated: 2026-07-08 01:53:14 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-09 02:06:17 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [GAO: DOE Is Prematurely Excluding Less Expensive Options for Nuclear Cleanup](https://www.gao.gov/products/gao-26-108193) | 92 | [35 comments](https://news.ycombinator.com/item?id=48824826) |
-| [We charge $10k a week to delete AI-generated code](https://odra.dev/slopfix/) | 195 | [90 comments](https://news.ycombinator.com/item?id=48823359) |
-| [Local, CPU-Friendly, High-Quality TTS (Text-to-Speech) with Kokoro](https://ariya.io/2026/03/local-cpu-friendly-high-quality-tts-text-to-speech-with-kokoro/) | 293 | [68 comments](https://news.ycombinator.com/item?id=48821576) |
-| [StreetComplete: Fixing OpenStreetMap, one tiny quest at a time](https://streetcomplete.app/) | 693 | [170 comments](https://news.ycombinator.com/item?id=48816883) |
-| [Canada's only watchmaking school still ticking after 80 years](https://www.cbc.ca/news/canada/montreal/canada-s-only-watchmaking-school-9.7254211) | 21 | [2 comments](https://news.ycombinator.com/item?id=48786789) |
-| [Chat Control 1.0 and 2.0 Explained](https://fightchatcontrol.eu/chat-control-overview) | 443 | [144 comments](https://news.ycombinator.com/item?id=48818311) |
-| [Tenda firmware (multiple versions) contains hidden authentication backdoor](https://kb.cert.org/vuls/id/213560) | 13 | [2 comments](https://news.ycombinator.com/item?id=48825749) |
-| [Structure and Interpretation of Computer Programs Video Lectures](https://ocw.mit.edu/courses/6-001-structure-and-interpretation-of-computer-programs-spring-2005/video_galleries/video-lectures/) | 19 | [0 comments](https://news.ycombinator.com/item?id=48825664) |
-| [An interactive explorer for Benford's Law across real datasets](https://vatsalbakshi.com/blog/benfords-law/) | 14 | [3 comments](https://news.ycombinator.com/item?id=48825816) |
-| [Show HN: Davit, a Apple Containers UI](https://davit.app) | 197 | [44 comments](https://news.ycombinator.com/item?id=48821848) |
+| [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) | 308 | [63 comments](https://news.ycombinator.com/item?id=48838876) |
+| [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) | 34 | [22 comments](https://news.ycombinator.com/item?id=48839434) |
+| [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) | 161 | [61 comments](https://news.ycombinator.com/item?id=48837396) |
+| [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) | 743 | [196 comments](https://news.ycombinator.com/item?id=48833116) |
+| [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) | 9 | [1 comments](https://news.ycombinator.com/item?id=48839984) |
+| [Remote Attestation](https://www.liamcvw.com/p/remote-attestation) | 23 | [11 comments](https://news.ycombinator.com/item?id=48839397) |
+| [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/) | 417 | [96 comments](https://news.ycombinator.com/item?id=48832212) |
+| [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/) | 39 | [8 comments](https://news.ycombinator.com/item?id=48829797) |
+| [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/) | 207 | [76 comments](https://news.ycombinator.com/item?id=48834924) |
+| [Patching MechCommander's "left arm bug" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/) | 10 | [1 comments](https://news.ycombinator.com/item?id=48795591) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 22.0°C (72.0°F) |
-| Average Humidity | 65% |
+| Average Temperature | 20.0°C (68.0°F) |
+| Average Humidity | 51% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-08 01:53:14 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-09 02:06:17 UTC*
