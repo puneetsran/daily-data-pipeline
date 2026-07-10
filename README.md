@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-09 02:06:17 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-10 02:05:23 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [x4gKing/X4G](https://github.com/x4gKing/X4G) | 2,480 | Python | No description |
-| [synthetic-sciences/openscience](https://github.com/synthetic-sciences/openscience) | 1,766 | TypeScript | The open-source AI workbench for scientific research |
-| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,414 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
-| [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 1,363 | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —... |
-| [jamesob/local-llm](https://github.com/jamesob/local-llm) | 1,276 | Shell | Everything I know about running LLMs locally |
+| [x4gKing/X4G](https://github.com/x4gKing/X4G) | 3,407 | Python | No description |
+| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,570 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
+| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 1,441 | JavaScript | No description |
+| [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 1,393 | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —... |
+| [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | 1,285 | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the ... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-09 02:06:17 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-10 02:05:23 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [John Deere owners will get the right to repair equipment under FTC settlement](https://apnews.com/article/john-deere-right-to-repair-agriculture-equipment-cb7514ffedb95c130a976af661f2bc02) | 308 | [63 comments](https://news.ycombinator.com/item?id=48838876) |
-| [A software engineering interview question I like: computing the median](https://krisshamloo.com/blog/007) | 34 | [22 comments](https://news.ycombinator.com/item?id=48839434) |
-| [Separating signal from noise in coding evaluations](https://openai.com/index/separating-signal-from-noise-coding-evaluations/) | 161 | [61 comments](https://news.ycombinator.com/item?id=48837396) |
-| [Chatto is now open source](https://www.hmans.dev/blog/chatto-is-open-source) | 743 | [196 comments](https://news.ycombinator.com/item?id=48833116) |
-| [I Think I Have LLM Burnout](https://www.alecscollon.com/blog/llm-burnout/) | 9 | [1 comments](https://news.ycombinator.com/item?id=48839984) |
-| [Remote Attestation](https://www.liamcvw.com/p/remote-attestation) | 23 | [11 comments](https://news.ycombinator.com/item?id=48839397) |
-| [Mistral's Robostral Navigate: a state of the art robotics navigation model](https://mistral.ai/news/robostral-navigate/) | 417 | [96 comments](https://news.ycombinator.com/item?id=48832212) |
-| [Unicode's transliteration rules are Turing-complete](https://seriot.ch/computation/uts35/) | 39 | [8 comments](https://news.ycombinator.com/item?id=48829797) |
-| [Show HN: Microsoft releases Flint, a visualization language for AI agents](https://microsoft.github.io/flint-chart/#/) | 207 | [76 comments](https://news.ycombinator.com/item?id=48834924) |
-| [Patching MechCommander's "left arm bug" for fun and profit](https://mhloppy.com/2026/05/mechcommander-weapons-left-arm-bug-fix/) | 10 | [1 comments](https://news.ycombinator.com/item?id=48795591) |
+| [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) | 390 | [101 comments](https://news.ycombinator.com/item?id=48842459) |
+| [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) | 1002 | [480 comments](https://news.ycombinator.com/item?id=48843923) |
+| [GPT-5.6](https://openai.com/index/gpt-5-6/) | 1073 | [782 comments](https://news.ycombinator.com/item?id=48849066) |
+| [Show HN: 18 Words](https://18words.com/) | 833 | [284 comments](https://news.ycombinator.com/item?id=48845049) |
+| [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html) | 8 | [3 comments](https://news.ycombinator.com/item?id=48854638) |
+| [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) | 293 | [114 comments](https://news.ycombinator.com/item?id=48792383) |
+| [Focus](https://boz.com/articles/focus) | 13 | [1 comments](https://news.ycombinator.com/item?id=48854363) |
+| [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) | 126 | [49 comments](https://news.ycombinator.com/item?id=48849292) |
+| [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/) | 32 | [0 comments](https://news.ycombinator.com/item?id=48757291) |
+| [Hy3](https://hy.tencent.com/research/hy3) | 389 | [86 comments](https://news.ycombinator.com/item?id=48847552) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 20.0°C (68.0°F) |
-| Average Humidity | 51% |
+| Average Temperature | 22.0°C (72.0°F) |
+| Average Humidity | 46% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-09 02:06:17 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-10 02:05:23 UTC*
