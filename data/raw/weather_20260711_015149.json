@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-07-11T01:51:49.852312",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Vancouver",
+      "temperature_c": "22",
+      "temperature_f": "72",
+      "condition": "Partly cloudy",
+      "humidity": "57",
+      "wind_speed_kmph": "8",
+      "collected_at": "2026-07-11T01:51:49.852172"
+    }
+  ]
+}

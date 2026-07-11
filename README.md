@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-10 02:05:23 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-11 01:51:50 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [x4gKing/X4G](https://github.com/x4gKing/X4G) | 3,407 | Python | No description |
-| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,570 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
-| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 1,441 | JavaScript | No description |
-| [ammaarreshi/Generals-Mac-iOS-iPad](https://github.com/ammaarreshi/Generals-Mac-iOS-iPad) | 1,393 | C++ | Command & Conquer Generals: Zero Hour running natively on macOS, iPhone & iPad —... |
-| [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | 1,285 | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the ... |
+| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 2,143 | JavaScript | No description |
+| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,706 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
+| [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | 1,341 | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the ... |
+| [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) | 795 | Rust | Global DNS propagation checker TUI — watch a DNS record propagate across 34 publ... |
+| [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 701 | Python | Infinite Worlds with Versatile Interactions |
 
-### Hacker News Top Stories (Last Updated: 2026-07-10 02:05:23 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-11 01:51:50 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Show HN: Getting GLM 5.2 running on my slow computer](https://github.com/JustVugg/colibri) | 390 | [101 comments](https://news.ycombinator.com/item?id=48842459) |
-| [EU Parliament greenlights Chat Control 1.0](https://www.patrick-breyer.de/en/eu-parliament-greenlights-chat-control-1-0-breyer-our-children-lose-out/) | 1002 | [480 comments](https://news.ycombinator.com/item?id=48843923) |
-| [GPT-5.6](https://openai.com/index/gpt-5-6/) | 1073 | [782 comments](https://news.ycombinator.com/item?id=48849066) |
-| [Show HN: 18 Words](https://18words.com/) | 833 | [284 comments](https://news.ycombinator.com/item?id=48845049) |
-| [Star Just Ate a Planet, and It's Not Done Yet](https://www.nytimes.com/2026/07/09/science/space/planetary-engulfment-hungry-star.html) | 8 | [3 comments](https://news.ycombinator.com/item?id=48854638) |
-| [Train sim created by just one person is being called the best ever made](https://kotaku.com/a-train-sim-created-by-just-one-person-is-being-called-the-best-ever-made-2000699429) | 293 | [114 comments](https://news.ycombinator.com/item?id=48792383) |
-| [Focus](https://boz.com/articles/focus) | 13 | [1 comments](https://news.ycombinator.com/item?id=48854363) |
-| [Interview with Mitchell Hashimoto about Ghostty and Zig](https://alexalejandre.com/programming/interview-with-mitchell-hashimoto/) | 126 | [49 comments](https://news.ycombinator.com/item?id=48849292) |
-| [My Story of 3D Realms / Apogee Part I (2020)](https://joesiegler.blog/2020/11/my-story-of-apogee-3dr/) | 32 | [0 comments](https://news.ycombinator.com/item?id=48757291) |
-| [Hy3](https://hy.tencent.com/research/hy3) | 389 | [86 comments](https://news.ycombinator.com/item?id=48847552) |
+| [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) | 94 | [37 comments](https://news.ycombinator.com/item?id=48866134) |
+| [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) | 522 | [252 comments](https://news.ycombinator.com/item?id=48865019) |
+| [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) | 451 | [172 comments](https://news.ycombinator.com/item?id=48861717) |
+| [FreeCAD in the Browser](https://magik.net/freecad/) | 15 | [10 comments](https://news.ycombinator.com/item?id=48867264) |
+| [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) | 348 | [280 comments](https://news.ycombinator.com/item?id=48863490) |
+| [Meta pulls new AI image feature after days of backlash](https://www.bbc.com/news/articles/c2dy6e8klw0o) | 7 | [1 comments](https://news.ycombinator.com/item?id=48867233) |
+| [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) | 83 | [68 comments](https://news.ycombinator.com/item?id=48864252) |
+| [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) | 11 | [0 comments](https://news.ycombinator.com/item?id=48817539) |
+| [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) | 163 | [67 comments](https://news.ycombinator.com/item?id=48862365) |
+| [Combustion engine web-based simulator](https://combustionlab.net) | 118 | [52 comments](https://news.ycombinator.com/item?id=48795900) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 22.0°C (72.0°F) |
-| Average Humidity | 46% |
+| Average Humidity | 57% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-10 02:05:23 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-11 01:51:50 UTC*
