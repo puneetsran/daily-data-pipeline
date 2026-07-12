@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-11 01:51:50 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-12 01:54:36 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 2,143 | JavaScript | No description |
-| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,706 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
-| [MaximeRivest/riddle](https://github.com/MaximeRivest/riddle) | 1,341 | Rust | The diary of Tom Riddle for the reMarkable Paper Pro — write with your pen, the ... |
-| [514-labs/dnsglobe](https://github.com/514-labs/dnsglobe) | 795 | Rust | Global DNS propagation checker TUI — watch a DNS record propagate across 34 publ... |
-| [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 701 | Python | Infinite Worlds with Versatile Interactions |
+| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 2,413 | JavaScript | No description |
+| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,773 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
+| [oso95/scroll-world](https://github.com/oso95/scroll-world) | 893 | JavaScript | A skill that turn any brand into a scrollable 3D world |
+| [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | 800 | HTML | No description |
+| [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 797 | Python | Infinite Worlds with Versatile Interactions |
 
-### Hacker News Top Stories (Last Updated: 2026-07-11 01:51:50 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-12 01:54:36 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Einstein's relativity rules chemical bonds in heavy elements, new research shows](https://www.brown.edu/news/2026-07-09/chemical-bonds-relativity) | 94 | [37 comments](https://news.ycombinator.com/item?id=48866134) |
-| [Apple sues OpenAI, accuses ex-employees of stealing trade secrets](https://9to5mac.com/2026/07/10/apple-sues-openai-trade-secret-theft/) | 522 | [252 comments](https://news.ycombinator.com/item?id=48865019) |
-| [QuadRF can spot drones and see WiFi through my wall](https://www.jeffgeerling.com/blog/2026/quadrf-can-spot-drones-and-see-wifi-through-my-wall/) | 451 | [172 comments](https://news.ycombinator.com/item?id=48861717) |
-| [FreeCAD in the Browser](https://magik.net/freecad/) | 15 | [10 comments](https://news.ycombinator.com/item?id=48867264) |
-| [GPT-5.6 Sol Ultra produces proof of the Cycle Double Cover Conjecture [pdf]](https://cdn.openai.com/pdf/04d1d1e4-bc75-476a-97cf-49055cd98d31/cdc_proof.pdf) | 348 | [280 comments](https://news.ycombinator.com/item?id=48863490) |
-| [Meta pulls new AI image feature after days of backlash](https://www.bbc.com/news/articles/c2dy6e8klw0o) | 7 | [1 comments](https://news.ycombinator.com/item?id=48867233) |
-| [An update on residential proxies and the scraper situation](https://lwn.net/SubscriberLink/1080822/990a8a5e2d379085/) | 83 | [68 comments](https://news.ycombinator.com/item?id=48864252) |
-| [An iroh powered smart fan](https://www.iroh.computer/blog/an-iroh-powered-smart-fan) | 11 | [0 comments](https://news.ycombinator.com/item?id=48817539) |
-| [The tech of 'Terminator 2' – an oral history (2017)](https://vfxblog.com/2017/08/23/the-tech-of-terminator-2-an-oral-history/) | 163 | [67 comments](https://news.ycombinator.com/item?id=48862365) |
-| [Combustion engine web-based simulator](https://combustionlab.net) | 118 | [52 comments](https://news.ycombinator.com/item?id=48795900) |
+| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 89 | [22 comments](https://news.ycombinator.com/item?id=48876505) |
+| [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) | 178 | [77 comments](https://news.ycombinator.com/item?id=48875377) |
+| [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) | 60 | [16 comments](https://news.ycombinator.com/item?id=48876245) |
+| [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html) | 15 | [12 comments](https://news.ycombinator.com/item?id=48877269) |
+| [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext) | 27 | [3 comments](https://news.ycombinator.com/item?id=48877192) |
+| [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) | 159 | [57 comments](https://news.ycombinator.com/item?id=48873836) |
+| [A pure scheme web programming tool](https://goeteia.dev) | 5 | [1 comments](https://news.ycombinator.com/item?id=48877314) |
+| [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber) | 6 | [1 comments](https://news.ycombinator.com/item?id=48846177) |
+| [A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com) | 12 | [3 comments](https://news.ycombinator.com/item?id=48877009) |
+| [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267) | 50 | [5 comments](https://news.ycombinator.com/item?id=48849744) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 22.0°C (72.0°F) |
-| Average Humidity | 57% |
+| Average Temperature | 20.0°C (67.0°F) |
+| Average Humidity | 50% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-11 01:51:50 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-12 01:54:36 UTC*
