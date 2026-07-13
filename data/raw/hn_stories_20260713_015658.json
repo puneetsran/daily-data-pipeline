@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-13T01:56:58.364359",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS",
+      "url": "https://scrapfly.dev/posts/browser-math-os-fingerprint/",
+      "score": 305,
+      "comments": 152,
+      "by": "joahnn_s",
+      "hn_url": "https://news.ycombinator.com/item?id=48884853"
+    },
+    {
+      "title": "Cyberpunk Comics, Manga and Graphic Novels",
+      "url": "https://shellzine.net/cyberpunk-comics/",
+      "score": 74,
+      "comments": 15,
+      "by": "zdw",
+      "hn_url": "https://news.ycombinator.com/item?id=48885643"
+    },
+    {
+      "title": "Tiny Emulators",
+      "url": "https://floooh.github.io/tiny8bit-preview/index.html",
+      "score": 145,
+      "comments": 7,
+      "by": "naves",
+      "hn_url": "https://news.ycombinator.com/item?id=48884395"
+    },
+    {
+      "title": "Designing and assembling my first PCB",
+      "url": "https://vilkeliskis.com/b/2026/0711.html",
+      "score": 46,
+      "comments": 4,
+      "by": "tadasv",
+      "hn_url": "https://news.ycombinator.com/item?id=48885728"
+    },
+    {
+      "title": "So you want to learn physics (second edition, 2021)",
+      "url": "https://www.susanrigetti.com/physics",
+      "score": 97,
+      "comments": 9,
+      "by": "azhenley",
+      "hn_url": "https://news.ycombinator.com/item?id=48827126"
+    },
+    {
+      "title": "A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed",
+      "url": "https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/",
+      "score": 17,
+      "comments": 0,
+      "by": "pseudolus",
+      "hn_url": "https://news.ycombinator.com/item?id=48818314"
+    },
+    {
+      "title": "Ask HN: What Are You Working On? (July 2026)",
+      "url": "https://news.ycombinator.com/item?id=48884984",
+      "score": 76,
+      "comments": 191,
+      "by": "david927",
+      "hn_url": "https://news.ycombinator.com/item?id=48884984"
+    },
+    {
+      "title": "Why Vanilla JavaScript",
+      "url": "https://guseyn.com/html/posts/why-vanilla-js.html",
+      "score": 39,
+      "comments": 17,
+      "by": "guseyn",
+      "hn_url": "https://news.ycombinator.com/item?id=48885705"
+    },
+    {
+      "title": "Ask HN: Add flag for AI-generated articles",
+      "url": "https://news.ycombinator.com/item?id=48886741",
+      "score": 26,
+      "comments": 7,
+      "by": "levkk",
+      "hn_url": "https://news.ycombinator.com/item?id=48886741"
+    },
+    {
+      "title": "Old and new apps, via modern coding agents",
+      "url": "https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/",
+      "score": 413,
+      "comments": 120,
+      "by": "subset",
+      "hn_url": "https://news.ycombinator.com/item?id=48880170"
+    }
+  ]
+}

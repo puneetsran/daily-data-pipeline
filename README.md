@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-12 01:54:36 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-13 01:57:00 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 2,413 | JavaScript | No description |
-| [Shpigford/knockoff](https://github.com/Shpigford/knockoff) | 1,773 | JavaScript | Chrome extension that filters pseudo-brand junk out of Amazon. Buy from real, es... |
-| [oso95/scroll-world](https://github.com/oso95/scroll-world) | 893 | JavaScript | A skill that turn any brand into a scrollable 3D world |
-| [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | 800 | HTML | No description |
-| [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 797 | Python | Infinite Worlds with Versatile Interactions |
+| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 2,715 | JavaScript | No description |
+| [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 932 | Python | Infinite Worlds with Versatile Interactions |
+| [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | 890 | HTML | No description |
+| [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | 712 | Python | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence |
+| [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | 640 | TypeScript | Local-first, zero-trust agentic IDE for verifiable autonomous software developme... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-12 01:54:36 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-13 01:57:00 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Mesh LLM: distributed AI computing on iroh](https://www.iroh.computer/blog/mesh-llm) | 89 | [22 comments](https://news.ycombinator.com/item?id=48876505) |
-| [Show HN: Ant – A JavaScript runtime and ecosystem](https://antjs.org) | 178 | [77 comments](https://news.ycombinator.com/item?id=48875377) |
-| [RISCBoy is an open-source portable games console, designed from scratch](https://github.com/Wren6991/RISCBoy) | 60 | [16 comments](https://news.ycombinator.com/item?id=48876245) |
-| [A dock that wakes up reliably](https://fabiensanglard.net/tb4/index.html) | 15 | [12 comments](https://news.ycombinator.com/item?id=48877269) |
-| [Long Covid May Physically Damage the Nerves That Control the Stomach](https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext) | 27 | [3 comments](https://news.ycombinator.com/item?id=48877192) |
-| [Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom](https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom) | 159 | [57 comments](https://news.ycombinator.com/item?id=48873836) |
-| [A pure scheme web programming tool](https://goeteia.dev) | 5 | [1 comments](https://news.ycombinator.com/item?id=48877314) |
-| [I Did Not Kill Stanley Lieber: How to Draw (With 9front)](https://triapul.cz/automa/i_did_not_kill_stanley_lieber) | 6 | [1 comments](https://news.ycombinator.com/item?id=48846177) |
-| [A public ledger of cloud outages and the SLA credits they trigger](https://slacreditwatch.com) | 12 | [3 comments](https://news.ycombinator.com/item?id=48877009) |
-| [Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts](https://arxiv.org/abs/2607.07267) | 50 | [5 comments](https://news.ycombinator.com/item?id=48849744) |
+| [Since Chromium 148, Math.tanh is now fingerprintable to link underlying OS](https://scrapfly.dev/posts/browser-math-os-fingerprint/) | 305 | [152 comments](https://news.ycombinator.com/item?id=48884853) |
+| [Cyberpunk Comics, Manga and Graphic Novels](https://shellzine.net/cyberpunk-comics/) | 74 | [15 comments](https://news.ycombinator.com/item?id=48885643) |
+| [Tiny Emulators](https://floooh.github.io/tiny8bit-preview/index.html) | 145 | [7 comments](https://news.ycombinator.com/item?id=48884395) |
+| [Designing and assembling my first PCB](https://vilkeliskis.com/b/2026/0711.html) | 46 | [4 comments](https://news.ycombinator.com/item?id=48885728) |
+| [So you want to learn physics (second edition, 2021)](https://www.susanrigetti.com/physics) | 97 | [9 comments](https://news.ycombinator.com/item?id=48827126) |
+| [A Peek Inside Jim Henson's Creature Shop, Where Whimsical Puppets Are Designed](https://www.smithsonianmag.com/travel/a-peek-inside-jim-hensons-creature-shop-where-sesame-street-characters-and-other-whimsical-puppets-are-designed-180989051/) | 17 | [0 comments](https://news.ycombinator.com/item?id=48818314) |
+| [Ask HN: What Are You Working On? (July 2026)](https://news.ycombinator.com/item?id=48884984) | 76 | [191 comments](https://news.ycombinator.com/item?id=48884984) |
+| [Why Vanilla JavaScript](https://guseyn.com/html/posts/why-vanilla-js.html) | 39 | [17 comments](https://news.ycombinator.com/item?id=48885705) |
+| [Ask HN: Add flag for AI-generated articles](https://news.ycombinator.com/item?id=48886741) | 26 | [7 comments](https://news.ycombinator.com/item?id=48886741) |
+| [Old and new apps, via modern coding agents](https://terrytao.wordpress.com/2026/07/11/old-and-new-apps-via-modern-coding-agents/) | 413 | [120 comments](https://news.ycombinator.com/item?id=48880170) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 20.0°C (67.0°F) |
-| Average Humidity | 50% |
+| Average Temperature | 20.0°C (68.0°F) |
+| Average Humidity | 47% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-12 01:54:36 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-13 01:57:00 UTC*
