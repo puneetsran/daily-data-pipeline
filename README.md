@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-14 01:43:55 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-15 01:40:20 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [withmarbleapp/os-taxonomy](https://github.com/withmarbleapp/os-taxonomy) | 2,923 | JavaScript | No description |
-| [Robbyant/lingbot-world-v2](https://github.com/Robbyant/lingbot-world-v2) | 1,033 | Python | Infinite Worlds with Versatile Interactions |
-| [x4gKing/3x-ui-Upgrade](https://github.com/x4gKing/3x-ui-Upgrade) | 959 | HTML | No description |
-| [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | 859 | Python | Codex plugin that turns attached object images into code-only, animation-ready p... |
-| [Robbyant/lingbot-video](https://github.com/Robbyant/lingbot-video) | 758 | Python | Scaling Mixture-of-Experts Video Pretraining for Embodied Intelligence |
+| [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 1,015 | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex... |
+| [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | 966 | Python | Codex plugin that turns attached object images into code-only, animation-ready p... |
+| [littledivy/mimic](https://github.com/littledivy/mimic) | 909 | Python | Intercept any app, then call it from Python like a library |
+| [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | 801 | TypeScript | Local-first, zero-trust agentic IDE for verifiable autonomous software developme... |
+| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 695 | Python | A practical, open-source guide to mastering WorkBuddy through real-world workflo... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-14 01:43:55 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-15 01:40:20 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [The Git history command deserves more attention](https://lalitm.com/post/git-history/) | 21 | [3 comments](https://news.ycombinator.com/item?id=48901010) |
-| [Building and shipping Mac and iOS apps without opening Xcode](https://scottwillsey.com/building-and-shipping-mac-and-ios-apps-without-ever-opening-xcode/) | 309 | [134 comments](https://news.ycombinator.com/item?id=48896665) |
-| [Apple's new SpeechAnalyzer API, benchmarked against Whisper and its predecessor](https://get-inscribe.com/blog/apple-speech-api-benchmark.html) | 449 | [180 comments](https://news.ycombinator.com/item?id=48894752) |
-| [An Englishwoman who sketched India before photography took hold](https://www.bbc.com/news/articles/cm2drrv6q54o) | 47 | [7 comments](https://news.ycombinator.com/item?id=48900191) |
-| [MorphoHDL: A minimalistic language for growing circuits](https://paradigms-of-intelligence.github.io/morpho/) | 8 | [0 comments](https://news.ycombinator.com/item?id=48901126) |
-| [Success may not matter if you aren't doing what you love](https://12gramsofcarbon.com/p/founders-guide-success-may-not-matter) | 9 | [0 comments](https://news.ycombinator.com/item?id=48900790) |
-| [ESBMC-Arduino: Closing the Deployment Gap for Formal Verification](https://arxiv.org/abs/2607.08550) | 4 | [0 comments](https://news.ycombinator.com/item?id=48901020) |
-| [The infinite scroll may become endangered if controversial Calif. law passes](https://www.sfgate.com/politics/article/meta-social-media-teenagers-22337724.php) | 75 | [129 comments](https://news.ycombinator.com/item?id=48897104) |
-| [The art and engineering of Sega CD Silpheed](https://fabiensanglard.net/silpheed/index.html) | 222 | [46 comments](https://news.ycombinator.com/item?id=48893639) |
-| [Show HN: YouTube Guitar Tab Parser](https://github.com/marcelpanse/youtube-guitar-tab-parser) | 70 | [47 comments](https://news.ycombinator.com/item?id=48898154) |
+| [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) | 59 | [21 comments](https://news.ycombinator.com/item?id=48914644) |
+| [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) | 18 | [2 comments](https://news.ycombinator.com/item?id=48915004) |
+| [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) | 430 | [160 comments](https://news.ycombinator.com/item?id=48910545) |
+| [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/) | 95 | [59 comments](https://news.ycombinator.com/item?id=48913050) |
+| [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) | 336 | [164 comments](https://news.ycombinator.com/item?id=48909785) |
+| [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf) | 85 | [32 comments](https://news.ycombinator.com/item?id=48913443) |
+| [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) | 248 | [107 comments](https://news.ycombinator.com/item?id=48910676) |
+| [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go) | 110 | [26 comments](https://news.ycombinator.com/item?id=48912175) |
+| [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/) | 23 | [17 comments](https://news.ycombinator.com/item?id=48873275) |
+| [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) | 716 | [438 comments](https://news.ycombinator.com/item?id=48869989) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 24.0°C (75.0°F) |
-| Average Humidity | 51% |
+| Average Temperature | 27.0°C (81.0°F) |
+| Average Humidity | 39% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-14 01:43:55 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-15 01:40:20 UTC*

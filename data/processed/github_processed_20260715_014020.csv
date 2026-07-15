@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+MDX-Tom/gpt-5.6-instruct,1015,Python,A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex CLI 破甲提示词与测试包。,https://github.com/MDX-Tom/gpt-5.6-instruct,2026-07-11T09:44:24Z
+vinhhien112/Three.js-Object-Sculptor-Codex-Plugin,966,Python,"Codex plugin that turns attached object images into code-only, animation-ready procedural Three.js m",https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin,2026-07-09T16:23:29Z
+littledivy/mimic,909,Python,"Intercept any app, then call it from Python like a library",https://github.com/littledivy/mimic,2026-07-13T05:13:00Z
+mereyabdenbekuly-ctrl/clodex-ide,801,TypeScript,"Local-first, zero-trust agentic IDE for verifiable autonomous software development.",https://github.com/mereyabdenbekuly-ctrl/clodex-ide,2026-07-12T10:35:44Z
+AlephAITech/WorkBuddyGuide,695,Python,"A practical, open-source guide to mastering WorkBuddy through real-world workflows.开源的 WorkBuddy 实战蓝",https://github.com/AlephAITech/WorkBuddyGuide,2026-07-10T04:13:51Z
+x4gKing/Marzban-Panel,668,Dockerfile,No description,https://github.com/x4gKing/Marzban-Panel,2026-07-12T22:22:09Z
+William-Lu-stack/Flawless,616,Python,AI SRE AgenticOps for Kubernetes and cloud infrastructure.,https://github.com/William-Lu-stack/Flawless,2026-07-10T05:57:02Z
+Kappaemme-git/codex-first-customer-finder-skill,602,Python,A Codex skill that finds evidence-backed potential first customers from recent public signals.,https://github.com/Kappaemme-git/codex-first-customer-finder-skill,2026-07-12T14:24:33Z
+cosmtrek/mindwalk,580,Go,A visualization tool that replays coding-agent sessions on a 3D map of your codebase.,https://github.com/cosmtrek/mindwalk,2026-07-09T11:41:46Z
+x4gKing/Marzban-Node,566,Dockerfile,No description,https://github.com/x4gKing/Marzban-Node,2026-07-12T22:22:51Z
