@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-15 01:40:20 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-16 01:50:18 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 1,015 | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex... |
-| [vinhhien112/Three.js-Object-Sculptor-Codex-Plugin](https://github.com/vinhhien112/Three.js-Object-Sculptor-Codex-Plugin) | 966 | Python | Codex plugin that turns attached object images into code-only, animation-ready p... |
-| [littledivy/mimic](https://github.com/littledivy/mimic) | 909 | Python | Intercept any app, then call it from Python like a library |
-| [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | 801 | TypeScript | Local-first, zero-trust agentic IDE for verifiable autonomous software developme... |
-| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 695 | Python | A practical, open-source guide to mastering WorkBuddy through real-world workflo... |
+| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 3,504 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
+| [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 1,349 | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex... |
+| [littledivy/mimic](https://github.com/littledivy/mimic) | 1,024 | Python | Intercept any app, then call it from Python like a library |
+| [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | 810 | TypeScript | Local-first, zero-trust agentic IDE for verifiable autonomous software developme... |
+| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 807 | Python | A practical, open-source guide to mastering WorkBuddy through real-world workflo... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-15 01:40:20 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-16 01:50:18 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Vancouver PD website features Quick Escape button that wipes itself from history](https://vpd.ca/) | 59 | [21 comments](https://news.ycombinator.com/item?id=48914644) |
-| [TS-2026-009: Insecure argument handling in Tailscale SSH permitted root access](https://tailscale.com/security-bulletins) | 18 | [2 comments](https://news.ycombinator.com/item?id=48915004) |
-| [Bonsai 27B: A 27B-Class model that runs on a phone](https://prismml.com/news/bonsai-27b) | 430 | [160 comments](https://news.ycombinator.com/item?id=48910545) |
-| [Dependabot version updates introduce default package cooldown](https://github.blog/changelog/2026-07-14-dependabot-version-updates-introduce-default-package-cooldown/) | 95 | [59 comments](https://news.ycombinator.com/item?id=48913050) |
-| [The Tower Keeps Rising](https://lucumr.pocoo.org/2026/7/13/the-tower-keeps-rising/) | 336 | [164 comments](https://news.ycombinator.com/item?id=48909785) |
-| [Financing the AI boom: from cash flows to debt [pdf]](https://www.bis.org/publ/bisbull120.pdf) | 85 | [32 comments](https://news.ycombinator.com/item?id=48913443) |
-| [Cursor 0day: When Full Disclosure Becomes the Only Protection Left](https://mindgard.ai/blog/cursor-0day-when-full-disclosure-becomes-the-only-protection-left) | 248 | [107 comments](https://news.ycombinator.com/item?id=48910676) |
-| [How I use HTMX with Go](https://www.alexedwards.net/blog/how-i-use-htmx-with-go) | 110 | [26 comments](https://news.ycombinator.com/item?id=48912175) |
-| [C++20 Improved the For-Loop Syntax](https://lzon.ca/posts/tips/cpp-for-range-init/) | 23 | [17 comments](https://news.ycombinator.com/item?id=48873275) |
-| [Your 'app' could have been a webpage (so I fixed it for you)](https://danq.me/2026/07/09/your-app-could-have-been-a-webpage/) | 716 | [438 comments](https://news.ycombinator.com/item?id=48869989) |
+| [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) | 681 | [176 comments](https://news.ycombinator.com/item?id=48924912) |
+| [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) | 115 | [44 comments](https://news.ycombinator.com/item?id=48928135) |
+| [Grok Build is open source](https://github.com/xai-org/grok-build) | 257 | [302 comments](https://news.ycombinator.com/item?id=48926590) |
+| [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) | 87 | [32 comments](https://news.ycombinator.com/item?id=48927095) |
+| [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) | 36 | [10 comments](https://news.ycombinator.com/item?id=48928313) |
+| [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) | 341 | [208 comments](https://news.ycombinator.com/item?id=48915953) |
+| [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html) | 46 | [10 comments](https://news.ycombinator.com/item?id=48927915) |
+| [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html) | 28 | [2 comments](https://news.ycombinator.com/item?id=48928343) |
+| [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/) | 8 | [0 comments](https://news.ycombinator.com/item?id=48871721) |
+| [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/) | 230 | [151 comments](https://news.ycombinator.com/item?id=48922434) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 27.0°C (81.0°F) |
-| Average Humidity | 39% |
+| Average Temperature | 28.0°C (82.0°F) |
+| Average Humidity | 46% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-15 01:40:20 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-16 01:50:18 UTC*

@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-16T01:50:15.969285",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Inkling: Our Open-Weights Model",
+      "url": "https://thinkingmachines.ai/news/introducing-inkling/",
+      "score": 681,
+      "comments": 176,
+      "by": "vimarsh6739",
+      "hn_url": "https://news.ycombinator.com/item?id=48924912"
+    },
+    {
+      "title": "SQLite should have (Rust-style) editions",
+      "url": "https://mort.coffee/home/sqlite-editions/",
+      "score": 115,
+      "comments": 44,
+      "by": "gnyeki",
+      "hn_url": "https://news.ycombinator.com/item?id=48928135"
+    },
+    {
+      "title": "Grok Build is open source",
+      "url": "https://github.com/xai-org/grok-build",
+      "score": 257,
+      "comments": 302,
+      "by": "skp1995",
+      "hn_url": "https://news.ycombinator.com/item?id=48926590"
+    },
+    {
+      "title": "Governments, companies, nonprofits should invest in free, open source AI [pdf]",
+      "url": "https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf",
+      "score": 87,
+      "comments": 32,
+      "by": "bilsbie",
+      "hn_url": "https://news.ycombinator.com/item?id=48927095"
+    },
+    {
+      "title": "Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)",
+      "url": "https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials",
+      "score": 36,
+      "comments": 10,
+      "by": "andsoitis",
+      "hn_url": "https://news.ycombinator.com/item?id=48928313"
+    },
+    {
+      "title": "Stripe and Advent have made a joint offer to acquire PayPal \u2013 sources",
+      "url": "https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/",
+      "score": 341,
+      "comments": 208,
+      "by": "rvz",
+      "hn_url": "https://news.ycombinator.com/item?id=48915953"
+    },
+    {
+      "title": "LLM Networking with MikroTik",
+      "url": "https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html",
+      "score": 46,
+      "comments": 10,
+      "by": "gregsadetsky",
+      "hn_url": "https://news.ycombinator.com/item?id=48927915"
+    },
+    {
+      "title": "Nul Characters in Strings in SQLite",
+      "url": "https://sqlite.org/nulinstr.html",
+      "score": 28,
+      "comments": 2,
+      "by": "basilikum",
+      "hn_url": "https://news.ycombinator.com/item?id=48928343"
+    },
+    {
+      "title": "G# \u2013 A modern .NET language with Go, Kotlin, and Swift ergonomics",
+      "url": "https://davidobando.github.io/gsharp/",
+      "score": 8,
+      "comments": 0,
+      "by": "serial_dev",
+      "hn_url": "https://news.ycombinator.com/item?id=48871721"
+    },
+    {
+      "title": "Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU",
+      "url": "https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/",
+      "score": 230,
+      "comments": 151,
+      "by": "neomindryan",
+      "hn_url": "https://news.ycombinator.com/item?id=48922434"
+    }
+  ]
+}
