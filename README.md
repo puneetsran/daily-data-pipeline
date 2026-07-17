@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-16 01:50:18 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-17 01:53:42 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 3,504 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
-| [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 1,349 | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex... |
-| [littledivy/mimic](https://github.com/littledivy/mimic) | 1,024 | Python | Intercept any app, then call it from Python like a library |
-| [mereyabdenbekuly-ctrl/clodex-ide](https://github.com/mereyabdenbekuly-ctrl/clodex-ide) | 810 | TypeScript | Local-first, zero-trust agentic IDE for verifiable autonomous software developme... |
-| [AlephAITech/WorkBuddyGuide](https://github.com/AlephAITech/WorkBuddyGuide) | 807 | Python | A practical, open-source guide to mastering WorkBuddy through real-world workflo... |
+| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 12,463 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
+| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 5,649 | JavaScript | Codex Dream Skin |
+| [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 1,679 | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex... |
+| [littledivy/mimic](https://github.com/littledivy/mimic) | 1,105 | Python | Intercept any app, then call it from Python like a library |
+| [pixel-point/aval](https://github.com/pixel-point/aval) | 1,051 | TypeScript | A new open-source format for interactive video on the web, with a built-in state... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-16 01:50:18 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-17 01:53:42 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Inkling: Our Open-Weights Model](https://thinkingmachines.ai/news/introducing-inkling/) | 681 | [176 comments](https://news.ycombinator.com/item?id=48924912) |
-| [SQLite should have (Rust-style) editions](https://mort.coffee/home/sqlite-editions/) | 115 | [44 comments](https://news.ycombinator.com/item?id=48928135) |
-| [Grok Build is open source](https://github.com/xai-org/grok-build) | 257 | [302 comments](https://news.ycombinator.com/item?id=48926590) |
-| [Governments, companies, nonprofits should invest in free, open source AI [pdf]](https://www.siegelendowment.org/wp-content/uploads/2026/07/fortune-david-siegel-open-source-ai.pdf) | 87 | [32 comments](https://news.ycombinator.com/item?id=48927095) |
-| [Metal-Organic Frameworks, Chemistry's New Miracle Materials (2018)](https://chemistry.berkeley.edu/news/meet-metal-organic-frameworks-chemistry%E2%80%99s-new-miracle-materials) | 36 | [10 comments](https://news.ycombinator.com/item?id=48928313) |
-| [Stripe and Advent have made a joint offer to acquire PayPal – sources](https://www.reuters.com/business/finance/stripe-advent-offer-buy-paypal-more-than-53-billion-sources-say-2026-07-15/) | 341 | [208 comments](https://news.ycombinator.com/item?id=48915953) |
-| [LLM Networking with MikroTik](https://blog.greg.technology/2026/07/14/llm-networking-with-mikrotik.html) | 46 | [10 comments](https://news.ycombinator.com/item?id=48927915) |
-| [Nul Characters in Strings in SQLite](https://sqlite.org/nulinstr.html) | 28 | [2 comments](https://news.ycombinator.com/item?id=48928343) |
-| [G# – A modern .NET language with Go, Kotlin, and Swift ergonomics](https://davidobando.github.io/gsharp/) | 8 | [0 comments](https://news.ycombinator.com/item?id=48871721) |
-| [Running Gemma 4 26B at 5 tokens/sec on a 13-year-old Xeon with no GPU](https://www.neomindlabs.com/2026/06/08/running-gemma-4-26b-at-5-tokens-sec-on-a-13-year-old-xeon-with-no-gpu/) | 230 | [151 comments](https://news.ycombinator.com/item?id=48922434) |
+| [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) | 1174 | [732 comments](https://news.ycombinator.com/item?id=48935342) |
+| [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/) | 23 | [4 comments](https://news.ycombinator.com/item?id=48942250) |
+| [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) | 540 | [120 comments](https://news.ycombinator.com/item?id=48936426) |
+| [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic) | 160 | [63 comments](https://news.ycombinator.com/item?id=48939662) |
+| [Decoy Font](https://www.mixfont.com/experiments/decoy-font) | 405 | [98 comments](https://news.ycombinator.com/item?id=48936584) |
+| [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive) | 25 | [6 comments](https://news.ycombinator.com/item?id=48942125) |
+| [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) | 56 | [7 comments](https://news.ycombinator.com/item?id=48941104) |
+| [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) | 131 | [139 comments](https://news.ycombinator.com/item?id=48939524) |
+| [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) | 240 | [126 comments](https://news.ycombinator.com/item?id=48936451) |
+| [Mathematics of Data Science](https://arxiv.org/abs/2607.11938) | 92 | [2 comments](https://news.ycombinator.com/item?id=48939896) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 28.0°C (82.0°F) |
-| Average Humidity | 46% |
+| Average Temperature | 25.0°C (76.0°F) |
+| Average Humidity | 66% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-16 01:50:18 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-17 01:53:42 UTC*

@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-17 01:53 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-17T01:53:39.805568",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "xai-org/grok-build",
       "stars": 12463,
@@ -80,88 +81,6 @@
       "description": "No description",
       "url": "https://github.com/x4gKing/Marzban-Node",
       "created_at": "2026-07-12T22:22:51Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Kimi K3: Open Frontier Intelligence",
-      "url": "https://www.kimi.com/blog/kimi-k3",
-      "score": 1174,
-      "comments": 732,
-      "by": "vincent_s",
-      "hn_url": "https://news.ycombinator.com/item?id=48935342"
-    },
-    {
-      "title": "Google Kills Custom Search API on Jan 1, 2027",
-      "url": "https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/",
-      "score": 23,
-      "comments": 4,
-      "by": "alexey-salmin",
-      "hn_url": "https://news.ycombinator.com/item?id=48942250"
-    },
-    {
-      "title": "Microsoft Comic Chat is now open source",
-      "url": "https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/",
-      "score": 540,
-      "comments": 120,
-      "by": "jervant",
-      "hn_url": "https://news.ycombinator.com/item?id=48936426"
-    },
-    {
-      "title": "LM Studio Bionic: the AI agent for open models",
-      "url": "https://lmstudio.ai/blog/introducing-lm-studio-bionic",
-      "score": 160,
-      "comments": 63,
-      "by": "minimaxir",
-      "hn_url": "https://news.ycombinator.com/item?id=48939662"
-    },
-    {
-      "title": "Decoy Font",
-      "url": "https://www.mixfont.com/experiments/decoy-font",
-      "score": 405,
-      "comments": 98,
-      "by": "ray__",
-      "hn_url": "https://news.ycombinator.com/item?id=48936584"
-    },
-    {
-      "title": "M 3.9 Experimental Explosion \u2013 147 Km ENE of Ponce Inlet, Florida",
-      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive",
-      "score": 25,
-      "comments": 6,
-      "by": "hnburnsy",
-      "hn_url": "https://news.ycombinator.com/item?id=48942125"
-    },
-    {
-      "title": "The Little Book of Reinforcement Learning",
-      "url": "https://github.com/alxndrTL/little-book-rl/",
-      "score": 56,
-      "comments": 7,
-      "by": "mustaphah",
-      "hn_url": "https://news.ycombinator.com/item?id=48941104"
-    },
-    {
-      "title": "$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol",
-      "url": "https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6",
-      "score": 131,
-      "comments": 139,
-      "by": "hershyb_",
-      "hn_url": "https://news.ycombinator.com/item?id=48939524"
-    },
-    {
-      "title": "NotebookLM is now Gemini Notebook",
-      "url": "https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/",
-      "score": 240,
-      "comments": 126,
-      "by": "xnx",
-      "hn_url": "https://news.ycombinator.com/item?id=48936451"
-    },
-    {
-      "title": "Mathematics of Data Science",
-      "url": "https://arxiv.org/abs/2607.11938",
-      "score": 92,
-      "comments": 2,
-      "by": "Anon84",
-      "hn_url": "https://news.ycombinator.com/item?id=48939896"
     }
   ]
 }
