@@ -18,36 +18,35 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-17 01:53:42 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-18 01:43:59 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 12,463 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
-| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 5,649 | JavaScript | Codex Dream Skin |
-| [MDX-Tom/gpt-5.6-instruct](https://github.com/MDX-Tom/gpt-5.6-instruct) | 1,679 | Python | A Codex CLI jailbreak prompt and test pack for gpt-5.6-sol. 针对 gpt-5.6 系列的 Codex... |
-| [littledivy/mimic](https://github.com/littledivy/mimic) | 1,105 | Python | Intercept any app, then call it from Python like a library |
-| [pixel-point/aval](https://github.com/pixel-point/aval) | 1,051 | TypeScript | A new open-source format for interactive video on the web, with a built-in state... |
+| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 16,548 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
+| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 8,708 | JavaScript | Codex Dream Skin |
+| [pixel-point/aval](https://github.com/pixel-point/aval) | 1,164 | TypeScript | A new open-source format for interactive video on the web, with a built-in state... |
+| [littledivy/mimic](https://github.com/littledivy/mimic) | 1,149 | Python | Intercept any app, then call it from Python like a library |
+| [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | 1,144 | Rust | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-07-17 01:53:42 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-18 01:43:59 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Kimi K3: Open Frontier Intelligence](https://www.kimi.com/blog/kimi-k3) | 1174 | [732 comments](https://news.ycombinator.com/item?id=48935342) |
-| [Google Kills Custom Search API on Jan 1, 2027](https://thenextgennexus.com/2026/05/14/google-kills-custom-search-api-on-jan-1-2027-you-have-9-months/) | 23 | [4 comments](https://news.ycombinator.com/item?id=48942250) |
-| [Microsoft Comic Chat is now open source](https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/) | 540 | [120 comments](https://news.ycombinator.com/item?id=48936426) |
-| [LM Studio Bionic: the AI agent for open models](https://lmstudio.ai/blog/introducing-lm-studio-bionic) | 160 | [63 comments](https://news.ycombinator.com/item?id=48939662) |
-| [Decoy Font](https://www.mixfont.com/experiments/decoy-font) | 405 | [98 comments](https://news.ycombinator.com/item?id=48936584) |
-| [M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida](https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive) | 25 | [6 comments](https://news.ycombinator.com/item?id=48942125) |
-| [The Little Book of Reinforcement Learning](https://github.com/alxndrTL/little-book-rl/) | 56 | [7 comments](https://news.ycombinator.com/item?id=48941104) |
-| [$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol](https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6) | 131 | [139 comments](https://news.ycombinator.com/item?id=48939524) |
-| [NotebookLM is now Gemini Notebook](https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/) | 240 | [126 comments](https://news.ycombinator.com/item?id=48936451) |
-| [Mathematics of Data Science](https://arxiv.org/abs/2607.11938) | 92 | [2 comments](https://news.ycombinator.com/item?id=48939896) |
+| [Kaiser nurses say AI, workplace surveillance are making their jobs, care worse](https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/) | 266 | [161 comments](https://news.ycombinator.com/item?id=48952880) |
+| [AWS: Inaccurate Estimated Billing Data – $1.7 billion](https://news.ycombinator.com/item?id=48945241) | 1048 | [639 comments](https://news.ycombinator.com/item?id=48945241) |
+| [Thanks HN for 15 years of support and helping me find my life's work](https://news.ycombinator.com/item?id=48949551) | 322 | [29 comments](https://news.ycombinator.com/item?id=48949551) |
+| [The Zilog Z80 has turned 50](https://goliath32.com/blog/z80.html) | 164 | [48 comments](https://news.ycombinator.com/item?id=48951461) |
+| [The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold](https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier) | 32 | [2 comments](https://news.ycombinator.com/item?id=48953406) |
+| [First atmosphere found on Earth-like planet in habitable zone of distant star](https://www.bbc.com/news/articles/cy4kdd1e0ejo) | 366 | [231 comments](https://news.ycombinator.com/item?id=48947560) |
+| [Vāgdhenu: A Sanskrit Chanting TTS System](https://prathosh.in/vagdhenu/) | 45 | [3 comments](https://news.ycombinator.com/item?id=48896149) |
+| [I Started a "Dirt Notebook"](https://pinewind.bearblog.dev/i-started-a-dirt-notebook/) | 4 | [0 comments](https://news.ycombinator.com/item?id=48954149) |
+| [Learning a few things about running SQLite](https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/) | 164 | [39 comments](https://news.ycombinator.com/item?id=48950122) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 25.0°C (76.0°F) |
-| Average Humidity | 66% |
+| Average Temperature | 23.0°C (73.0°F) |
+| Average Humidity | 68% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +174,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-17 01:53:42 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-18 01:43:59 UTC*

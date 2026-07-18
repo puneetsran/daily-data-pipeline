@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-18 01:43 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-18T01:43:56.667649",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "xai-org/grok-build",
       "stars": 16548,
@@ -80,80 +81,6 @@
       "description": "No description",
       "url": "https://github.com/x4gKing/Marzban-Node",
       "created_at": "2026-07-12T22:22:51Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Kaiser nurses say AI, workplace surveillance are making their jobs, care worse",
-      "url": "https://localnewsmatters.org/2026/07/15/kaiser-nurses-say-ai-workplace-surveillance-are-making-their-jobs-and-patient-care-worse/",
-      "score": 266,
-      "comments": 161,
-      "by": "gnabgib",
-      "hn_url": "https://news.ycombinator.com/item?id=48952880"
-    },
-    {
-      "title": "AWS: Inaccurate Estimated Billing Data \u2013 $1.7 billion",
-      "url": "https://news.ycombinator.com/item?id=48945241",
-      "score": 1048,
-      "comments": 639,
-      "by": "nprateem",
-      "hn_url": "https://news.ycombinator.com/item?id=48945241"
-    },
-    {
-      "title": "Thanks HN for 15 years of support and helping me find my life's work",
-      "url": "https://news.ycombinator.com/item?id=48949551",
-      "score": 322,
-      "comments": 29,
-      "by": "nicholasjbs",
-      "hn_url": "https://news.ycombinator.com/item?id=48949551"
-    },
-    {
-      "title": "The Zilog Z80 has turned 50",
-      "url": "https://goliath32.com/blog/z80.html",
-      "score": 164,
-      "comments": 48,
-      "by": "st_goliath",
-      "hn_url": "https://news.ycombinator.com/item?id=48951461"
-    },
-    {
-      "title": "The Isomorphic Labs Drug Design Engine unlocks a new frontier beyond AlphaFold",
-      "url": "https://www.isomorphiclabs.com/articles/the-isomorphic-labs-drug-design-engine-unlocks-a-new-frontier",
-      "score": 32,
-      "comments": 2,
-      "by": "andsoitis",
-      "hn_url": "https://news.ycombinator.com/item?id=48953406"
-    },
-    {
-      "title": "First atmosphere found on Earth-like planet in habitable zone of distant star",
-      "url": "https://www.bbc.com/news/articles/cy4kdd1e0ejo",
-      "score": 366,
-      "comments": 231,
-      "by": "neversaydie",
-      "hn_url": "https://news.ycombinator.com/item?id=48947560"
-    },
-    {
-      "title": "V\u0101gdhenu: A Sanskrit Chanting TTS System",
-      "url": "https://prathosh.in/vagdhenu/",
-      "score": 45,
-      "comments": 3,
-      "by": "subinalex",
-      "hn_url": "https://news.ycombinator.com/item?id=48896149"
-    },
-    {
-      "title": "I Started a \"Dirt Notebook\"",
-      "url": "https://pinewind.bearblog.dev/i-started-a-dirt-notebook/",
-      "score": 4,
-      "comments": 0,
-      "by": "herbertl",
-      "hn_url": "https://news.ycombinator.com/item?id=48954149"
-    },
-    {
-      "title": "Learning a few things about running SQLite",
-      "url": "https://jvns.ca/blog/2026/07/17/learning-about-running-sqlite/",
-      "score": 164,
-      "comments": 39,
-      "by": "surprisetalk",
-      "hn_url": "https://news.ycombinator.com/item?id=48950122"
     }
   ]
 }
