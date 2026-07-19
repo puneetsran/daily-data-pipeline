@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-19 01:52 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-19T01:52:06.251486",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "xai-org/grok-build",
       "stars": 18885,
@@ -80,88 +81,6 @@
       "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel \u2014 Tauri v2, React 19, Rust",
       "url": "https://github.com/MatinSenPai/Aether-GUI",
       "created_at": "2026-07-14T20:13:18Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Transcribe.cpp",
-      "url": "https://workshop.cjpais.com/projects/transcribe-cpp",
-      "score": 40,
-      "comments": 5,
-      "by": "sebjones",
-      "hn_url": "https://news.ycombinator.com/item?id=48963879"
-    },
-    {
-      "title": "Speech Recognition and TTS in less than 500kb",
-      "url": "https://github.com/moonshine-ai/moonshine/tree/main/micro",
-      "score": 274,
-      "comments": 32,
-      "by": "petewarden",
-      "hn_url": "https://news.ycombinator.com/item?id=48911793"
-    },
-    {
-      "title": "Better and Cheaper Than IPTV",
-      "url": "https://github.com/stupside/castor",
-      "score": 16,
-      "comments": 4,
-      "by": "xonery",
-      "hn_url": "https://news.ycombinator.com/item?id=48964015"
-    },
-    {
-      "title": "Classic Amiga titles, free to download",
-      "url": "https://amigafreeware.downer.tech/",
-      "score": 49,
-      "comments": 7,
-      "by": "doener",
-      "hn_url": "https://news.ycombinator.com/item?id=48962838"
-    },
-    {
-      "title": "If You Build It, They Will Come",
-      "url": "https://www.benlandautaylor.com/p/if-you-build-it-they-will-come",
-      "score": 269,
-      "comments": 99,
-      "by": "barry-cotter",
-      "hn_url": "https://news.ycombinator.com/item?id=48959090"
-    },
-    {
-      "title": "GPT-5.6 used a prompt to close a 30-year gap in convex optimization",
-      "url": "https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/",
-      "score": 500,
-      "comments": 324,
-      "by": "mbustamanter",
-      "hn_url": "https://news.ycombinator.com/item?id=48957779"
-    },
-    {
-      "title": "Mayor Mamdani Says Landlords Can't Use AI Images to Advertise",
-      "url": "https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/",
-      "score": 201,
-      "comments": 100,
-      "by": "gnabgib",
-      "hn_url": "https://news.ycombinator.com/item?id=48962983"
-    },
-    {
-      "title": "Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day",
-      "url": "https://www.neatnik.net/hardcore-indieweb",
-      "score": 79,
-      "comments": 59,
-      "by": "cdrnsf",
-      "hn_url": "https://news.ycombinator.com/item?id=48962758"
-    },
-    {
-      "title": "Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]",
-      "url": "https://www.tug.org/tug2026/preprints/lode-realtime.pdf",
-      "score": 31,
-      "comments": 4,
-      "by": "amichail",
-      "hn_url": "https://news.ycombinator.com/item?id=48962944"
-    },
-    {
-      "title": "Judge a book by its first pages",
-      "url": "https://uncovered.ink",
-      "score": 42,
-      "comments": 31,
-      "by": "bookofjoe",
-      "hn_url": "https://news.ycombinator.com/item?id=48962893"
     }
   ]
 }
