@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-20T02:09:56.066426",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s",
+      "url": "https://news.ycombinator.com/item?id=48968606",
+      "score": 1559,
+      "comments": 172,
+      "by": "section33",
+      "hn_url": "https://news.ycombinator.com/item?id=48968606"
+    },
+    {
+      "title": "The Zen of Parallel Programming",
+      "url": "https://smolnero.com/posts/the-zen-of-parallel-programming",
+      "score": 112,
+      "comments": 11,
+      "by": "edgar_ortega",
+      "hn_url": "https://news.ycombinator.com/item?id=48907390"
+    },
+    {
+      "title": "Biggest Probabilistic Computer Turns Noise into Answers",
+      "url": "https://spectrum.ieee.org/biggest-probabilistic-computer",
+      "score": 37,
+      "comments": 6,
+      "by": "rbanffy",
+      "hn_url": "https://news.ycombinator.com/item?id=48971938"
+    },
+    {
+      "title": "A new Intel Itanium (IA-64) emulator that boots Windows",
+      "url": "https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html",
+      "score": 49,
+      "comments": 33,
+      "by": "jandeboevrie",
+      "hn_url": "https://news.ycombinator.com/item?id=48971566"
+    },
+    {
+      "title": "What I learned selling 2,500 MIDI recorders: Hardware is not so hard",
+      "url": "https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard",
+      "score": 405,
+      "comments": 196,
+      "by": "chipweinberger",
+      "hn_url": "https://news.ycombinator.com/item?id=48966713"
+    },
+    {
+      "title": "Claude Code uses Bun written in Rust now",
+      "url": "https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/",
+      "score": 394,
+      "comments": 557,
+      "by": "tosh",
+      "hn_url": "https://news.ycombinator.com/item?id=48966569"
+    },
+    {
+      "title": "Minecraft: Java Edition now uses SDL3",
+      "url": "https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4",
+      "score": 274,
+      "comments": 180,
+      "by": "ObviouslyFlamer",
+      "hn_url": "https://news.ycombinator.com/item?id=48967256"
+    },
+    {
+      "title": "Talk: The Art of Braiding Algorithms",
+      "url": "https://pgadey.ca/notes/talk-relatorium-2026/",
+      "score": 23,
+      "comments": 0,
+      "by": "surprisetalk",
+      "hn_url": "https://news.ycombinator.com/item?id=48920597"
+    },
+    {
+      "title": "OpenAI reduces Codex Model Context Size from 372k to 272k",
+      "url": "https://github.com/openai/codex/pull/33972/files",
+      "score": 320,
+      "comments": 149,
+      "by": "AmazingTurtle",
+      "hn_url": "https://news.ycombinator.com/item?id=48965850"
+    },
+    {
+      "title": "Who Is America's Homer?",
+      "url": "https://www.plough.com/articles/who-is-americas-homer",
+      "score": 37,
+      "comments": 76,
+      "by": "samclemens",
+      "hn_url": "https://news.ycombinator.com/item?id=48913656"
+    }
+  ]
+}

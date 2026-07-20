@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-19 01:52:09 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-20 02:09:57 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 18,885 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
-| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 9,761 | JavaScript | Codex Dream Skin |
-| [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | 1,256 | Rust | No description |
-| [pixel-point/aval](https://github.com/pixel-point/aval) | 1,211 | TypeScript | A new open-source format for interactive video on the web, with a built-in state... |
-| [littledivy/mimic](https://github.com/littledivy/mimic) | 1,176 | Python | Intercept any app, then call it from Python like a library |
+| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 20,133 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
+| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 10,378 | JavaScript | Codex Dream Skin |
+| [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | 1,316 | Rust | No description |
+| [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | 1,157 | JavaScript | Your clothes, extracted and organized with gpt-image. |
+| [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | 828 | Go | Use LLMs to hide messages inside normal looking conversations |
 
-### Hacker News Top Stories (Last Updated: 2026-07-19 01:52:09 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-20 02:09:57 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Transcribe.cpp](https://workshop.cjpais.com/projects/transcribe-cpp) | 40 | [5 comments](https://news.ycombinator.com/item?id=48963879) |
-| [Speech Recognition and TTS in less than 500kb](https://github.com/moonshine-ai/moonshine/tree/main/micro) | 274 | [32 comments](https://news.ycombinator.com/item?id=48911793) |
-| [Better and Cheaper Than IPTV](https://github.com/stupside/castor) | 16 | [4 comments](https://news.ycombinator.com/item?id=48964015) |
-| [Classic Amiga titles, free to download](https://amigafreeware.downer.tech/) | 49 | [7 comments](https://news.ycombinator.com/item?id=48962838) |
-| [If You Build It, They Will Come](https://www.benlandautaylor.com/p/if-you-build-it-they-will-come) | 269 | [99 comments](https://news.ycombinator.com/item?id=48959090) |
-| [GPT-5.6 used a prompt to close a 30-year gap in convex optimization](https://old.reddit.com/r/math/comments/1uxj3cy/after_openais_cdc_proof_announcement_gpt56_used_a/) | 500 | [324 comments](https://news.ycombinator.com/item?id=48957779) |
-| [Mayor Mamdani Says Landlords Can't Use AI Images to Advertise](https://petapixel.com/2026/07/16/mayor-mamdani-says-landlords-cant-secretly-use-ai-images-to-advertise-properties/) | 201 | [100 comments](https://news.ycombinator.com/item?id=48962983) |
-| [Hardcore IndieWeb: Run your own website 100% independently for only $0.01/day](https://www.neatnik.net/hardcore-indieweb) | 79 | [59 comments](https://news.ycombinator.com/item?id=48962758) |
-| [Real-Time LuaTeX: Recompiling Large Documents in 1ms [pdf]](https://www.tug.org/tug2026/preprints/lode-realtime.pdf) | 31 | [4 comments](https://news.ycombinator.com/item?id=48962944) |
-| [Judge a book by its first pages](https://uncovered.ink) | 42 | [31 comments](https://news.ycombinator.com/item?id=48962893) |
+| [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) | 1559 | [172 comments](https://news.ycombinator.com/item?id=48968606) |
+| [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) | 112 | [11 comments](https://news.ycombinator.com/item?id=48907390) |
+| [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) | 37 | [6 comments](https://news.ycombinator.com/item?id=48971938) |
+| [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) | 49 | [33 comments](https://news.ycombinator.com/item?id=48971566) |
+| [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) | 405 | [196 comments](https://news.ycombinator.com/item?id=48966713) |
+| [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) | 394 | [557 comments](https://news.ycombinator.com/item?id=48966569) |
+| [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) | 274 | [180 comments](https://news.ycombinator.com/item?id=48967256) |
+| [Talk: The Art of Braiding Algorithms](https://pgadey.ca/notes/talk-relatorium-2026/) | 23 | [0 comments](https://news.ycombinator.com/item?id=48920597) |
+| [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) | 320 | [149 comments](https://news.ycombinator.com/item?id=48965850) |
+| [Who Is America's Homer?](https://www.plough.com/articles/who-is-americas-homer) | 37 | [76 comments](https://news.ycombinator.com/item?id=48913656) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 23.0°C (73.0°F) |
-| Average Humidity | 69% |
+| Average Temperature | 24.0°C (74.0°F) |
+| Average Humidity | 64% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-19 01:52:09 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-20 02:09:57 UTC*

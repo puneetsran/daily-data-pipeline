@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-20T02:09:55.069869",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "xai-org/grok-build",
+      "stars": 20133,
+      "language": "Rust",
+      "description": "SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensible.",
+      "url": "https://github.com/xai-org/grok-build",
+      "created_at": "2026-07-14T20:04:23Z"
+    },
+    {
+      "name": "Fei-Away/Codex-Dream-Skin",
+      "stars": 10378,
+      "language": "JavaScript",
+      "description": "Codex Dream Skin",
+      "url": "https://github.com/Fei-Away/Codex-Dream-Skin",
+      "created_at": "2026-07-15T12:34:51Z"
+    },
+    {
+      "name": "CluvexStudio/Aether",
+      "stars": 1316,
+      "language": "Rust",
+      "description": "No description",
+      "url": "https://github.com/CluvexStudio/Aether",
+      "created_at": "2026-07-14T14:20:44Z"
+    },
+    {
+      "name": "tandpfun/wardrobe",
+      "stars": 1157,
+      "language": "JavaScript",
+      "description": "Your clothes, extracted and organized with gpt-image.",
+      "url": "https://github.com/tandpfun/wardrobe",
+      "created_at": "2026-07-16T06:17:00Z"
+    },
+    {
+      "name": "nethical6/conversation-steganography",
+      "stars": 828,
+      "language": "Go",
+      "description": "Use LLMs to hide messages inside normal looking conversations",
+      "url": "https://github.com/nethical6/conversation-steganography",
+      "created_at": "2026-07-17T04:58:22Z"
+    },
+    {
+      "name": "pablostanley/yoinks",
+      "stars": 755,
+      "language": "TypeScript",
+      "description": "yoink any video from your terminal. no shady ads.",
+      "url": "https://github.com/pablostanley/yoinks",
+      "created_at": "2026-07-16T07:06:09Z"
+    },
+    {
+      "name": "MatinSenPai/Aether-GUI",
+      "stars": 626,
+      "language": "TypeScript",
+      "description": "One-click desktop GUI for the Aether censorship-circumvention tunnel \u2014 Tauri v2, React 19, Rust",
+      "url": "https://github.com/MatinSenPai/Aether-GUI",
+      "created_at": "2026-07-14T20:13:18Z"
+    },
+    {
+      "name": "Blueturboguy07/cue",
+      "stars": 616,
+      "language": "JavaScript",
+      "description": "Open-source macOS AI copilot that floats over your screen, sees/hears your meetings, and stays hidde",
+      "url": "https://github.com/Blueturboguy07/cue",
+      "created_at": "2026-07-15T22:17:25Z"
+    },
+    {
+      "name": "v-modal/vmodal_sdk_flutter",
+      "stars": 588,
+      "language": "Dart",
+      "description": "V- Modal AI: Search anything anywhere SDK Flutter",
+      "url": "https://github.com/v-modal/vmodal_sdk_flutter",
+      "created_at": "2026-07-16T12:25:48Z"
+    },
+    {
+      "name": "lopopolo/harness-engineering",
+      "stars": 580,
+      "language": "Python",
+      "description": "\ud83d\udc0e Ryan Lopopolo\u2019s anthology, field guide, and agent context bundle for harness engineering",
+      "url": "https://github.com/lopopolo/harness-engineering",
+      "created_at": "2026-07-18T21:42:28Z"
+    }
+  ]
+}
