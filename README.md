@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-20 02:09:57 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-21 01:51:50 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [xai-org/grok-build](https://github.com/xai-org/grok-build) | 20,133 | Rust | SpaceXAI's coding agent harness and TUI. Fullscreen, mouse interactive, extensib... |
-| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 10,378 | JavaScript | Codex Dream Skin |
-| [CluvexStudio/Aether](https://github.com/CluvexStudio/Aether) | 1,316 | Rust | No description |
-| [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | 1,157 | JavaScript | Your clothes, extracted and organized with gpt-image. |
-| [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | 828 | Go | Use LLMs to hide messages inside normal looking conversations |
+| [Fei-Away/Codex-Dream-Skin](https://github.com/Fei-Away/Codex-Dream-Skin) | 11,088 | JavaScript | Codex Dream Skin |
+| [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | 1,219 | JavaScript | Your clothes, extracted and organized with gpt-image. |
+| [hoainho/img2threejs](https://github.com/hoainho/img2threejs) | 1,028 | Python | Rebuild the object in a reference image as a code-only, procedural, quality-gate... |
+| [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | 881 | Go | Use LLMs to hide messages inside normal looking conversations |
+| [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 869 | TypeScript | yoink any video from your terminal. no shady ads. |
 
-### Hacker News Top Stories (Last Updated: 2026-07-20 02:09:57 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-21 01:51:50 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Show HN: I replaced a $120k bowling center system with $1,600 in ESP32s](https://news.ycombinator.com/item?id=48968606) | 1559 | [172 comments](https://news.ycombinator.com/item?id=48968606) |
-| [The Zen of Parallel Programming](https://smolnero.com/posts/the-zen-of-parallel-programming) | 112 | [11 comments](https://news.ycombinator.com/item?id=48907390) |
-| [Biggest Probabilistic Computer Turns Noise into Answers](https://spectrum.ieee.org/biggest-probabilistic-computer) | 37 | [6 comments](https://news.ycombinator.com/item?id=48971938) |
-| [A new Intel Itanium (IA-64) emulator that boots Windows](https://raymii.org/s/blog/Intel_Itanium_IA-64-Emulator_that_boots_Windows.html) | 49 | [33 comments](https://news.ycombinator.com/item?id=48971566) |
-| [What I learned selling 2,500 MIDI recorders: Hardware is not so hard](https://chipweinberger.com/articles/20260719-hardware-is-not-so-hard) | 405 | [196 comments](https://news.ycombinator.com/item?id=48966713) |
-| [Claude Code uses Bun written in Rust now](https://simonwillison.net/2026/Jul/19/claude-code-in-bun-in-rust/) | 394 | [557 comments](https://news.ycombinator.com/item?id=48966569) |
-| [Minecraft: Java Edition now uses SDL3](https://www.minecraft.net/en-us/article/minecraft-26-3-snapshot-4) | 274 | [180 comments](https://news.ycombinator.com/item?id=48967256) |
-| [Talk: The Art of Braiding Algorithms](https://pgadey.ca/notes/talk-relatorium-2026/) | 23 | [0 comments](https://news.ycombinator.com/item?id=48920597) |
-| [OpenAI reduces Codex Model Context Size from 372k to 272k](https://github.com/openai/codex/pull/33972/files) | 320 | [149 comments](https://news.ycombinator.com/item?id=48965850) |
-| [Who Is America's Homer?](https://www.plough.com/articles/who-is-americas-homer) | 37 | [76 comments](https://news.ycombinator.com/item?id=48913656) |
+| [Who's afraid of Chinese models?](https://stratechery.com/2026/whos-afraid-of-chinese-models/) | 261 | [171 comments](https://news.ycombinator.com/item?id=48977128) |
+| [Kimi Work](https://www.kimi.com/products/kimi-work) | 398 | [185 comments](https://news.ycombinator.com/item?id=48981703) |
+| [Human mathematicians are being outcounterexampled](https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/) | 209 | [76 comments](https://news.ycombinator.com/item?id=48983382) |
+| [Jelly UI: Soft-body physics for native HTML form controls](https://jelly-ui.com/) | 346 | [135 comments](https://news.ycombinator.com/item?id=48981620) |
+| [Hacker wipes Romania's land registry database](https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/) | 571 | [325 comments](https://news.ycombinator.com/item?id=48978605) |
+| [Jellyfin founder Andrew leaves team](https://forum.jellyfin.org/t-project-leadership-changes) | 36 | [9 comments](https://news.ycombinator.com/item?id=48986091) |
+| [Nativ: Run frontier open models locally on your Mac](https://blaizzy.github.io/nativ/) | 178 | [71 comments](https://news.ycombinator.com/item?id=48982681) |
+| [The Psychology of Software Teams](https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389) | 25 | [5 comments](https://news.ycombinator.com/item?id=48923130) |
+| [Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco](https://vincentwoo.com/3d/grace_cathedral/) | 74 | [14 comments](https://news.ycombinator.com/item?id=48984254) |
+| [Airport Simulator](https://airport.apunen.com/) | 706 | [142 comments](https://news.ycombinator.com/item?id=48976846) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 24.0°C (74.0°F) |
-| Average Humidity | 64% |
+| Average Temperature | 28.0°C (83.0°F) |
+| Average Humidity | 47% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-20 02:09:57 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-21 01:51:50 UTC*

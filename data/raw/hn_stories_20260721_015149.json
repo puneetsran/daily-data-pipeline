@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-21T01:51:49.224970",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Who's afraid of Chinese models?",
+      "url": "https://stratechery.com/2026/whos-afraid-of-chinese-models/",
+      "score": 261,
+      "comments": 171,
+      "by": "mfiguiere",
+      "hn_url": "https://news.ycombinator.com/item?id=48977128"
+    },
+    {
+      "title": "Kimi Work",
+      "url": "https://www.kimi.com/products/kimi-work",
+      "score": 398,
+      "comments": 185,
+      "by": "ms7892",
+      "hn_url": "https://news.ycombinator.com/item?id=48981703"
+    },
+    {
+      "title": "Human mathematicians are being outcounterexampled",
+      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled/",
+      "score": 209,
+      "comments": 76,
+      "by": "artninja1988",
+      "hn_url": "https://news.ycombinator.com/item?id=48983382"
+    },
+    {
+      "title": "Jelly UI: Soft-body physics for native HTML form controls",
+      "url": "https://jelly-ui.com/",
+      "score": 346,
+      "comments": 135,
+      "by": "baldvinmar",
+      "hn_url": "https://news.ycombinator.com/item?id=48981620"
+    },
+    {
+      "title": "Hacker wipes Romania's land registry database",
+      "url": "https://news.risky.biz/risky-bulletin-hacker-wipes-romanias-entire-land-registry-database/",
+      "score": 571,
+      "comments": 325,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=48978605"
+    },
+    {
+      "title": "Jellyfin founder Andrew leaves team",
+      "url": "https://forum.jellyfin.org/t-project-leadership-changes",
+      "score": 36,
+      "comments": 9,
+      "by": "swat535",
+      "hn_url": "https://news.ycombinator.com/item?id=48986091"
+    },
+    {
+      "title": "Nativ: Run frontier open models locally on your Mac",
+      "url": "https://blaizzy.github.io/nativ/",
+      "score": 178,
+      "comments": 71,
+      "by": "aratahikaru5",
+      "hn_url": "https://news.ycombinator.com/item?id=48982681"
+    },
+    {
+      "title": "The Psychology of Software Teams",
+      "url": "https://www.routledge.com/The-Psychology-of-Software-Teams/Hicks/p/book/9781032963389",
+      "score": 25,
+      "comments": 5,
+      "by": "dcre",
+      "hn_url": "https://news.ycombinator.com/item?id=48923130"
+    },
+    {
+      "title": "Show HN: Immersive Gaussian Splat tour of grace cathedral, San Francisco",
+      "url": "https://vincentwoo.com/3d/grace_cathedral/",
+      "score": 74,
+      "comments": 14,
+      "by": "akanet",
+      "hn_url": "https://news.ycombinator.com/item?id=48984254"
+    },
+    {
+      "title": "Airport Simulator",
+      "url": "https://airport.apunen.com/",
+      "score": 706,
+      "comments": 142,
+      "by": "apunen",
+      "hn_url": "https://news.ycombinator.com/item?id=48976846"
+    }
+  ]
+}
