@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-22 01:51 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-22T01:51:03.629440",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "lopopolo/harness-engineering",
       "stars": 1626,
@@ -80,88 +81,6 @@
       "description": "\u0420\u0435\u0436\u0438\u043c \u0438\u0434\u0438\u043e\u043c\u0430\u0442\u0438\u0447\u0435\u0441\u043a\u043e\u0433\u043e \u0440\u0443\u0441\u0441\u043a\u043e\u0433\u043e \u043c\u0430\u0442\u0430 \u0434\u043b\u044f AI-\u0430\u0433\u0435\u043d\u0442\u043e\u0432. \u041a\u043e\u0440\u043e\u0447\u0435, \u0434\u0443\u0448\u0435\u0432\u043d\u0435\u0435, \u044d\u0444\u0444\u0435\u043a\u0442\u0438\u0432\u043d\u0435\u0435. 18+",
       "url": "https://github.com/smixs/pohuy",
       "created_at": "2026-07-17T15:22:53Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "OpenAI and Hugging Face address security incident during model evaluation",
-      "url": "https://openai.com/index/hugging-face-model-evaluation-security-incident/",
-      "score": 720,
-      "comments": 480,
-      "by": "mfiguiere",
-      "hn_url": "https://news.ycombinator.com/item?id=48997548"
-    },
-    {
-      "title": "Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA",
-      "url": "https://fireworks.ai/blog/kimik3-fable",
-      "score": 292,
-      "comments": 155,
-      "by": "piotrgrabowski",
-      "hn_url": "https://news.ycombinator.com/item?id=48999291"
-    },
-    {
-      "title": "FreeInk: Open ecosystem for e-readers",
-      "url": "https://freeink.org/",
-      "score": 411,
-      "comments": 102,
-      "by": "FriedPickles",
-      "hn_url": "https://news.ycombinator.com/item?id=48996318"
-    },
-    {
-      "title": "A digestion of the Jacobian conjecture counterexample",
-      "url": "https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/",
-      "score": 168,
-      "comments": 53,
-      "by": "jeremyscanvic",
-      "hn_url": "https://news.ycombinator.com/item?id=48998362"
-    },
-    {
-      "title": "Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/",
-      "score": 618,
-      "comments": 492,
-      "by": "logickkk1",
-      "hn_url": "https://news.ycombinator.com/item?id=48993414"
-    },
-    {
-      "title": "Advertise in ChatGPT",
-      "url": "https://ads.openai.com/",
-      "score": 307,
-      "comments": 309,
-      "by": "montecarl",
-      "hn_url": "https://news.ycombinator.com/item?id=48996571"
-    },
-    {
-      "title": "\"Drawing\" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok",
-      "url": "https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok",
-      "score": 111,
-      "comments": 39,
-      "by": "hershyb_",
-      "hn_url": "https://news.ycombinator.com/item?id=48998404"
-    },
-    {
-      "title": "Long presumed dead, a thriving coral reef is discovered in West Africa",
-      "url": "https://e360.yale.edu/digest/benin-coral-reef",
-      "score": 304,
-      "comments": 56,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=48993816"
-    },
-    {
-      "title": "Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting",
-      "url": "https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git",
-      "score": 245,
-      "comments": 220,
-      "by": "ryanmerket",
-      "hn_url": "https://news.ycombinator.com/item?id=48995213"
-    },
-    {
-      "title": "Apple defeats liability for not scanning iCloud for CSAM",
-      "url": "https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm",
-      "score": 350,
-      "comments": 329,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=48992870"
     }
   ]
 }
