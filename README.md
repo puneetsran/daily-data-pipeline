@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-22 01:51:06 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-23 01:58:21 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | 1,626 | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e... |
-| [tandpfun/wardrobe](https://github.com/tandpfun/wardrobe) | 1,285 | JavaScript | Your clothes, extracted and organized with gpt-image. |
-| [pablostanley/yoinks](https://github.com/pablostanley/yoinks) | 964 | TypeScript | yoink any video from your terminal. no shady ads. |
-| [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | 911 | Go | Use LLMs to hide messages inside normal looking conversations |
-| [v-modal/vmodal_sdk_flutter](https://github.com/v-modal/vmodal_sdk_flutter) | 777 | Dart | V- Modal AI: Search anything anywhere SDK Flutter |
+| [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | 2,194 | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e... |
+| [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | 986 | Go | Use LLMs to hide messages inside normal looking conversations |
+| [MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) | 920 | Solidity | An arbitrage bot is a smart contract connected to an external automation script ... |
+| [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | 762 | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ... |
+| [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | 631 | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-22 01:51:06 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-23 01:58:21 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [OpenAI and Hugging Face address security incident during model evaluation](https://openai.com/index/hugging-face-model-evaluation-security-incident/) | 720 | [480 comments](https://news.ycombinator.com/item?id=48997548) |
-| [Kimi K3 Is Competitive with Fable; Kimi K3 and Fable Is SoTA](https://fireworks.ai/blog/kimik3-fable) | 292 | [155 comments](https://news.ycombinator.com/item?id=48999291) |
-| [FreeInk: Open ecosystem for e-readers](https://freeink.org/) | 411 | [102 comments](https://news.ycombinator.com/item?id=48996318) |
-| [A digestion of the Jacobian conjecture counterexample](https://terrytao.wordpress.com/2026/07/21/a-digestion-of-the-jacobian-conjecture-counterexample/) | 168 | [53 comments](https://news.ycombinator.com/item?id=48998362) |
-| [Gemini 3.6 Flash, 3.5 Flash-Lite, and 3.5 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-6-flash-3-5-flash-lite-3-5-flash-cyber/) | 618 | [492 comments](https://news.ycombinator.com/item?id=48993414) |
-| [Advertise in ChatGPT](https://ads.openai.com/) | 307 | [309 comments](https://news.ycombinator.com/item?id=48996571) |
-| ["Drawing" the Mona Lisa with GPT-5.6, Claude, Gemini, and Grok](https://www.tryai.dev/blog/ai-drawing-arena-colored-pencils-claude-gpt-grok) | 111 | [39 comments](https://news.ycombinator.com/item?id=48998404) |
-| [Long presumed dead, a thriving coral reef is discovered in West Africa](https://e360.yale.edu/digest/benin-coral-reef) | 304 | [56 comments](https://news.ycombinator.com/item?id=48993816) |
-| [Jack Dorsey launches Buzz to combine team chat, AI agents and Git hosting](https://runtimewire.com/article/jack-dorsey-block-buzz-team-chat-ai-agents-git) | 245 | [220 comments](https://news.ycombinator.com/item?id=48995213) |
-| [Apple defeats liability for not scanning iCloud for CSAM](https://blog.ericgoldman.org/archives/2026/07/apple-defeats-liability-for-not-scanning-icloud-for-csam-but-the-judge-was-not-pleased-amy-v-apple.htm) | 350 | [329 comments](https://news.ycombinator.com/item?id=48992870) |
+| [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) | 615 | [376 comments](https://news.ycombinator.com/item?id=49010345) |
+| [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) | 158 | [75 comments](https://news.ycombinator.com/item?id=49007247) |
+| [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) | 370 | [72 comments](https://news.ycombinator.com/item?id=49010167) |
+| [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) | 653 | [150 comments](https://news.ycombinator.com/item?id=49008211) |
+| [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) | 78 | [18 comments](https://news.ycombinator.com/item?id=49014007) |
+| [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) | 398 | [156 comments](https://news.ycombinator.com/item?id=49010129) |
+| [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) | 257 | [73 comments](https://news.ycombinator.com/item?id=49010648) |
+| [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid) | 67 | [12 comments](https://news.ycombinator.com/item?id=49010782) |
+| [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html) | 68 | [16 comments](https://news.ycombinator.com/item?id=49013538) |
+| [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302) | 555 | [176 comments](https://news.ycombinator.com/item?id=49012070) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 33.0°C (92.0°F) |
-| Average Humidity | 32% |
+| Average Temperature | 31.0°C (87.0°F) |
+| Average Humidity | 39% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-22 01:51:06 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-23 01:58:21 UTC*
