@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-24 01:54 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-24T01:54:08.617480",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "lopopolo/harness-engineering",
       "stars": 2276,
@@ -80,88 +81,6 @@
       "description": "Get notified when big trades happen on Hyperliquid.",
       "url": "https://github.com/0xhype/hyperliquid-tracker",
       "created_at": "2026-07-21T14:24:08Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "98.css",
-      "url": "https://jdan.github.io/98.css/#status-bar",
-      "score": 214,
-      "comments": 42,
-      "by": "lopespm",
-      "hn_url": "https://news.ycombinator.com/item?id=49028927"
-    },
-    {
-      "title": "Writing by hand is good for your brain",
-      "url": "https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your",
-      "score": 978,
-      "comments": 481,
-      "by": "dwwoelfel",
-      "hn_url": "https://news.ycombinator.com/item?id=49022152"
-    },
-    {
-      "title": "The Visual 6502",
-      "url": "http://visual6502.org/JSSim/index.html",
-      "score": 43,
-      "comments": 12,
-      "by": "infiniteregrets",
-      "hn_url": "https://news.ycombinator.com/item?id=49029538"
-    },
-    {
-      "title": "Show HN: Echo \u2013 Fable-level results at 1/3 the cost using open-weight models",
-      "url": "https://news.ycombinator.com/item?id=49026810",
-      "score": 231,
-      "comments": 115,
-      "by": "adam_rida",
-      "hn_url": "https://news.ycombinator.com/item?id=49026810"
-    },
-    {
-      "title": "The Beam Engine",
-      "url": "https://glinscott.github.io/beam-engine/",
-      "score": 162,
-      "comments": 55,
-      "by": "glinscott",
-      "hn_url": "https://news.ycombinator.com/item?id=49007221"
-    },
-    {
-      "title": "What happened to TheNumbers.com",
-      "url": "https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all",
-      "score": 292,
-      "comments": 126,
-      "by": "nickthegreek",
-      "hn_url": "https://news.ycombinator.com/item?id=49024691"
-    },
-    {
-      "title": "A taxonomy of omnicidal futures involving artificial intelligence (2025)",
-      "url": "https://arxiv.org/abs/2507.09369",
-      "score": 48,
-      "comments": 37,
-      "by": "amelius",
-      "hn_url": "https://news.ycombinator.com/item?id=49029133"
-    },
-    {
-      "title": "Startup founders urge U.S. government not to shut off Chinese open weight AI",
-      "url": "https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992",
-      "score": 723,
-      "comments": 651,
-      "by": "theanonymousone",
-      "hn_url": "https://news.ycombinator.com/item?id=49023016"
-    },
-    {
-      "title": "Building on ATProto",
-      "url": "https://lukekanies.com/writing/building-on-atproto/",
-      "score": 128,
-      "comments": 59,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=49025984"
-    },
-    {
-      "title": "Why Software Factories Fail (or: harness engineering is not enough)",
-      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md",
-      "score": 174,
-      "comments": 145,
-      "by": "dhorthy",
-      "hn_url": "https://news.ycombinator.com/item?id=49023019"
     }
   ]
 }

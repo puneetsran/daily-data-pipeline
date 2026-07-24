@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-23 01:58:21 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-24 01:54:11 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | 2,194 | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e... |
-| [nethical6/conversation-steganography](https://github.com/nethical6/conversation-steganography) | 986 | Go | Use LLMs to hide messages inside normal looking conversations |
-| [MIgHTy-alIeN/MEV-Arbitrage-Bot](https://github.com/MIgHTy-alIeN/MEV-Arbitrage-Bot) | 920 | Solidity | An arbitrage bot is a smart contract connected to an external automation script ... |
-| [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | 762 | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ... |
-| [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | 631 | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two... |
+| [lopopolo/harness-engineering](https://github.com/lopopolo/harness-engineering) | 2,276 | Python | 🐎 Ryan Lopopolo’s anthology, field guide, and agent context bundle for harness e... |
+| [andrewyng/openworker](https://github.com/andrewyng/openworker) | 1,328 | Python | No description |
+| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 947 | TypeScript | AI video skill for Claude Code & Codex — cinematic product videos with Remotion:... |
+| [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | 830 | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two... |
+| [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | 818 | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-23 01:58:21 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-24 01:54:11 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Terrence Tao's ChatGPT Conversation about the Jacobian Conjecture Counterexample](https://chatgpt.com/share/6a5fdc7a-d6f8-83e8-bbea-8deb42cfed56) | 615 | [376 comments](https://news.ycombinator.com/item?id=49010345) |
-| [Quality non-fiction books are the antithesis of AI slop](https://resobscura.substack.com/p/quality-non-fiction-books-are-the) | 158 | [75 comments](https://news.ycombinator.com/item?id=49007247) |
-| [GigaToken: ~1000x faster Language model tokenization](https://github.com/marcelroed/gigatoken/) | 370 | [72 comments](https://news.ycombinator.com/item?id=49010167) |
-| [Show HN: Bento - An entire PowerPoint in one HTML file (edit+view+data+collab)](https://bento.page/slides/) | 653 | [150 comments](https://news.ycombinator.com/item?id=49008211) |
-| [Medici family mystery may be solved after more than 400 years](https://www.cnn.com/2026/07/15/science/medici-family-mystery-dna-malaria) | 78 | [18 comments](https://news.ycombinator.com/item?id=49014007) |
-| [Are AI Labs Pelicanmaxxing?](https://dylancastillo.co/posts/pelicanmaxxing.html) | 398 | [156 comments](https://news.ycombinator.com/item?id=49010129) |
-| [Everyone Should Know SIMD](https://mitchellh.com/writing/everyone-should-know-simd) | 257 | [73 comments](https://news.ycombinator.com/item?id=49010648) |
-| [Show HN: Cactus Hybrid: We taught Gemma 4 to know when it's wrong](https://github.com/cactus-compute/cactus-hybrid) | 67 | [12 comments](https://news.ycombinator.com/item?id=49010782) |
-| [Malleable Computing, Emacs, and You](http://yummymelon.com/devnull/malleable-computing-emacs-and-you.html) | 68 | [16 comments](https://news.ycombinator.com/item?id=49013538) |
-| [John C. Dvorak has died](https://twitter.com/na_announce/status/2079952538040672302) | 555 | [176 comments](https://news.ycombinator.com/item?id=49012070) |
+| [98.css](https://jdan.github.io/98.css/#status-bar) | 214 | [42 comments](https://news.ycombinator.com/item?id=49028927) |
+| [Writing by hand is good for your brain](https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your) | 978 | [481 comments](https://news.ycombinator.com/item?id=49022152) |
+| [The Visual 6502](http://visual6502.org/JSSim/index.html) | 43 | [12 comments](https://news.ycombinator.com/item?id=49029538) |
+| [Show HN: Echo – Fable-level results at 1/3 the cost using open-weight models](https://news.ycombinator.com/item?id=49026810) | 231 | [115 comments](https://news.ycombinator.com/item?id=49026810) |
+| [The Beam Engine](https://glinscott.github.io/beam-engine/) | 162 | [55 comments](https://news.ycombinator.com/item?id=49007221) |
+| [What happened to TheNumbers.com](https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all) | 292 | [126 comments](https://news.ycombinator.com/item?id=49024691) |
+| [A taxonomy of omnicidal futures involving artificial intelligence (2025)](https://arxiv.org/abs/2507.09369) | 48 | [37 comments](https://news.ycombinator.com/item?id=49029133) |
+| [Startup founders urge U.S. government not to shut off Chinese open weight AI](https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992) | 723 | [651 comments](https://news.ycombinator.com/item?id=49023016) |
+| [Building on ATProto](https://lukekanies.com/writing/building-on-atproto/) | 128 | [59 comments](https://news.ycombinator.com/item?id=49025984) |
+| [Why Software Factories Fail (or: harness engineering is not enough)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md) | 174 | [145 comments](https://news.ycombinator.com/item?id=49023019) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 31.0°C (87.0°F) |
-| Average Humidity | 39% |
+| Average Temperature | 26.0°C (78.0°F) |
+| Average Humidity | 53% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-23 01:58:21 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-24 01:54:11 UTC*
