@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-25T01:53:22.984134",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Claude Opus 5",
+      "url": "https://www.anthropic.com/news/claude-opus-5",
+      "score": 1311,
+      "comments": 708,
+      "by": "alvis",
+      "hn_url": "https://news.ycombinator.com/item?id=49038433"
+    },
+    {
+      "title": "Postgres LISTEN/NOTIFY actually scales",
+      "url": "https://www.dbos.dev/blog/postgres-listen-notify-scalability",
+      "score": 202,
+      "comments": 37,
+      "by": "KraftyOne",
+      "hn_url": "https://news.ycombinator.com/item?id=49040296"
+    },
+    {
+      "title": "Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard",
+      "url": "https://artificialanalysis.ai/models",
+      "score": 140,
+      "comments": 84,
+      "by": "aarondong",
+      "hn_url": "https://news.ycombinator.com/item?id=49040741"
+    },
+    {
+      "title": "My security camera shipped a GitHub admin token in its login page",
+      "url": "https://hhh.hn/hanwha-github-token/",
+      "score": 511,
+      "comments": 177,
+      "by": "hhh",
+      "hn_url": "https://news.ycombinator.com/item?id=49034292"
+    },
+    {
+      "title": "Show HN: I simulated closing the Strait of Hormuz on real oil trade data",
+      "url": "https://globaloilnetwork.staffinganalytics.io/",
+      "score": 94,
+      "comments": 42,
+      "by": "eliotho",
+      "hn_url": "https://news.ycombinator.com/item?id=49020545"
+    },
+    {
+      "title": "Sperm Whales blow bubbles to achieve restful, vertical sleep",
+      "url": "https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/",
+      "score": 27,
+      "comments": 1,
+      "by": "hhs",
+      "hn_url": "https://news.ycombinator.com/item?id=49042751"
+    },
+    {
+      "title": "India's first privately-developed rocket reaches orbit on debut launch",
+      "url": "https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/",
+      "score": 493,
+      "comments": 144,
+      "by": "sohkamyung",
+      "hn_url": "https://news.ycombinator.com/item?id=48973835"
+    },
+    {
+      "title": "Designing an Ethernet Switch ASIC",
+      "url": "https://essenceia.github.io/projects/ethernet_switch_asic/",
+      "score": 107,
+      "comments": 32,
+      "by": "random__duck",
+      "hn_url": "https://news.ycombinator.com/item?id=48985182"
+    },
+    {
+      "title": "If coding has been solved, why does software keep getting worse?",
+      "url": "https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/",
+      "score": 528,
+      "comments": 412,
+      "by": "pchm",
+      "hn_url": "https://news.ycombinator.com/item?id=49033004"
+    },
+    {
+      "title": "An old patent inspired the new \"Y-zipper\", a three-sided fastener",
+      "url": "https://news.mit.edu/2026/three-sided-y-zipper-design-0504",
+      "score": 130,
+      "comments": 30,
+      "by": "crescit_eundo",
+      "hn_url": "https://news.ycombinator.com/item?id=49008512"
+    }
+  ]
+}
