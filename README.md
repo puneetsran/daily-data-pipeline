@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-25 01:53:24 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-26 01:57:35 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [andrewyng/openworker](https://github.com/andrewyng/openworker) | 3,443 | Python | No description |
-| [Vincentwei1021/video-shotcraft](https://github.com/Vincentwei1021/video-shotcraft) | 1,446 | TypeScript | AI video skill for Claude Code & Codex — cinematic product videos with Remotion:... |
-| [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | 933 | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two... |
-| [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | 861 | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ... |
-| [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | 803 | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| [andrewyng/openworker](https://github.com/andrewyng/openworker) | 5,039 | Python | No description |
+| [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | 1,007 | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two... |
+| [Blaizzy/nativ](https://github.com/Blaizzy/nativ) | 885 | Swift | Local AI, native to your Mac. Chat, serve, monitor, and connect MLX models from ... |
+| [powerycy/goutoujunshi](https://github.com/powerycy/goutoujunshi) | 876 | Python | 一个先接住情绪、再分析关系并给出可执行策略的 Codex 恋爱军师，内置心理、法律、社会、人文、哲学、婚姻家庭与性学知识库，支持多元关系。 |
+| [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | 817 | Python | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-07-25 01:53:24 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-26 01:57:35 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Claude Opus 5](https://www.anthropic.com/news/claude-opus-5) | 1311 | [708 comments](https://news.ycombinator.com/item?id=49038433) |
-| [Postgres LISTEN/NOTIFY actually scales](https://www.dbos.dev/blog/postgres-listen-notify-scalability) | 202 | [37 comments](https://news.ycombinator.com/item?id=49040296) |
-| [Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard](https://artificialanalysis.ai/models) | 140 | [84 comments](https://news.ycombinator.com/item?id=49040741) |
-| [My security camera shipped a GitHub admin token in its login page](https://hhh.hn/hanwha-github-token/) | 511 | [177 comments](https://news.ycombinator.com/item?id=49034292) |
-| [Show HN: I simulated closing the Strait of Hormuz on real oil trade data](https://globaloilnetwork.staffinganalytics.io/) | 94 | [42 comments](https://news.ycombinator.com/item?id=49020545) |
-| [Sperm Whales blow bubbles to achieve restful, vertical sleep](https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/) | 27 | [1 comments](https://news.ycombinator.com/item?id=49042751) |
-| [India's first privately-developed rocket reaches orbit on debut launch](https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/) | 493 | [144 comments](https://news.ycombinator.com/item?id=48973835) |
-| [Designing an Ethernet Switch ASIC](https://essenceia.github.io/projects/ethernet_switch_asic/) | 107 | [32 comments](https://news.ycombinator.com/item?id=48985182) |
-| [If coding has been solved, why does software keep getting worse?](https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/) | 528 | [412 comments](https://news.ycombinator.com/item?id=49033004) |
-| [An old patent inspired the new "Y-zipper", a three-sided fastener](https://news.mit.edu/2026/three-sided-y-zipper-design-0504) | 130 | [30 comments](https://news.ycombinator.com/item?id=49008512) |
+| [Systems and Delays](https://martin.janiczek.cz/2026/07/24/systems-and-delays.html) | 13 | [1 comments](https://news.ycombinator.com/item?id=49053382) |
+| [Stolen Buttons](https://anatolyzenkov.com/stolen-buttons) | 573 | [133 comments](https://news.ycombinator.com/item?id=48976262) |
+| [DeepSeek pause fundraise after comments on compute gap to US leaked (transcript)...](https://github.com/demo-zexuan/liang-wenfeng-investor-meeting-2026-7-22/blob/master/%E6%A2%81%E6%96%87%E9%94%8B%E6%8A%95%E8%B5%84%E8%80%85%E4%BA%A4%E6%B5%81%E4%BC%9A-%E6%96%87%E5%AD%97%E7%A8%BF_1_18_translate_20260723201651.pdf) | 74 | [41 comments](https://news.ycombinator.com/item?id=49052912) |
+| [The new rules of context engineering for Claude 5 generation models](https://claude.com/blog/the-new-rules-of-context-engineering-for-claude-5-generation-models) | 164 | [107 comments](https://news.ycombinator.com/item?id=49051361) |
+| [Clinical Failure Rates over the Decades: Yikes](https://www.science.org/content/blog-post/clinical-failure-rates-over-decades-yikes) | 42 | [24 comments](https://news.ycombinator.com/item?id=49052628) |
+| [GM Backs Sodium Ion Batteries for U.S. Grid Storage](https://spectrum.ieee.org/sodium-ion-battery-peak-energy) | 125 | [40 comments](https://news.ycombinator.com/item?id=49051947) |
+| [Cloudflare's new AI traffic options for customers](https://blog.cloudflare.com/content-independence-day-ai-options/) | 29 | [11 comments](https://news.ycombinator.com/item?id=49052564) |
+| [SIMD for Collision](https://box2d.org/posts/2026/07/simd-for-collision/) | 53 | [15 comments](https://news.ycombinator.com/item?id=49013464) |
+| [Turn And Face The Strange](https://fly.io/blog/kurt-scott-money-sprites/) | 141 | [110 comments](https://news.ycombinator.com/item?id=49051369) |
+| [LLM Usage in Debian: Three Proposals](https://www.debian.org/vote/2026/vote_002) | 69 | [63 comments](https://news.ycombinator.com/item?id=49050859) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 25.0°C (77.0°F) |
-| Average Humidity | 65% |
+| Average Temperature | 19.0°C (67.0°F) |
+| Average Humidity | 71% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-25 01:53:24 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-26 01:57:35 UTC*
