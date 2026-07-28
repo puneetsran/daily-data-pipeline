@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-28T01:47:02.179233",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "vercel-labs/scriptc",
+      "stars": 1766,
+      "language": "TypeScript",
+      "description": "TypeScript-to-Native Compiler",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "created_at": "2026-07-22T23:04:54Z"
+    },
+    {
+      "name": "slvDev/esp32-ai",
+      "stars": 1751,
+      "language": "Python",
+      "description": "No description",
+      "url": "https://github.com/slvDev/esp32-ai",
+      "created_at": "2026-07-23T14:53:51Z"
+    },
+    {
+      "name": "MoonshotAI/Kimi-K3",
+      "stars": 1432,
+      "language": "N/A",
+      "description": "Open Frontier Intelligence",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "created_at": "2026-07-27T08:01:37Z"
+    },
+    {
+      "name": "mshumer/Claude-of-Duty",
+      "stars": 1030,
+      "language": "JavaScript",
+      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
+      "url": "https://github.com/mshumer/Claude-of-Duty",
+      "created_at": "2026-07-25T19:32:36Z"
+    },
+    {
+      "name": "mikiarlo3/ai-copywriter",
+      "stars": 939,
+      "language": "Python",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "created_at": "2026-07-24T19:52:13Z"
+    },
+    {
+      "name": "makecindy/cindy",
+      "stars": 854,
+      "language": "TypeScript",
+      "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
+      "url": "https://github.com/makecindy/cindy",
+      "created_at": "2026-07-22T17:49:34Z"
+    },
+    {
+      "name": "kvcache-ai/AgentENV",
+      "stars": 681,
+      "language": "Rust",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "created_at": "2026-07-23T02:48:07Z"
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "stars": 651,
+      "language": "Python",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "created_at": "2026-07-25T16:58:43Z"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "stars": 494,
+      "language": "TypeScript",
+      "description": "runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "created_at": "2026-07-26T21:58:28Z"
+    },
+    {
+      "name": "mikehasa/agentacct",
+      "stars": 469,
+      "language": "Python",
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "created_at": "2026-07-24T16:28:06Z"
+    }
+  ]
+}

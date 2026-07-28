@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-27 02:05:25 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-28 01:47:06 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | 1,363 | Python | No description |
-| [Jakubantalik/thinking-orbs](https://github.com/Jakubantalik/thinking-orbs) | 1,101 | TypeScript | Dotted thought-orb loading indicators for AI & agent UIs — six tuned states, two... |
-| [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | 857 | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge wi... |
-| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 676 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
-| [gnipbao/story-to-handdrawn-video](https://github.com/gnipbao/story-to-handdrawn-video) | 654 | JavaScript | Agent skill: convert Chinese story copy or ordered images into a hand-drawn diar... |
+| [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 1,766 | TypeScript | TypeScript-to-Native Compiler |
+| [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | 1,751 | Python | No description |
+| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 1,432 | N/A | Open Frontier Intelligence |
+| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 1,030 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
+| [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | 939 | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge wi... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-27 02:05:25 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-28 01:47:06 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [PGSimCity - How PostgreSQL Works](https://nikolays.github.io/PGSimCity/) | 92 | [15 comments](https://news.ycombinator.com/item?id=49063754) |
-| [Decker, a platform that builds on the legacy of Hypercard and classic macOS](https://beyondloom.com/decker/) | 225 | [55 comments](https://news.ycombinator.com/item?id=49060856) |
-| [Show HN: Physically accurate black hole you can put in your room](https://blackhole.plav.in) | 26 | [4 comments](https://news.ycombinator.com/item?id=49021270) |
-| [We have proof automation now](https://www.imperialviolet.org/2026/07/26/zstd-lean.html) | 78 | [10 comments](https://news.ycombinator.com/item?id=49062291) |
-| [French firefighters face 'pyrocumulonimbus' for first time](https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time) | 186 | [96 comments](https://news.ycombinator.com/item?id=49060495) |
-| [I Championed Prediction Markets. Look What They've Become](https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look) | 20 | [36 comments](https://news.ycombinator.com/item?id=49063789) |
-| [Teaching Kids Forth](https://gracefulliberty.com/articles/teaching-kids-forth/) | 52 | [13 comments](https://news.ycombinator.com/item?id=49062700) |
-| [US citizen charged after GrapheneOS phone wipes during airport search](https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html) | 170 | [97 comments](https://news.ycombinator.com/item?id=49063022) |
-| [Introduction to Data-Oriented Design [pdf]](https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf) | 110 | [35 comments](https://news.ycombinator.com/item?id=49060724) |
-| [Design is compromise](https://stephango.com/design-is-compromise) | 196 | [74 comments](https://news.ycombinator.com/item?id=49059367) |
+| [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 447 | [612 comments](https://news.ycombinator.com/item?id=49076057) |
+| [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) | 113 | [28 comments](https://news.ycombinator.com/item?id=49076391) |
+| [DConf 2026 in London](https://dconf.org/2026/index.html) | 44 | [15 comments](https://news.ycombinator.com/item?id=49076840) |
+| [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/) | 40 | [17 comments](https://news.ycombinator.com/item?id=49076900) |
+| [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) | 171 | [17 comments](https://news.ycombinator.com/item?id=49045474) |
+| [C/C++ projects packaged for Zig](https://github.com/allyourcodebase) | 25 | [17 comments](https://news.ycombinator.com/item?id=49076791) |
+| [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) | 60 | [22 comments](https://news.ycombinator.com/item?id=49074817) |
+| [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283) | 13 | [5 comments](https://news.ycombinator.com/item?id=49077209) |
+| [Three Theses on the Literacy Crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis) | 12 | [6 comments](https://news.ycombinator.com/item?id=49050021) |
+| [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/) | 112 | [22 comments](https://news.ycombinator.com/item?id=49073942) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 17.0°C (62.0°F) |
-| Average Humidity | 93% |
+| Average Temperature | 24.0°C (75.0°F) |
+| Average Humidity | 71% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-27 02:05:25 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-28 01:47:06 UTC*

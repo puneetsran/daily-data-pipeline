@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-07-27 02:05 UTC",
+  "updated_at": "2026-07-28 01:47 UTC",
   "github_trending": [
     {
+      "name": "vercel-labs/scriptc",
+      "stars": 1766,
+      "language": "TypeScript",
+      "description": "TypeScript-to-Native Compiler",
+      "url": "https://github.com/vercel-labs/scriptc",
+      "created_at": "2026-07-22T23:04:54Z"
+    },
+    {
       "name": "slvDev/esp32-ai",
-      "stars": 1363,
+      "stars": 1751,
       "language": "Python",
       "description": "No description",
       "url": "https://github.com/slvDev/esp32-ai",
       "created_at": "2026-07-23T14:53:51Z"
     },
     {
-      "name": "Jakubantalik/thinking-orbs",
-      "stars": 1101,
-      "language": "TypeScript",
-      "description": "Dotted thought-orb loading indicators for AI & agent UIs \u2014 six tuned states, two sizes, auto dark/li",
-      "url": "https://github.com/Jakubantalik/thinking-orbs",
-      "created_at": "2026-07-21T07:01:53Z"
-    },
-    {
-      "name": "mikiarlo3/ai-copywriter",
-      "stars": 857,
-      "language": "Python",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "created_at": "2026-07-24T19:52:13Z"
+      "name": "MoonshotAI/Kimi-K3",
+      "stars": 1432,
+      "language": "N/A",
+      "description": "Open Frontier Intelligence",
+      "url": "https://github.com/MoonshotAI/Kimi-K3",
+      "created_at": "2026-07-27T08:01:37Z"
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 676,
+      "stars": 1030,
       "language": "JavaScript",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "created_at": "2026-07-25T19:32:36Z"
     },
     {
-      "name": "gnipbao/story-to-handdrawn-video",
-      "stars": 654,
-      "language": "JavaScript",
-      "description": "Agent skill: convert Chinese story copy or ordered images into a hand-drawn diary-comic animation (s",
-      "url": "https://github.com/gnipbao/story-to-handdrawn-video",
-      "created_at": "2026-07-21T08:54:45Z"
-    },
-    {
-      "name": "0xhype/hyperliquid-tracker",
-      "stars": 511,
-      "language": "TypeScript",
-      "description": "Get notified when big trades happen on Hyperliquid.",
-      "url": "https://github.com/0xhype/hyperliquid-tracker",
-      "created_at": "2026-07-21T14:24:08Z"
+      "name": "mikiarlo3/ai-copywriter",
+      "stars": 939,
+      "language": "Python",
+      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
+      "url": "https://github.com/mikiarlo3/ai-copywriter",
+      "created_at": "2026-07-24T19:52:13Z"
     },
     {
       "name": "makecindy/cindy",
-      "stars": 484,
+      "stars": 854,
       "language": "TypeScript",
       "description": "Consider it done. The open-source AI agent that works out of the box \u00b7 \u60f3\u5230\uff0c\u5c31\u80fd\u505a\u5230\u3002\u5f00\u6e90\u3001\u5f00\u7bb1\u5373\u7528\u7684 AI Agent\u3002",
       "url": "https://github.com/makecindy/cindy",
       "created_at": "2026-07-22T17:49:34Z"
     },
     {
-      "name": "hahhforest/pi-textbook",
-      "stars": 462,
+      "name": "kvcache-ai/AgentENV",
+      "stars": 681,
+      "language": "Rust",
+      "description": "AgentENV (AENV) is a distributed platform for running agent environments at scale.",
+      "url": "https://github.com/kvcache-ai/AgentENV",
+      "created_at": "2026-07-23T02:48:07Z"
+    },
+    {
+      "name": "VictorTaelin/OptMem",
+      "stars": 651,
+      "language": "Python",
+      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
+      "url": "https://github.com/VictorTaelin/OptMem",
+      "created_at": "2026-07-25T16:58:43Z"
+    },
+    {
+      "name": "0xwilliamortiz/openclaude-improved",
+      "stars": 494,
       "language": "TypeScript",
-      "description": "\u300a\u52a8\u624b\u5b66 Pi\u300b\uff1a\u6cbf 15 \u4e2a\u771f\u5b9e checkpoint \u4ece\u96f6\u6784\u5efa Pi-style Agent",
-      "url": "https://github.com/hahhforest/pi-textbook",
-      "created_at": "2026-07-21T04:17:35Z"
+      "description": "runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "created_at": "2026-07-26T21:58:28Z"
     },
     {
-      "name": "berabuddies/redis-poc",
-      "stars": 439,
+      "name": "mikehasa/agentacct",
+      "stars": 469,
       "language": "Python",
-      "description": "RCE PoC for Redis 6.2.22, 7.4.9, 8.6.4, 8.8.0, 8.8.1",
-      "url": "https://github.com/berabuddies/redis-poc",
-      "created_at": "2026-07-22T22:26:08Z"
-    },
-    {
-      "name": "AdelanSupport/adelan-support",
-      "stars": 409,
-      "language": "Python",
-      "description": "No description",
-      "url": "https://github.com/AdelanSupport/adelan-support",
-      "created_at": "2026-07-21T07:28:23Z"
+      "description": "Local-first Agent Work Intelligence for coding agents: usage truth, recorded work, and honest joins.",
+      "url": "https://github.com/mikehasa/agentacct",
+      "created_at": "2026-07-24T16:28:06Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "PGSimCity - How PostgreSQL Works",
-      "url": "https://nikolays.github.io/PGSimCity/",
-      "score": 92,
+      "title": "Our position on open-weights models",
+      "url": "https://www.anthropic.com/news/position-open-weights-models",
+      "score": 447,
+      "comments": 612,
+      "by": "surprisetalk",
+      "hn_url": "https://news.ycombinator.com/item?id=49076057"
+    },
+    {
+      "title": "Benchmarking Opus 5 on SlopCodeBench",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md",
+      "score": 113,
+      "comments": 28,
+      "by": "dhorthy",
+      "hn_url": "https://news.ycombinator.com/item?id=49076391"
+    },
+    {
+      "title": "DConf 2026 in London",
+      "url": "https://dconf.org/2026/index.html",
+      "score": 44,
       "comments": 15,
-      "by": "jonbaer",
-      "hn_url": "https://news.ycombinator.com/item?id=49063754"
+      "by": "teleforce",
+      "hn_url": "https://news.ycombinator.com/item?id=49076840"
     },
     {
-      "title": "Decker, a platform that builds on the legacy of Hypercard and classic macOS",
-      "url": "https://beyondloom.com/decker/",
-      "score": 225,
-      "comments": 55,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=49060856"
-    },
-    {
-      "title": "Show HN: Physically accurate black hole you can put in your room",
-      "url": "https://blackhole.plav.in",
-      "score": 26,
-      "comments": 4,
-      "by": "aplavin",
-      "hn_url": "https://news.ycombinator.com/item?id=49021270"
-    },
-    {
-      "title": "We have proof automation now",
-      "url": "https://www.imperialviolet.org/2026/07/26/zstd-lean.html",
-      "score": 78,
-      "comments": 10,
+      "title": "Astronauts describe persistent 'observer' sensation after 6 month missions",
+      "url": "https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/",
+      "score": 40,
+      "comments": 17,
       "by": "zdw",
-      "hn_url": "https://news.ycombinator.com/item?id=49062291"
+      "hn_url": "https://news.ycombinator.com/item?id=49076900"
     },
     {
-      "title": "French firefighters face 'pyrocumulonimbus' for first time",
-      "url": "https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time",
-      "score": 186,
-      "comments": 96,
-      "by": "saaaaaam",
-      "hn_url": "https://news.ycombinator.com/item?id=49060495"
+      "title": "Watching Go's new garbage collector move through the heap",
+      "url": "https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html",
+      "score": 171,
+      "comments": 17,
+      "by": "matheusmoreira",
+      "hn_url": "https://news.ycombinator.com/item?id=49045474"
     },
     {
-      "title": "I Championed Prediction Markets. Look What They've Become",
-      "url": "https://newsletter.platypuseconomics.com/p/i-championed-prediction-markets-look",
-      "score": 20,
-      "comments": 36,
-      "by": "NomNew",
-      "hn_url": "https://news.ycombinator.com/item?id=49063789"
+      "title": "C/C++ projects packaged for Zig",
+      "url": "https://github.com/allyourcodebase",
+      "score": 25,
+      "comments": 17,
+      "by": "jcbhmr",
+      "hn_url": "https://news.ycombinator.com/item?id=49076791"
     },
     {
-      "title": "Teaching Kids Forth",
-      "url": "https://gracefulliberty.com/articles/teaching-kids-forth/",
-      "score": 52,
-      "comments": 13,
-      "by": "rbanffy",
-      "hn_url": "https://news.ycombinator.com/item?id=49062700"
+      "title": "Launch HN: Rise Reforming (YC S26) \u2013 Turning Waste Gases into Valuable Chemicals",
+      "url": "https://www.rise-reforming.com",
+      "score": 60,
+      "comments": 22,
+      "by": "george_rose25",
+      "hn_url": "https://news.ycombinator.com/item?id=49074817"
     },
     {
-      "title": "US citizen charged after GrapheneOS phone wipes during airport search",
-      "url": "https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html",
-      "score": 170,
-      "comments": 97,
-      "by": "eecc",
-      "hn_url": "https://news.ycombinator.com/item?id=49063022"
+      "title": "The Burau representation of the braid group is faithful for n = 4",
+      "url": "https://arxiv.org/abs/2607.05283",
+      "score": 13,
+      "comments": 5,
+      "by": "wglb",
+      "hn_url": "https://news.ycombinator.com/item?id=49077209"
     },
     {
-      "title": "Introduction to Data-Oriented Design [pdf]",
-      "url": "https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf",
-      "score": 110,
-      "comments": 35,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=49060724"
+      "title": "Three Theses on the Literacy Crisis",
+      "url": "https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis",
+      "score": 12,
+      "comments": 6,
+      "by": "samclemens",
+      "hn_url": "https://news.ycombinator.com/item?id=49050021"
     },
     {
-      "title": "Design is compromise",
-      "url": "https://stephango.com/design-is-compromise",
-      "score": 196,
-      "comments": 74,
-      "by": "ankitg12",
-      "hn_url": "https://news.ycombinator.com/item?id=49059367"
+      "title": "Self-contained highly-portable Python distributions",
+      "url": "https://gregoryszorc.com/docs/python-build-standalone/main/",
+      "score": 112,
+      "comments": 22,
+      "by": "jcbhmr",
+      "hn_url": "https://news.ycombinator.com/item?id=49073942"
     }
   ]
 }
