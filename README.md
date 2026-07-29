@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-28 01:47:06 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-29 01:49:18 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [vercel-labs/scriptc](https://github.com/vercel-labs/scriptc) | 1,766 | TypeScript | TypeScript-to-Native Compiler |
-| [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | 1,751 | Python | No description |
-| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 1,432 | N/A | Open Frontier Intelligence |
-| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 1,030 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
-| [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | 939 | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge wi... |
+| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 3,444 | N/A | Open Frontier Intelligence |
+| [slvDev/esp32-ai](https://github.com/slvDev/esp32-ai) | 2,065 | Python | No description |
+| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 1,755 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
+| [kvcache-ai/AgentENV](https://github.com/kvcache-ai/AgentENV) | 1,442 | Rust | AgentENV (AENV) is a distributed platform for running agent environments at scal... |
+| [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | 991 | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge wi... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-28 01:47:06 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-29 01:49:18 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Our position on open-weights models](https://www.anthropic.com/news/position-open-weights-models) | 447 | [612 comments](https://news.ycombinator.com/item?id=49076057) |
-| [Benchmarking Opus 5 on SlopCodeBench](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-opus-5-on-slop-code-bench.md) | 113 | [28 comments](https://news.ycombinator.com/item?id=49076391) |
-| [DConf 2026 in London](https://dconf.org/2026/index.html) | 44 | [15 comments](https://news.ycombinator.com/item?id=49076840) |
-| [Astronauts describe persistent 'observer' sensation after 6 month missions](https://spacedaily.com/sd-v-astronauts-returning-from-six-month-missions-describe-a-persistent-observer-sensation-the-feeling-of-watching-their-own-lives-from-a-half-step-outside-the-frame-weeks-after-theyr/) | 40 | [17 comments](https://news.ycombinator.com/item?id=49076900) |
-| [Watching Go's new garbage collector move through the heap](https://theconsensus.dev/p/2026/07/19/observing-gos-garbage-collector-old-and-new.html) | 171 | [17 comments](https://news.ycombinator.com/item?id=49045474) |
-| [C/C++ projects packaged for Zig](https://github.com/allyourcodebase) | 25 | [17 comments](https://news.ycombinator.com/item?id=49076791) |
-| [Launch HN: Rise Reforming (YC S26) – Turning Waste Gases into Valuable Chemicals](https://www.rise-reforming.com) | 60 | [22 comments](https://news.ycombinator.com/item?id=49074817) |
-| [The Burau representation of the braid group is faithful for n = 4](https://arxiv.org/abs/2607.05283) | 13 | [5 comments](https://news.ycombinator.com/item?id=49077209) |
-| [Three Theses on the Literacy Crisis](https://trevoraleo.substack.com/p/three-theses-on-the-literacy-crisis) | 12 | [6 comments](https://news.ycombinator.com/item?id=49050021) |
-| [Self-contained highly-portable Python distributions](https://gregoryszorc.com/docs/python-build-standalone/main/) | 112 | [22 comments](https://news.ycombinator.com/item?id=49073942) |
+| [Codex Security](https://github.com/openai/codex-security) | 340 | [101 comments](https://news.ycombinator.com/item?id=49089755) |
+| [Half-Life ported to Mac OS 9](https://mac-classic.com/news/half-life-ported-to-mac-os-9/) | 144 | [61 comments](https://news.ycombinator.com/item?id=49089814) |
+| [Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript](https://github.com/twalichiewicz/HNewhere) | 120 | [40 comments](https://news.ycombinator.com/item?id=49090607) |
+| [Substack writers, you need a website](https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/) | 415 | [213 comments](https://news.ycombinator.com/item?id=49086788) |
+| [The Difference Between a Button and a Link](https://unplannedobsolescence.com/blog/buttons-vs-links/) | 28 | [11 comments](https://news.ycombinator.com/item?id=49091738) |
+| [Teach yourself programming in ten years (1998)](https://www.norvig.com/21-days.html) | 38 | [4 comments](https://news.ycombinator.com/item?id=49055816) |
+| [Hubble: Open-source notetaking app for you and your agents](https://www.hubble.md/) | 26 | [6 comments](https://news.ycombinator.com/item?id=49091730) |
+| [Steel Bank Common Lisp version 2.6.7](https://sbcl.org/all-news.html?2.6.7) | 196 | [82 comments](https://news.ycombinator.com/item?id=49086971) |
+| [Lightweight Spring Boot Monitoring Without Prometheus and Grafana](https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html) | 10 | [0 comments](https://news.ycombinator.com/item?id=49091895) |
+| [Kimi K3 Architecture Overview and Notes](https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html) | 312 | [41 comments](https://news.ycombinator.com/item?id=49085698) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 24.0°C (75.0°F) |
-| Average Humidity | 71% |
+| Average Temperature | 23.0°C (73.0°F) |
+| Average Humidity | 55% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-28 01:47:06 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-29 01:49:18 UTC*

@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-29 01:49 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-29T01:49:15.926855",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "MoonshotAI/Kimi-K3",
       "stars": 3444,
@@ -80,88 +81,6 @@
       "description": "Ultraminimalist macOS recording + transcription.",
       "url": "https://github.com/digimata/quill",
       "created_at": "2026-07-24T23:31:27Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Codex Security",
-      "url": "https://github.com/openai/codex-security",
-      "score": 340,
-      "comments": 101,
-      "by": "bakigul",
-      "hn_url": "https://news.ycombinator.com/item?id=49089755"
-    },
-    {
-      "title": "Half-Life ported to Mac OS 9",
-      "url": "https://mac-classic.com/news/half-life-ported-to-mac-os-9/",
-      "score": 144,
-      "comments": 61,
-      "by": "freediver",
-      "hn_url": "https://news.ycombinator.com/item?id=49089814"
-    },
-    {
-      "title": "Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",
-      "url": "https://github.com/twalichiewicz/HNewhere",
-      "score": 120,
-      "comments": 40,
-      "by": "twalichiewicz",
-      "hn_url": "https://news.ycombinator.com/item?id=49090607"
-    },
-    {
-      "title": "Substack writers, you need a website",
-      "url": "https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/",
-      "score": 415,
-      "comments": 213,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=49086788"
-    },
-    {
-      "title": "The Difference Between a Button and a Link",
-      "url": "https://unplannedobsolescence.com/blog/buttons-vs-links/",
-      "score": 28,
-      "comments": 11,
-      "by": "alexpetros",
-      "hn_url": "https://news.ycombinator.com/item?id=49091738"
-    },
-    {
-      "title": "Teach yourself programming in ten years (1998)",
-      "url": "https://www.norvig.com/21-days.html",
-      "score": 38,
-      "comments": 4,
-      "by": "vinhnx",
-      "hn_url": "https://news.ycombinator.com/item?id=49055816"
-    },
-    {
-      "title": "Hubble: Open-source notetaking app for you and your agents",
-      "url": "https://www.hubble.md/",
-      "score": 26,
-      "comments": 6,
-      "by": "handfuloflight",
-      "hn_url": "https://news.ycombinator.com/item?id=49091730"
-    },
-    {
-      "title": "Steel Bank Common Lisp version 2.6.7",
-      "url": "https://sbcl.org/all-news.html?2.6.7",
-      "score": 196,
-      "comments": 82,
-      "by": "tmtvl",
-      "hn_url": "https://news.ycombinator.com/item?id=49086971"
-    },
-    {
-      "title": "Lightweight Spring Boot Monitoring Without Prometheus and Grafana",
-      "url": "https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html",
-      "score": 10,
-      "comments": 0,
-      "by": "ejboy",
-      "hn_url": "https://news.ycombinator.com/item?id=49091895"
-    },
-    {
-      "title": "Kimi K3 Architecture Overview and Notes",
-      "url": "https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html",
-      "score": 312,
-      "comments": 41,
-      "by": "ModelForge",
-      "hn_url": "https://news.ycombinator.com/item?id=49085698"
     }
   ]
 }
