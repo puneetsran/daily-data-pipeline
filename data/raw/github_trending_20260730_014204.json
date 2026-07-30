@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-07-30 01:42 UTC",
-  "github_trending": [
+  "collected_at": "2026-07-30T01:42:04.063458",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "MoonshotAI/Kimi-K3",
       "stars": 5846,
@@ -80,88 +81,6 @@
       "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used",
       "url": "https://github.com/mikehasa/agentacct",
       "created_at": "2026-07-24T16:28:06Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 198,
-      "comments": 112,
-      "by": "YeGoblynQueenne",
-      "hn_url": "https://news.ycombinator.com/item?id=49103285"
-    },
-    {
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 385,
-      "comments": 183,
-      "by": "robbiet480",
-      "hn_url": "https://news.ycombinator.com/item?id=49102774"
-    },
-    {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 651,
-      "comments": 226,
-      "by": "gitpusher42",
-      "hn_url": "https://news.ycombinator.com/item?id=49098510"
-    },
-    {
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 524,
-      "comments": 322,
-      "by": "yan",
-      "hn_url": "https://news.ycombinator.com/item?id=49098965"
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 48,
-      "comments": 17,
-      "by": "8thom",
-      "hn_url": "https://news.ycombinator.com/item?id=49104117"
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 292,
-      "comments": 109,
-      "by": "JLO64",
-      "hn_url": "https://news.ycombinator.com/item?id=49099715"
-    },
-    {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
-      "score": 87,
-      "comments": 38,
-      "by": "holman",
-      "hn_url": "https://news.ycombinator.com/item?id=49103089"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 292,
-      "comments": 171,
-      "by": "artninja1988",
-      "hn_url": "https://news.ycombinator.com/item?id=49089500"
-    },
-    {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 39,
-      "comments": 11,
-      "by": "msephton",
-      "hn_url": "https://news.ycombinator.com/item?id=49104335"
-    },
-    {
-      "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
-      "url": "https://waveformsecurity.com/blog/flume/",
-      "score": 4,
-      "comments": 0,
-      "by": "credibleconure",
-      "hn_url": "https://news.ycombinator.com/item?id=49105136"
     }
   ]
 }
