@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-07-30 01:42 UTC",
+  "updated_at": "2026-07-31 01:59 UTC",
   "github_trending": [
     {
       "name": "MoonshotAI/Kimi-K3",
-      "stars": 5846,
+      "stars": 7542,
       "language": "N/A",
       "description": "Open Frontier Intelligence",
       "url": "https://github.com/MoonshotAI/Kimi-K3",
@@ -11,157 +11,157 @@
     },
     {
       "name": "mshumer/Claude-of-Duty",
-      "stars": 2251,
+      "stars": 2406,
       "language": "JavaScript",
       "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
       "url": "https://github.com/mshumer/Claude-of-Duty",
       "created_at": "2026-07-25T19:32:36Z"
     },
     {
-      "name": "digimata/quill",
-      "stars": 1528,
-      "language": "Swift",
-      "description": "Ultra-minimalist macOS recording + transcription.",
-      "url": "https://github.com/digimata/quill",
-      "created_at": "2026-07-24T23:31:27Z"
-    },
-    {
-      "name": "mikiarlo3/ai-copywriter",
-      "stars": 1046,
-      "language": "Python",
-      "description": "An AI copywriter that uses real copywriting skills + real marketing knowledge with human tone.",
-      "url": "https://github.com/mikiarlo3/ai-copywriter",
-      "created_at": "2026-07-24T19:52:13Z"
-    },
-    {
-      "name": "fuadmefleh/Shared-Claude-Chats",
-      "stars": 933,
-      "language": "Python",
-      "description": "An archive of public Claude and Grok conversations, exported from their share links as plain markdow",
-      "url": "https://github.com/fuadmefleh/Shared-Claude-Chats",
-      "created_at": "2026-07-26T01:14:17Z"
-    },
-    {
       "name": "VictorTaelin/OptMem",
-      "stars": 874,
+      "stars": 934,
       "language": "Python",
       "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
       "url": "https://github.com/VictorTaelin/OptMem",
       "created_at": "2026-07-25T16:58:43Z"
     },
     {
-      "name": "MoonshotAI/MoonEP",
-      "stars": 861,
-      "language": "Python",
-      "description": "MoonEP: A Perfectly Balanced Expert Parallelism Library via Dynamic Redundant Experts",
-      "url": "https://github.com/MoonshotAI/MoonEP",
-      "created_at": "2026-07-24T09:07:21Z"
-    },
-    {
-      "name": "0xwilliamortiz/openclaude-improved",
-      "stars": 554,
-      "language": "TypeScript",
-      "description": "runs anywhere. uses anything",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-      "created_at": "2026-07-26T21:58:28Z"
+      "name": "xikhar/persona",
+      "stars": 676,
+      "language": "JavaScript",
+      "description": "Bringing real-time voice to life.",
+      "url": "https://github.com/xikhar/persona",
+      "created_at": "2026-07-28T11:40:19Z"
     },
     {
       "name": "0xwilliamortiz/ponytail-improved",
-      "stars": 545,
+      "stars": 564,
       "language": "JavaScript",
       "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev",
       "url": "https://github.com/0xwilliamortiz/ponytail-improved",
       "created_at": "2026-07-28T14:16:19Z"
     },
     {
-      "name": "mikehasa/agentacct",
-      "stars": 528,
+      "name": "0xwilliamortiz/openclaude-improved",
+      "stars": 562,
+      "language": "TypeScript",
+      "description": "runs anywhere. uses anything",
+      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
+      "created_at": "2026-07-26T21:58:28Z"
+    },
+    {
+      "name": "talivia-group/talivia",
+      "stars": 489,
+      "language": "TypeScript",
+      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenu",
+      "url": "https://github.com/talivia-group/talivia",
+      "created_at": "2026-07-29T07:56:49Z"
+    },
+    {
+      "name": "gavamedia/deltafin",
+      "stars": 482,
       "language": "Python",
-      "description": "See what your coding agents did and what it cost. Breaks each task down into work steps \u2014 tools used",
-      "url": "https://github.com/mikehasa/agentacct",
-      "created_at": "2026-07-24T16:28:06Z"
+      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding a",
+      "url": "https://github.com/gavamedia/deltafin",
+      "created_at": "2026-07-28T01:01:23Z"
+    },
+    {
+      "name": "NikolayS/PGSimCity",
+      "stars": 440,
+      "language": "TypeScript",
+      "description": "An explorable 3D city that shows how Postgres actually works",
+      "url": "https://github.com/NikolayS/PGSimCity",
+      "created_at": "2026-07-25T22:15:09Z"
+    },
+    {
+      "name": "wassgha/rescript",
+      "stars": 405,
+      "language": "TypeScript",
+      "description": "\ud83c\udfac Open source, transcript-based video/audio editor that lives in the browser.",
+      "url": "https://github.com/wassgha/rescript",
+      "created_at": "2026-07-26T22:43:11Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "AI's top startups are barely publishing their research",
-      "url": "https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research",
-      "score": 198,
-      "comments": 112,
-      "by": "YeGoblynQueenne",
-      "hn_url": "https://news.ycombinator.com/item?id=49103285"
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 111,
+      "comments": 58,
+      "by": "montroser",
+      "hn_url": "https://news.ycombinator.com/item?id=49117099"
     },
     {
-      "title": "The coolest use for the Vision Pro",
-      "url": "https://christianselig.com/2026/07/vision-pro-house/",
-      "score": 385,
-      "comments": 183,
-      "by": "robbiet480",
-      "hn_url": "https://news.ycombinator.com/item?id=49102774"
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 572,
+      "comments": 337,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=49112744"
     },
     {
-      "title": "Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac",
-      "url": "https://github.com/drumih/turbo-fieldfare",
-      "score": 651,
-      "comments": 226,
-      "by": "gitpusher42",
-      "hn_url": "https://news.ycombinator.com/item?id=49098510"
-    },
-    {
-      "title": "Superlogical",
-      "url": "https://www.superlogical.com/",
-      "score": 524,
-      "comments": 322,
-      "by": "yan",
-      "hn_url": "https://news.ycombinator.com/item?id=49098965"
-    },
-    {
-      "title": "LLM Honeypot",
-      "url": "https://llm2human.pages.dev/",
-      "score": 48,
-      "comments": 17,
-      "by": "8thom",
-      "hn_url": "https://news.ycombinator.com/item?id=49104117"
-    },
-    {
-      "title": "Keychron announces first open-source firmware for gaming mice",
-      "url": "https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice",
-      "score": 292,
-      "comments": 109,
-      "by": "JLO64",
-      "hn_url": "https://news.ycombinator.com/item?id=49099715"
-    },
-    {
-      "title": "The Cold Email",
-      "url": "https://zachholman.com/posts/cold-email",
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
       "score": 87,
+      "comments": 34,
+      "by": "volumes94",
+      "hn_url": "https://news.ycombinator.com/item?id=49116721"
+    },
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "score": 203,
+      "comments": 73,
+      "by": "navs",
+      "hn_url": "https://news.ycombinator.com/item?id=49114639"
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 469,
+      "comments": 164,
+      "by": "tomzorz",
+      "hn_url": "https://news.ycombinator.com/item?id=49112232"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 478,
+      "comments": 394,
+      "by": "ai2027",
+      "hn_url": "https://news.ycombinator.com/item?id=49111237"
+    },
+    {
+      "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+      "url": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+      "score": 58,
+      "comments": 33,
+      "by": "ghuroo1",
+      "hn_url": "https://news.ycombinator.com/item?id=49068760"
+    },
+    {
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "score": 15,
+      "comments": 3,
+      "by": "NaOH",
+      "hn_url": "https://news.ycombinator.com/item?id=49073017"
+    },
+    {
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "url": "https://rune.build/blog/rune-1-1-release",
+      "score": 48,
+      "comments": 13,
+      "by": "ernestrc",
+      "hn_url": "https://news.ycombinator.com/item?id=49116272"
+    },
+    {
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "score": 132,
       "comments": 38,
-      "by": "holman",
-      "hn_url": "https://news.ycombinator.com/item?id=49103089"
-    },
-    {
-      "title": "Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident",
-      "url": "https://huggingface.co/blog/agent-intrusion-technical-timeline",
-      "score": 292,
-      "comments": 171,
-      "by": "artninja1988",
-      "hn_url": "https://news.ycombinator.com/item?id=49089500"
-    },
-    {
-      "title": "The Productivity Mirage",
-      "url": "https://frantic.im/mirage/",
-      "score": 39,
-      "comments": 11,
-      "by": "msephton",
-      "hn_url": "https://news.ycombinator.com/item?id=49104335"
-    },
-    {
-      "title": "Flume Water Monitor 915 MHz Security Is Pretty Good",
-      "url": "https://waveformsecurity.com/blog/flume/",
-      "score": 4,
-      "comments": 0,
-      "by": "credibleconure",
-      "hn_url": "https://news.ycombinator.com/item?id=49105136"
+      "by": "robin_reala",
+      "hn_url": "https://news.ycombinator.com/item?id=49113338"
     }
   ]
 }

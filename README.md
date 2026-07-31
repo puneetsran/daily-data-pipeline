@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-07-30 01:42:08 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-07-31 01:59:28 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 5,846 | N/A | Open Frontier Intelligence |
-| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 2,251 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
-| [digimata/quill](https://github.com/digimata/quill) | 1,528 | Swift | Ultra-minimalist macOS recording + transcription. |
-| [mikiarlo3/ai-copywriter](https://github.com/mikiarlo3/ai-copywriter) | 1,046 | Python | An AI copywriter that uses real copywriting skills + real marketing knowledge wi... |
-| [fuadmefleh/Shared-Claude-Chats](https://github.com/fuadmefleh/Shared-Claude-Chats) | 933 | Python | An archive of public Claude and Grok conversations, exported from their share li... |
+| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 7,542 | N/A | Open Frontier Intelligence |
+| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 2,406 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
+| [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) | 934 | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play. |
+| [xikhar/persona](https://github.com/xikhar/persona) | 676 | JavaScript | Bringing real-time voice to life. |
+| [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | 564 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code... |
 
-### Hacker News Top Stories (Last Updated: 2026-07-30 01:42:08 UTC)
+### Hacker News Top Stories (Last Updated: 2026-07-31 01:59:28 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [AI's top startups are barely publishing their research](https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research) | 198 | [112 comments](https://news.ycombinator.com/item?id=49103285) |
-| [The coolest use for the Vision Pro](https://christianselig.com/2026/07/vision-pro-house/) | 385 | [183 comments](https://news.ycombinator.com/item?id=49102774) |
-| [Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac](https://github.com/drumih/turbo-fieldfare) | 651 | [226 comments](https://news.ycombinator.com/item?id=49098510) |
-| [Superlogical](https://www.superlogical.com/) | 524 | [322 comments](https://news.ycombinator.com/item?id=49098965) |
-| [LLM Honeypot](https://llm2human.pages.dev/) | 48 | [17 comments](https://news.ycombinator.com/item?id=49104117) |
-| [Keychron announces first open-source firmware for gaming mice](https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice) | 292 | [109 comments](https://news.ycombinator.com/item?id=49099715) |
-| [The Cold Email](https://zachholman.com/posts/cold-email) | 87 | [38 comments](https://news.ycombinator.com/item?id=49103089) |
-| [Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident](https://huggingface.co/blog/agent-intrusion-technical-timeline) | 292 | [171 comments](https://news.ycombinator.com/item?id=49089500) |
-| [The Productivity Mirage](https://frantic.im/mirage/) | 39 | [11 comments](https://news.ycombinator.com/item?id=49104335) |
-| [Flume Water Monitor 915 MHz Security Is Pretty Good](https://waveformsecurity.com/blog/flume/) | 4 | [0 comments](https://news.ycombinator.com/item?id=49105136) |
+| [The AI Aesthetic](https://blog.jim-nielsen.com/2026/ai-aesthetic/) | 111 | [58 comments](https://news.ycombinator.com/item?id=49117099) |
+| [Read this before you buy that TV streaming stick](https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/) | 572 | [337 comments](https://news.ycombinator.com/item?id=49112744) |
+| [I flagged two research papers for fake authors and both were accepted as orals](https://geospatialml.com/posts/reviewing-ai-slop/) | 87 | [34 comments](https://news.ycombinator.com/item?id=49116721) |
+| [Agent Skill to Force Docs in ASD-STE100 Simplified Technical English](https://github.com/AminBlg/SimpleEnglish) | 203 | [73 comments](https://news.ycombinator.com/item?id=49114639) |
+| [Stacked PRs are now live on GitHub](https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/) | 469 | [164 comments](https://news.ycombinator.com/item?id=49112232) |
+| [Gemini Robotics 2 brings whole body intelligence to robots](https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/) | 478 | [394 comments](https://news.ycombinator.com/item?id=49111237) |
+| [Destroying a Community with a Gigantic "Clogged Vacuum Cleaner"](https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122) | 58 | [33 comments](https://news.ycombinator.com/item?id=49068760) |
+| [The American Grilled Cheese Sandwich Essay (2024)](https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/) | 15 | [3 comments](https://news.ycombinator.com/item?id=49073017) |
+| [Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free](https://rune.build/blog/rune-1-1-release) | 48 | [13 comments](https://news.ycombinator.com/item?id=49116272) |
+| [CodePen 2.0](https://chriscoyier.net/2026/07/30/codepen-2-0/) | 132 | [38 comments](https://news.ycombinator.com/item?id=49113338) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 24.0°C (74.0°F) |
-| Average Humidity | 51% |
+| Average Temperature | 26.0°C (78.0°F) |
+| Average Humidity | 41% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-07-30 01:42:08 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-07-31 01:59:28 UTC*

@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-07-31T01:59:26.740993",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "The AI Aesthetic",
+      "url": "https://blog.jim-nielsen.com/2026/ai-aesthetic/",
+      "score": 111,
+      "comments": 58,
+      "by": "montroser",
+      "hn_url": "https://news.ycombinator.com/item?id=49117099"
+    },
+    {
+      "title": "Read this before you buy that TV streaming stick",
+      "url": "https://krebsonsecurity.com/2026/07/read-this-before-you-buy-that-tv-streaming-stick/",
+      "score": 572,
+      "comments": 337,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=49112744"
+    },
+    {
+      "title": "I flagged two research papers for fake authors and both were accepted as orals",
+      "url": "https://geospatialml.com/posts/reviewing-ai-slop/",
+      "score": 87,
+      "comments": 34,
+      "by": "volumes94",
+      "hn_url": "https://news.ycombinator.com/item?id=49116721"
+    },
+    {
+      "title": "Agent Skill to Force Docs in ASD-STE100 Simplified Technical English",
+      "url": "https://github.com/AminBlg/SimpleEnglish",
+      "score": 203,
+      "comments": 73,
+      "by": "navs",
+      "hn_url": "https://news.ycombinator.com/item?id=49114639"
+    },
+    {
+      "title": "Stacked PRs are now live on GitHub",
+      "url": "https://github.blog/changelog/2026-07-30-stacked-pull-requests-are-now-in-public-preview/",
+      "score": 469,
+      "comments": 164,
+      "by": "tomzorz",
+      "hn_url": "https://news.ycombinator.com/item?id=49112232"
+    },
+    {
+      "title": "Gemini Robotics 2 brings whole body intelligence to robots",
+      "url": "https://deepmind.google/blog/gemini-robotics-2-brings-whole-body-intelligence-to-robots/",
+      "score": 478,
+      "comments": 394,
+      "by": "ai2027",
+      "hn_url": "https://news.ycombinator.com/item?id=49111237"
+    },
+    {
+      "title": "Destroying a Community with a Gigantic \"Clogged Vacuum Cleaner\"",
+      "url": "https://gizmodo.com/this-viral-data-center-sounds-like-satans-buzzsaw-2000791122",
+      "score": 58,
+      "comments": 33,
+      "by": "ghuroo1",
+      "hn_url": "https://news.ycombinator.com/item?id=49068760"
+    },
+    {
+      "title": "The American Grilled Cheese Sandwich Essay (2024)",
+      "url": "https://buttondown.com/theswordandthesandwich/archive/the-best-american-grilled-cheese-sandwich-essay/",
+      "score": 15,
+      "comments": 3,
+      "by": "NaOH",
+      "hn_url": "https://news.ycombinator.com/item?id=49073017"
+    },
+    {
+      "title": "Rune 1.1: adds Python, an Emacs editor, a symbol index and is now free",
+      "url": "https://rune.build/blog/rune-1-1-release",
+      "score": 48,
+      "comments": 13,
+      "by": "ernestrc",
+      "hn_url": "https://news.ycombinator.com/item?id=49116272"
+    },
+    {
+      "title": "CodePen 2.0",
+      "url": "https://chriscoyier.net/2026/07/30/codepen-2-0/",
+      "score": 132,
+      "comments": 38,
+      "by": "robin_reala",
+      "hn_url": "https://news.ycombinator.com/item?id=49113338"
+    }
+  ]
+}
