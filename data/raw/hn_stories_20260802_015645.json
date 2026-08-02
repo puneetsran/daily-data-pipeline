@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-08-02T01:56:45.914649",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Seedance 2.5",
+      "url": "https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5",
+      "score": 176,
+      "comments": 76,
+      "by": "njaremko",
+      "hn_url": "https://news.ycombinator.com/item?id=49138302"
+    },
+    {
+      "title": "Di\u00e1taxis",
+      "url": "https://diataxis.fr/",
+      "score": 194,
+      "comments": 29,
+      "by": "ryanseys",
+      "hn_url": "https://news.ycombinator.com/item?id=49138188"
+    },
+    {
+      "title": "AI financial advice is surprisingly good, especially if you ask right questions",
+      "url": "https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions",
+      "score": 160,
+      "comments": 108,
+      "by": "foxtrot8672",
+      "hn_url": "https://news.ycombinator.com/item?id=49139102"
+    },
+    {
+      "title": "Go 1.27 Interactive Tour",
+      "url": "https://victoriametrics.com/blog/go-1-27/index.html",
+      "score": 6,
+      "comments": 1,
+      "by": "Hixon10",
+      "hn_url": "https://news.ycombinator.com/item?id=49140218"
+    },
+    {
+      "title": "RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2",
+      "url": "https://www.rfc-editor.org/rfc/rfc10015.html",
+      "score": 19,
+      "comments": 0,
+      "by": "Jimmc414",
+      "hn_url": "https://news.ycombinator.com/item?id=49139711"
+    },
+    {
+      "title": "Postmortem for Kernel Soundness Bug #14576",
+      "url": "https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/",
+      "score": 116,
+      "comments": 41,
+      "by": "juhopitk",
+      "hn_url": "https://news.ycombinator.com/item?id=49137060"
+    },
+    {
+      "title": "Unraveling the mysteries of habit formation",
+      "url": "https://www.kyoto-u.ac.jp/en/research-news/2026-07-28",
+      "score": 34,
+      "comments": 11,
+      "by": "hhs",
+      "hn_url": "https://news.ycombinator.com/item?id=49139383"
+    },
+    {
+      "title": "But can your calculator run Linux?",
+      "url": "https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html",
+      "score": 62,
+      "comments": 4,
+      "by": "jandeboevrie",
+      "hn_url": "https://news.ycombinator.com/item?id=49137713"
+    },
+    {
+      "title": "Persistent State Machines: LLM Attention with INT4 In-Memory Cells",
+      "url": "https://zenodo.org/records/21753002",
+      "score": 3,
+      "comments": 0,
+      "by": "yusuke_esaka",
+      "hn_url": "https://news.ycombinator.com/item?id=49140080"
+    },
+    {
+      "title": "We accidentally built an LLVM compiler for Jax",
+      "url": "https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/",
+      "score": 9,
+      "comments": 1,
+      "by": "infinitewalk",
+      "hn_url": "https://news.ycombinator.com/item?id=49117303"
+    }
+  ]
+}
