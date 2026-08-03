@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-03 01:59 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-03T01:59:08.497314",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "yc-software/qm",
       "stars": 7331,
@@ -80,88 +81,6 @@
       "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenu",
       "url": "https://github.com/talivia-group/talivia",
       "created_at": "2026-07-29T07:56:49Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Why Book Corners won't sync contributions back to OpenStreetMap",
-      "url": "https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/",
-      "score": 37,
-      "comments": 13,
-      "by": "pizzaiolo",
-      "hn_url": "https://news.ycombinator.com/item?id=49149746"
-    },
-    {
-      "title": "CP/M-386 \u2013 CP/M for 386 protected mode, derived from CP/M\u201168K",
-      "url": "https://github.com/johnsonjh/cpm386",
-      "score": 17,
-      "comments": 4,
-      "by": "TMWNN",
-      "hn_url": "https://news.ycombinator.com/item?id=49149898"
-    },
-    {
-      "title": "Karpathy\u2019s Pelican",
-      "url": "https://twitter.com/karpathy/status/2083749667410727319",
-      "score": 440,
-      "comments": 340,
-      "by": "delichon",
-      "hn_url": "https://news.ycombinator.com/item?id=49140998"
-    },
-    {
-      "title": "Autoregressive Language Model on the 6502 Processor",
-      "url": "https://mattbeton.com/blog/bitnet-6502.html",
-      "score": 57,
-      "comments": 6,
-      "by": "nmstoker",
-      "hn_url": "https://news.ycombinator.com/item?id=49122655"
-    },
-    {
-      "title": "Show HN: Isopolis \u2013 isometric pixel map of SF",
-      "url": "https://sf.isopolis.city/",
-      "score": 20,
-      "comments": 3,
-      "by": "nuwandavek",
-      "hn_url": "https://news.ycombinator.com/item?id=49149966"
-    },
-    {
-      "title": "Show HN: Kakehashi \u2013 Experimental userspace to run macOS binaries on Linux ARM",
-      "url": "https://github.com/wie-project/kakehashi",
-      "score": 183,
-      "comments": 38,
-      "by": "vlad_kalinkin",
-      "hn_url": "https://news.ycombinator.com/item?id=49145937"
-    },
-    {
-      "title": "Note-Taking and Personal Knowledge Management",
-      "url": "https://unattributed.cc/note-taking-and-personal-knowledge-management",
-      "score": 131,
-      "comments": 38,
-      "by": "surprisetalk",
-      "hn_url": "https://news.ycombinator.com/item?id=49084324"
-    },
-    {
-      "title": "Developers are attached to tools because tools encode trust",
-      "url": "https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/",
-      "score": 150,
-      "comments": 77,
-      "by": "HieronymusBosch",
-      "hn_url": "https://news.ycombinator.com/item?id=49097961"
-    },
-    {
-      "title": "Read the Novels and Forget Everything Else",
-      "url": "https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else",
-      "score": 55,
-      "comments": 25,
-      "by": "samclemens",
-      "hn_url": "https://news.ycombinator.com/item?id=49129676"
-    },
-    {
-      "title": "RFC 9851: TLS 1.2 is in Feature Freeze",
-      "url": "https://www.rfc-editor.org/rfc/rfc9851.html",
-      "score": 8,
-      "comments": 1,
-      "by": "Jimmc414",
-      "hn_url": "https://news.ycombinator.com/item?id=49150181"
     }
   ]
 }

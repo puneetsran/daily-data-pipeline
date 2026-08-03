@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-02 01:56:47 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-03 01:59:10 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 7,826 | N/A | Open Frontier Intelligence |
-| [yc-software/qm](https://github.com/yc-software/qm) | 5,044 | TypeScript | Multiplayer agent harness for work |
-| [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 3,091 | TypeScript | No description |
-| [QwenAudio/qwen-audio-agent](https://github.com/QwenAudio/qwen-audio-agent) | 1,303 | JavaScript | A realtime voice runtime that keeps Agents talking, working, and present.  Real-... |
-| [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | 1,030 | N/A | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
+| [yc-software/qm](https://github.com/yc-software/qm) | 7,331 | TypeScript | Multiplayer agent harness for work |
+| [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 3,703 | TypeScript | No description |
+| [trycompai/crm](https://github.com/trycompai/crm) | 1,857 | TypeScript | An open-source, agentic-first CRM. |
+| [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | 1,598 | N/A | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
+| [WilonityDev/WilonityLoader](https://github.com/WilonityDev/WilonityLoader) | 1,215 | N/A | Wilonity Loader – cheat lib w/ spoofer, driver bypass, undetected injector for 2... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-02 01:56:47 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-03 01:59:10 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Seedance 2.5](https://seed.bytedance.com/en/blog/one-take-creation-flexible-referencing-introducing-seedance-2-5) | 176 | [76 comments](https://news.ycombinator.com/item?id=49138302) |
-| [Diátaxis](https://diataxis.fr/) | 194 | [29 comments](https://news.ycombinator.com/item?id=49138188) |
-| [AI financial advice is surprisingly good, especially if you ask right questions](https://mitsloan.mit.edu/ideas-made-to-matter/ai-financial-advice-surprisingly-good-especially-if-you-ask-right-questions) | 160 | [108 comments](https://news.ycombinator.com/item?id=49139102) |
-| [Go 1.27 Interactive Tour](https://victoriametrics.com/blog/go-1-27/index.html) | 6 | [1 comments](https://news.ycombinator.com/item?id=49140218) |
-| [RFC 10015: Deprecating Obsolete Key Exchange Methods in TLS 1.2 and DTLS 1.2](https://www.rfc-editor.org/rfc/rfc10015.html) | 19 | [0 comments](https://news.ycombinator.com/item?id=49139711) |
-| [Postmortem for Kernel Soundness Bug #14576](https://leodemoura.github.io/blog/2026-8-1-postmortem-for-kernel-soundness-bug-14576/) | 116 | [41 comments](https://news.ycombinator.com/item?id=49137060) |
-| [Unraveling the mysteries of habit formation](https://www.kyoto-u.ac.jp/en/research-news/2026-07-28) | 34 | [11 comments](https://news.ycombinator.com/item?id=49139383) |
-| [But can your calculator run Linux?](https://raymii.org/s/articles/But_can_your_calculator_run_Linux.html) | 62 | [4 comments](https://news.ycombinator.com/item?id=49137713) |
-| [Persistent State Machines: LLM Attention with INT4 In-Memory Cells](https://zenodo.org/records/21753002) | 3 | [0 comments](https://news.ycombinator.com/item?id=49140080) |
-| [We accidentally built an LLVM compiler for Jax](https://iza.ac/posts/2026/07/accidental-llvm-compiler-for-jax/) | 9 | [1 comments](https://news.ycombinator.com/item?id=49117303) |
+| [Why Book Corners won't sync contributions back to OpenStreetMap](https://www.andreagrandi.it/posts/why-book-corners-wont-sync-contributions-back-to-openstreetmap/) | 37 | [13 comments](https://news.ycombinator.com/item?id=49149746) |
+| [CP/M-386 – CP/M for 386 protected mode, derived from CP/M‑68K](https://github.com/johnsonjh/cpm386) | 17 | [4 comments](https://news.ycombinator.com/item?id=49149898) |
+| [Karpathy’s Pelican](https://twitter.com/karpathy/status/2083749667410727319) | 440 | [340 comments](https://news.ycombinator.com/item?id=49140998) |
+| [Autoregressive Language Model on the 6502 Processor](https://mattbeton.com/blog/bitnet-6502.html) | 57 | [6 comments](https://news.ycombinator.com/item?id=49122655) |
+| [Show HN: Isopolis – isometric pixel map of SF](https://sf.isopolis.city/) | 20 | [3 comments](https://news.ycombinator.com/item?id=49149966) |
+| [Show HN: Kakehashi – Experimental userspace to run macOS binaries on Linux ARM](https://github.com/wie-project/kakehashi) | 183 | [38 comments](https://news.ycombinator.com/item?id=49145937) |
+| [Note-Taking and Personal Knowledge Management](https://unattributed.cc/note-taking-and-personal-knowledge-management) | 131 | [38 comments](https://news.ycombinator.com/item?id=49084324) |
+| [Developers are attached to tools because tools encode trust](https://stackoverflow.blog/2026/07/29/developers-are-attached-to-tools-because-tools-encode-trust/) | 150 | [77 comments](https://news.ycombinator.com/item?id=49097961) |
+| [Read the Novels and Forget Everything Else](https://hedgehogreview.com/web-features/thr/posts/read-the-novels-and-forget-everything-else) | 55 | [25 comments](https://news.ycombinator.com/item?id=49129676) |
+| [RFC 9851: TLS 1.2 is in Feature Freeze](https://www.rfc-editor.org/rfc/rfc9851.html) | 8 | [1 comments](https://news.ycombinator.com/item?id=49150181) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 19.0°C (66.0°F) |
-| Average Humidity | 61% |
+| Average Temperature | 20.0°C (69.0°F) |
+| Average Humidity | 55% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-02 01:56:47 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-03 01:59:10 UTC*
