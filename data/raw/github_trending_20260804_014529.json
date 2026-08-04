@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-04 01:45 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-04T01:45:29.581801",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "yc-software/qm",
       "stars": 9767,
@@ -80,88 +81,6 @@
       "description": "An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol",
       "url": "https://github.com/thebuggeddev/anatomy",
       "created_at": "2026-08-02T11:15:16Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "LLMs reward expertise",
-      "url": "https://www.seangoedecke.com/llms-reward-expertise/",
-      "score": 437,
-      "comments": 191,
-      "by": "MaxMussio",
-      "hn_url": "https://news.ycombinator.com/item?id=49161518"
-    },
-    {
-      "title": "Amazonian civilization had estimated 3M people in 3% of forest area",
-      "url": "https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization",
-      "score": 20,
-      "comments": 7,
-      "by": "marojejian",
-      "hn_url": "https://news.ycombinator.com/item?id=49099336"
-    },
-    {
-      "title": "Ten advances in mathematics and theoretical computer science",
-      "url": "https://openai.com/index/ten-advances-in-mathematics/",
-      "score": 430,
-      "comments": 714,
-      "by": "milkshakes",
-      "hn_url": "https://news.ycombinator.com/item?id=49157930"
-    },
-    {
-      "title": "Ask HN: Who is hiring? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156683",
-      "score": 103,
-      "comments": 102,
-      "by": "whoishiring",
-      "hn_url": "https://news.ycombinator.com/item?id=49156683"
-    },
-    {
-      "title": "Devtools must be open source",
-      "url": "https://blog.exe.dev/devtools-must-be-open-source",
-      "score": 502,
-      "comments": 177,
-      "by": "bryanmikaelian",
-      "hn_url": "https://news.ycombinator.com/item?id=49156111"
-    },
-    {
-      "title": "Windows XP 2002 for the Itanium: Unbridled rage",
-      "url": "https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/",
-      "score": 56,
-      "comments": 25,
-      "by": "jandeboevrie",
-      "hn_url": "https://news.ycombinator.com/item?id=49162086"
-    },
-    {
-      "title": "Ask HN: Who wants to be hired? (August 2026)",
-      "url": "https://news.ycombinator.com/item?id=49156682",
-      "score": 53,
-      "comments": 178,
-      "by": "whoishiring",
-      "hn_url": "https://news.ycombinator.com/item?id=49156682"
-    },
-    {
-      "title": "Smaller, faster, safer: running Kimi and GLM at scale",
-      "url": "https://blog.cloudflare.com/smaller-faster-safer-models/",
-      "score": 144,
-      "comments": 39,
-      "by": "ascorbic",
-      "hn_url": "https://news.ycombinator.com/item?id=49158581"
-    },
-    {
-      "title": "MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",
-      "url": "https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui",
-      "score": 254,
-      "comments": 79,
-      "by": "vblanco",
-      "hn_url": "https://news.ycombinator.com/item?id=49155629"
-    },
-    {
-      "title": "Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years",
-      "url": "https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase",
-      "score": 124,
-      "comments": 35,
-      "by": "roryirvine",
-      "hn_url": "https://news.ycombinator.com/item?id=49158474"
     }
   ]
 }
