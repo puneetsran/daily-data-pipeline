@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-08-05T01:47:19.020439",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "libexpat now funded by the City of Munich for up to 6 months",
+      "url": "https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/",
+      "score": 114,
+      "comments": 4,
+      "by": "spyc",
+      "hn_url": "https://news.ycombinator.com/item?id=49176606"
+    },
+    {
+      "title": "Eight Myths on Software Engineering and GenAI",
+      "url": "https://queue.acm.org/detail.cfm?id=3807963",
+      "score": 54,
+      "comments": 23,
+      "by": "tchalla",
+      "hn_url": "https://news.ycombinator.com/item?id=49176830"
+    },
+    {
+      "title": "Pi's Minimalism Is Its Advantage",
+      "url": "https://earendil.com/posts/pi-autoresearch-and-databricks/",
+      "score": 92,
+      "comments": 26,
+      "by": "luispa",
+      "hn_url": "https://news.ycombinator.com/item?id=49176038"
+    },
+    {
+      "title": "I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel",
+      "url": "https://twitter.com/gwern/status/2084739205071343837",
+      "score": 163,
+      "comments": 81,
+      "by": "mattsterett",
+      "hn_url": "https://news.ycombinator.com/item?id=49174900"
+    },
+    {
+      "title": "We finally learned to center a div, then browsers added sidebars",
+      "url": "https://seg6.space/posts/center-div/",
+      "score": 59,
+      "comments": 40,
+      "by": "seg6",
+      "hn_url": "https://news.ycombinator.com/item?id=49176055"
+    },
+    {
+      "title": "IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay",
+      "url": "https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/",
+      "score": 35,
+      "comments": 4,
+      "by": "lapcat",
+      "hn_url": "https://news.ycombinator.com/item?id=49176697"
+    },
+    {
+      "title": "Mistral's Shieldstral: 3B open-weights model for multimodal moderation",
+      "url": "https://mistral.ai/news/shieldstral/",
+      "score": 307,
+      "comments": 74,
+      "by": "riadsila",
+      "hn_url": "https://news.ycombinator.com/item?id=49171268"
+    },
+    {
+      "title": "DuckDB \u2013 Data power tools for your laptop, now in Clojure (2023)",
+      "url": "https://techascent.com/blog/just-ducking-around.html",
+      "score": 50,
+      "comments": 5,
+      "by": "sourdecor",
+      "hn_url": "https://news.ycombinator.com/item?id=49175924"
+    },
+    {
+      "title": "Pass the Passkey: A Novel Attack Surface in Passwordless Authentication",
+      "url": "https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/",
+      "score": 35,
+      "comments": 31,
+      "by": "jchanimal",
+      "hn_url": "https://news.ycombinator.com/item?id=49176644"
+    },
+    {
+      "title": "Bugtraq Is Back",
+      "url": "https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/",
+      "score": 14,
+      "comments": 2,
+      "by": "bashtoni",
+      "hn_url": "https://news.ycombinator.com/item?id=49176947"
+    }
+  ]
+}

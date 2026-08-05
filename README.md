@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-04 01:45:32 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-05 01:47:20 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [yc-software/qm](https://github.com/yc-software/qm) | 9,767 | TypeScript | Multiplayer agent harness for work |
-| [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 4,260 | TypeScript | No description |
-| [trycompai/crm](https://github.com/trycompai/crm) | 3,311 | TypeScript | An open-source, agentic-first CRM. |
-| [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | 2,095 | N/A | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
-| [microsoft/skill-recorder](https://github.com/microsoft/skill-recorder) | 1,428 | TypeScript | Desktop app that records your on-screen work session and uses the GitHub Copilot... |
+| [trycompai/crm](https://github.com/trycompai/crm) | 4,730 | TypeScript | An open-source, agentic-first CRM. |
+| [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 4,553 | TypeScript | No description |
+| [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | 2,955 | N/A | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
+| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 2,044 | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o... |
+| [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 1,676 | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
 
-### Hacker News Top Stories (Last Updated: 2026-08-04 01:45:32 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-05 01:47:20 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [LLMs reward expertise](https://www.seangoedecke.com/llms-reward-expertise/) | 437 | [191 comments](https://news.ycombinator.com/item?id=49161518) |
-| [Amazonian civilization had estimated 3M people in 3% of forest area](https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization) | 20 | [7 comments](https://news.ycombinator.com/item?id=49099336) |
-| [Ten advances in mathematics and theoretical computer science](https://openai.com/index/ten-advances-in-mathematics/) | 430 | [714 comments](https://news.ycombinator.com/item?id=49157930) |
-| [Ask HN: Who is hiring? (August 2026)](https://news.ycombinator.com/item?id=49156683) | 103 | [102 comments](https://news.ycombinator.com/item?id=49156683) |
-| [Devtools must be open source](https://blog.exe.dev/devtools-must-be-open-source) | 502 | [177 comments](https://news.ycombinator.com/item?id=49156111) |
-| [Windows XP 2002 for the Itanium: Unbridled rage](https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/) | 56 | [25 comments](https://news.ycombinator.com/item?id=49162086) |
-| [Ask HN: Who wants to be hired? (August 2026)](https://news.ycombinator.com/item?id=49156682) | 53 | [178 comments](https://news.ycombinator.com/item?id=49156682) |
-| [Smaller, faster, safer: running Kimi and GLM at scale](https://blog.cloudflare.com/smaller-faster-safer-models/) | 144 | [39 comments](https://news.ycombinator.com/item?id=49158581) |
-| [MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video](https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui) | 254 | [79 comments](https://news.ycombinator.com/item?id=49155629) |
-| [Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years](https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase) | 124 | [35 comments](https://news.ycombinator.com/item?id=49158474) |
+| [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) | 114 | [4 comments](https://news.ycombinator.com/item?id=49176606) |
+| [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) | 54 | [23 comments](https://news.ycombinator.com/item?id=49176830) |
+| [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/) | 92 | [26 comments](https://news.ycombinator.com/item?id=49176038) |
+| [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837) | 163 | [81 comments](https://news.ycombinator.com/item?id=49174900) |
+| [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/) | 59 | [40 comments](https://news.ycombinator.com/item?id=49176055) |
+| [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) | 35 | [4 comments](https://news.ycombinator.com/item?id=49176697) |
+| [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) | 307 | [74 comments](https://news.ycombinator.com/item?id=49171268) |
+| [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html) | 50 | [5 comments](https://news.ycombinator.com/item?id=49175924) |
+| [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/) | 35 | [31 comments](https://news.ycombinator.com/item?id=49176644) |
+| [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/) | 14 | [2 comments](https://news.ycombinator.com/item?id=49176947) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 24.0°C (74.0°F) |
-| Average Humidity | 52% |
+| Average Temperature | 27.0°C (81.0°F) |
+| Average Humidity | 41% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-04 01:45:32 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-05 01:47:20 UTC*
