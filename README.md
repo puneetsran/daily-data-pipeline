@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-05 01:47:20 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-06 01:47:38 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [trycompai/crm](https://github.com/trycompai/crm) | 4,730 | TypeScript | An open-source, agentic-first CRM. |
-| [bashalarmistalt/decimen-optical-transfer](https://github.com/bashalarmistalt/decimen-optical-transfer) | 4,553 | TypeScript | No description |
-| [xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer](https://github.com/xdash/FDE-the-Guidance-Book-of-Forward-Deployed-Engineer) | 2,955 | N/A | FDE（前沿部署工程师）从零入门指南（基于范冰《增长黑客》原书框架） |
-| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 2,044 | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o... |
-| [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 1,676 | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
+| [trycompai/crm](https://github.com/trycompai/crm) | 6,308 | TypeScript | An open-source, agentic-first CRM. |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 5,174 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
+| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 2,583 | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o... |
+| [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 2,043 | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
+| [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 1,786 | TypeScript | An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-05 01:47:20 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-06 01:47:38 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [libexpat now funded by the City of Munich for up to 6 months](https://blog.hartwork.org/posts/libexpat-city-of-munich-open-source-sabbatical/) | 114 | [4 comments](https://news.ycombinator.com/item?id=49176606) |
-| [Eight Myths on Software Engineering and GenAI](https://queue.acm.org/detail.cfm?id=3807963) | 54 | [23 comments](https://news.ycombinator.com/item?id=49176830) |
-| [Pi's Minimalism Is Its Advantage](https://earendil.com/posts/pi-autoresearch-and-databricks/) | 92 | [26 comments](https://news.ycombinator.com/item?id=49176038) |
-| [I am retiring from fulltime writing (& pseudonymity) to launch Guardian Angel](https://twitter.com/gwern/status/2084739205071343837) | 163 | [81 comments](https://news.ycombinator.com/item?id=49174900) |
-| [We finally learned to center a div, then browsers added sidebars](https://seg6.space/posts/center-div/) | 59 | [40 comments](https://news.ycombinator.com/item?id=49176055) |
-| [IP and DNS Leaks in WebKit Affecting Proxy Browsers and iCloud Private Relay](https://mysk.blog/2026/08/04/webkit-proxy-icloud-private-relay-ip-leak/) | 35 | [4 comments](https://news.ycombinator.com/item?id=49176697) |
-| [Mistral's Shieldstral: 3B open-weights model for multimodal moderation](https://mistral.ai/news/shieldstral/) | 307 | [74 comments](https://news.ycombinator.com/item?id=49171268) |
-| [DuckDB – Data power tools for your laptop, now in Clojure (2023)](https://techascent.com/blog/just-ducking-around.html) | 50 | [5 comments](https://news.ycombinator.com/item?id=49175924) |
-| [Pass the Passkey: A Novel Attack Surface in Passwordless Authentication](https://unit42.paloaltonetworks.com/passwordless-authentication-security-risks/) | 35 | [31 comments](https://news.ycombinator.com/item?id=49176644) |
-| [Bugtraq Is Back](https://lists.securityfocus.com/hyperkitty/list/bugtraq@securityfocus.com/thread/CHKLXLA7SJEWLDFHWXB3QU57ADOXGL2E/) | 14 | [2 comments](https://news.ycombinator.com/item?id=49176947) |
+| [Discovery Loop](https://www.discoveryloop.com/) | 591 | [380 comments](https://news.ycombinator.com/item?id=49184960) |
+| [Zed DeltaDB](https://zed.dev/deltadb) | 300 | [151 comments](https://news.ycombinator.com/item?id=49187256) |
+| [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) | 142 | [59 comments](https://news.ycombinator.com/item?id=49189287) |
+| [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) | 473 | [589 comments](https://news.ycombinator.com/item?id=49184755) |
+| [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) | 223 | [41 comments](https://news.ycombinator.com/item?id=49186762) |
+| [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) | 172 | [104 comments](https://news.ycombinator.com/item?id=49187575) |
+| [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) | 103 | [19 comments](https://news.ycombinator.com/item?id=49189075) |
+| [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data) | 169 | [67 comments](https://news.ycombinator.com/item?id=49185983) |
+| [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread) | 83 | [12 comments](https://news.ycombinator.com/item?id=49189234) |
+| [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) | 131 | [140 comments](https://news.ycombinator.com/item?id=49187061) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 27.0°C (81.0°F) |
-| Average Humidity | 41% |
+| Average Humidity | 45% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-05 01:47:20 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-06 01:47:38 UTC*

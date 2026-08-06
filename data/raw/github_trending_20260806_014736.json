@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-06 01:47 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-06T01:47:36.279424",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "trycompai/crm",
       "stars": 6308,
@@ -80,88 +81,6 @@
       "description": "No description",
       "url": "https://github.com/x4gKing/3x-ui-multi",
       "created_at": "2026-08-01T12:34:51Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Discovery Loop",
-      "url": "https://www.discoveryloop.com/",
-      "score": 591,
-      "comments": 380,
-      "by": "xtreak29",
-      "hn_url": "https://news.ycombinator.com/item?id=49184960"
-    },
-    {
-      "title": "Zed DeltaDB",
-      "url": "https://zed.dev/deltadb",
-      "score": 300,
-      "comments": 151,
-      "by": "ahamez",
-      "hn_url": "https://news.ycombinator.com/item?id=49187256"
-    },
-    {
-      "title": "The title cards in Blade Runner are amazing",
-      "url": "https://randsinrepose.com/archives/blade-runner-title-cards/",
-      "score": 142,
-      "comments": 59,
-      "by": "ExMachina73",
-      "hn_url": "https://news.ycombinator.com/item?id=49189287"
-    },
-    {
-      "title": "Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",
-      "url": "https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/",
-      "score": 473,
-      "comments": 589,
-      "by": "colesantiago",
-      "hn_url": "https://news.ycombinator.com/item?id=49184755"
-    },
-    {
-      "title": "Beating GPT-5.6 Sol on retrieval with 100x cheaper open models",
-      "url": "https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency",
-      "score": 223,
-      "comments": 41,
-      "by": "moonikakiss",
-      "hn_url": "https://news.ycombinator.com/item?id=49186762"
-    },
-    {
-      "title": "Muse Code and Muse Spark 1.2",
-      "url": "https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2",
-      "score": 172,
-      "comments": 104,
-      "by": "paulkrush",
-      "hn_url": "https://news.ycombinator.com/item?id=49187575"
-    },
-    {
-      "title": "Prime Agent: A self-improving RLM agent",
-      "url": "https://www.primeintellect.ai/blog/prime-agent",
-      "score": 103,
-      "comments": 19,
-      "by": "Xeophon",
-      "hn_url": "https://news.ycombinator.com/item?id=49189075"
-    },
-    {
-      "title": "Atlassian Rovo Exfiltrates Data, Bypassing Controls",
-      "url": "https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data",
-      "score": 169,
-      "comments": 67,
-      "by": "hackerBanana",
-      "hn_url": "https://news.ycombinator.com/item?id=49185983"
-    },
-    {
-      "title": "NVIDIA\u2019s Vera Whitepaper Has a Thread Loose",
-      "url": "https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread",
-      "score": 83,
-      "comments": 12,
-      "by": "pella",
-      "hn_url": "https://news.ycombinator.com/item?id=49189234"
-    },
-    {
-      "title": "Born Against, or why hobby programming communities are against LLM usage",
-      "url": "https://blog.fogus.me/llm/born-against.html",
-      "score": 131,
-      "comments": 140,
-      "by": "lladnar",
-      "hn_url": "https://news.ycombinator.com/item?id=49187061"
     }
   ]
 }
