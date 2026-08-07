@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-06 01:47:38 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-07 02:11:09 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [trycompai/crm](https://github.com/trycompai/crm) | 6,308 | TypeScript | An open-source, agentic-first CRM. |
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 5,174 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
-| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 2,583 | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o... |
-| [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 2,043 | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
-| [genspark-ai/genoffice](https://github.com/genspark-ai/genoffice) | 1,786 | TypeScript | An AI-native office suite for macOS and Windows: word processor, spreadsheet, pr... |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 8,601 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
+| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 2,840 | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o... |
+| [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 2,302 | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
+| [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | 1,870 | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
+| [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) | 1,708 | Shell | Codex-native architect orchestration with Luna and Terra implementation lanes an... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-06 01:47:38 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-07 02:11:09 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Discovery Loop](https://www.discoveryloop.com/) | 591 | [380 comments](https://news.ycombinator.com/item?id=49184960) |
-| [Zed DeltaDB](https://zed.dev/deltadb) | 300 | [151 comments](https://news.ycombinator.com/item?id=49187256) |
-| [The title cards in Blade Runner are amazing](https://randsinrepose.com/archives/blade-runner-title-cards/) | 142 | [59 comments](https://news.ycombinator.com/item?id=49189287) |
-| [Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs](https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/) | 473 | [589 comments](https://news.ycombinator.com/item?id=49184755) |
-| [Beating GPT-5.6 Sol on retrieval with 100x cheaper open models](https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency) | 223 | [41 comments](https://news.ycombinator.com/item?id=49186762) |
-| [Muse Code and Muse Spark 1.2](https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2) | 172 | [104 comments](https://news.ycombinator.com/item?id=49187575) |
-| [Prime Agent: A self-improving RLM agent](https://www.primeintellect.ai/blog/prime-agent) | 103 | [19 comments](https://news.ycombinator.com/item?id=49189075) |
-| [Atlassian Rovo Exfiltrates Data, Bypassing Controls](https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data) | 169 | [67 comments](https://news.ycombinator.com/item?id=49185983) |
-| [NVIDIA’s Vera Whitepaper Has a Thread Loose](https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread) | 83 | [12 comments](https://news.ycombinator.com/item?id=49189234) |
-| [Born Against, or why hobby programming communities are against LLM usage](https://blog.fogus.me/llm/born-against.html) | 131 | [140 comments](https://news.ycombinator.com/item?id=49187061) |
+| [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) | 384 | [299 comments](https://news.ycombinator.com/item?id=49201970) |
+| [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) | 146 | [27 comments](https://news.ycombinator.com/item?id=49184355) |
+| [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) | 883 | [150 comments](https://news.ycombinator.com/item?id=49195231) |
+| [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) | 88 | [15 comments](https://news.ycombinator.com/item?id=49203105) |
+| [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/) | 79 | [47 comments](https://news.ycombinator.com/item?id=49152255) |
+| [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) | 56 | [8 comments](https://news.ycombinator.com/item?id=49202716) |
+| [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) | 216 | [173 comments](https://news.ycombinator.com/item?id=49199346) |
+| [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) | 65 | [2 comments](https://news.ycombinator.com/item?id=49202852) |
+| [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/) | 147 | [101 comments](https://news.ycombinator.com/item?id=49201003) |
+| [Almost no skill required to cook a steak](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/) | 279 | [324 comments](https://news.ycombinator.com/item?id=49198069) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 27.0°C (81.0°F) |
-| Average Humidity | 45% |
+| Average Humidity | 54% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-06 01:47:38 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-07 02:11:09 UTC*

@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-08-07T02:11:08.206714",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "AMD acquires Taalas to boost inference performance by etching models in silicon",
+      "url": "https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344",
+      "score": 384,
+      "comments": 299,
+      "by": "itvision",
+      "hn_url": "https://news.ycombinator.com/item?id=49201970"
+    },
+    {
+      "title": "Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun",
+      "url": "https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/",
+      "score": 146,
+      "comments": 27,
+      "by": "neversaydie",
+      "hn_url": "https://news.ycombinator.com/item?id=49184355"
+    },
+    {
+      "title": "Mario Meets Pareto",
+      "url": "https://www.mayerowitz.io/blog/mario-meets-pareto",
+      "score": 883,
+      "comments": 150,
+      "by": "theanonymousone",
+      "hn_url": "https://news.ycombinator.com/item?id=49195231"
+    },
+    {
+      "title": "Welcoming the Nepalese Government to Have I Been Pwned",
+      "url": "https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/",
+      "score": 88,
+      "comments": 15,
+      "by": "gnabgib",
+      "hn_url": "https://news.ycombinator.com/item?id=49203105"
+    },
+    {
+      "title": "I stopped trusting USB-C cable labels and started testing them",
+      "url": "https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/",
+      "score": 79,
+      "comments": 47,
+      "by": "baranul",
+      "hn_url": "https://news.ycombinator.com/item?id=49152255"
+    },
+    {
+      "title": "Bioengineered chewing gum may offer a way to fight HPV and other microbes",
+      "url": "https://www.sciencedaily.com/releases/2026/08/260803080917.htm",
+      "score": 56,
+      "comments": 8,
+      "by": "Audiophilip",
+      "hn_url": "https://news.ycombinator.com/item?id=49202716"
+    },
+    {
+      "title": "Taste Is All That's Left",
+      "url": "https://notashelf.dev/posts/taste-is-all-thats-left",
+      "score": 216,
+      "comments": 173,
+      "by": "tsak",
+      "hn_url": "https://news.ycombinator.com/item?id=49199346"
+    },
+    {
+      "title": "Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)",
+      "url": "https://www.aleksagordic.com/blog/vllm",
+      "score": 65,
+      "comments": 2,
+      "by": "sebg",
+      "hn_url": "https://news.ycombinator.com/item?id=49202852"
+    },
+    {
+      "title": "Herdr is joining Y Combinator. The runtime stays open",
+      "url": "https://herdr.dev/blog/herdr-is-joining-y-combinator/",
+      "score": 147,
+      "comments": 101,
+      "by": "collinmanderson",
+      "hn_url": "https://news.ycombinator.com/item?id=49201003"
+    },
+    {
+      "title": "Almost no skill required to cook a steak",
+      "url": "https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/",
+      "score": 279,
+      "comments": 324,
+      "by": "yusyd",
+      "hn_url": "https://news.ycombinator.com/item?id=49198069"
+    }
+  ]
+}
