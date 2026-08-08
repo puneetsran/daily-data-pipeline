@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-08 00:58 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-08T00:58:46.622857",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "firecrawl/anydoc",
       "stars": 11033,
@@ -80,88 +81,6 @@
       "description": "claude-red is a curated library of offensive security skills designed for the Claude skills system. ",
       "url": "https://github.com/0xwilliamortiz/claude-red",
       "created_at": "2026-08-05T16:54:36Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "DeepSeek V4 Flash 0731",
-      "url": "https://arcprize.org/results/deepseek-v4-flash-0731",
-      "score": 442,
-      "comments": 256,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=49214008"
-    },
-    {
-      "title": "U.S. Department of Energy Launches the Genesis Open Models Initiative",
-      "url": "https://genesisopenmodels.anl.gov/",
-      "score": 53,
-      "comments": 17,
-      "by": "moelf",
-      "hn_url": "https://news.ycombinator.com/item?id=49216946"
-    },
-    {
-      "title": "Assembly Hall of Shame",
-      "url": "https://github.com/xoreaxeaxeax/asm-hall-of-shame",
-      "score": 240,
-      "comments": 55,
-      "by": "piotrgrabowski",
-      "hn_url": "https://news.ycombinator.com/item?id=49214098"
-    },
-    {
-      "title": "Ancient Library \u2013 1,060 Greek/Latin texts, click any word to parse it",
-      "url": "https://ancientlibrary.net/",
-      "score": 139,
-      "comments": 47,
-      "by": "aagha",
-      "hn_url": "https://news.ycombinator.com/item?id=49214770"
-    },
-    {
-      "title": "Should AI labs be treated like the owners of dangerous animals?",
-      "url": "https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals",
-      "score": 13,
-      "comments": 9,
-      "by": "reasonableklout",
-      "hn_url": "https://news.ycombinator.com/item?id=49217629"
-    },
-    {
-      "title": "What happens if an entire class of workers loses faith in their careers",
-      "url": "https://www.noemamag.com/why-is-everyone-in-tech-so-sad/",
-      "score": 393,
-      "comments": 526,
-      "by": "RickJWagner",
-      "hn_url": "https://news.ycombinator.com/item?id=49209539"
-    },
-    {
-      "title": "Managing AI Coding Costs at Scale",
-      "url": "https://www.databricks.com/blog/managing-ai-coding-costs-scale",
-      "score": 156,
-      "comments": 163,
-      "by": "moonikakiss",
-      "hn_url": "https://news.ycombinator.com/item?id=49214468"
-    },
-    {
-      "title": "Responding to the next frontier of critical cyber capabilities",
-      "url": "https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/",
-      "score": 151,
-      "comments": 167,
-      "by": "artninja1988",
-      "hn_url": "https://news.ycombinator.com/item?id=49213029"
-    },
-    {
-      "title": "An all-sky map of half a million supermassive black holes",
-      "url": "https://www.sdss.org/black-hole-mapper-release-20/",
-      "score": 137,
-      "comments": 35,
-      "by": "MarcoDewey",
-      "hn_url": "https://news.ycombinator.com/item?id=49211921"
-    },
-    {
-      "title": "Oracle bans AI-generated code from OpenJDK",
-      "url": "https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code",
-      "score": 373,
-      "comments": 248,
-      "by": "delduca",
-      "hn_url": "https://news.ycombinator.com/item?id=49213754"
     }
   ]
 }

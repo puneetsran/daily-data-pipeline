@@ -18,35 +18,35 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-07 02:11:09 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-08 00:58:49 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 8,601 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
-| [FareedKhan-dev/kimi-k3-in-c](https://github.com/FareedKhan-dev/kimi-k3-in-c) | 2,840 | C | A 2.78-trillion-parameter Kimi K3 running inference on a single CPU in 8.24 GB o... |
-| [imsai-sh/zhuzhiliao](https://github.com/imsai-sh/zhuzhiliao) | 2,302 | HTML | 竹知了 —— 一转就哇哇叫的传统玩具，Web 模拟版。零依赖单文件，真实录音采样，移动端优先。 |
-| [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | 1,870 | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
-| [DannyMac180/sol-advisor](https://github.com/DannyMac180/sol-advisor) | 1,708 | Shell | Codex-native architect orchestration with Luna and Terra implementation lanes an... |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 11,033 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
+| [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | 1,982 | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
+| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 1,874 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 1,588 | N/A | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S... |
+| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 1,492 | N/A | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-08-07 02:11:09 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-08 00:58:49 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [AMD acquires Taalas to boost inference performance by etching models in silicon](https://www.theregister.com/systems/2026/08/06/amd-acquires-ai-chip-startup-taalas-to-boost-inference-performance-by-etching-models-into-silicon/5284344) | 384 | [299 comments](https://news.ycombinator.com/item?id=49201970) |
-| [Scientists discover Kelvin-Helmholtz Instability on the surface of the Sun](https://nso.edu/press-release/nsf-inouye-solar-telescope-enables-major-discovery-of-a-hidden-solar-process/) | 146 | [27 comments](https://news.ycombinator.com/item?id=49184355) |
-| [Mario Meets Pareto](https://www.mayerowitz.io/blog/mario-meets-pareto) | 883 | [150 comments](https://news.ycombinator.com/item?id=49195231) |
-| [Welcoming the Nepalese Government to Have I Been Pwned](https://www.troyhunt.com/welcoming-the-nepalese-government-to-have-i-been-pwned/) | 88 | [15 comments](https://news.ycombinator.com/item?id=49203105) |
-| [I stopped trusting USB-C cable labels and started testing them](https://www.makeuseof.com/i-stopped-trusting-usb-c-cable-labels-started-testing-with-meter-instead/) | 79 | [47 comments](https://news.ycombinator.com/item?id=49152255) |
-| [Bioengineered chewing gum may offer a way to fight HPV and other microbes](https://www.sciencedaily.com/releases/2026/08/260803080917.htm) | 56 | [8 comments](https://news.ycombinator.com/item?id=49202716) |
-| [Taste Is All That's Left](https://notashelf.dev/posts/taste-is-all-thats-left) | 216 | [173 comments](https://news.ycombinator.com/item?id=49199346) |
-| [Inside vLLM: Anatomy of a High-Throughput LLM Inference System (2025)](https://www.aleksagordic.com/blog/vllm) | 65 | [2 comments](https://news.ycombinator.com/item?id=49202852) |
-| [Herdr is joining Y Combinator. The runtime stays open](https://herdr.dev/blog/herdr-is-joining-y-combinator/) | 147 | [101 comments](https://news.ycombinator.com/item?id=49201003) |
-| [Almost no skill required to cook a steak](https://blog.sydorets.com/en/posts/almost-no-skill-required-to-cook-a-steak/) | 279 | [324 comments](https://news.ycombinator.com/item?id=49198069) |
+| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | 442 | [256 comments](https://news.ycombinator.com/item?id=49214008) |
+| [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) | 53 | [17 comments](https://news.ycombinator.com/item?id=49216946) |
+| [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | 240 | [55 comments](https://news.ycombinator.com/item?id=49214098) |
+| [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) | 139 | [47 comments](https://news.ycombinator.com/item?id=49214770) |
+| [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) | 13 | [9 comments](https://news.ycombinator.com/item?id=49217629) |
+| [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) | 393 | [526 comments](https://news.ycombinator.com/item?id=49209539) |
+| [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale) | 156 | [163 comments](https://news.ycombinator.com/item?id=49214468) |
+| [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) | 151 | [167 comments](https://news.ycombinator.com/item?id=49213029) |
+| [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/) | 137 | [35 comments](https://news.ycombinator.com/item?id=49211921) |
+| [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) | 373 | [248 comments](https://news.ycombinator.com/item?id=49213754) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 27.0°C (81.0°F) |
+| Average Temperature | 27.0°C (80.0°F) |
 | Average Humidity | 54% |
 | Data Points | 1 |
 
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-07 02:11:09 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-08 00:58:49 UTC*
