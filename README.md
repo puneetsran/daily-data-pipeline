@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-08 00:58:49 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-09 01:02:43 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 11,033 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
-| [thebuggeddev/anatomy](https://github.com/thebuggeddev/anatomy) | 1,982 | TypeScript | An interactive 3D human anatomy explorer built using threejs with GPT 5.6 Sol |
-| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 1,874 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 12,128 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
+| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 1,989 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 1,725 | N/A | No description |
 | [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 1,588 | N/A | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S... |
-| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 1,492 | N/A | No description |
+| [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | 764 | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot |
 
-### Hacker News Top Stories (Last Updated: 2026-08-08 00:58:49 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-09 01:02:43 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [DeepSeek V4 Flash 0731](https://arcprize.org/results/deepseek-v4-flash-0731) | 442 | [256 comments](https://news.ycombinator.com/item?id=49214008) |
-| [U.S. Department of Energy Launches the Genesis Open Models Initiative](https://genesisopenmodels.anl.gov/) | 53 | [17 comments](https://news.ycombinator.com/item?id=49216946) |
-| [Assembly Hall of Shame](https://github.com/xoreaxeaxeax/asm-hall-of-shame) | 240 | [55 comments](https://news.ycombinator.com/item?id=49214098) |
-| [Ancient Library – 1,060 Greek/Latin texts, click any word to parse it](https://ancientlibrary.net/) | 139 | [47 comments](https://news.ycombinator.com/item?id=49214770) |
-| [Should AI labs be treated like the owners of dangerous animals?](https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals) | 13 | [9 comments](https://news.ycombinator.com/item?id=49217629) |
-| [What happens if an entire class of workers loses faith in their careers](https://www.noemamag.com/why-is-everyone-in-tech-so-sad/) | 393 | [526 comments](https://news.ycombinator.com/item?id=49209539) |
-| [Managing AI Coding Costs at Scale](https://www.databricks.com/blog/managing-ai-coding-costs-scale) | 156 | [163 comments](https://news.ycombinator.com/item?id=49214468) |
-| [Responding to the next frontier of critical cyber capabilities](https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/) | 151 | [167 comments](https://news.ycombinator.com/item?id=49213029) |
-| [An all-sky map of half a million supermassive black holes](https://www.sdss.org/black-hole-mapper-release-20/) | 137 | [35 comments](https://news.ycombinator.com/item?id=49211921) |
-| [Oracle bans AI-generated code from OpenJDK](https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code) | 373 | [248 comments](https://news.ycombinator.com/item?id=49213754) |
+| [My server is a phone now](https://seg6.space/posts/phone-server/) | 66 | [25 comments](https://news.ycombinator.com/item?id=49226636) |
+| [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) | 314 | [140 comments](https://news.ycombinator.com/item?id=49223082) |
+| [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html) | 29 | [6 comments](https://news.ycombinator.com/item?id=49079995) |
+| [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) | 341 | [131 comments](https://news.ycombinator.com/item?id=49221668) |
+| [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute) | 83 | [18 comments](https://news.ycombinator.com/item?id=49225139) |
+| [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves) | 49 | [13 comments](https://news.ycombinator.com/item?id=49180649) |
+| [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) | 154 | [86 comments](https://news.ycombinator.com/item?id=49223079) |
+| [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal) | 7 | [0 comments](https://news.ycombinator.com/item?id=49226827) |
+| [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | 377 | [115 comments](https://news.ycombinator.com/item?id=49220126) |
+| [Timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) | 328 | [335 comments](https://news.ycombinator.com/item?id=49220609) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 27.0°C (80.0°F) |
-| Average Humidity | 54% |
+| Average Humidity | 52% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-08 00:58:49 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-09 01:02:43 UTC*
