@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-09 01:02:43 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-10 01:04:32 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [firecrawl/anydoc](https://github.com/firecrawl/anydoc) | 12,128 | Rust | Convert Word, PowerPoint, Excel, OpenDocument, RTF, EPUB, CSV, and PDF to clean ... |
-| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 1,989 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
-| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 1,725 | N/A | No description |
-| [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 1,588 | N/A | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S... |
-| [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | 764 | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot |
+| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 2,096 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
+| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 1,956 | N/A | No description |
+| [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 1,607 | N/A | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S... |
+| [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 859 | Python | let your agent control your phone |
+| [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | 795 | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot |
 
-### Hacker News Top Stories (Last Updated: 2026-08-09 01:02:43 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-10 01:04:32 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [My server is a phone now](https://seg6.space/posts/phone-server/) | 66 | [25 comments](https://news.ycombinator.com/item?id=49226636) |
-| [Fastmail offers EU data region](https://www.fastmail.com/blog/fastmail-offers-eu-data-region/) | 314 | [140 comments](https://news.ycombinator.com/item?id=49223082) |
-| [Improving Heuristics for A* Pathfinding](https://www.redblobgames.com/pathfinding/heuristics/differential.html) | 29 | [6 comments](https://news.ycombinator.com/item?id=49079995) |
-| [_for-sale DNS records](https://specification.website/spec/foundations/for-sale-dns/) | 341 | [131 comments](https://news.ycombinator.com/item?id=49221668) |
-| [Open-source interactive map for the Aug 12 total solar eclipse](https://eclipsefan.org/?v=2&t=max&layers=eclipse%2Cbesselian%2Cumbra-live%2Cshadow-3d%2Ccloud-projection%2Cosm&lat=43.4623&lon=-3.8099&opacity=besselian%3A0.2%2Cumbra-live%3A0.2&zoom=6&palier=minute) | 83 | [18 comments](https://news.ycombinator.com/item?id=49225139) |
-| [Making difficulty curves in games](http://www.davetech.co.uk/difficultycurves) | 49 | [13 comments](https://news.ycombinator.com/item?id=49180649) |
-| [Can Intel finally beat ARM on performance per Watt?](https://hackaday.com/2026/08/08/want-energy-efficiency-dude-youre-getting-a-dell/) | 154 | [86 comments](https://news.ycombinator.com/item?id=49223079) |
-| [Title 7 Disparate Impact Liability Makes Almost Everything Presumptively Illegal](https://www.nyujll.com/volume-14/title-vii-disparate-impact-liability-makes-almost-everything-presumptively-illegal) | 7 | [0 comments](https://news.ycombinator.com/item?id=49226827) |
-| [DeepMind's WeatherNext model achieves breakthrough forecasting cyclones](https://deepmind.google/blog/weathernext-ai-model-achieves-breakthrough-in-forecasting-cyclones/) | 377 | [115 comments](https://news.ycombinator.com/item?id=49220126) |
-| [Timeline of the OpenAI accidental attack against Hugging Face](https://simonwillison.net/2026/Aug/7/openai-timeline/) | 328 | [335 comments](https://news.ycombinator.com/item?id=49220609) |
+| [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) | 384 | [211 comments](https://news.ycombinator.com/item?id=49234675) |
+| [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) | 68 | [32 comments](https://news.ycombinator.com/item?id=49235641) |
+| ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/) | 21 | [1 comments](https://news.ycombinator.com/item?id=49205793) |
+| [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) | 550 | [249 comments](https://news.ycombinator.com/item?id=49231154) |
+| [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) | 161 | [613 comments](https://news.ycombinator.com/item?id=49233423) |
+| [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) | 172 | [126 comments](https://news.ycombinator.com/item?id=49232253) |
+| [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI) | 179 | [38 comments](https://news.ycombinator.com/item?id=49231809) |
+| [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com) | 40 | [9 comments](https://news.ycombinator.com/item?id=49235697) |
+| [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition) | 70 | [36 comments](https://news.ycombinator.com/item?id=49235011) |
+| [Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]](https://www.youtube.com/watch?v=GS7CxAtV5Ks) | 30 | [18 comments](https://news.ycombinator.com/item?id=49203626) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 27.0°C (80.0°F) |
-| Average Humidity | 52% |
+| Average Temperature | 24.0°C (76.0°F) |
+| Average Humidity | 58% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-09 01:02:43 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-10 01:04:32 UTC*
