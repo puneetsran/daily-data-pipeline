@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-10 01:04:32 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-11 01:03:29 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 2,096 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
-| [ZzzLc0405/photo-abstract-editorial](https://github.com/ZzzLc0405/photo-abstract-editorial) | 1,956 | N/A | No description |
+| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 2,275 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
 | [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 1,607 | N/A | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S... |
-| [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 859 | Python | let your agent control your phone |
-| [mikiarlo3/awesome-growth-hacking-skills](https://github.com/mikiarlo3/awesome-growth-hacking-skills) | 795 | Shell | Find agentic growth hacking skills for Claude, ChatGPT, Manus | by enso.bot |
+| [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 1,316 | Python | let your agent control your phone |
+| [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | 1,199 | Python | Create smooth, responsive interactive web animations. |
+| [MengTo/kage](https://github.com/MengTo/kage) | 774 | HTML | An interactive five-chapter night walk through a Kyoto mountain temple, rendered... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-10 01:04:32 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-11 01:03:29 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [How I use LLMs to learn complex topics](https://laurentiugabriel.github.io/blog/articles/how-i-use-llms-to-learn/) | 384 | [211 comments](https://news.ycombinator.com/item?id=49234675) |
-| [New Zealand lost its music media, and what we're building to replace it](https://propelmusic.co.nz/articles/the-sound-went-quiet-nz-music-media) | 68 | [32 comments](https://news.ycombinator.com/item?id=49235641) |
-| ["The Persian MâR-Nâmeh Or, the Book for Taking Omens from Snakes" (1892)](https://publicdomainreview.org/collection/marnameh/) | 21 | [1 comments](https://news.ycombinator.com/item?id=49205793) |
-| [Mea Culpa – Dark Hours](https://blog.terrygodier.com/2026/08/09/mea-culpa-dark-hours.html) | 550 | [249 comments](https://news.ycombinator.com/item?id=49231154) |
-| [Ask HN: What are you working on? (August 2026)](https://news.ycombinator.com/item?id=49233423) | 161 | [613 comments](https://news.ycombinator.com/item?id=49233423) |
-| [Taxi drivers rarely die of Alzheimer's](https://theconversation.com/taxi-drivers-rarely-die-of-alzheimers-how-complex-mental-maps-and-spatial-reasoning-protect-your-brain-286650) | 172 | [126 comments](https://news.ycombinator.com/item?id=49232253) |
-| [Cool URIs Don't Change (1998)](https://www.w3.org/Provider/Style/URI) | 179 | [38 comments](https://news.ycombinator.com/item?id=49231809) |
-| [Tuxedo No. 2 – Cocktail recipes](https://tuxedono2.com) | 40 | [9 comments](https://news.ycombinator.com/item?id=49235697) |
-| [The tragedy of the commons, AI edition](https://www.economist.com/britain/2026/08/06/the-tragedy-of-the-commons-ai-edition) | 70 | [36 comments](https://news.ycombinator.com/item?id=49235011) |
-| [Andrew Wiles on proving Fermat’s Last Theorem (1995) [video]](https://www.youtube.com/watch?v=GS7CxAtV5Ks) | 30 | [18 comments](https://news.ycombinator.com/item?id=49203626) |
+| [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) | 93 | [22 comments](https://news.ycombinator.com/item?id=49251411) |
+| [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle) | 154 | [70 comments](https://news.ycombinator.com/item?id=49246804) |
+| [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | 1024 | [570 comments](https://news.ycombinator.com/item?id=49241679) |
+| [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) | 31 | [4 comments](https://news.ycombinator.com/item?id=49251179) |
+| [The "mechanical miracle" that ruined Mark Twain's life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) | 23 | [4 comments](https://news.ycombinator.com/item?id=49184220) |
+| [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) | 353 | [373 comments](https://news.ycombinator.com/item?id=49243880) |
+| [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704) | 60 | [15 comments](https://news.ycombinator.com/item?id=49212449) |
+| [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/) | 119 | [59 comments](https://news.ycombinator.com/item?id=49247477) |
+| [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392) | 303 | [78 comments](https://news.ycombinator.com/item?id=49208296) |
+| [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html) | 56 | [10 comments](https://news.ycombinator.com/item?id=49249555) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 24.0°C (76.0°F) |
-| Average Humidity | 58% |
+| Average Humidity | 57% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-10 01:04:32 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-11 01:03:29 UTC*
