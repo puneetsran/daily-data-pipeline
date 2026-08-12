@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-11 01:03:29 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-12 01:10:54 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [KKKKhazix/human-writing](https://github.com/KKKKhazix/human-writing) | 2,275 | Python | 让 AI 写的中文读起来像一个具体的人在说话。通用创作与改稿 Skill，开箱即用。 |
-| [Binaryify/open-kimi-ppt-skill](https://github.com/Binaryify/open-kimi-ppt-skill) | 1,607 | N/A | 非官方 Kimi Slides Skill：让 AI Agent 生成可编辑 PPTD + PPTX，并附带本地浏览器编辑器 Unofficial Kimi S... |
-| [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 1,316 | Python | let your agent control your phone |
-| [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | 1,199 | Python | Create smooth, responsive interactive web animations. |
-| [MengTo/kage](https://github.com/MengTo/kage) | 774 | HTML | An interactive five-chapter night walk through a Kyoto mountain temple, rendered... |
+| [ShawnPana/phone-harness](https://github.com/ShawnPana/phone-harness) | 1,502 | Python | let your agent control your phone |
+| [oil-oil/oil-motion](https://github.com/oil-oil/oil-motion) | 1,483 | Python | Create smooth, responsive interactive web animations. |
+| [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | 1,427 | TypeScript | No description |
+| [antirez/h3.c](https://github.com/antirez/h3.c) | 1,245 | C | MiniMax H3 inference engine for Mac computers |
+| [eternityspring/shuohao-skills](https://github.com/eternityspring/shuohao-skills) | 904 | JavaScript | AI 短剧制作的 skill 集合：拆角色、出设定图、排大纲 | Agent skills for AI short-drama production — ch... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-11 01:03:29 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-12 01:10:54 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [The UK's War on Anonymity Has Come to America](https://www.effort.news/uk-lobby) | 93 | [22 comments](https://news.ycombinator.com/item?id=49251411) |
-| [Show HN: Needle2: 14MB agentic LLM for phones, wearables, smart home and robots](https://cactuscompute.com/needle) | 154 | [70 comments](https://news.ycombinator.com/item?id=49246804) |
-| [Muse Glimmer: 30B-parameter model optimized for always-on local agent workflows](https://research.meta.ai/blog/introducing-muse-glimmer-open-agentic-model) | 1024 | [570 comments](https://news.ycombinator.com/item?id=49241679) |
-| [Show HN: Scroll through all 43252003274489856000 Rubik's Cube states](https://everycube.alen.is/) | 31 | [4 comments](https://news.ycombinator.com/item?id=49251179) |
-| [The "mechanical miracle" that ruined Mark Twain's life](https://resobscura.substack.com/p/the-mechanical-miracle-that-ruined) | 23 | [4 comments](https://news.ycombinator.com/item?id=49184220) |
-| [Mark Zuckerberg attacks 'closed' AI rivals as Meta returns to open models](https://www.ft.com/content/4e3957f8-ea7c-4c46-a3de-cdce8e526878) | 353 | [373 comments](https://news.ycombinator.com/item?id=49243880) |
-| [Publishing Schematics Before “Open Source” Was a Word](https://fabscene.medium.com/publishing-schematics-before-open-source-was-a-word-55-years-of-akizuki-denshi-japans-be7ca9629704) | 60 | [15 comments](https://news.ycombinator.com/item?id=49212449) |
-| [Rust SIMD on the GPU](https://www.vectorware.com/blog/simd-on-gpu/) | 119 | [59 comments](https://news.ycombinator.com/item?id=49247477) |
-| [Sonic Pi v5](https://www.patreon.com/samaaron/posts/sonic-pi-v5-166001392) | 303 | [78 comments](https://news.ycombinator.com/item?id=49208296) |
-| [Confessions of a Long-Distance Sailor](https://arachnoid.com/lutusp/sailbook.html) | 56 | [10 comments](https://news.ycombinator.com/item?id=49249555) |
+| [CFTC declares market emergency, orders Kalshi to continue to operate in New York](https://www.cftc.gov/PressRoom/PressReleases/9281-26) | 75 | [27 comments](https://news.ycombinator.com/item?id=49266277) |
+| [WorldClaw Agentic 3D open-world generation at scale](https://tencent-hunyuan.github.io/Hunyuan3D-WorldClaw/) | 106 | [38 comments](https://news.ycombinator.com/item?id=49265051) |
+| [Compression is prediction](https://ngrok.com/blog/compression-is-prediction) | 236 | [101 comments](https://news.ycombinator.com/item?id=49263497) |
+| [Nvidia Nemotron 3.5 Lightning and NeMo Switchyard](https://blogs.nvidia.com/blog/nemotron-lightning-switchyard-rtx-dgx/) | 173 | [89 comments](https://news.ycombinator.com/item?id=49263340) |
+| [Mojo 1.0](https://www.modular.com/blog/modular-26-5-mojo-1-0-is-here) | 279 | [127 comments](https://news.ycombinator.com/item?id=49261128) |
+| [Stealing Reasoning Traces from Proprietary LLM APIs](https://stolen-thoughts.com/) | 485 | [202 comments](https://news.ycombinator.com/item?id=49257876) |
+| [OpenAI’s head of ethics leaves less than a year after joining](https://www.ft.com/content/e49dfb75-f841-4466-a577-f7aaff8779a0) | 270 | [341 comments](https://news.ycombinator.com/item?id=49257160) |
+| [Making holograms with a pen plotter](https://blog.jordan.matelsky.com/Penplotter-holography/) | 110 | [11 comments](https://news.ycombinator.com/item?id=49262811) |
+| [Show HN: iPhone app takes simultaneous images from 2 lenses, fuses into 1 photo](https://photosynthesis.camera) | 198 | [201 comments](https://news.ycombinator.com/item?id=49226623) |
+| [US hires over 2k video gamers as air traffic controllers](https://www.cbsnews.com/news/video-gamer-air-traffic-controllers-faa-recruitment-sean-duffy/) | 57 | [39 comments](https://news.ycombinator.com/item?id=49265879) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 24.0°C (76.0°F) |
-| Average Humidity | 57% |
+| Average Temperature | 21.0°C (69.0°F) |
+| Average Humidity | 64% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-11 01:03:29 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-12 01:10:54 UTC*
