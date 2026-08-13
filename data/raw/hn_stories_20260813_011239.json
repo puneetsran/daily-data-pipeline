@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-08-13T01:12:39.806064",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "DeepSeek V4 Pro 0813",
+      "url": "https://openrouter.ai/deepseek/deepseek-v4-pro-0813",
+      "score": 724,
+      "comments": 274,
+      "by": "explosion-s",
+      "hn_url": "https://news.ycombinator.com/item?id=49274600"
+    },
+    {
+      "title": "Delta",
+      "url": "https://zed.dev/blog/introducing-delta",
+      "score": 378,
+      "comments": 124,
+      "by": "khy",
+      "hn_url": "https://news.ycombinator.com/item?id=49276574"
+    },
+    {
+      "title": "Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug",
+      "url": "https://tailscale.com/blog/sqlite-wal-reset-bug",
+      "score": 784,
+      "comments": 141,
+      "by": "ropbear",
+      "hn_url": "https://news.ycombinator.com/item?id=49272832"
+    },
+    {
+      "title": "Happy 45th Birthday to the IBM PC and Model F/XT",
+      "url": "https://sharktastica.co.uk/articles/pc-fxt-45",
+      "score": 20,
+      "comments": 1,
+      "by": "tart-lemonade",
+      "hn_url": "https://news.ycombinator.com/item?id=49280103"
+    },
+    {
+      "title": "Qwen3.8-2.4T",
+      "url": "https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B",
+      "score": 485,
+      "comments": 104,
+      "by": "Philpax",
+      "hn_url": "https://news.ycombinator.com/item?id=49273478"
+    },
+    {
+      "title": "What's New in Flutter 3.47",
+      "url": "https://flutter.dev/blog/whats-new-in-flutter-3-47",
+      "score": 27,
+      "comments": 16,
+      "by": "gumby271",
+      "hn_url": "https://news.ycombinator.com/item?id=49280061"
+    },
+    {
+      "title": "Principia Mathematica is modern and insightful",
+      "url": "https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html",
+      "score": 27,
+      "comments": 5,
+      "by": "matt_d",
+      "hn_url": "https://news.ycombinator.com/item?id=49279928"
+    },
+    {
+      "title": "Show HN: Ballet \u2013 Workflow automation that writes integrations against any API",
+      "url": "https://www.ballet.dev/",
+      "score": 12,
+      "comments": 1,
+      "by": "danielkimber",
+      "hn_url": "https://news.ycombinator.com/item?id=49280184"
+    },
+    {
+      "title": "Why Target Common Lisp for Code Generation?",
+      "url": "http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html",
+      "score": 25,
+      "comments": 22,
+      "by": "oumua_don17",
+      "hn_url": "https://news.ycombinator.com/item?id=49269429"
+    },
+    {
+      "title": "2026 Eclipse Webcams",
+      "url": "https://jonty.github.io/2026_eclipse_webcams/",
+      "score": 457,
+      "comments": 124,
+      "by": "zoenolan",
+      "hn_url": "https://news.ycombinator.com/item?id=49270953"
+    }
+  ]
+}
