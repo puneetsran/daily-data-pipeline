@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-14 01:11:34 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-15 00:44:05 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 47,152 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 5,437 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit... |
-| [antirez/h3.c](https://github.com/antirez/h3.c) | 1,778 | C | MiniMax H3 inference engine for Mac computers |
-| [SMNETSTUDIO/WeChat-AI](https://github.com/SMNETSTUDIO/WeChat-AI) | 1,683 | TypeScript | No description |
-| [Leutenegger/book-to-skill](https://github.com/Leutenegger/book-to-skill) | 1,027 | Python | Turn any technical book PDF into a Claude Code skill — ready to study, reference... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 95,708 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 8,172 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit... |
+| [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 1,946 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g... |
+| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 1,899 | TypeScript | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验 |
+| [antirez/h3.c](https://github.com/antirez/h3.c) | 1,851 | C | MiniMax H3 inference engine for Mac computers |
 
-### Hacker News Top Stories (Last Updated: 2026-08-14 01:11:34 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-15 00:44:05 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Gemini 3.7 Flash](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-3-7-flash/) | 600 | [335 comments](https://news.ycombinator.com/item?id=49289112) |
-| [Bluesky Protocol Services](https://atproto.com/blog/introducing-bluesky-protocol-services) | 44 | [5 comments](https://news.ycombinator.com/item?id=49293324) |
-| [Accelerating GPT-5.6 Sol Ultrafast](https://www.cerebras.ai/blog/accelerating-gpt-5-6-sol-ultrafast-with-openai) | 408 | [172 comments](https://news.ycombinator.com/item?id=49289844) |
-| [NP-Overrated](https://gruhn.me/blog/2026-08-13/) | 142 | [87 comments](https://news.ycombinator.com/item?id=49291268) |
-| [How AI text watermarking works](https://declaude.org/watermarking/) | 51 | [32 comments](https://news.ycombinator.com/item?id=49292932) |
-| [Understanding is the new bottleneck](https://www.geoffreylitt.com/2026/07/02/understanding-is-the-new-bottleneck) | 192 | [100 comments](https://news.ycombinator.com/item?id=49290299) |
-| [Donkey.bas is 45 Years Old – 131 line of Glory](https://donkeybas.com/) | 184 | [79 comments](https://news.ycombinator.com/item?id=49289465) |
-| [DeepSeek Harness developer preview](https://deepseek.com/harness/en/) | 551 | [241 comments](https://news.ycombinator.com/item?id=49285244) |
-| [Mistral OCR 4.1](https://docs.mistral.ai/models/ocr-4-1) | 248 | [97 comments](https://news.ycombinator.com/item?id=49288889) |
-| [Choose Boring Technology (2015)](https://mcfunley.com/choose-boring-technology) | 243 | [125 comments](https://news.ycombinator.com/item?id=49289512) |
+| [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | 867 | [568 comments](https://news.ycombinator.com/item?id=49299605) |
+| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | 166 | [107 comments](https://news.ycombinator.com/item?id=49304447) |
+| [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) | 95 | [50 comments](https://news.ycombinator.com/item?id=49305492) |
+| [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science) | 19 | [10 comments](https://news.ycombinator.com/item?id=49305708) |
+| [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | 762 | [696 comments](https://news.ycombinator.com/item?id=49296740) |
+| [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) | 267 | [162 comments](https://news.ycombinator.com/item?id=49300314) |
+| [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) | 213 | [93 comments](https://news.ycombinator.com/item?id=49300759) |
+| [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations) | 42 | [5 comments](https://news.ycombinator.com/item?id=49215682) |
+| [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va) | 30 | [19 comments](https://news.ycombinator.com/item?id=49305558) |
+| [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697) | 50 | [10 comments](https://news.ycombinator.com/item?id=49305927) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 28.0°C (82.0°F) |
-| Average Humidity | 51% |
+| Average Temperature | 27.0°C (81.0°F) |
+| Average Humidity | 56% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-14 01:11:34 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-15 00:44:05 UTC*
