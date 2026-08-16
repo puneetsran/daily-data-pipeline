@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-15 00:44:05 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-16 00:46:16 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 95,708 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 8,172 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit... |
-| [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 1,946 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g... |
-| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 1,899 | TypeScript | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验 |
-| [antirez/h3.c](https://github.com/antirez/h3.c) | 1,851 | C | MiniMax H3 inference engine for Mac computers |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 115,398 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 9,745 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit... |
+| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 5,893 | TypeScript | 为 DeepSeek Harness (DSH) 生态打造的现代化桌面端体验 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 3,004 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 2,713 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-15 00:44:05 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-16 00:46:16 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Qwen 3.8 27B](https://huggingface.co/Qwen/Qwen3.8-27B-FP8) | 867 | [568 comments](https://news.ycombinator.com/item?id=49299605) |
-| [Going Dark, and the era of law enforcement hacking](https://blog.cryptographyengineering.com/2026/08/14/everything-is-about-to-go-dark/) | 166 | [107 comments](https://news.ycombinator.com/item?id=49304447) |
-| [RISC-V: They should have known better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) | 95 | [50 comments](https://news.ycombinator.com/item?id=49305492) |
-| [The case for overhauling American science](https://www.economist.com/by-invitation/2026/08/13/the-case-for-overhauling-american-science) | 19 | [10 comments](https://news.ycombinator.com/item?id=49305708) |
-| [Why does Opus 5 feel worse to work with?](https://mun-logadan.github.io/why-does-opus-5-feel-worse/) | 762 | [696 comments](https://news.ycombinator.com/item?id=49296740) |
-| [Google is making private AI practical with homomorphic encryption](https://blog.google/security/how-google-is-making-private-ai-practical-with-homomorphic-encryption/) | 267 | [162 comments](https://news.ycombinator.com/item?id=49300314) |
-| [RustDesk now supports true unattended remote access on Wayland](https://rustdesk.com/blog/unattended-remote-access-wayland/) | 213 | [93 comments](https://news.ycombinator.com/item?id=49300759) |
-| [Super Mario Derivations](https://fzakaria.com/2026/08/05/super-mario-derivations) | 42 | [5 comments](https://news.ycombinator.com/item?id=49215682) |
-| [Stop sending me huge PRs; a rant](https://getsmall.xyz/post/cmstjfl9l000if70ljmpzr4va) | 30 | [19 comments](https://news.ycombinator.com/item?id=49305558) |
-| [Jane Street suffers $15B hit after meltdown at Situational Awareness](https://www.ft.com/content/47dd5308-dd17-404a-a615-61046defd697) | 50 | [10 comments](https://news.ycombinator.com/item?id=49305927) |
+| [Semaglutide linked to lower predicted dementia risk](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/dad2.70432) | 336 | [234 comments](https://news.ycombinator.com/item?id=49311651) |
+| [Cultivating a state of mind where new ideas are born (2023)](https://www.henrikkarlsson.xyz/p/good-ideas) | 68 | [17 comments](https://news.ycombinator.com/item?id=49314235) |
+| [Abdominal fat predicts heart disease risk better than BMI](https://www.acc.org/about-acc/press-releases/2026/08/11/14/59/abdominal-fat-predicts-heart-disease-risk-better-than-bmi) | 129 | [91 comments](https://news.ycombinator.com/item?id=49314403) |
+| [AI in drug discovery – what it is, where we stand and the path forward](https://www.science.org/content/blog-post/so-how-ai-drug-discovery-doing-really) | 79 | [41 comments](https://news.ycombinator.com/item?id=49313367) |
+| [At-home test for infected ticks could improve Lyme Disease diagnosis](https://www.smithsonianmag.com/innovation/the-first-at-home-test-for-infected-ticks-could-improve-lyme-disease-diagnosis-180989235/) | 207 | [71 comments](https://news.ycombinator.com/item?id=49310682) |
+| [SugarTrack – an offline Android logbook for blood sugar (no account, no cloud)](https://sugartrack-beta.vercel.app/) | 14 | [3 comments](https://news.ycombinator.com/item?id=49314884) |
+| [AI has access to a vastly larger working memory than the human brain](https://davidepiffer.com/p/ai-isnt-outthinking-mathematicians) | 395 | [349 comments](https://news.ycombinator.com/item?id=49312845) |
+| [RISC-V: They Should Have Known Better](https://dmitry.gr/?r=06.%20Thoughts&proj=12.%20RV) | 219 | [288 comments](https://news.ycombinator.com/item?id=49298035) |
+| [Auto-research with codex: How I achieved a 232x Faster Kernel](https://sankalp.bearblog.dev/autoresearch/) | 388 | [86 comments](https://news.ycombinator.com/item?id=49309549) |
+| [Tracking down a Zsh history data loss bug](https://michael.stapelberg.ch/posts/2026-08-09-zsh-history-truncation-bug/) | 25 | [3 comments](https://news.ycombinator.com/item?id=49314579) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 27.0°C (81.0°F) |
-| Average Humidity | 56% |
+| Average Temperature | 21.0°C (69.0°F) |
+| Average Humidity | 67% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-15 00:44:05 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-16 00:46:16 UTC*
