@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-17 00:43:42 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-18 00:42:55 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 131,601 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [guillaumemeyer/watermarks-remover](https://github.com/guillaumemeyer/watermarks-remover) | 11,469 | Python | Strip multi-vendor AI provenance marks: Unicode text hygiene, statistical rewrit... |
-| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 8,926 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 5,136 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 3,427 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 150,029 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 11,659 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 7,582 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 5,368 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector... |
+| [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4,106 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-17 00:43:42 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-18 00:42:55 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [A 3rd World Embedded Engineer Responds to "RISC-V They Should Have Known Better"](https://rvembedded.com/blog_post/12/) | 351 | [182 comments](https://news.ycombinator.com/item?id=49321717) |
-| [Claude: System Prompts](https://platform.claude.com/docs/en/release-notes/system-prompts) | 523 | [219 comments](https://news.ycombinator.com/item?id=49319556) |
-| [SIMD in the 90s: Programming Intel's Pentium MMX](https://pikuma.com/blog/programming-intel-pentium-mmx-simd) | 64 | [27 comments](https://news.ycombinator.com/item?id=49285096) |
-| [Low-Tech Ceramic Water Filter](https://wiki.lowtechlab.org/wiki/Filtre_%C3%A0_eau_c%C3%A9ramique/en) | 85 | [21 comments](https://news.ycombinator.com/item?id=49259980) |
-| [A quick look at zero-knowledge proofs](https://bernsteinbear.com/blog/zkp/) | 35 | [11 comments](https://news.ycombinator.com/item?id=49303776) |
-| [Protobuf has LSP support. You're welcome](https://buf.build/blog/protobuf-lsp) | 102 | [74 comments](https://news.ycombinator.com/item?id=49322573) |
-| [The AI Credit Resale Economy](https://vectoral.com/blog/who-are-the-token-brokers) | 221 | [88 comments](https://news.ycombinator.com/item?id=49320611) |
-| [Models Are Getting Dumber on Purpose](https://w4g1.dev/blog/models-are-getting-dumber-on-purpose) | 251 | [143 comments](https://news.ycombinator.com/item?id=49322695) |
-| [MathCode, Mathematical Coding Agent](https://math-ai-org.github.io/mathcode/) | 54 | [17 comments](https://news.ycombinator.com/item?id=49322330) |
-| [Dancing with friends and enemies: boids' swarm intelligence](https://community.wolfram.com/groups/-/m/t/122095) | 4 | [0 comments](https://news.ycombinator.com/item?id=49257362) |
+| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 169 | [127 comments](https://news.ycombinator.com/item?id=49338459) |
+| [Cursor Origin](https://cursor.com/docs/origin) | 40 | [16 comments](https://news.ycombinator.com/item?id=49339359) |
+| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | 110 | [50 comments](https://news.ycombinator.com/item?id=49338328) |
+| [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) | 65 | [14 comments](https://news.ycombinator.com/item?id=49338285) |
+| [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) | 151 | [33 comments](https://news.ycombinator.com/item?id=49334991) |
+| [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) | 517 | [91 comments](https://news.ycombinator.com/item?id=49330781) |
+| [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) | 520 | [903 comments](https://news.ycombinator.com/item?id=49330597) |
+| [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) | 307 | [123 comments](https://news.ycombinator.com/item?id=49331423) |
+| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 56 | [10 comments](https://news.ycombinator.com/item?id=49337602) |
+| [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | 558 | [343 comments](https://news.ycombinator.com/item?id=49336573) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 20.0°C (69.0°F) |
-| Average Humidity | 67% |
+| Average Temperature | 22.0°C (72.0°F) |
+| Average Humidity | 74% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-17 00:43:42 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-18 00:42:55 UTC*

@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-18 00:42 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-18T00:42:51.919185",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "deepseek-ai/deepseek-harness",
       "stars": 150029,
@@ -80,88 +81,6 @@
       "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
       "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
       "created_at": "2026-08-13T13:50:42Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "How Bluesky draws its logo on screenshots",
-      "url": "https://timmarinin.net/2026/bluesky-screenshots/",
-      "score": 169,
-      "comments": 127,
-      "by": "gavide",
-      "hn_url": "https://news.ycombinator.com/item?id=49338459"
-    },
-    {
-      "title": "Cursor Origin",
-      "url": "https://cursor.com/docs/origin",
-      "score": 40,
-      "comments": 16,
-      "by": "peterspath",
-      "hn_url": "https://news.ycombinator.com/item?id=49339359"
-    },
-    {
-      "title": "Quake Shareware, a CD-ROM just a little too full",
-      "url": "https://fabiensanglard.net/quake_shareware_cd/index.html",
-      "score": 110,
-      "comments": 50,
-      "by": "shdon",
-      "hn_url": "https://news.ycombinator.com/item?id=49338328"
-    },
-    {
-      "title": "Fairphone 6 and PostmarketOS working main camera",
-      "url": "https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera",
-      "score": 65,
-      "comments": 14,
-      "by": "pizzaiolo",
-      "hn_url": "https://news.ycombinator.com/item?id=49338285"
-    },
-    {
-      "title": "GPU Offload in Rust: Portable, Safe, and Fast",
-      "url": "https://arxiv.org/abs/2608.13759",
-      "score": 151,
-      "comments": 33,
-      "by": "linggen",
-      "hn_url": "https://news.ycombinator.com/item?id=49334991"
-    },
-    {
-      "title": "A Preview of DuckDB v2.0",
-      "url": "https://duckdb.org/2026/08/17/duckdb-20-highlights",
-      "score": 517,
-      "comments": 91,
-      "by": "ibotty",
-      "hn_url": "https://news.ycombinator.com/item?id=49330781"
-    },
-    {
-      "title": "Incident with Github.com",
-      "url": "https://www.githubstatus.com/incidents/zkxwbgr0cnmx",
-      "score": 520,
-      "comments": 903,
-      "by": "SpyCoder77",
-      "hn_url": "https://news.ycombinator.com/item?id=49330597"
-    },
-    {
-      "title": "AI-Generated GitHub Copilot \u201cAutofix\u201d Allowed Compromise of Snowflake's Jira",
-      "url": "https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug",
-      "score": 307,
-      "comments": 123,
-      "by": "galnagli",
-      "hn_url": "https://news.ycombinator.com/item?id=49331423"
-    },
-    {
-      "title": "GPT-5.6 Sol Pricing Cut by 50%",
-      "url": "https://openrouter.ai/openai/gpt-5.6-sol",
-      "score": 56,
-      "comments": 10,
-      "by": "Topfi",
-      "hn_url": "https://news.ycombinator.com/item?id=49337602"
-    },
-    {
-      "title": "AI;DR (AI; Didn't Read)",
-      "url": "https://www.rickmanelius.com/p/aidr-ai-didnt-read",
-      "score": 558,
-      "comments": 343,
-      "by": "mooreds",
-      "hn_url": "https://news.ycombinator.com/item?id=49336573"
     }
   ]
 }
