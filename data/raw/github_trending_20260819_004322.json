@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-19 00:43 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-19T00:43:22.352524",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "deepseek-ai/deepseek-harness",
       "stars": 160428,
@@ -80,88 +81,6 @@
       "description": "DSH Web \u9cb8\u9c7c\u5a18\u76ae\u80a4\u7cfb\u5217(\u6df1\u6d77\u5973\u4ec6\u5de5\u574a maid-atelier)\u2014\u2014CC BY-NC-SA 4.0",
       "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
       "created_at": "2026-08-13T13:02:14Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "A 3D fruit fly on macOS desktop powered by the real FlyWire connectome",
-      "url": "https://github.com/DenisSergeevitch/desktop-fly",
-      "score": 114,
-      "comments": 30,
-      "by": "phoenix120",
-      "hn_url": "https://news.ycombinator.com/item?id=49353221"
-    },
-    {
-      "title": "Solo \u2013 a .so loader for static Linux binaries",
-      "url": "https://github.com/pg83/solo",
-      "score": 16,
-      "comments": 5,
-      "by": "zX41ZdbW",
-      "hn_url": "https://news.ycombinator.com/item?id=49354613"
-    },
-    {
-      "title": "The Amazon tax",
-      "url": "https://seths.blog/2026/08/the-amazon-tax/",
-      "score": 886,
-      "comments": 525,
-      "by": "herbertl",
-      "hn_url": "https://news.ycombinator.com/item?id=49345263"
-    },
-    {
-      "title": "How does IKEA come up with names for its products?",
-      "url": "https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html",
-      "score": 215,
-      "comments": 131,
-      "by": "NaOH",
-      "hn_url": "https://news.ycombinator.com/item?id=49349984"
-    },
-    {
-      "title": "Show HN: Interactive, animated architecture of any HuggingFace models",
-      "url": "https://modelmap.cc",
-      "score": 14,
-      "comments": 0,
-      "by": "lizhaoliu",
-      "hn_url": "https://news.ycombinator.com/item?id=49354664"
-    },
-    {
-      "title": "Being ambitious and being a dad",
-      "url": "https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/",
-      "score": 230,
-      "comments": 121,
-      "by": "nichochar",
-      "hn_url": "https://news.ycombinator.com/item?id=49321298"
-    },
-    {
-      "title": "Turbovec \u2013 Google's TurboQuant for vector search in Rust",
-      "url": "https://github.com/RyanCodrai/turbovec",
-      "score": 196,
-      "comments": 27,
-      "by": "fittingopposite",
-      "hn_url": "https://news.ycombinator.com/item?id=49349898"
-    },
-    {
-      "title": "Using the railway network as a flatbed scanner",
-      "url": "https://philo.gay/linecam/",
-      "score": 389,
-      "comments": 62,
-      "by": "otherayden",
-      "hn_url": "https://news.ycombinator.com/item?id=49344825"
-    },
-    {
-      "title": "Beware Management Consultants",
-      "url": "https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/",
-      "score": 428,
-      "comments": 117,
-      "by": "KolmogorovComp",
-      "hn_url": "https://news.ycombinator.com/item?id=49351324"
-    },
-    {
-      "title": "AI usage patterns in software teams",
-      "url": "https://linear.app/data",
-      "score": 25,
-      "comments": 15,
-      "by": "giuliomagnifico",
-      "hn_url": "https://news.ycombinator.com/item?id=49353432"
     }
   ]
 }

@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-18 00:42:55 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-19 00:43:25 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 150,029 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 11,659 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 7,582 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 5,368 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector... |
-| [zhu1090093659/dsh-web-ui](https://github.com/zhu1090093659/dsh-web-ui) | 4,106 | TypeScript | Plugin and skin collection for DeepSeek Harness (DSH) Web UI - task board, git g... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 160,428 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 13,593 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 8,897 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 6,037 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector... |
+| [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3,559 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-18 00:42:55 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-19 00:43:25 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [How Bluesky draws its logo on screenshots](https://timmarinin.net/2026/bluesky-screenshots/) | 169 | [127 comments](https://news.ycombinator.com/item?id=49338459) |
-| [Cursor Origin](https://cursor.com/docs/origin) | 40 | [16 comments](https://news.ycombinator.com/item?id=49339359) |
-| [Quake Shareware, a CD-ROM just a little too full](https://fabiensanglard.net/quake_shareware_cd/index.html) | 110 | [50 comments](https://news.ycombinator.com/item?id=49338328) |
-| [Fairphone 6 and PostmarketOS working main camera](https://catcrafts.net/posts/fairphone-6-postmarketos-working-main-camera) | 65 | [14 comments](https://news.ycombinator.com/item?id=49338285) |
-| [GPU Offload in Rust: Portable, Safe, and Fast](https://arxiv.org/abs/2608.13759) | 151 | [33 comments](https://news.ycombinator.com/item?id=49334991) |
-| [A Preview of DuckDB v2.0](https://duckdb.org/2026/08/17/duckdb-20-highlights) | 517 | [91 comments](https://news.ycombinator.com/item?id=49330781) |
-| [Incident with Github.com](https://www.githubstatus.com/incidents/zkxwbgr0cnmx) | 520 | [903 comments](https://news.ycombinator.com/item?id=49330597) |
-| [AI-Generated GitHub Copilot “Autofix” Allowed Compromise of Snowflake's Jira](https://www.wiz.io/blog/red-agent-snowflake-copilot-cicd-bug) | 307 | [123 comments](https://news.ycombinator.com/item?id=49331423) |
-| [GPT-5.6 Sol Pricing Cut by 50%](https://openrouter.ai/openai/gpt-5.6-sol) | 56 | [10 comments](https://news.ycombinator.com/item?id=49337602) |
-| [AI;DR (AI; Didn't Read)](https://www.rickmanelius.com/p/aidr-ai-didnt-read) | 558 | [343 comments](https://news.ycombinator.com/item?id=49336573) |
+| [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | 114 | [30 comments](https://news.ycombinator.com/item?id=49353221) |
+| [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | 16 | [5 comments](https://news.ycombinator.com/item?id=49354613) |
+| [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | 886 | [525 comments](https://news.ycombinator.com/item?id=49345263) |
+| [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) | 215 | [131 comments](https://news.ycombinator.com/item?id=49349984) |
+| [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) | 14 | [0 comments](https://news.ycombinator.com/item?id=49354664) |
+| [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) | 230 | [121 comments](https://news.ycombinator.com/item?id=49321298) |
+| [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) | 196 | [27 comments](https://news.ycombinator.com/item?id=49349898) |
+| [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) | 389 | [62 comments](https://news.ycombinator.com/item?id=49344825) |
+| [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) | 428 | [117 comments](https://news.ycombinator.com/item?id=49351324) |
+| [AI usage patterns in software teams](https://linear.app/data) | 25 | [15 comments](https://news.ycombinator.com/item?id=49353432) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 22.0°C (72.0°F) |
-| Average Humidity | 74% |
+| Average Temperature | 26.0°C (80.0°F) |
+| Average Humidity | 57% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-18 00:42:55 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-19 00:43:25 UTC*
