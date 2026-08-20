@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-19 00:43:25 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-20 00:43:01 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 160,428 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 13,593 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 8,897 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 6,037 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector... |
-| [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3,559 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard... |
+| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 7,542 | N/A | Open Frontier Intelligence |
+| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 2,406 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
+| [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) | 934 | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play. |
+| [xikhar/persona](https://github.com/xikhar/persona) | 676 | JavaScript | Bringing real-time voice to life. |
+| [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | 564 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-19 00:43:25 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-20 00:43:01 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [A 3D fruit fly on macOS desktop powered by the real FlyWire connectome](https://github.com/DenisSergeevitch/desktop-fly) | 114 | [30 comments](https://news.ycombinator.com/item?id=49353221) |
-| [Solo – a .so loader for static Linux binaries](https://github.com/pg83/solo) | 16 | [5 comments](https://news.ycombinator.com/item?id=49354613) |
-| [The Amazon tax](https://seths.blog/2026/08/the-amazon-tax/) | 886 | [525 comments](https://news.ycombinator.com/item?id=49345263) |
-| [How does IKEA come up with names for its products?](https://www.ikea.com/se/en/customer-service/knowledge/articles/6f564c4d-2ccc-46de-b643-545a3948dc79.html) | 215 | [131 comments](https://news.ycombinator.com/item?id=49349984) |
-| [Show HN: Interactive, animated architecture of any HuggingFace models](https://modelmap.cc) | 14 | [0 comments](https://news.ycombinator.com/item?id=49354664) |
-| [Being ambitious and being a dad](https://nicholascharriere.com/blog/being-ambitious-and-being-a-dad/) | 230 | [121 comments](https://news.ycombinator.com/item?id=49321298) |
-| [Turbovec – Google's TurboQuant for vector search in Rust](https://github.com/RyanCodrai/turbovec) | 196 | [27 comments](https://news.ycombinator.com/item?id=49349898) |
-| [Using the railway network as a flatbed scanner](https://philo.gay/linecam/) | 389 | [62 comments](https://news.ycombinator.com/item?id=49344825) |
-| [Beware Management Consultants](https://about.iceland.co.uk/our-story/the-dark-ages/beware-management-consultants/) | 428 | [117 comments](https://news.ycombinator.com/item?id=49351324) |
-| [AI usage patterns in software teams](https://linear.app/data) | 25 | [15 comments](https://news.ycombinator.com/item?id=49353432) |
+| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | 597 | [317 comments](https://news.ycombinator.com/item?id=49364559) |
+| [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724) | 49 | [11 comments](https://news.ycombinator.com/item?id=49368625) |
+| [Go 1.27](https://go.dev/blog/go1.27) | 420 | [102 comments](https://news.ycombinator.com/item?id=49365405) |
+| [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) | 271 | [107 comments](https://news.ycombinator.com/item?id=49364745) |
+| [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | 122 | [33 comments](https://news.ycombinator.com/item?id=49365841) |
+| [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | 173 | [64 comments](https://news.ycombinator.com/item?id=49365443) |
+| [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) | 37 | [22 comments](https://news.ycombinator.com/item?id=49367256) |
+| [Sol Loves to Cheat](https://jumploops.com/blog/sol-loves-to-cheat/) | 65 | [35 comments](https://news.ycombinator.com/item?id=49348189) |
+| [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | 732 | [112 comments](https://news.ycombinator.com/item?id=49360015) |
+| [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) | 264 | [212 comments](https://news.ycombinator.com/item?id=49362887) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 26.0°C (80.0°F) |
-| Average Humidity | 57% |
+| Average Temperature | 23.0°C (74.0°F) |
+| Average Humidity | 60% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-19 00:43:25 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-20 00:43:01 UTC*

@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-08-20T00:43:00.561688",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "OpenRouter is joining Stripe",
+      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
+      "score": 597,
+      "comments": 317,
+      "by": "rvz",
+      "hn_url": "https://news.ycombinator.com/item?id=49364559"
+    },
+    {
+      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
+      "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
+      "score": 49,
+      "comments": 11,
+      "by": "cocacola1",
+      "hn_url": "https://news.ycombinator.com/item?id=49368625"
+    },
+    {
+      "title": "Go 1.27",
+      "url": "https://go.dev/blog/go1.27",
+      "score": 420,
+      "comments": 102,
+      "by": "database64128",
+      "hn_url": "https://news.ycombinator.com/item?id=49365405"
+    },
+    {
+      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
+      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
+      "score": 271,
+      "comments": 107,
+      "by": "Animux",
+      "hn_url": "https://news.ycombinator.com/item?id=49364745"
+    },
+    {
+      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
+      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
+      "score": 122,
+      "comments": 33,
+      "by": "1e1a",
+      "hn_url": "https://news.ycombinator.com/item?id=49365841"
+    },
+    {
+      "title": "Unsloth Dynamic 3.0 GGUFs",
+      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
+      "score": 173,
+      "comments": 64,
+      "by": "jonesy827",
+      "hn_url": "https://news.ycombinator.com/item?id=49365443"
+    },
+    {
+      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
+      "url": "https://os8088.com/spotlight/",
+      "score": 37,
+      "comments": 22,
+      "by": "jggonz",
+      "hn_url": "https://news.ycombinator.com/item?id=49367256"
+    },
+    {
+      "title": "Sol Loves to Cheat",
+      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
+      "score": 65,
+      "comments": 35,
+      "by": "jumploops",
+      "hn_url": "https://news.ycombinator.com/item?id=49348189"
+    },
+    {
+      "title": "A joke domain purchase turned in geopolitical warfare",
+      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
+      "score": 732,
+      "comments": 112,
+      "by": "kareiva",
+      "hn_url": "https://news.ycombinator.com/item?id=49360015"
+    },
+    {
+      "title": "Casio F-B100W-1A",
+      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
+      "score": 264,
+      "comments": 212,
+      "by": "__fst__",
+      "hn_url": "https://news.ycombinator.com/item?id=49362887"
+    }
+  ]
+}
