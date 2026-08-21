@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-20 00:43:01 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-21 00:47:33 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [MoonshotAI/Kimi-K3](https://github.com/MoonshotAI/Kimi-K3) | 7,542 | N/A | Open Frontier Intelligence |
-| [mshumer/Claude-of-Duty](https://github.com/mshumer/Claude-of-Duty) | 2,406 | JavaScript | A Call of Duty-quality FPS in Three.js, built from a single prompt. |
-| [VictorTaelin/OptMem](https://github.com/VictorTaelin/OptMem) | 934 | Python | Permanent memory for AI agents. A 426-token prompt, a script, plug and play. |
-| [xikhar/persona](https://github.com/xikhar/persona) | 676 | JavaScript | Bringing real-time voice to life. |
-| [0xwilliamortiz/ponytail-improved](https://github.com/0xwilliamortiz/ponytail-improved) | 564 | JavaScript | Makes your AI agent think like the laziest senior dev in the room. The best code... |
+| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 160,428 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
+| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 13,593 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
+| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 8,897 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
+| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 6,037 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector... |
+| [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3,559 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-20 00:43:01 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-21 00:47:33 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [OpenRouter is joining Stripe](https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/) | 597 | [317 comments](https://news.ycombinator.com/item?id=49364559) |
-| [Gardner police discontinue Flock cameras as license plate readers face scrutiny](https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724) | 49 | [11 comments](https://news.ycombinator.com/item?id=49368625) |
-| [Go 1.27](https://go.dev/blog/go1.27) | 420 | [102 comments](https://news.ycombinator.com/item?id=49365405) |
-| [Google replaced Git tags for certain source code with obtaining via Google Drive](https://grapheneos.social/@GrapheneOS/117057099753905023) | 271 | [107 comments](https://news.ycombinator.com/item?id=49364745) |
-| [Unlocking a locked/deactivated e-waste Cricut Maker](https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/) | 122 | [33 comments](https://news.ycombinator.com/item?id=49365841) |
-| [Unsloth Dynamic 3.0 GGUFs](https://unsloth.ai/docs/basics/dynamic-3.0-ggufs) | 173 | [64 comments](https://news.ycombinator.com/item?id=49365443) |
-| [Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a](https://os8088.com/spotlight/) | 37 | [22 comments](https://news.ycombinator.com/item?id=49367256) |
-| [Sol Loves to Cheat](https://jumploops.com/blog/sol-loves-to-cheat/) | 65 | [35 comments](https://news.ycombinator.com/item?id=49348189) |
-| [A joke domain purchase turned in geopolitical warfare](https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/) | 732 | [112 comments](https://news.ycombinator.com/item?id=49360015) |
-| [Casio F-B100W-1A](https://www.casio.com/uk/watches/casio/product.F-B100W-1A/) | 264 | [212 comments](https://news.ycombinator.com/item?id=49362887) |
+| [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | 291 | [335 comments](https://news.ycombinator.com/item?id=49378957) |
+| [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) | 20 | [10 comments](https://news.ycombinator.com/item?id=49382041) |
+| [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) | 205 | [22 comments](https://news.ycombinator.com/item?id=49378243) |
+| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | 545 | [252 comments](https://news.ycombinator.com/item?id=49347543) |
+| [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) | 852 | [197 comments](https://news.ycombinator.com/item?id=49379550) |
+| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | 864 | [281 comments](https://news.ycombinator.com/item?id=49372583) |
+| [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) | 188 | [71 comments](https://news.ycombinator.com/item?id=49377853) |
+| [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | 552 | [155 comments](https://news.ycombinator.com/item?id=49362689) |
+| [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) | 383 | [357 comments](https://news.ycombinator.com/item?id=49374269) |
+| [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink) | 321 | [206 comments](https://news.ycombinator.com/item?id=49368886) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 23.0°C (74.0°F) |
-| Average Humidity | 60% |
+| Average Temperature | 28.0°C (82.0°F) |
+| Average Humidity | 53% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-20 00:43:01 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-21 00:47:33 UTC*

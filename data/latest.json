@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-08-20 00:43 UTC",
+  "updated_at": "2026-08-21 00:47 UTC",
   "github_trending": [
     {
-      "name": "MoonshotAI/Kimi-K3",
-      "stars": 7542,
+      "name": "deepseek-ai/deepseek-harness",
+      "stars": 160428,
+      "language": "TypeScript",
+      "description": "DeepSeek Harness: Everything is a Plugin.",
+      "url": "https://github.com/deepseek-ai/deepseek-harness",
+      "created_at": "2026-08-13T11:56:32Z"
+    },
+    {
+      "name": "anywhere-labs/deepseek-harness-desktop",
+      "stars": 13593,
+      "language": "TypeScript",
+      "description": "\u4e3a DeepSeek Harness (DSH) \u63d2\u4ef6\u751f\u6001\u6253\u9020\u7684\u73b0\u4ee3\u5316\u684c\u9762\u7aef\u89e3\u51b3\u65b9\u6848\u3002\u4e07\u7269\u7686\u300c\u63d2\u4ef6\u300d\uff0c\u684c\u9762\u672c\u8eab\u4e5f\u662f\u300c\u63d2\u4ef6\u300d\u3002",
+      "url": "https://github.com/anywhere-labs/deepseek-harness-desktop",
+      "created_at": "2026-08-13T16:30:50Z"
+    },
+    {
+      "name": "awesome-dsh-plugin/awesome-dsh-plugin",
+      "stars": 8897,
+      "language": "Python",
+      "description": "A curated list of plugins for DeepSeek Harness (dsh) \u00b7 DeepSeek Harness \u63d2\u4ef6\u7cbe\u9009\u5217\u8868",
+      "url": "https://github.com/awesome-dsh-plugin/awesome-dsh-plugin",
+      "created_at": "2026-08-13T13:55:31Z"
+    },
+    {
+      "name": "yjh051108/dsh-routing-suite",
+      "stars": 6037,
+      "language": "PowerShell",
+      "description": "dsh-routing-suite \u2014 injector + router-standard kit: install the runtime injector first, then the tas",
+      "url": "https://github.com/yjh051108/dsh-routing-suite",
+      "created_at": "2026-08-14T21:20:55Z"
+    },
+    {
+      "name": "xiaobright/dsh-anchored-standard",
+      "stars": 3559,
+      "language": "JavaScript",
+      "description": "Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard tools (Project2 98/",
+      "url": "https://github.com/xiaobright/dsh-anchored-standard",
+      "created_at": "2026-08-14T14:06:39Z"
+    },
+    {
+      "name": "yetone/cumora",
+      "stars": 2368,
+      "language": "TypeScript",
+      "description": "Where agent teams gather. Cross-platform team chat where AI agents are first-class teammates \u2014 with ",
+      "url": "https://github.com/yetone/cumora",
+      "created_at": "2026-08-17T09:13:52Z"
+    },
+    {
+      "name": "cordiverse/paper",
+      "stars": 2296,
       "language": "N/A",
-      "description": "Open Frontier Intelligence",
-      "url": "https://github.com/MoonshotAI/Kimi-K3",
-      "created_at": "2026-07-27T08:01:37Z"
+      "description": "A Programming Paradigm for Spatiotemporal Composability",
+      "url": "https://github.com/cordiverse/paper",
+      "created_at": "2026-08-13T09:53:33Z"
     },
     {
-      "name": "mshumer/Claude-of-Duty",
-      "stars": 2406,
-      "language": "JavaScript",
-      "description": "A Call of Duty-quality FPS in Three.js, built from a single prompt.",
-      "url": "https://github.com/mshumer/Claude-of-Duty",
-      "created_at": "2026-07-25T19:32:36Z"
-    },
-    {
-      "name": "VictorTaelin/OptMem",
-      "stars": 934,
-      "language": "Python",
-      "description": "Permanent memory for AI agents. A 426-token prompt, a script, plug and play.",
-      "url": "https://github.com/VictorTaelin/OptMem",
-      "created_at": "2026-07-25T16:58:43Z"
-    },
-    {
-      "name": "xikhar/persona",
-      "stars": 676,
-      "language": "JavaScript",
-      "description": "Bringing real-time voice to life.",
-      "url": "https://github.com/xikhar/persona",
-      "created_at": "2026-07-28T11:40:19Z"
-    },
-    {
-      "name": "0xwilliamortiz/ponytail-improved",
-      "stars": 564,
-      "language": "JavaScript",
-      "description": "Makes your AI agent think like the laziest senior dev in the room. The best code is the code you nev",
-      "url": "https://github.com/0xwilliamortiz/ponytail-improved",
-      "created_at": "2026-07-28T14:16:19Z"
-    },
-    {
-      "name": "0xwilliamortiz/openclaude-improved",
-      "stars": 562,
+      "name": "ccch1mneyyy/dsh-TUI",
+      "stars": 1972,
       "language": "TypeScript",
-      "description": "runs anywhere. uses anything",
-      "url": "https://github.com/0xwilliamortiz/openclaude-improved",
-      "created_at": "2026-07-26T21:58:28Z"
+      "description": "DSH \u5b98\u65b9\u516c\u4f17\u53f7\u6536\u5f55\u7684 TUI \u8865\u4f4d\u63d2\u4ef6\uff1aClaude Code \u98ce\uff0c\u9cb8\u9c7c\u9876\u680f/\u5b9e\u65f6\u72b6\u6001/\u6d41\u5f0f\u601d\u8003/\u53cc\u51fb Esc \u56de\u6eda/\u4e0a\u4e0b\u6587\u8fdb\u5ea6+TPS\u3002npm \u4e00\u952e\u88c5\u3002  DSH official WeChat",
+      "url": "https://github.com/ccch1mneyyy/dsh-TUI",
+      "created_at": "2026-08-13T12:49:31Z"
     },
     {
-      "name": "talivia-group/talivia",
-      "stars": 489,
+      "name": "xoreaxeaxeax/skitter-creek-bath-salts",
+      "stars": 1824,
+      "language": "C",
+      "description": "Unlocking _everything_ on the CPU with DRAM scrambling",
+      "url": "https://github.com/xoreaxeaxeax/skitter-creek-bath-salts",
+      "created_at": "2026-08-13T13:50:42Z"
+    },
+    {
+      "name": "Small-tailqwq/dsh-deep-whale",
+      "stars": 1380,
       "language": "TypeScript",
-      "description": "Open-source, self-hosted revenue-first analytics for founders: web analytics, Session Replay, revenu",
-      "url": "https://github.com/talivia-group/talivia",
-      "created_at": "2026-07-29T07:56:49Z"
-    },
-    {
-      "name": "gavamedia/deltafin",
-      "stars": 482,
-      "language": "Python",
-      "description": "Run full Kimi K3 on a single device. And an OpenAI-compatible API server for local chat and coding a",
-      "url": "https://github.com/gavamedia/deltafin",
-      "created_at": "2026-07-28T01:01:23Z"
-    },
-    {
-      "name": "NikolayS/PGSimCity",
-      "stars": 440,
-      "language": "TypeScript",
-      "description": "An explorable 3D city that shows how Postgres actually works",
-      "url": "https://github.com/NikolayS/PGSimCity",
-      "created_at": "2026-07-25T22:15:09Z"
-    },
-    {
-      "name": "wassgha/rescript",
-      "stars": 405,
-      "language": "TypeScript",
-      "description": "\ud83c\udfac Open source, transcript-based video/audio editor that lives in the browser.",
-      "url": "https://github.com/wassgha/rescript",
-      "created_at": "2026-07-26T22:43:11Z"
+      "description": "DSH Web \u9cb8\u9c7c\u5a18\u76ae\u80a4\u7cfb\u5217(\u6df1\u6d77\u5973\u4ec6\u5de5\u574a maid-atelier)\u2014\u2014CC BY-NC-SA 4.0",
+      "url": "https://github.com/Small-tailqwq/dsh-deep-whale",
+      "created_at": "2026-08-13T13:02:14Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "OpenRouter is joining Stripe",
-      "url": "https://openrouter.ai/blog/announcements/openrouter-is-joining-stripe/",
-      "score": 597,
-      "comments": 317,
-      "by": "rvz",
-      "hn_url": "https://news.ycombinator.com/item?id=49364559"
+      "title": "The August 17 outage, and the work ahead",
+      "url": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "score": 291,
+      "comments": 335,
+      "by": "0xedb",
+      "hn_url": "https://news.ycombinator.com/item?id=49378957"
     },
     {
-      "title": "Gardner police discontinue Flock cameras as license plate readers face scrutiny",
-      "url": "https://www.kmbc.com/article/gardner-kansas-flock-cameras-license-plate-readers-privacy/73468724",
-      "score": 49,
-      "comments": 11,
-      "by": "cocacola1",
-      "hn_url": "https://news.ycombinator.com/item?id=49368625"
+      "title": "Copyright does not protect AI-generated content in EU",
+      "url": "https://mathstodon.xyz/@maxpool/117128107757895678",
+      "score": 20,
+      "comments": 10,
+      "by": "u1hcw9nx",
+      "hn_url": "https://news.ycombinator.com/item?id=49382041"
     },
     {
-      "title": "Go 1.27",
-      "url": "https://go.dev/blog/go1.27",
-      "score": 420,
-      "comments": 102,
-      "by": "database64128",
-      "hn_url": "https://news.ycombinator.com/item?id=49365405"
-    },
-    {
-      "title": "Google replaced Git tags for certain source code with obtaining via Google Drive",
-      "url": "https://grapheneos.social/@GrapheneOS/117057099753905023",
-      "score": 271,
-      "comments": 107,
-      "by": "Animux",
-      "hn_url": "https://news.ycombinator.com/item?id=49364745"
-    },
-    {
-      "title": "Unlocking a locked/deactivated e-waste Cricut Maker",
-      "url": "https://sprocketfox.io/xssfox/2026/07/01/cricut-unlock/",
-      "score": 122,
-      "comments": 33,
-      "by": "1e1a",
-      "hn_url": "https://news.ycombinator.com/item?id=49365841"
-    },
-    {
-      "title": "Unsloth Dynamic 3.0 GGUFs",
-      "url": "https://unsloth.ai/docs/basics/dynamic-3.0-ggufs",
-      "score": 173,
-      "comments": 64,
-      "by": "jonesy827",
-      "hn_url": "https://news.ycombinator.com/item?id=49365443"
-    },
-    {
-      "title": "Os8088.com: IBM XT OS now has a Browser, CP/M 2.2 with Z80 core and MS Word 1.1a",
-      "url": "https://os8088.com/spotlight/",
-      "score": 37,
+      "title": "Consumer Rights Wiki",
+      "url": "https://consumerrights.wiki/w/Main_Page",
+      "score": 205,
       "comments": 22,
-      "by": "jggonz",
-      "hn_url": "https://news.ycombinator.com/item?id=49367256"
+      "by": "gregsadetsky",
+      "hn_url": "https://news.ycombinator.com/item?id=49378243"
     },
     {
-      "title": "Sol Loves to Cheat",
-      "url": "https://jumploops.com/blog/sol-loves-to-cheat/",
-      "score": 65,
-      "comments": 35,
-      "by": "jumploops",
-      "hn_url": "https://news.ycombinator.com/item?id=49348189"
+      "title": "I like 'em thick: an apology to my English teachers",
+      "url": "https://www.experimental-history.com/p/i-like-em-thick",
+      "score": 545,
+      "comments": 252,
+      "by": "Ariarule",
+      "hn_url": "https://news.ycombinator.com/item?id=49347543"
     },
     {
-      "title": "A joke domain purchase turned in geopolitical warfare",
-      "url": "https://sprocketfox.io/xssfox/2026/08/19/sondehub-and-war/",
-      "score": 732,
-      "comments": 112,
-      "by": "kareiva",
-      "hn_url": "https://news.ycombinator.com/item?id=49360015"
+      "title": "Aaron Swartz was prosecuted for scraping, while Meta does it without consequence",
+      "url": "https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/",
+      "score": 852,
+      "comments": 197,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=49379550"
     },
     {
-      "title": "Casio F-B100W-1A",
-      "url": "https://www.casio.com/uk/watches/casio/product.F-B100W-1A/",
-      "score": 264,
-      "comments": 212,
-      "by": "__fst__",
-      "hn_url": "https://news.ycombinator.com/item?id=49362887"
+      "title": "AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint",
+      "url": "https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html",
+      "score": 864,
+      "comments": 281,
+      "by": "emctech",
+      "hn_url": "https://news.ycombinator.com/item?id=49372583"
+    },
+    {
+      "title": "I should have loved biology (2020)",
+      "url": "https://jsomers.net/i-should-have-loved-biology/",
+      "score": 188,
+      "comments": 71,
+      "by": "tyre",
+      "hn_url": "https://news.ycombinator.com/item?id=49377853"
+    },
+    {
+      "title": "HTML Can Do That",
+      "url": "https://chrisburnell.com/html-can-do-that/",
+      "score": 552,
+      "comments": 155,
+      "by": "encyclopedism",
+      "hn_url": "https://news.ycombinator.com/item?id=49362689"
+    },
+    {
+      "title": "Malicious Rust crate Arrayref runs a build-time payload",
+      "url": "https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/",
+      "score": 383,
+      "comments": 357,
+      "by": "abhisek",
+      "hn_url": "https://news.ycombinator.com/item?id=49374269"
+    },
+    {
+      "title": "CIA funding helped keep NeXT afloat in the 80s",
+      "url": "https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink",
+      "score": 321,
+      "comments": 206,
+      "by": "EwanG",
+      "hn_url": "https://news.ycombinator.com/item?id=49368886"
     }
   ]
 }
