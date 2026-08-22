@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-21 00:47:33 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-22 00:43:34 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [deepseek-ai/deepseek-harness](https://github.com/deepseek-ai/deepseek-harness) | 160,428 | TypeScript | DeepSeek Harness: Everything is a Plugin. |
-| [anywhere-labs/deepseek-harness-desktop](https://github.com/anywhere-labs/deepseek-harness-desktop) | 13,593 | TypeScript | 为 DeepSeek Harness (DSH) 插件生态打造的现代化桌面端解决方案。万物皆「插件」，桌面本身也是「插件」。 |
-| [awesome-dsh-plugin/awesome-dsh-plugin](https://github.com/awesome-dsh-plugin/awesome-dsh-plugin) | 8,897 | Python | A curated list of plugins for DeepSeek Harness (dsh) · DeepSeek Harness 插件精选列表 |
-| [yjh051108/dsh-routing-suite](https://github.com/yjh051108/dsh-routing-suite) | 6,037 | PowerShell | dsh-routing-suite — injector + router-standard kit: install the runtime injector... |
-| [xiaobright/dsh-anchored-standard](https://github.com/xiaobright/dsh-anchored-standard) | 3,559 | JavaScript | Two-phase DeepSeek Harness preset: Minimal-aligned bootstrap, then full Standard... |
+| [s1dashu/ip-as-logo-skill](https://github.com/s1dashu/ip-as-logo-skill) | 3,487 | N/A | A compact Agent Skill for highly simplified, rounded, subtly neo-skeuomorphic IP... |
+| [yetone/cumora](https://github.com/yetone/cumora) | 2,858 | TypeScript | Where agent teams gather. Cross-platform team chat where AI agents are first-cla... |
+| [CopilotKit/OpenBot](https://github.com/CopilotKit/OpenBot) | 2,122 | TypeScript | Open-source AI coworkers that each get a computer of their own: a browser, files... |
+| [cinderline/northcinder](https://github.com/cinderline/northcinder) | 1,203 | JavaScript | Buyer-run, ad-neutral shopping-agent MCP software with deterministic ranking, si... |
+| [Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report](https://github.com/Tiger3807861189/DeepSeek-V4-J-Space-Capability-Realization-Report) | 1,036 | N/A | DeepSeek V4 × J-Space capability realization report — benchmark evidence that J-... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-21 00:47:33 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-22 00:43:34 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [The August 17 outage, and the work ahead](https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/) | 291 | [335 comments](https://news.ycombinator.com/item?id=49378957) |
-| [Copyright does not protect AI-generated content in EU](https://mathstodon.xyz/@maxpool/117128107757895678) | 20 | [10 comments](https://news.ycombinator.com/item?id=49382041) |
-| [Consumer Rights Wiki](https://consumerrights.wiki/w/Main_Page) | 205 | [22 comments](https://news.ycombinator.com/item?id=49378243) |
-| [I like 'em thick: an apology to my English teachers](https://www.experimental-history.com/p/i-like-em-thick) | 545 | [252 comments](https://news.ycombinator.com/item?id=49347543) |
-| [Aaron Swartz was prosecuted for scraping, while Meta does it without consequence](https://blog.curiousquail.com/im-upset-again-about-a-co-creator-of-rss-being-prosecuted-for-something-meta-is-doing-with-little-consequence/) | 852 | [197 comments](https://news.ycombinator.com/item?id=49379550) |
-| [AliExpress runs silent WebAudio fingerprinting that breaks Bluetooth multipoint](https://blog.laserphile.com/2026/08/aliexpress-webpage-keeping-multipoint.html) | 864 | [281 comments](https://news.ycombinator.com/item?id=49372583) |
-| [I should have loved biology (2020)](https://jsomers.net/i-should-have-loved-biology/) | 188 | [71 comments](https://news.ycombinator.com/item?id=49377853) |
-| [HTML Can Do That](https://chrisburnell.com/html-can-do-that/) | 552 | [155 comments](https://news.ycombinator.com/item?id=49362689) |
-| [Malicious Rust crate Arrayref runs a build-time payload](https://safedep.io/arrayref-proc-macro1-rust-build-time-malware/) | 383 | [357 comments](https://news.ycombinator.com/item?id=49374269) |
-| [CIA funding helped keep NeXT afloat in the 80s](https://www.wsj.com/tech/steve-jobs-apple-next-cia-161b65f9?st=NWWds1&reflink=desktopwebshare_permalink) | 321 | [206 comments](https://news.ycombinator.com/item?id=49368886) |
+| [Paul Atkins Misreads Adam Smith and the American Founding](https://sites.duke.edu/thefinregblog/2026/08/03/paul-atkins-misreads-adam-smith-and-the-american-founding/) | 47 | [1 comments](https://news.ycombinator.com/item?id=49395040) |
+| [Kobo can run apps now](https://bandarlabs.github.io/Cobalt/) | 407 | [138 comments](https://news.ycombinator.com/item?id=49390427) |
+| [Felony Bench](https://www.felonybench.com/) | 495 | [221 comments](https://news.ycombinator.com/item?id=49389430) |
+| [Felony charges for citizen deleting phone data at US Border](https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html) | 522 | [708 comments](https://news.ycombinator.com/item?id=49386895) |
+| [Scientists release biggest 2D map of the universe](https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/) | 138 | [44 comments](https://news.ycombinator.com/item?id=49392200) |
+| [Kagi added a setting for removing paywalled links from search results](https://kagi.com/changelog#11296) | 989 | [334 comments](https://news.ycombinator.com/item?id=49388154) |
+| [AI boosted homework scores, then exam scores dropped: study](https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning) | 223 | [283 comments](https://news.ycombinator.com/item?id=49357530) |
+| [Three important steps in my maturation process](https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/) | 25 | [7 comments](https://news.ycombinator.com/item?id=49394496) |
+| [Electric shock gloves in use by police departments in Bellevue, Omaha](https://nebraskapublicmedia.org/en/news/news-articles/electric-shock-gloves-already-in-use-by-police-departments-in-bellevue-omaha/) | 26 | [33 comments](https://news.ycombinator.com/item?id=49394985) |
+| [I accidentally logged hundreds of thousands of phone calls to military bases](https://lina.sh/blog/hijacking-e164-arpa) | 429 | [47 comments](https://news.ycombinator.com/item?id=49387570) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 28.0°C (82.0°F) |
-| Average Humidity | 53% |
+| Average Temperature | 27.0°C (80.0°F) |
+| Average Humidity | 39% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-21 00:47:33 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-22 00:43:34 UTC*
