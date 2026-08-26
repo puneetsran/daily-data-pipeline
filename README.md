@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-25 00:44:37 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-26 00:45:52 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [MengTo/threeui](https://github.com/MengTo/threeui) | 3,452 | HTML | Open-source ThreeUI Community catalog with live interactive components and compl... |
-| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 1,726 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
-| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,224 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha... |
-| [tobi/walgit](https://github.com/tobi/walgit) | 1,050 | Rust | No description |
-| [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 837 | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a s... |
+| [MengTo/threeui](https://github.com/MengTo/threeui) | 3,915 | HTML | Open-source ThreeUI Community catalog with live interactive components and compl... |
+| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 2,546 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
+| [tobi/walgit](https://github.com/tobi/walgit) | 1,548 | Rust | No description |
+| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,381 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha... |
+| [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 913 | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a s... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-25 00:44:37 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-26 00:45:52 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [iCloud+ Hide My Email addresses will remain on icloud.com](https://developer.apple.com/news/?id=1ptvdtcm) | 180 | [36 comments](https://news.ycombinator.com/item?id=49426564) |
-| [Xiaomi: New CPU matches Apple cores single threaded, much faster multithreaded](https://twitter.com/lemire/status/2091894299289874926) | 713 | [476 comments](https://news.ycombinator.com/item?id=49420873) |
-| [Moon (2024)](https://ciechanow.ski/moon/) | 82 | [13 comments](https://news.ycombinator.com/item?id=49426466) |
-| [MS Paint and Photos inivisibly watermark even locally generated output with GUID](https://xusheng.dev/posts/reversing/mspaint_invisible_watermark/main/) | 540 | [218 comments](https://news.ycombinator.com/item?id=49421158) |
-| [The entire city of San Francisco as a video game](https://sf.thijs.gg/) | 323 | [113 comments](https://news.ycombinator.com/item?id=49422784) |
-| [One corner of China’s internet is insisting that the Tang Dynasty never existed](https://www.cnn.com/2026/08/19/style/china-tang-dynasty-never-existed-hoax-intl-hnk) | 115 | [88 comments](https://news.ycombinator.com/item?id=49425819) |
-| [How Europe is killing makers and micro-entrepreneurs](https://lectronz.com/u/lectronz/articles/how-europe-is-killing-makers-and-micro-entrepreneurs) | 1035 | [649 comments](https://news.ycombinator.com/item?id=49419237) |
-| [Bookshelf – Self-hosted eBook library that runs on object storage](https://github.com/murerkinn/bookshelf) | 20 | [3 comments](https://news.ycombinator.com/item?id=49427001) |
-| [Where did all the public bathrooms go?](https://daily.jstor.org/where-did-all-the-public-bathrooms-go/) | 137 | [283 comments](https://news.ycombinator.com/item?id=49422800) |
-| [Jabber/XMPP: 25 Years of Digital Independence](https://gultsch.de/posts/25-years-of-digital-independence/) | 162 | [63 comments](https://news.ycombinator.com/item?id=49421536) |
+| [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) | 231 | [136 comments](https://news.ycombinator.com/item?id=49439017) |
+| [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | 932 | [887 comments](https://news.ycombinator.com/item?id=49433292) |
+| [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) | 126 | [78 comments](https://news.ycombinator.com/item?id=49441033) |
+| [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) | 302 | [205 comments](https://news.ycombinator.com/item?id=49434378) |
+| [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | 695 | [440 comments](https://news.ycombinator.com/item?id=49433316) |
+| [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) | 20 | [1 comments](https://news.ycombinator.com/item?id=49441666) |
+| [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) | 178 | [123 comments](https://news.ycombinator.com/item?id=49437210) |
+| [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) | 47 | [24 comments](https://news.ycombinator.com/item?id=49440410) |
+| [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) | 37 | [7 comments](https://news.ycombinator.com/item?id=49441375) |
+| [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) | 69 | [28 comments](https://news.ycombinator.com/item?id=49439499) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 25.0°C (77.0°F) |
-| Average Humidity | 66% |
+| Average Temperature | 31.0°C (87.0°F) |
+| Average Humidity | 56% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-25 00:44:37 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-26 00:45:52 UTC*
