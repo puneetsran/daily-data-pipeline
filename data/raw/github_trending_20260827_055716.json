@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-27 05:57 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-27T05:57:16.102976",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "MengTo/threeui",
       "stars": 4226,
@@ -80,88 +81,6 @@
       "description": "Try Omarchy on Apple Silicon without any setup.",
       "url": "https://github.com/themartiano/try-omarchy",
       "created_at": "2026-08-23T21:55:30Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Nvidia agrees to acquire Hugging Face for $13B",
-      "url": "https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8",
-      "score": 702,
-      "comments": 290,
-      "by": "mfiguiere",
-      "hn_url": "https://news.ycombinator.com/item?id=49458161"
-    },
-    {
-      "title": "CEO fired developers to make room for AI. Developers create open source AI CEO",
-      "url": "https://github.com/SenteLabsAI/OpenExecutive",
-      "score": 332,
-      "comments": 199,
-      "by": "GrumpySciGuy",
-      "hn_url": "https://news.ycombinator.com/item?id=49458418"
-    },
-    {
-      "title": "Mechanical Turk shutting down September 30",
-      "url": "https://www.mturk.com/",
-      "score": 252,
-      "comments": 79,
-      "by": "tmp10423288442",
-      "hn_url": "https://news.ycombinator.com/item?id=49457545"
-    },
-    {
-      "title": "GLM-5.3-Flash",
-      "url": "https://z.ai/blog/glm-5.3-flash",
-      "score": 958,
-      "comments": 482,
-      "by": "Philpax",
-      "hn_url": "https://news.ycombinator.com/item?id=49449507"
-    },
-    {
-      "title": "Kusama Yayoi Dies at 97",
-      "url": "https://news.jp/i/1465528042000662661",
-      "score": 109,
-      "comments": 9,
-      "by": "phantomathkg",
-      "hn_url": "https://news.ycombinator.com/item?id=49458709"
-    },
-    {
-      "title": "Asahi Linux Progress Report: Linux 7.2",
-      "url": "https://asahilinux.org/2026/08/progress-report-7-2/",
-      "score": 177,
-      "comments": 46,
-      "by": "pizzaiolo",
-      "hn_url": "https://news.ycombinator.com/item?id=49456851"
-    },
-    {
-      "title": "Tailcat \u2013 Like netcat, but over Tailscale\u2019s data plane",
-      "url": "https://github.com/tailscale/tailcat",
-      "score": 525,
-      "comments": 96,
-      "by": "nderjung",
-      "hn_url": "https://news.ycombinator.com/item?id=49452990"
-    },
-    {
-      "title": "Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022",
-      "url": "https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html",
-      "score": 117,
-      "comments": 53,
-      "by": "totetsu",
-      "hn_url": "https://news.ycombinator.com/item?id=49456929"
-    },
-    {
-      "title": "Laion Big Video Dataset",
-      "url": "https://projects.laion.ai/bvd/",
-      "score": 37,
-      "comments": 6,
-      "by": "ks2048",
-      "hn_url": "https://news.ycombinator.com/item?id=49458478"
-    },
-    {
-      "title": "An ongoing 3D-printer AGPL violation",
-      "url": "https://lwn.net/SubscriberLink/1089390/46116614cc74b814/",
-      "score": 363,
-      "comments": 161,
-      "by": "Velocifyer",
-      "hn_url": "https://news.ycombinator.com/item?id=49452980"
     }
   ]
 }

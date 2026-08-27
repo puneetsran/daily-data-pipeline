@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-26 00:45:52 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-27 05:57:18 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [MengTo/threeui](https://github.com/MengTo/threeui) | 3,915 | HTML | Open-source ThreeUI Community catalog with live interactive components and compl... |
-| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 2,546 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
-| [tobi/walgit](https://github.com/tobi/walgit) | 1,548 | Rust | No description |
-| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,381 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha... |
-| [cclank/lanshu-create-ai-presenter-video](https://github.com/cclank/lanshu-create-ai-presenter-video) | 913 | Python | Provider-neutral Codex Skill for producing verified AI presenter videos from a s... |
+| [MengTo/threeui](https://github.com/MengTo/threeui) | 4,226 | HTML | Open-source ThreeUI Community catalog with live interactive components and compl... |
+| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 3,148 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
+| [tobi/walgit](https://github.com/tobi/walgit) | 2,099 | Rust | No description |
+| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,479 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha... |
+| [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | 1,031 | JavaScript | Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-26 00:45:52 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-27 05:57:18 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [FDA authorizes first wearable device that monitors ketone and blood sugar levels](https://www.fda.gov/news-events/press-announcements/fda-authorizes-first-wearable-device-continuously-monitors-both-ketone-levels-and-blood-sugar) | 231 | [136 comments](https://news.ycombinator.com/item?id=49439017) |
-| [Apple introduces M6 and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-m6-and-m5-ultra-for-a-big-leap-in-performance-and-ai-compute/) | 932 | [887 comments](https://news.ycombinator.com/item?id=49433292) |
-| [Python's pre-declared constants are kinda weird](https://sebsite.pw/w/20260801-pythonconstants.html) | 126 | [78 comments](https://news.ycombinator.com/item?id=49441033) |
-| [OpenAI Jalapeño: Better than Nvidia Blackwell](https://newsletter.semianalysis.com/p/openai-jalapeno-better-than-nvidia) | 302 | [205 comments](https://news.ycombinator.com/item?id=49434378) |
-| [New Mac Studio with M5 Max and M5 Ultra](https://www.apple.com/newsroom/2026/08/apple-introduces-new-mac-studio-with-m5-max-and-m5-ultra/) | 695 | [440 comments](https://news.ycombinator.com/item?id=49433316) |
-| [Maiao: Gerrit-style code review workflow for GitHub, GitLab, Gitea, others](https://github.com/runetes/maiao) | 20 | [1 comments](https://news.ycombinator.com/item?id=49441666) |
-| [Black hole singularity is a surface not a point](https://arxiv.org/abs/2608.21590) | 178 | [123 comments](https://news.ycombinator.com/item?id=49437210) |
-| [When str.lower() is a security vulnerability in Python – Seth Larson](https://sethmlarson.dev/when-str-lower-is-a-security-vulnerability) | 47 | [24 comments](https://news.ycombinator.com/item?id=49440410) |
-| [Show HN: TeXbrain, a LaTeX editor that runs pdfTeX in the browser via WASM](https://github.com/swimmingbrain/texbrain) | 37 | [7 comments](https://news.ycombinator.com/item?id=49441375) |
-| [C2PA Cameras Do Not Survive Contact with Reality](https://www.da.vidbuchanan.co.uk/blog/android-c2pa.html) | 69 | [28 comments](https://news.ycombinator.com/item?id=49439499) |
+| [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) | 702 | [290 comments](https://news.ycombinator.com/item?id=49458161) |
+| [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) | 332 | [199 comments](https://news.ycombinator.com/item?id=49458418) |
+| [Mechanical Turk shutting down September 30](https://www.mturk.com/) | 252 | [79 comments](https://news.ycombinator.com/item?id=49457545) |
+| [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) | 958 | [482 comments](https://news.ycombinator.com/item?id=49449507) |
+| [Kusama Yayoi Dies at 97](https://news.jp/i/1465528042000662661) | 109 | [9 comments](https://news.ycombinator.com/item?id=49458709) |
+| [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) | 177 | [46 comments](https://news.ycombinator.com/item?id=49456851) |
+| [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) | 525 | [96 comments](https://news.ycombinator.com/item?id=49452990) |
+| [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) | 117 | [53 comments](https://news.ycombinator.com/item?id=49456929) |
+| [Laion Big Video Dataset](https://projects.laion.ai/bvd/) | 37 | [6 comments](https://news.ycombinator.com/item?id=49458478) |
+| [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) | 363 | [161 comments](https://news.ycombinator.com/item?id=49452980) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 31.0°C (87.0°F) |
-| Average Humidity | 56% |
+| Average Temperature | 17.0°C (63.0°F) |
+| Average Humidity | 76% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-26 00:45:52 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-27 05:57:18 UTC*
