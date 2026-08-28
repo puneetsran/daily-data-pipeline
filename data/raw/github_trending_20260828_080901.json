@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-28 08:09 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-28T08:09:01.702658",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "b-nnett/grok-bot-0.18-reconstructed",
       "stars": 3386,
@@ -80,88 +81,6 @@
       "description": "Purge multi-vendor AI watermarks: clean Unicode text, apply statistical rewrite hooks, and clear C2P",
       "url": "https://github.com/ShadowAqueduct/watermark-remover",
       "created_at": "2026-08-23T21:14:28Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache",
-      "url": "https://blog.cloudflare.com/dns-cache-memory-optimization-1111/",
-      "score": 706,
-      "comments": 212,
-      "by": "TangerineDream",
-      "hn_url": "https://news.ycombinator.com/item?id=49468083"
-    },
-    {
-      "title": "Small Models Have Arrived",
-      "url": "https://calv.info/small-models-have-arrived",
-      "score": 608,
-      "comments": 277,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=49466917"
-    },
-    {
-      "title": "Sovereign Tech Agency invests \u20ac500k in Flatpak",
-      "url": "https://modal.cx/blog/announcing-flatpak-sta/",
-      "score": 66,
-      "comments": 28,
-      "by": "eigenspace",
-      "hn_url": "https://news.ycombinator.com/item?id=49474786"
-    },
-    {
-      "title": "Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance",
-      "url": "https://github.com/elyosh/OpenTIE/",
-      "score": 150,
-      "comments": 37,
-      "by": "elyosh",
-      "hn_url": "https://news.ycombinator.com/item?id=49471965"
-    },
-    {
-      "title": "507 Mechanical Movements",
-      "url": "https://507movements.com/",
-      "score": 562,
-      "comments": 72,
-      "by": "helloplanets",
-      "hn_url": "https://news.ycombinator.com/item?id=49465169"
-    },
-    {
-      "title": "Gemini-3.5-Transcribe",
-      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/",
-      "score": 257,
-      "comments": 81,
-      "by": "k9294",
-      "hn_url": "https://news.ycombinator.com/item?id=49468818"
-    },
-    {
-      "title": "Microduck",
-      "url": "https://pollen-robotics.com/microduck/",
-      "score": 629,
-      "comments": 209,
-      "by": "robotswantdata",
-      "hn_url": "https://news.ycombinator.com/item?id=49462763"
-    },
-    {
-      "title": "We found a division by zero bug in FFmpeg with a vibecoded fuzzer",
-      "url": "https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290",
-      "score": 228,
-      "comments": 172,
-      "by": "dclavijo",
-      "hn_url": "https://news.ycombinator.com/item?id=49468642"
-    },
-    {
-      "title": "Doctors are finally learning to manage antidepressant withdrawal",
-      "url": "https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/",
-      "score": 100,
-      "comments": 92,
-      "by": "eutropheon",
-      "hn_url": "https://news.ycombinator.com/item?id=49472090"
-    },
-    {
-      "title": "Terminal-Bench-Science: Evaluating AI agents on scientific research workflows",
-      "url": "https://www.terminal-bench-science.ai/announcement",
-      "score": 72,
-      "comments": 23,
-      "by": "matt_d",
-      "hn_url": "https://news.ycombinator.com/item?id=49472820"
     }
   ]
 }

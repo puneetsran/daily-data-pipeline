@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-27 05:57:18 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-28 08:09:03 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [MengTo/threeui](https://github.com/MengTo/threeui) | 4,226 | HTML | Open-source ThreeUI Community catalog with live interactive components and compl... |
-| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 3,148 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
-| [tobi/walgit](https://github.com/tobi/walgit) | 2,099 | Rust | No description |
-| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,479 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha... |
-| [nateherkai/scroll-craft](https://github.com/nateherkai/scroll-craft) | 1,031 | JavaScript | Claude Code skill for premium scroll-driven websites. Scroll becomes the timelin... |
+| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 3,386 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
+| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 2,895 | TeX | No description |
+| [tobi/walgit](https://github.com/tobi/walgit) | 2,271 | Rust | No description |
+| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,595 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha... |
+| [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | 1,176 | Python | 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-27 05:57:18 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-28 08:09:03 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Nvidia agrees to acquire Hugging Face for $13B](https://www.businessinsider.com/nvidia-in-talks-to-buy-hugging-face-13-billion-dollars-2026-8) | 702 | [290 comments](https://news.ycombinator.com/item?id=49458161) |
-| [CEO fired developers to make room for AI. Developers create open source AI CEO](https://github.com/SenteLabsAI/OpenExecutive) | 332 | [199 comments](https://news.ycombinator.com/item?id=49458418) |
-| [Mechanical Turk shutting down September 30](https://www.mturk.com/) | 252 | [79 comments](https://news.ycombinator.com/item?id=49457545) |
-| [GLM-5.3-Flash](https://z.ai/blog/glm-5.3-flash) | 958 | [482 comments](https://news.ycombinator.com/item?id=49449507) |
-| [Kusama Yayoi Dies at 97](https://news.jp/i/1465528042000662661) | 109 | [9 comments](https://news.ycombinator.com/item?id=49458709) |
-| [Asahi Linux Progress Report: Linux 7.2](https://asahilinux.org/2026/08/progress-report-7-2/) | 177 | [46 comments](https://news.ycombinator.com/item?id=49456851) |
-| [Tailcat – Like netcat, but over Tailscale’s data plane](https://github.com/tailscale/tailcat) | 525 | [96 comments](https://news.ycombinator.com/item?id=49452990) |
-| [Worst-case glacial lake flood scenarios in a transboundary Himalayan basin 2022](https://nhess.copernicus.org/articles/22/3765/2022/nhess-22-3765-2022.html) | 117 | [53 comments](https://news.ycombinator.com/item?id=49456929) |
-| [Laion Big Video Dataset](https://projects.laion.ai/bvd/) | 37 | [6 comments](https://news.ycombinator.com/item?id=49458478) |
-| [An ongoing 3D-printer AGPL violation](https://lwn.net/SubscriberLink/1089390/46116614cc74b814/) | 363 | [161 comments](https://news.ycombinator.com/item?id=49452980) |
+| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | 706 | [212 comments](https://news.ycombinator.com/item?id=49468083) |
+| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | 608 | [277 comments](https://news.ycombinator.com/item?id=49466917) |
+| [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) | 66 | [28 comments](https://news.ycombinator.com/item?id=49474786) |
+| [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) | 150 | [37 comments](https://news.ycombinator.com/item?id=49471965) |
+| [507 Mechanical Movements](https://507movements.com/) | 562 | [72 comments](https://news.ycombinator.com/item?id=49465169) |
+| [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) | 257 | [81 comments](https://news.ycombinator.com/item?id=49468818) |
+| [Microduck](https://pollen-robotics.com/microduck/) | 629 | [209 comments](https://news.ycombinator.com/item?id=49462763) |
+| [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) | 228 | [172 comments](https://news.ycombinator.com/item?id=49468642) |
+| [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) | 100 | [92 comments](https://news.ycombinator.com/item?id=49472090) |
+| [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement) | 72 | [23 comments](https://news.ycombinator.com/item?id=49472820) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 17.0°C (63.0°F) |
-| Average Humidity | 76% |
+| Average Temperature | 14.0°C (57.0°F) |
+| Average Humidity | 86% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-27 05:57:18 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-28 08:09:03 UTC*
