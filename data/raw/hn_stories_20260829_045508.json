@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-08-29T04:55:08.618841",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Boot a Virtual iPhone via Apple's Virtualization.framework",
+      "url": "https://github.com/Lakr233/vphone-cli",
+      "score": 171,
+      "comments": 60,
+      "by": "hentrep",
+      "hn_url": "https://news.ycombinator.com/item?id=49485267"
+    },
+    {
+      "title": "GUIs should be fully keyboard-driven",
+      "url": "https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html",
+      "score": 686,
+      "comments": 335,
+      "by": "ckardaris",
+      "hn_url": "https://news.ycombinator.com/item?id=49479837"
+    },
+    {
+      "title": "TurboKV: Insanely fast Rust key-value store",
+      "url": "https://github.com/kingroryg/turbokv",
+      "score": 41,
+      "comments": 12,
+      "by": "rgbimbochamp",
+      "hn_url": "https://news.ycombinator.com/item?id=49486334"
+    },
+    {
+      "title": "9th Circuit sides with states in Kalshi gambling fight",
+      "url": "https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/",
+      "score": 97,
+      "comments": 71,
+      "by": "hungryhobbit",
+      "hn_url": "https://news.ycombinator.com/item?id=49485452"
+    },
+    {
+      "title": "Htmx 4.0",
+      "url": "https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released",
+      "score": 575,
+      "comments": 142,
+      "by": "rmsaksida",
+      "hn_url": "https://news.ycombinator.com/item?id=49478178"
+    },
+    {
+      "title": "Our decision on Cursor following its acquisition by SpaceX",
+      "url": "https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/",
+      "score": 249,
+      "comments": 89,
+      "by": "meetpateltech",
+      "hn_url": "https://news.ycombinator.com/item?id=49486172"
+    },
+    {
+      "title": "Does the Sumerian King List Align with Paleoclimate Events?",
+      "url": "https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/",
+      "score": 73,
+      "comments": 24,
+      "by": "dev_l1x_be",
+      "hn_url": "https://news.ycombinator.com/item?id=49485532"
+    },
+    {
+      "title": "I accidentally turned LLM memory into program analysis",
+      "url": "https://pwning.systems/posts/llm-memory-program-analysis/",
+      "score": 72,
+      "comments": 13,
+      "by": "matt_d",
+      "hn_url": "https://news.ycombinator.com/item?id=49485416"
+    },
+    {
+      "title": "StemDeck, a free, open-source and local AI stem separator",
+      "url": "https://github.com/stemdeckapp/stemdeck",
+      "score": 49,
+      "comments": 12,
+      "by": "thclpr",
+      "hn_url": "https://news.ycombinator.com/item?id=49486081"
+    },
+    {
+      "title": "U.S. sanctions against the A/I Collective",
+      "url": "https://www.inventati.org/",
+      "score": 528,
+      "comments": 498,
+      "by": "exiguus",
+      "hn_url": "https://news.ycombinator.com/item?id=49477854"
+    }
+  ]
+}

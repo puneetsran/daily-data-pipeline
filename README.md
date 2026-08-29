@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-28 08:09:03 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-29 04:55:09 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 3,386 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
-| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 2,895 | TeX | No description |
-| [tobi/walgit](https://github.com/tobi/walgit) | 2,271 | Rust | No description |
-| [duty1g/x64dbg-mcp-server](https://github.com/duty1g/x64dbg-mcp-server) | 1,595 | Zig | x64dbg-MCP Server is a native MCP (Model Context Protocol) plugin for x64dbg tha... |
-| [ApodexAI/FrontierAgent](https://github.com/ApodexAI/FrontierAgent) | 1,176 | Python | 🧩 FrontierAgent, our agent framework, open-sourced alongside it — native command... |
+| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 3,752 | TeX | No description |
+| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 3,411 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
+| [tobi/walgit](https://github.com/tobi/walgit) | 2,304 | Rust | No description |
+| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 1,777 | Python | Autonomous research system for measurable, computer-executable research. |
+| [bryllim/workout-guide](https://github.com/bryllim/workout-guide) | 983 | Astro | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim |
 
-### Hacker News Top Stories (Last Updated: 2026-08-28 08:09:03 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-29 04:55:09 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Saving 100 terabytes of memory by optimizing 1.1.1.1's DNS cache](https://blog.cloudflare.com/dns-cache-memory-optimization-1111/) | 706 | [212 comments](https://news.ycombinator.com/item?id=49468083) |
-| [Small Models Have Arrived](https://calv.info/small-models-have-arrived) | 608 | [277 comments](https://news.ycombinator.com/item?id=49466917) |
-| [Sovereign Tech Agency invests €500k in Flatpak](https://modal.cx/blog/announcing-flatpak-sta/) | 66 | [28 comments](https://news.ycombinator.com/item?id=49474786) |
-| [Show HN: OpenTIE and OpenXWA, Modern Ports of Tie Fighter and X-Wing Alliance](https://github.com/elyosh/OpenTIE/) | 150 | [37 comments](https://news.ycombinator.com/item?id=49471965) |
-| [507 Mechanical Movements](https://507movements.com/) | 562 | [72 comments](https://news.ycombinator.com/item?id=49465169) |
-| [Gemini-3.5-Transcribe](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5-transcribe/) | 257 | [81 comments](https://news.ycombinator.com/item?id=49468818) |
-| [Microduck](https://pollen-robotics.com/microduck/) | 629 | [209 comments](https://news.ycombinator.com/item?id=49462763) |
-| [We found a division by zero bug in FFmpeg with a vibecoded fuzzer](https://code.ffmpeg.org/FFmpeg/FFmpeg/issues/24290) | 228 | [172 comments](https://news.ycombinator.com/item?id=49468642) |
-| [Doctors are finally learning to manage antidepressant withdrawal](https://www.newscientist.com/article/2584861-antidepressant-withdrawal-symptoms-are-prompting-a-radical-rethink-of-how-we-treat-depression/) | 100 | [92 comments](https://news.ycombinator.com/item?id=49472090) |
-| [Terminal-Bench-Science: Evaluating AI agents on scientific research workflows](https://www.terminal-bench-science.ai/announcement) | 72 | [23 comments](https://news.ycombinator.com/item?id=49472820) |
+| [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) | 171 | [60 comments](https://news.ycombinator.com/item?id=49485267) |
+| [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | 686 | [335 comments](https://news.ycombinator.com/item?id=49479837) |
+| [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) | 41 | [12 comments](https://news.ycombinator.com/item?id=49486334) |
+| [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/) | 97 | [71 comments](https://news.ycombinator.com/item?id=49485452) |
+| [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | 575 | [142 comments](https://news.ycombinator.com/item?id=49478178) |
+| [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) | 249 | [89 comments](https://news.ycombinator.com/item?id=49486172) |
+| [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) | 73 | [24 comments](https://news.ycombinator.com/item?id=49485532) |
+| [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) | 72 | [13 comments](https://news.ycombinator.com/item?id=49485416) |
+| [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) | 49 | [12 comments](https://news.ycombinator.com/item?id=49486081) |
+| [U.S. sanctions against the A/I Collective](https://www.inventati.org/) | 528 | [498 comments](https://news.ycombinator.com/item?id=49477854) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 14.0°C (57.0°F) |
-| Average Humidity | 86% |
+| Average Temperature | 16.0°C (61.0°F) |
+| Average Humidity | 80% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-28 08:09:03 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-29 04:55:09 UTC*
