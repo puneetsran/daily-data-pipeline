@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-08-30 02:39 UTC",
-  "github_trending": [
+  "collected_at": "2026-08-30T02:39:50.833027",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "HEJustinSun/my-girlfriend-jingtian-latex",
       "stars": 3948,
@@ -80,88 +81,6 @@
       "description": "De-AI writing skill for Claude Code, Codex, Grok Build, and Antigravity \u2014 narrative-architecture rep",
       "url": "https://github.com/Nanako0129/sepia",
       "created_at": "2026-08-28T05:56:49Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Bug Blindness",
-      "url": "https://danluu.com/bug-blind/",
-      "score": 65,
-      "comments": 26,
-      "by": "davidmckenna",
-      "hn_url": "https://news.ycombinator.com/item?id=49494520"
-    },
-    {
-      "title": "FreeCORE TrueNAS Core \u2013 Continued",
-      "url": "https://freecore.org/",
-      "score": 28,
-      "comments": 14,
-      "by": "sashk",
-      "hn_url": "https://news.ycombinator.com/item?id=49494856"
-    },
-    {
-      "title": "Hy4 preview",
-      "url": "https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/",
-      "score": 206,
-      "comments": 131,
-      "by": "shenli3514",
-      "hn_url": "https://news.ycombinator.com/item?id=49492632"
-    },
-    {
-      "title": "RISC-V is now officially supported by CPython",
-      "url": "https://blog.python.org/2026/08/riscv-now-officially-supported/",
-      "score": 28,
-      "comments": 2,
-      "by": "lumpa",
-      "hn_url": "https://news.ycombinator.com/item?id=49425252"
-    },
-    {
-      "title": "Tether: iMessage, SMS, etc. on Linux",
-      "url": "https://zackbartel.com/blog/2026/08/tether/",
-      "score": 372,
-      "comments": 155,
-      "by": "zackb",
-      "hn_url": "https://news.ycombinator.com/item?id=49415386"
-    },
-    {
-      "title": "Nancy Grace Roman Space Telescope",
-      "url": "https://science.nasa.gov/mission/roman-space-telescope/",
-      "score": 135,
-      "comments": 66,
-      "by": "JumpCrisscross",
-      "hn_url": "https://news.ycombinator.com/item?id=49490870"
-    },
-    {
-      "title": "Lawmakers added $1 to car insurance policies. That money paid for Flock cameras",
-      "url": "https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/",
-      "score": 129,
-      "comments": 43,
-      "by": "DeepLogin",
-      "hn_url": "https://news.ycombinator.com/item?id=49494182"
-    },
-    {
-      "title": "Calibrate Before You Accelerate: Bias Toward Action in a New Role",
-      "url": "https://tucker.wales/writing/bias-towards-action/",
-      "score": 118,
-      "comments": 49,
-      "by": "tuckerwales",
-      "hn_url": "https://news.ycombinator.com/item?id=49491714"
-    },
-    {
-      "title": "Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter",
-      "url": "https://github.com/gbin/defragger",
-      "score": 7,
-      "comments": 1,
-      "by": "gbin",
-      "hn_url": "https://news.ycombinator.com/item?id=49438865"
-    },
-    {
-      "title": "Domain-Driven Agents",
-      "url": "https://coldtake.dev/blog/domain-driven-agents",
-      "score": 59,
-      "comments": 6,
-      "by": "AlarQ",
-      "hn_url": "https://news.ycombinator.com/item?id=49492584"
     }
   ]
 }

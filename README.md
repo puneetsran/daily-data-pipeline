@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-29 04:55:09 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-08-30 02:39:54 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 3,752 | TeX | No description |
-| [b-nnett/grok-bot-0.18-reconstructed](https://github.com/b-nnett/grok-bot-0.18-reconstructed) | 3,411 | TypeScript | Unofficial source-oriented reconstruction and extension of Grok Bot 0.18.0 for m... |
-| [tobi/walgit](https://github.com/tobi/walgit) | 2,304 | Rust | No description |
-| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 1,777 | Python | Autonomous research system for measurable, computer-executable research. |
-| [bryllim/workout-guide](https://github.com/bryllim/workout-guide) | 983 | Astro | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim |
+| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 3,948 | TeX | No description |
+| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 3,203 | Python | Autonomous research system for measurable, computer-executable research. |
+| [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 1,071 | TypeScript | A studio for image and video generation — one prompt bar, each model’s own setti... |
+| [bryllim/workout-guide](https://github.com/bryllim/workout-guide) | 1,004 | Astro | 302 open exercise illustrations and a framework-neutral npm package by Bryl Lim |
+| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 966 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-29 04:55:09 UTC)
+### Hacker News Top Stories (Last Updated: 2026-08-30 02:39:54 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Boot a Virtual iPhone via Apple's Virtualization.framework](https://github.com/Lakr233/vphone-cli) | 171 | [60 comments](https://news.ycombinator.com/item?id=49485267) |
-| [GUIs should be fully keyboard-driven](https://ckardaris.com/blog/2026/08/28/keyboard-driven-guis.html) | 686 | [335 comments](https://news.ycombinator.com/item?id=49479837) |
-| [TurboKV: Insanely fast Rust key-value store](https://github.com/kingroryg/turbokv) | 41 | [12 comments](https://news.ycombinator.com/item?id=49486334) |
-| [9th Circuit sides with states in Kalshi gambling fight](https://azmirror.com/2026/08/28/9th-circuit-sides-with-states-in-kalshi-gambling-fight-potentially-reviving-arizonas-prosecution/) | 97 | [71 comments](https://news.ycombinator.com/item?id=49485452) |
-| [Htmx 4.0](https://four.htmx.org/announcements/2026-08-28-htmx-4.0.0-is-released) | 575 | [142 comments](https://news.ycombinator.com/item?id=49478178) |
-| [Our decision on Cursor following its acquisition by SpaceX](https://openai.com/index/our-decision-on-cursor-following-its-acquisition-by-spacex/) | 249 | [89 comments](https://news.ycombinator.com/item?id=49486172) |
-| [Does the Sumerian King List Align with Paleoclimate Events?](https://www.vectorian.be/articles/2026-06-07/sumerian-king-list-paleoclimate-alignment-explorer/) | 73 | [24 comments](https://news.ycombinator.com/item?id=49485532) |
-| [I accidentally turned LLM memory into program analysis](https://pwning.systems/posts/llm-memory-program-analysis/) | 72 | [13 comments](https://news.ycombinator.com/item?id=49485416) |
-| [StemDeck, a free, open-source and local AI stem separator](https://github.com/stemdeckapp/stemdeck) | 49 | [12 comments](https://news.ycombinator.com/item?id=49486081) |
-| [U.S. sanctions against the A/I Collective](https://www.inventati.org/) | 528 | [498 comments](https://news.ycombinator.com/item?id=49477854) |
+| [Bug Blindness](https://danluu.com/bug-blind/) | 65 | [26 comments](https://news.ycombinator.com/item?id=49494520) |
+| [FreeCORE TrueNAS Core – Continued](https://freecore.org/) | 28 | [14 comments](https://news.ycombinator.com/item?id=49494856) |
+| [Hy4 preview](https://www.tencent.com/tencent-releases-and-open-sources-tencent-hy4-preview/) | 206 | [131 comments](https://news.ycombinator.com/item?id=49492632) |
+| [RISC-V is now officially supported by CPython](https://blog.python.org/2026/08/riscv-now-officially-supported/) | 28 | [2 comments](https://news.ycombinator.com/item?id=49425252) |
+| [Tether: iMessage, SMS, etc. on Linux](https://zackbartel.com/blog/2026/08/tether/) | 372 | [155 comments](https://news.ycombinator.com/item?id=49415386) |
+| [Nancy Grace Roman Space Telescope](https://science.nasa.gov/mission/roman-space-telescope/) | 135 | [66 comments](https://news.ycombinator.com/item?id=49490870) |
+| [Lawmakers added $1 to car insurance policies. That money paid for Flock cameras](https://www.texastribune.org/2026/08/28/texas-flock-cameras-auto-insurance-fee-mvcpa-grants/) | 129 | [43 comments](https://news.ycombinator.com/item?id=49494182) |
+| [Calibrate Before You Accelerate: Bias Toward Action in a New Role](https://tucker.wales/writing/bias-towards-action/) | 118 | [49 comments](https://news.ycombinator.com/item?id=49491714) |
+| [Show HN: I missed the moving blocks, so I built a real Linux disk defragmenter](https://github.com/gbin/defragger) | 7 | [1 comments](https://news.ycombinator.com/item?id=49438865) |
+| [Domain-Driven Agents](https://coldtake.dev/blog/domain-driven-agents) | 59 | [6 comments](https://news.ycombinator.com/item?id=49492584) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 16.0°C (61.0°F) |
-| Average Humidity | 80% |
+| Average Temperature | 21.0°C (70.0°F) |
+| Average Humidity | 68% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-29 04:55:09 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-08-30 02:39:54 UTC*
