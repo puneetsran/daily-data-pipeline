@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-08-31T02:33:39.942627",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "\u201cI just chose words carefully\u201d",
+      "url": "https://unsung.aresluna.org/i-just-chose-words-carefully/",
+      "score": 321,
+      "comments": 84,
+      "by": "zdw",
+      "hn_url": "https://news.ycombinator.com/item?id=49503601"
+    },
+    {
+      "title": "Creepy Crawlies",
+      "url": "https://people.kernel.org/monsieuricon/creepy-crawlies",
+      "score": 944,
+      "comments": 452,
+      "by": "zdw",
+      "hn_url": "https://news.ycombinator.com/item?id=49491791"
+    },
+    {
+      "title": "Understanding ChatGPT Work",
+      "url": "https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/",
+      "score": 32,
+      "comments": 8,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=49504625"
+    },
+    {
+      "title": "Matrox: Graphics for Professionals",
+      "url": "https://www.abortretry.fail/p/matrox",
+      "score": 29,
+      "comments": 2,
+      "by": "BirAdam",
+      "hn_url": "https://news.ycombinator.com/item?id=49503934"
+    },
+    {
+      "title": "Haiku R1/beta6 has been released",
+      "url": "https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6",
+      "score": 261,
+      "comments": 77,
+      "by": "metrofun",
+      "hn_url": "https://news.ycombinator.com/item?id=49499867"
+    },
+    {
+      "title": "Cores in space: The core memory module from a 1980 Spacelab computer",
+      "url": "https://www.righto.com/2026/08/spacelab-core-memory.html",
+      "score": 81,
+      "comments": 13,
+      "by": "pwg",
+      "hn_url": "https://news.ycombinator.com/item?id=49502214"
+    },
+    {
+      "title": "Show HN: NFC Energy-Harvesting PCB Business Card with an MCU",
+      "url": "https://wilsonharper.net/projects/businesscard/",
+      "score": 111,
+      "comments": 12,
+      "by": "WilsonHarper",
+      "hn_url": "https://news.ycombinator.com/item?id=49478426"
+    },
+    {
+      "title": "Sort branches by last commit date",
+      "url": "https://ryangreenberg.com/til/git-branches-by-commit-date/",
+      "score": 90,
+      "comments": 34,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=49435285"
+    },
+    {
+      "title": "Continuous Diffusion Language Models (CDLM's)",
+      "url": "https://sander.ai/2026/08/24/continuous-dlms.html",
+      "score": 60,
+      "comments": 24,
+      "by": "peter_d_sherman",
+      "hn_url": "https://news.ycombinator.com/item?id=49502611"
+    },
+    {
+      "title": "Why open source rocks \u2013 a new SM750 (Silicon Motion GPU) HDMI Driver",
+      "url": "https://github.com/KodeMunkie/sm750hdmifb",
+      "score": 74,
+      "comments": 34,
+      "by": "SillyUsername",
+      "hn_url": "https://news.ycombinator.com/item?id=49501611"
+    }
+  ]
+}
