@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-08-31 02:33:42 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-01 02:47:32 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 4,531 | Python | Autonomous research system for measurable, computer-executable research. |
-| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4,148 | TeX | No description |
-| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,441 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the... |
-| [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,227 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit... |
-| [wide-trace/open-higgsfield](https://github.com/wide-trace/open-higgsfield) | 1,084 | TypeScript | A studio for image and video generation — one prompt bar, each model’s own setti... |
+| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 5,457 | Python | Autonomous research system for measurable, computer-executable research. |
+| [HEJustinSun/my-girlfriend-jingtian-latex](https://github.com/HEJustinSun/my-girlfriend-jingtian-latex) | 4,195 | TeX | No description |
+| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 1,880 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the... |
+| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,248 | N/A | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL... |
+| [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,228 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit... |
 
-### Hacker News Top Stories (Last Updated: 2026-08-31 02:33:42 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-01 02:47:32 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [“I just chose words carefully”](https://unsung.aresluna.org/i-just-chose-words-carefully/) | 321 | [84 comments](https://news.ycombinator.com/item?id=49503601) |
-| [Creepy Crawlies](https://people.kernel.org/monsieuricon/creepy-crawlies) | 944 | [452 comments](https://news.ycombinator.com/item?id=49491791) |
-| [Understanding ChatGPT Work](https://simonwillison.net/2026/Aug/30/understanding-chatgpt-work/) | 32 | [8 comments](https://news.ycombinator.com/item?id=49504625) |
-| [Matrox: Graphics for Professionals](https://www.abortretry.fail/p/matrox) | 29 | [2 comments](https://news.ycombinator.com/item?id=49503934) |
-| [Haiku R1/beta6 has been released](https://www.haiku-os.org/news/2026-08-26_haiku_r1_beta6) | 261 | [77 comments](https://news.ycombinator.com/item?id=49499867) |
-| [Cores in space: The core memory module from a 1980 Spacelab computer](https://www.righto.com/2026/08/spacelab-core-memory.html) | 81 | [13 comments](https://news.ycombinator.com/item?id=49502214) |
-| [Show HN: NFC Energy-Harvesting PCB Business Card with an MCU](https://wilsonharper.net/projects/businesscard/) | 111 | [12 comments](https://news.ycombinator.com/item?id=49478426) |
-| [Sort branches by last commit date](https://ryangreenberg.com/til/git-branches-by-commit-date/) | 90 | [34 comments](https://news.ycombinator.com/item?id=49435285) |
-| [Continuous Diffusion Language Models (CDLM's)](https://sander.ai/2026/08/24/continuous-dlms.html) | 60 | [24 comments](https://news.ycombinator.com/item?id=49502611) |
-| [Why open source rocks – a new SM750 (Silicon Motion GPU) HDMI Driver](https://github.com/KodeMunkie/sm750hdmifb) | 74 | [34 comments](https://news.ycombinator.com/item?id=49501611) |
+| [Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO](https://webiterate.dev/google-removed-extensions-ublock-origin-108/) | 582 | [439 comments](https://news.ycombinator.com/item?id=49514878) |
+| [Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur](https://www.bbc.com/news/articles/c24j5192j7jo) | 10 | [0 comments](https://news.ycombinator.com/item?id=49517377) |
+| [Run macOS Software on Linux](https://www.darlinghq.org/) | 127 | [37 comments](https://news.ycombinator.com/item?id=49515830) |
+| [I turned my security cameras into an automatic bird identification system](https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/) | 371 | [97 comments](https://news.ycombinator.com/item?id=49511856) |
+| ['Mad honey' that can stop your heart is being sold online](https://phys.org/news/2026-08-mad-honey-heart-sold-online.html) | 151 | [96 comments](https://news.ycombinator.com/item?id=49476239) |
+| [Playa Phone](https://playaphone.com/) | 511 | [187 comments](https://news.ycombinator.com/item?id=49510514) |
+| [A walkable ASCII cyberpunk city in one HTML file [video]](https://www.youtube.com/watch?v=3YtygAx_C6A) | 218 | [30 comments](https://news.ycombinator.com/item?id=49512975) |
+| [Lion-man – the oldest confirmed statue ever discovered](https://en.wikipedia.org/wiki/Lion-man) | 64 | [26 comments](https://news.ycombinator.com/item?id=49494181) |
+| [Terence Tao explains 6 essential mathematical concepts [video]](https://www.youtube.com/watch?v=OOMx2BHHWtE) | 230 | [27 comments](https://news.ycombinator.com/item?id=49503521) |
+| [Develop Cross-Platform CLI and GUI Tools with Tcl/Tk](https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide) | 47 | [29 comments](https://news.ycombinator.com/item?id=49515662) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 17.0°C (63.0°F) |
-| Average Humidity | 81% |
+| Average Temperature | 21.0°C (69.0°F) |
+| Average Humidity | 61% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-08-31 02:33:42 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-01 02:47:32 UTC*

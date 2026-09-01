@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-01T02:47:31.271014",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Google Has Removed MV2 Extensions from the Chrome Web Store, Including UBO",
+      "url": "https://webiterate.dev/google-removed-extensions-ublock-origin-108/",
+      "score": 582,
+      "comments": 439,
+      "by": "twapi",
+      "hn_url": "https://news.ycombinator.com/item?id=49514878"
+    },
+    {
+      "title": "Ex-Crips leader found guilty in 1996 murder of rapper Tupac Shakur",
+      "url": "https://www.bbc.com/news/articles/c24j5192j7jo",
+      "score": 10,
+      "comments": 0,
+      "by": "1659447091",
+      "hn_url": "https://news.ycombinator.com/item?id=49517377"
+    },
+    {
+      "title": "Run macOS Software on Linux",
+      "url": "https://www.darlinghq.org/",
+      "score": 127,
+      "comments": 37,
+      "by": "Bluestein",
+      "hn_url": "https://news.ycombinator.com/item?id=49515830"
+    },
+    {
+      "title": "I turned my security cameras into an automatic bird identification system",
+      "url": "https://jasontucker.blog/how-i-turned-my-security-cameras-into-an-automatic-bird-identification-system-with-birdnet-go/",
+      "score": 371,
+      "comments": 97,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=49511856"
+    },
+    {
+      "title": "'Mad honey' that can stop your heart is being sold online",
+      "url": "https://phys.org/news/2026-08-mad-honey-heart-sold-online.html",
+      "score": 151,
+      "comments": 96,
+      "by": "samizdis",
+      "hn_url": "https://news.ycombinator.com/item?id=49476239"
+    },
+    {
+      "title": "Playa Phone",
+      "url": "https://playaphone.com/",
+      "score": 511,
+      "comments": 187,
+      "by": "cutoff",
+      "hn_url": "https://news.ycombinator.com/item?id=49510514"
+    },
+    {
+      "title": "A walkable ASCII cyberpunk city in one HTML file [video]",
+      "url": "https://www.youtube.com/watch?v=3YtygAx_C6A",
+      "score": 218,
+      "comments": 30,
+      "by": "keithcarolus",
+      "hn_url": "https://news.ycombinator.com/item?id=49512975"
+    },
+    {
+      "title": "Lion-man \u2013 the oldest confirmed statue ever discovered",
+      "url": "https://en.wikipedia.org/wiki/Lion-man",
+      "score": 64,
+      "comments": 26,
+      "by": "gurjeet",
+      "hn_url": "https://news.ycombinator.com/item?id=49494181"
+    },
+    {
+      "title": "Terence Tao explains 6 essential mathematical concepts [video]",
+      "url": "https://www.youtube.com/watch?v=OOMx2BHHWtE",
+      "score": 230,
+      "comments": 27,
+      "by": "matthewsinclair",
+      "hn_url": "https://news.ycombinator.com/item?id=49503521"
+    },
+    {
+      "title": "Develop Cross-Platform CLI and GUI Tools with Tcl/Tk",
+      "url": "https://cgicoffee.com/blog/2026/04/tcl-tk-develop-cross-platform-cli-gui-tools-tutorial-guide",
+      "score": 47,
+      "comments": 29,
+      "by": "aryonoco",
+      "hn_url": "https://news.ycombinator.com/item?id=49515662"
+    }
+  ]
+}
