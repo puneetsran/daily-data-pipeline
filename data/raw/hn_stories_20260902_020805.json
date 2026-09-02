@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-02T02:08:05.587025",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Hang on to Your Firefox",
+      "url": "https://www.newsonaut.com/articles/hang-on-to-your-firefox",
+      "score": 554,
+      "comments": 299,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=49527748"
+    },
+    {
+      "title": "Claude Fable 5.1 and Claude Mythos 5.1",
+      "url": "https://www.anthropic.com/claude-fable-and-mythos-5-1",
+      "score": 948,
+      "comments": 892,
+      "by": "denysvitali",
+      "hn_url": "https://news.ycombinator.com/item?id=49525378"
+    },
+    {
+      "title": "How accurate have Ed Zitron's AI skeptic predictions been?",
+      "url": "https://danluu.com/zitron/",
+      "score": 433,
+      "comments": 510,
+      "by": "jatins",
+      "hn_url": "https://news.ycombinator.com/item?id=49526069"
+    },
+    {
+      "title": "The efficient frontier of LLM inference",
+      "url": "https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/",
+      "score": 42,
+      "comments": 7,
+      "by": "philipkiely",
+      "hn_url": "https://news.ycombinator.com/item?id=49529898"
+    },
+    {
+      "title": "Show HN: Weedout \u2013 Safari extension that hides YouTube AI-labeled videos",
+      "url": "https://masteranza.github.io/weedout/",
+      "score": 59,
+      "comments": 20,
+      "by": "masteranza",
+      "hn_url": "https://news.ycombinator.com/item?id=49528895"
+    },
+    {
+      "title": "My local model setup on an M4 Pro Mac Mini",
+      "url": "https://lws.io/blog/my-local-model-setup/",
+      "score": 68,
+      "comments": 29,
+      "by": "raybb",
+      "hn_url": "https://news.ycombinator.com/item?id=49529132"
+    },
+    {
+      "title": "Claude Fable 5.1 made me a nice animated pelican",
+      "url": "https://simonwillison.net/2026/Sep/1/claude-fable-5-1/",
+      "score": 34,
+      "comments": 8,
+      "by": "elsewhen",
+      "hn_url": "https://news.ycombinator.com/item?id=49530472"
+    },
+    {
+      "title": "Introducing Ad Blocker for Firefox on iOS",
+      "url": "https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/",
+      "score": 312,
+      "comments": 108,
+      "by": "HieronymusBosch",
+      "hn_url": "https://news.ycombinator.com/item?id=49521973"
+    },
+    {
+      "title": "Sonic Pi",
+      "url": "https://sonic-pi.net/",
+      "score": 35,
+      "comments": 4,
+      "by": "Bluestein",
+      "hn_url": "https://news.ycombinator.com/item?id=49482099"
+    },
+    {
+      "title": "Building an interactive instrument for a one-of-a-kind festival",
+      "url": "https://benholmen.com/blog/halfmoon-chimes/",
+      "score": 14,
+      "comments": 1,
+      "by": "tjwds",
+      "hn_url": "https://news.ycombinator.com/item?id=49479909"
+    }
+  ]
+}
