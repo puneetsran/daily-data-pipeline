@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-02 02:08:07 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-03 02:14:14 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [sapientinc/PRAXIST](https://github.com/sapientinc/PRAXIST) | 6,208 | Python | Autonomous research system for measurable, computer-executable research. |
-| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 2,145 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the... |
-| [crmne/fastpotify](https://github.com/crmne/fastpotify) | 1,554 | Rust | Spotify, native and fast. One lightweight Rust app for your whole library, local... |
-| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,358 | Python | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL... |
-| [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,229 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit... |
+| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 2,285 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the... |
+| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,599 | Python | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL... |
+| [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,230 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit... |
+| [cbrock84/headcount](https://github.com/cbrock84/headcount) | 1,118 | Markdown | An agent organization for Claude Code, structured as a company — 15+ departments... |
+| [GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service) | 934 | Python | Dress AI Sponsor |
 
-### Hacker News Top Stories (Last Updated: 2026-09-02 02:08:07 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-03 02:14:14 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Hang on to Your Firefox](https://www.newsonaut.com/articles/hang-on-to-your-firefox) | 554 | [299 comments](https://news.ycombinator.com/item?id=49527748) |
-| [Claude Fable 5.1 and Claude Mythos 5.1](https://www.anthropic.com/claude-fable-and-mythos-5-1) | 948 | [892 comments](https://news.ycombinator.com/item?id=49525378) |
-| [How accurate have Ed Zitron's AI skeptic predictions been?](https://danluu.com/zitron/) | 433 | [510 comments](https://news.ycombinator.com/item?id=49526069) |
-| [The efficient frontier of LLM inference](https://www.baseten.co/blog/the-efficient-frontier-of-llm-inference/) | 42 | [7 comments](https://news.ycombinator.com/item?id=49529898) |
-| [Show HN: Weedout – Safari extension that hides YouTube AI-labeled videos](https://masteranza.github.io/weedout/) | 59 | [20 comments](https://news.ycombinator.com/item?id=49528895) |
-| [My local model setup on an M4 Pro Mac Mini](https://lws.io/blog/my-local-model-setup/) | 68 | [29 comments](https://news.ycombinator.com/item?id=49529132) |
-| [Claude Fable 5.1 made me a nice animated pelican](https://simonwillison.net/2026/Sep/1/claude-fable-5-1/) | 34 | [8 comments](https://news.ycombinator.com/item?id=49530472) |
-| [Introducing Ad Blocker for Firefox on iOS](https://blog.mozilla.org/en/firefox/ad-blocker-on-ios/) | 312 | [108 comments](https://news.ycombinator.com/item?id=49521973) |
-| [Sonic Pi](https://sonic-pi.net/) | 35 | [4 comments](https://news.ycombinator.com/item?id=49482099) |
-| [Building an interactive instrument for a one-of-a-kind festival](https://benholmen.com/blog/halfmoon-chimes/) | 14 | [1 comments](https://news.ycombinator.com/item?id=49479909) |
+| [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) | 405 | [269 comments](https://news.ycombinator.com/item?id=49541256) |
+| [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | 839 | [488 comments](https://news.ycombinator.com/item?id=49537553) |
+| [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) | 273 | [187 comments](https://news.ycombinator.com/item?id=49537131) |
+| [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight) | 65 | [9 comments](https://news.ycombinator.com/item?id=49508405) |
+| [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/) | 27 | [32 comments](https://news.ycombinator.com/item?id=49543530) |
+| [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds) | 147 | [53 comments](https://news.ycombinator.com/item?id=49541458) |
+| [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/) | 109 | [20 comments](https://news.ycombinator.com/item?id=49508608) |
+| [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) | 316 | [144 comments](https://news.ycombinator.com/item?id=49536375) |
+| [Can I opt out of my input or output data being used for training?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) | 377 | [165 comments](https://news.ycombinator.com/item?id=49535284) |
+| [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0) | 36 | [10 comments](https://news.ycombinator.com/item?id=49497996) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 20.0°C (68.0°F) |
-| Average Humidity | 61% |
+| Average Temperature | 15.0°C (60.0°F) |
+| Average Humidity | 78% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-02 02:08:07 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-03 02:14:14 UTC*
