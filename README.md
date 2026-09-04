@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-03 02:14:14 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-04 02:10:09 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [XiaoDuoYa/codex-with-chatgpt](https://github.com/XiaoDuoYa/codex-with-chatgpt) | 2,285 | TypeScript | ChatGPT thinks. Codex works. Use ChatGPT as the planning brain while keeping the... |
-| [Nanako0129/sepia](https://github.com/Nanako0129/sepia) | 1,599 | Python | De-AI writing skill for any Agent Skills-compatible agent (77+ via the Skills CL... |
-| [MetaMask-AI/metamask-desktop](https://github.com/MetaMask-AI/metamask-desktop) | 1,230 | CSS | 🌐 🔌 The MetaMask desktop app enables browsing Ethereum blockchain enabled websit... |
-| [cbrock84/headcount](https://github.com/cbrock84/headcount) | 1,118 | Markdown | An agent organization for Claude Code, structured as a company — 15+ departments... |
-| [GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service) | 934 | Python | Dress AI Sponsor |
+| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | 1,591 | Python | Reference blueprint for building shopping and merchant agents with Claude. Examp... |
+| [rakanki911/DLSS5-Swapper](https://github.com/rakanki911/DLSS5-Swapper) | 1,107 | JavaScript | DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and res... |
+| [GangTailorUpgrade/undress-service](https://github.com/GangTailorUpgrade/undress-service) | 1,018 | Python | Dress AI Sponsor |
+| [shadcn-ui/cn](https://github.com/shadcn-ui/cn) | 967 | TypeScript | cn is a new engine for Tailwind class merging and conflict resolution. It replac... |
+| [2akouwu/reverify](https://github.com/2akouwu/reverify) | 790 | Python | Anti-hallucination for AI agents that read binaries. The model proposes, determi... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-03 02:14:14 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-04 02:10:09 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Muse Spark 1.3](https://developer.meta.com/ai/models/muse-spark/) | 405 | [269 comments](https://news.ycombinator.com/item?id=49541256) |
-| [Gemini 3.8 Flash and 3.8 Flash Cyber](https://blog.google/innovation-and-ai/models-and-research/gemini-models/3-8-flash-and-3-8-flash-cyber/) | 839 | [488 comments](https://news.ycombinator.com/item?id=49537553) |
-| [Google avoids a breakup of its ad tech business](https://www.nytimes.com/2026/09/02/technology/google-ad-tech-remedies.html) | 273 | [187 comments](https://news.ycombinator.com/item?id=49537131) |
-| [Holden's Lightning Flight](https://en.wikipedia.org/wiki/Holden%27s_Lightning_flight) | 65 | [9 comments](https://news.ycombinator.com/item?id=49508405) |
-| [Launch HN: RonanRX (YC S26) – Personalized Peptides and GLP-1s](https://ronanrx.com/) | 27 | [32 comments](https://news.ycombinator.com/item?id=49543530) |
-| [Fable 5.1 World Modeling](https://github.com/PhiloLabs/fable51-worlds) | 147 | [53 comments](https://news.ycombinator.com/item?id=49541458) |
-| [Reverse Engineering Unknown File Formats with ImHex](https://werwolv.net/posts/file_format_reverse_engineering/) | 109 | [20 comments](https://news.ycombinator.com/item?id=49508608) |
-| [Three sites made 215,128 “best software” pages for AI. Perplexity cites them](https://trellner.com/reports/manufactured-sources-behind-ai-recommendations/) | 316 | [144 comments](https://news.ycombinator.com/item?id=49536375) |
-| [Can I opt out of my input or output data being used for training?](https://help.mistral.ai/en/articles/455207-can-i-opt-out-of-my-input-or-output-data-being-used-for-training) | 377 | [165 comments](https://news.ycombinator.com/item?id=49535284) |
-| [The shrinking landscape of linguistic diversity in the age of LLMs](https://www.nature.com/articles/s41562-026-02550-0) | 36 | [10 comments](https://news.ycombinator.com/item?id=49497996) |
+| [GPT-6 Astra](https://openai.com/index/gpt-6-astra/) | 1345 | [1075 comments](https://news.ycombinator.com/item?id=49554643) |
+| [.name Termination](https://neil.fraser.name/news/2026/09/03/) | 1383 | [380 comments](https://news.ycombinator.com/item?id=49550772) |
+| [Qwen 3.8 27B available on Cerebras at 1500 tokens/s](https://inference-docs.cerebras.ai/models/overview) | 457 | [134 comments](https://news.ycombinator.com/item?id=49554520) |
+| [New type of dice guarantees no tie when deciding who goes first](https://www.cbc.ca/lite/story/9.7328614) | 37 | [21 comments](https://news.ycombinator.com/item?id=49530807) |
+| [The largest electric aircraft just flew [video]](https://www.youtube.com/watch?v=nM86DBOqgPM) | 207 | [135 comments](https://news.ycombinator.com/item?id=49526453) |
+| [Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%](https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california) | 164 | [55 comments](https://news.ycombinator.com/item?id=49552572) |
+| [Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly](https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/) | 205 | [62 comments](https://news.ycombinator.com/item?id=49550375) |
+| [Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out](https://armature.tech/blog/which-tools-coding-agents-install) | 105 | [33 comments](https://news.ycombinator.com/item?id=49557206) |
+| [K2 Horizon: A connected fleet of six open models](https://ifm.ai/blog/k2/) | 259 | [84 comments](https://news.ycombinator.com/item?id=49551760) |
+| [GPS glitched across the US by as much as 33 feet](https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before) | 120 | [67 comments](https://news.ycombinator.com/item?id=49544618) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 15.0°C (60.0°F) |
-| Average Humidity | 78% |
+| Average Temperature | 19.0°C (66.0°F) |
+| Average Humidity | 61% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-03 02:14:14 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-04 02:10:09 UTC*

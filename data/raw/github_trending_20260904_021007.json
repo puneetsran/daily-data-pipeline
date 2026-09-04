@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-04 02:10 UTC",
-  "github_trending": [
+  "collected_at": "2026-09-04T02:10:07.431770",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "anthropics/commerce-agents",
       "stars": 1591,
@@ -80,88 +81,6 @@
       "description": "DLSS 5 Neural Video & Image Enhancer with Frame Interpolation",
       "url": "https://github.com/Merserk/dlss5-visual-enhancer",
       "created_at": "2026-08-30T19:45:52Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "GPT-6 Astra",
-      "url": "https://openai.com/index/gpt-6-astra/",
-      "score": 1345,
-      "comments": 1075,
-      "by": "kibae",
-      "hn_url": "https://news.ycombinator.com/item?id=49554643"
-    },
-    {
-      "title": ".name Termination",
-      "url": "https://neil.fraser.name/news/2026/09/03/",
-      "score": 1383,
-      "comments": 380,
-      "by": "pavel_lishin",
-      "hn_url": "https://news.ycombinator.com/item?id=49550772"
-    },
-    {
-      "title": "Qwen 3.8 27B available on Cerebras at 1500 tokens/s",
-      "url": "https://inference-docs.cerebras.ai/models/overview",
-      "score": 457,
-      "comments": 134,
-      "by": "altertable",
-      "hn_url": "https://news.ycombinator.com/item?id=49554520"
-    },
-    {
-      "title": "New type of dice guarantees no tie when deciding who goes first",
-      "url": "https://www.cbc.ca/lite/story/9.7328614",
-      "score": 37,
-      "comments": 21,
-      "by": "colinprince",
-      "hn_url": "https://news.ycombinator.com/item?id=49530807"
-    },
-    {
-      "title": "The largest electric aircraft just flew [video]",
-      "url": "https://www.youtube.com/watch?v=nM86DBOqgPM",
-      "score": 207,
-      "comments": 135,
-      "by": "feb",
-      "hn_url": "https://news.ycombinator.com/item?id=49526453"
-    },
-    {
-      "title": "Artificial beaver dams saw juvenile coho salmon survival rates go from 8% to 60%",
-      "url": "https://www.discoverwildlife.com/animal-facts/artificial-beaver-dams-california",
-      "score": 164,
-      "comments": 55,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=49552572"
-    },
-    {
-      "title": "Porting my 1993 Amiga game to Godot, with an LLM reading the 68000 assembly",
-      "url": "https://babyloniantwins.com/blog/porting-a-1993-amiga-game-to-godot/",
-      "score": 205,
-      "comments": 62,
-      "by": "rabahs",
-      "hn_url": "https://news.ycombinator.com/item?id=49550375"
-    },
-    {
-      "title": "Which tools do Claude, Codex and Cursor choose? We measured 17k runs to find out",
-      "url": "https://armature.tech/blog/which-tools-coding-agents-install",
-      "score": 105,
-      "comments": 33,
-      "by": "screm",
-      "hn_url": "https://news.ycombinator.com/item?id=49557206"
-    },
-    {
-      "title": "K2 Horizon: A connected fleet of six open models",
-      "url": "https://ifm.ai/blog/k2/",
-      "score": 259,
-      "comments": 84,
-      "by": "karimf",
-      "hn_url": "https://news.ycombinator.com/item?id=49551760"
-    },
-    {
-      "title": "GPS glitched across the US by as much as 33 feet",
-      "url": "https://www.sciencealert.com/gps-glitched-across-the-us-by-as-much-as-33-feet-scientists-have-never-seen-this-before",
-      "score": 120,
-      "comments": 67,
-      "by": "thread_id",
-      "hn_url": "https://news.ycombinator.com/item?id=49544618"
     }
   ]
 }

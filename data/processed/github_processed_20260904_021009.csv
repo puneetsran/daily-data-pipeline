@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+anthropics/commerce-agents,1591,Python,"Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, comme",https://github.com/anthropics/commerce-agents,2026-09-01T12:30:12Z
+rakanki911/DLSS5-Swapper,1107,JavaScript,"DLSS 5 Swapper is a powerful, easy-to-use tool for installing, managing, and restoring DLSS 5 across",https://github.com/rakanki911/DLSS5-Swapper,2026-08-29T23:51:32Z
+GangTailorUpgrade/undress-service,1018,Python,Dress AI Sponsor,https://github.com/GangTailorUpgrade/undress-service,2026-08-31T00:12:45Z
+shadcn-ui/cn,967,TypeScript,cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge an,https://github.com/shadcn-ui/cn,2026-08-31T07:04:03Z
+2akouwu/reverify,790,Python,"Anti-hallucination for AI agents that read binaries. The model proposes, deterministic tools decide:",https://github.com/2akouwu/reverify,2026-08-31T01:02:18Z
+jlrouzies-fr/DLSS5-Feeder,670,C++,DLSS 5 neural rendering in D3D11/D12/Vulkan games that ship without any DLSS — feeds a synthetic DLA,https://github.com/jlrouzies-fr/DLSS5-Feeder,2026-08-29T19:52:37Z
+lnkiai/m3e-canvas,495,TypeScript,Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.,https://github.com/lnkiai/m3e-canvas,2026-09-02T04:36:34Z
+MSNightmare/FalconFlank,422,C,Crowdstrike Falcon 0day Privilege Escalation Vulnerability,https://github.com/MSNightmare/FalconFlank,2026-09-03T02:48:22Z
+Ryze-AI-Adgent/open-seo-mcp-skills,417,Shell,"Open-source SEO + GEO skills for Claude — keyword research, rank tracking, site audits, backlinks, c",https://github.com/Ryze-AI-Adgent/open-seo-mcp-skills,2026-08-29T23:37:01Z
+Merserk/dlss5-visual-enhancer,395,Python,DLSS 5 Neural Video & Image Enhancer with Frame Interpolation,https://github.com/Merserk/dlss5-visual-enhancer,2026-08-30T19:45:52Z
