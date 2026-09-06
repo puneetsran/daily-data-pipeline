@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-06T02:06:05.126725",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "lnkiai/m3e-canvas",
+      "stars": 3733,
+      "language": "TypeScript",
+      "description": "Sketch Material 3 Expressive screens in the browser and turn them into vibe-coding prompts.",
+      "url": "https://github.com/lnkiai/m3e-canvas",
+      "created_at": "2026-09-02T04:36:34Z"
+    },
+    {
+      "name": "anthropics/commerce-agents",
+      "stars": 2055,
+      "language": "Python",
+      "description": "Reference blueprint for building shopping and merchant agents with Claude. Examples in retail, comme",
+      "url": "https://github.com/anthropics/commerce-agents",
+      "created_at": "2026-09-01T12:30:12Z"
+    },
+    {
+      "name": "shadcn-ui/cn",
+      "stars": 1172,
+      "language": "TypeScript",
+      "description": "cn is a new engine for Tailwind class merging and conflict resolution. It replaces tailwind-merge an",
+      "url": "https://github.com/shadcn-ui/cn",
+      "created_at": "2026-08-31T07:04:03Z"
+    },
+    {
+      "name": "GangTailorUpgrade/undress-service",
+      "stars": 1091,
+      "language": "Python",
+      "description": "Dress AI Sponsor",
+      "url": "https://github.com/GangTailorUpgrade/undress-service",
+      "created_at": "2026-08-31T00:12:45Z"
+    },
+    {
+      "name": "2akouwu/reverify",
+      "stars": 923,
+      "language": "Python",
+      "description": "Stop your AI from making things up \u2014 it proposes, deterministic tools decide, every claim checked ag",
+      "url": "https://github.com/2akouwu/reverify",
+      "created_at": "2026-08-31T01:02:18Z"
+    },
+    {
+      "name": "yczz/oc-english",
+      "stars": 822,
+      "language": "JavaScript",
+      "description": "\u517b\u6210\u7c7b\u6e38\u620f\u82f1\u8bed\u5b66\u4e60",
+      "url": "https://github.com/yczz/oc-english",
+      "created_at": "2026-09-01T23:45:27Z"
+    },
+    {
+      "name": "anthropics/fermats-last-theorem",
+      "stars": 699,
+      "language": "Lean",
+      "description": "No description",
+      "url": "https://github.com/anthropics/fermats-last-theorem",
+      "created_at": "2026-09-04T14:21:04Z"
+    },
+    {
+      "name": "danielblnc/DLSS-NR-on-AMD",
+      "stars": 656,
+      "language": "N/A",
+      "description": "Run DLSS 5 Neural Rendering on your AMD GPU. Magic!",
+      "url": "https://github.com/danielblnc/DLSS-NR-on-AMD",
+      "created_at": "2026-09-03T00:42:03Z"
+    },
+    {
+      "name": "nahrek/polyledger",
+      "stars": 620,
+      "language": "Python",
+      "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB ",
+      "url": "https://github.com/nahrek/polyledger",
+      "created_at": "2026-09-02T17:00:13Z"
+    },
+    {
+      "name": "MSNightmare/FalconFlank",
+      "stars": 515,
+      "language": "C",
+      "description": "Crowdstrike Falcon 0day Privilege Escalation Vulnerability",
+      "url": "https://github.com/MSNightmare/FalconFlank",
+      "created_at": "2026-09-03T02:48:22Z"
+    }
+  ]
+}
