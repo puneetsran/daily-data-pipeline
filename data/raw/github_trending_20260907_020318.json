@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-07 02:03 UTC",
-  "github_trending": [
+  "collected_at": "2026-09-07T02:03:18.693967",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "lnkiai/m3e-canvas",
       "stars": 4303,
@@ -80,88 +81,6 @@
       "description": "Resumable Polymarket indexer: CLOB market metadata plus on-chain trades from Polygon, in one DuckDB ",
       "url": "https://github.com/nahrek/polyledger",
       "created_at": "2026-09-02T17:00:13Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Making a Python interpreter in 1024 bytes",
-      "url": "https://austinhenley.com/blog/python1024.html",
-      "score": 91,
-      "comments": 33,
-      "by": "azhenley",
-      "hn_url": "https://news.ycombinator.com/item?id=49591876"
-    },
-    {
-      "title": "GrapheneOS Overhauled Default Apps and Secure Clipboard",
-      "url": "https://grapheneos.social/@GrapheneOS/117225539756835649",
-      "score": 199,
-      "comments": 123,
-      "by": "Cider9986",
-      "hn_url": "https://news.ycombinator.com/item?id=49590512"
-    },
-    {
-      "title": "It took a year to ship WebAssembly in Anubis",
-      "url": "https://anubis.techaro.lol/blog/2026/anubis-wasm/",
-      "score": 144,
-      "comments": 87,
-      "by": "xena",
-      "hn_url": "https://news.ycombinator.com/item?id=49590611"
-    },
-    {
-      "title": "Ponytail: Lazy Senior Engineer Skill",
-      "url": "https://ponytail.dev/",
-      "score": 6,
-      "comments": 2,
-      "by": "zatkin",
-      "hn_url": "https://news.ycombinator.com/item?id=49592706"
-    },
-    {
-      "title": "Your intellectual fly is open when you use an LLM to author a post (2025)",
-      "url": "https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/",
-      "score": 529,
-      "comments": 342,
-      "by": "cyb0rg0",
-      "hn_url": "https://news.ycombinator.com/item?id=49585644"
-    },
-    {
-      "title": "Show HN: Mador \u2013 Make any DOM reactive with a tiny 80-line Proxy state tuple",
-      "url": "https://github.com/marsbos/mador",
-      "score": 68,
-      "comments": 22,
-      "by": "bosmarcel",
-      "hn_url": "https://news.ycombinator.com/item?id=49590738"
-    },
-    {
-      "title": "Nitter and XCancel resume service after legal advice",
-      "url": "https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3",
-      "score": 477,
-      "comments": 248,
-      "by": "zImPatrick",
-      "hn_url": "https://news.ycombinator.com/item?id=49588988"
-    },
-    {
-      "title": "Is mathematics about to enter the conservatory?",
-      "url": "https://mbmccoy.dev/posts/mathematical-conservatory/",
-      "score": 21,
-      "comments": 31,
-      "by": "_alternator_",
-      "hn_url": "https://news.ycombinator.com/item?id=49591793"
-    },
-    {
-      "title": "Harnessing the Universal Geometry of Embeddings",
-      "url": "https://arxiv.org/abs/2505.12540",
-      "score": 45,
-      "comments": 11,
-      "by": "ur-whale",
-      "hn_url": "https://news.ycombinator.com/item?id=49590595"
-    },
-    {
-      "title": "Babylonian Lamb Stew with Beets (1750\u20131730 BCE)",
-      "url": "https://babylonian-collection.yale.edu/about/babylonian-cooking",
-      "score": 100,
-      "comments": 54,
-      "by": "yubblegum",
-      "hn_url": "https://news.ycombinator.com/item?id=49554622"
     }
   ]
 }
