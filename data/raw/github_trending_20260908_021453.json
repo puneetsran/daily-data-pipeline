@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-08 02:14 UTC",
-  "github_trending": [
+  "collected_at": "2026-09-08T02:14:53.485302",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "lnkiai/m3e-canvas",
       "stars": 4696,
@@ -80,88 +81,6 @@
       "description": "Open-source AI brand visibility and competitor reports",
       "url": "https://github.com/Albert-Weasker/niubigeo",
       "created_at": "2026-09-03T15:55:54Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "I've factored the RSA keys of a Certificate Authority from the 90s",
-      "url": "https://mcpherrin.ca/2026/09/07/rsa.html",
-      "score": 76,
-      "comments": 12,
-      "by": "ahlCVA",
-      "hn_url": "https://news.ycombinator.com/item?id=49604637"
-    },
-    {
-      "title": "Jellyfin 12.0",
-      "url": "https://jellyfin.org/posts/jellyfin-release-12.0/",
-      "score": 34,
-      "comments": 5,
-      "by": "0xC0ncord",
-      "hn_url": "https://news.ycombinator.com/item?id=49604861"
-    },
-    {
-      "title": "TALA Is Open-Source",
-      "url": "https://d2lang.com/blog/tala-is-open-source/",
-      "score": 91,
-      "comments": 8,
-      "by": "alixanderwang",
-      "hn_url": "https://news.ycombinator.com/item?id=49604150"
-    },
-    {
-      "title": "Watch Los Angeles get built, one building at a time (1880\u20132026)",
-      "url": "https://lax-skyline.parcelscope.net/",
-      "score": 223,
-      "comments": 107,
-      "by": "rustywasm",
-      "hn_url": "https://news.ycombinator.com/item?id=49601655"
-    },
-    {
-      "title": "Show HN: Stuxnet \u2013 A reconstructed source code of the infamous cyber-weapon",
-      "url": "https://github.com/Sadpainy/Stuxnet",
-      "score": 101,
-      "comments": 31,
-      "by": "CMDDestory",
-      "hn_url": "https://news.ycombinator.com/item?id=49603546"
-    },
-    {
-      "title": "Leaving VMware just got harder after Broadcom pulled VDDK downloads",
-      "url": "https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/",
-      "score": 97,
-      "comments": 47,
-      "by": "josephcsible",
-      "hn_url": "https://news.ycombinator.com/item?id=49602699"
-    },
-    {
-      "title": "Trusting-Trust Attack against an Entire Linux Distribution",
-      "url": "https://arxiv.org/abs/2607.24888",
-      "score": 157,
-      "comments": 35,
-      "by": "signa11",
-      "hn_url": "https://news.ycombinator.com/item?id=49575515"
-    },
-    {
-      "title": "WeatherNext 3",
-      "url": "https://deepmind.google/science/weathernext/",
-      "score": 236,
-      "comments": 57,
-      "by": "matthieu_bl",
-      "hn_url": "https://news.ycombinator.com/item?id=49552299"
-    },
-    {
-      "title": "Disconnect your LG television from the internet, now",
-      "url": "https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now",
-      "score": 51,
-      "comments": 25,
-      "by": "harambae",
-      "hn_url": "https://news.ycombinator.com/item?id=49604537"
-    },
-    {
-      "title": "Scientists observe Einstein's gravity in the quantum world",
-      "url": "https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world",
-      "score": 148,
-      "comments": 37,
-      "by": "mudil",
-      "hn_url": "https://news.ycombinator.com/item?id=49569838"
     }
   ]
 }

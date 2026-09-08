@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-07 02:03:22 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-08 02:14:56 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 4,303 | TypeScript | Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi... |
-| [anthropics/commerce-agents](https://github.com/anthropics/commerce-agents) | 2,226 | Python | Reference blueprint for building shopping and merchant agents with Claude. Examp... |
-| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 1,376 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay... |
-| [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 1,128 | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc... |
-| [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | 909 | Python | Free open-source project designed for turning youtube-viedos into viral short vi... |
+| [lnkiai/m3e-canvas](https://github.com/lnkiai/m3e-canvas) | 4,696 | TypeScript | Sketch Material 3 Expressive screens in the browser and turn them into vibe-codi... |
+| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 2,041 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay... |
+| [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 1,825 | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc... |
+| [pierrenade/short-video-generator-AI](https://github.com/pierrenade/short-video-generator-AI) | 1,178 | Python | Free open-source project designed for turning youtube-viedos into viral short vi... |
+| [anthropics/fermats-last-theorem](https://github.com/anthropics/fermats-last-theorem) | 940 | Lean | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-09-07 02:03:22 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-08 02:14:56 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Making a Python interpreter in 1024 bytes](https://austinhenley.com/blog/python1024.html) | 91 | [33 comments](https://news.ycombinator.com/item?id=49591876) |
-| [GrapheneOS Overhauled Default Apps and Secure Clipboard](https://grapheneos.social/@GrapheneOS/117225539756835649) | 199 | [123 comments](https://news.ycombinator.com/item?id=49590512) |
-| [It took a year to ship WebAssembly in Anubis](https://anubis.techaro.lol/blog/2026/anubis-wasm/) | 144 | [87 comments](https://news.ycombinator.com/item?id=49590611) |
-| [Ponytail: Lazy Senior Engineer Skill](https://ponytail.dev/) | 6 | [2 comments](https://news.ycombinator.com/item?id=49592706) |
-| [Your intellectual fly is open when you use an LLM to author a post (2025)](https://bcantrill.dtrace.org/2025/12/05/your-intellectual-fly-is-open/) | 529 | [342 comments](https://news.ycombinator.com/item?id=49585644) |
-| [Show HN: Mador – Make any DOM reactive with a tiny 80-line Proxy state tuple](https://github.com/marsbos/mador) | 68 | [22 comments](https://news.ycombinator.com/item?id=49590738) |
-| [Nitter and XCancel resume service after legal advice](https://github.com/zedeus/nitter/commit/1428b4c2b4246f92a7e5b2673438e5fb39fcc4a3) | 477 | [248 comments](https://news.ycombinator.com/item?id=49588988) |
-| [Is mathematics about to enter the conservatory?](https://mbmccoy.dev/posts/mathematical-conservatory/) | 21 | [31 comments](https://news.ycombinator.com/item?id=49591793) |
-| [Harnessing the Universal Geometry of Embeddings](https://arxiv.org/abs/2505.12540) | 45 | [11 comments](https://news.ycombinator.com/item?id=49590595) |
-| [Babylonian Lamb Stew with Beets (1750–1730 BCE)](https://babylonian-collection.yale.edu/about/babylonian-cooking) | 100 | [54 comments](https://news.ycombinator.com/item?id=49554622) |
+| [I've factored the RSA keys of a Certificate Authority from the 90s](https://mcpherrin.ca/2026/09/07/rsa.html) | 76 | [12 comments](https://news.ycombinator.com/item?id=49604637) |
+| [Jellyfin 12.0](https://jellyfin.org/posts/jellyfin-release-12.0/) | 34 | [5 comments](https://news.ycombinator.com/item?id=49604861) |
+| [TALA Is Open-Source](https://d2lang.com/blog/tala-is-open-source/) | 91 | [8 comments](https://news.ycombinator.com/item?id=49604150) |
+| [Watch Los Angeles get built, one building at a time (1880–2026)](https://lax-skyline.parcelscope.net/) | 223 | [107 comments](https://news.ycombinator.com/item?id=49601655) |
+| [Show HN: Stuxnet – A reconstructed source code of the infamous cyber-weapon](https://github.com/Sadpainy/Stuxnet) | 101 | [31 comments](https://news.ycombinator.com/item?id=49603546) |
+| [Leaving VMware just got harder after Broadcom pulled VDDK downloads](https://www.virtualizationhowto.com/2026/09/leaving-vmware-just-got-harder-after-broadcom-pulled-vddk-downloads/) | 97 | [47 comments](https://news.ycombinator.com/item?id=49602699) |
+| [Trusting-Trust Attack against an Entire Linux Distribution](https://arxiv.org/abs/2607.24888) | 157 | [35 comments](https://news.ycombinator.com/item?id=49575515) |
+| [WeatherNext 3](https://deepmind.google/science/weathernext/) | 236 | [57 comments](https://news.ycombinator.com/item?id=49552299) |
+| [Disconnect your LG television from the internet, now](https://appleinsider.com/articles/26/09/07/disconnect-your-lg-television-from-the-internet-now) | 51 | [25 comments](https://news.ycombinator.com/item?id=49604537) |
+| [Scientists observe Einstein's gravity in the quantum world](https://www.ox.ac.uk/news/2026-08-28-scientists-observe-einsteins-gravity-in-the-quantum-world) | 148 | [37 comments](https://news.ycombinator.com/item?id=49569838) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 20.0°C (67.0°F) |
-| Average Humidity | 59% |
+| Average Temperature | 22.0°C (72.0°F) |
+| Average Humidity | 63% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-07 02:03:22 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-08 02:14:56 UTC*
