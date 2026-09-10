@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-09 02:18:33 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-10 02:17:12 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 2,473 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay... |
-| [Albert-Weasker/niubigeo](https://github.com/Albert-Weasker/niubigeo) | 2,169 | TypeScript | Open-source AI brand visibility and competitor reports |
-| [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 1,946 | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc... |
-| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,134 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
-| [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | 1,113 | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav... |
+| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 2,853 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay... |
+| [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 2,025 | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc... |
+| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,567 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
+| [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | 1,288 | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav... |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,243 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-09 02:18:33 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-10 02:17:12 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Harvard study predicts most suicide attempts a week in advance](https://current.fas.harvard.edu/stories/harvard-study-predicts-most-suicide-attempts-week-advance) | 17 | [1 comments](https://news.ycombinator.com/item?id=49619906) |
-| [Muse – Meta’s personal AI agent](https://ai.meta.com/muse/) | 329 | [325 comments](https://news.ycombinator.com/item?id=49615537) |
-| [Large language models develop novel social biases through adaptive exploration](https://openreview.net/challenge?redirect=%2Fforum%3Fid%3Dpc7fqaOcAH) | 98 | [49 comments](https://news.ycombinator.com/item?id=49617581) |
-| [How to build a printer](https://nishantjosh.dev/blogs/how-to-build-a-fking-printer/) | 150 | [37 comments](https://news.ycombinator.com/item?id=49617255) |
-| [Navier-Stokes – Tristan Buckmaster [pdf]](https://cims.nyu.edu/~tristanb/statement.pdf) | 1287 | [554 comments](https://news.ycombinator.com/item?id=49605915) |
-| [AlphaGenome Atlas: a high-resolution map of human DNA](https://blog.google/innovation-and-ai/models-and-research/google-deepmind/alphagenome-atlas/) | 498 | [115 comments](https://news.ycombinator.com/item?id=49611251) |
-| [DaVinci Resolve 21.1](https://www.blackmagicdesign.com/media/release/20260908-03) | 357 | [157 comments](https://news.ycombinator.com/item?id=49610181) |
-| [On the Navier–Stokes Millennium Prize Problem](https://openai.com/index/navier-stokes-solution/) | 1135 | [978 comments](https://news.ycombinator.com/item?id=49613262) |
-| [Benchmarking Qwen3.8 27B quantizations: 4-bit holds up, 1-bit collapses](https://quesma.com/blog/qwen38-27b-quantizations-benchmarked/) | 218 | [109 comments](https://news.ycombinator.com/item?id=49611128) |
-| [Tao: Open math problems being non-renewably mined by AI](https://mathstodon.xyz/@tao/117237320796901560) | 157 | [105 comments](https://news.ycombinator.com/item?id=49616968) |
+| [iPhone Duo](https://www.apple.com/iphone-duo/) | 911 | [1710 comments](https://news.ycombinator.com/item?id=49630931) |
+| [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) | 898 | [356 comments](https://news.ycombinator.com/item?id=49626190) |
+| [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) | 386 | [227 comments](https://news.ycombinator.com/item?id=49614280) |
+| [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) | 380 | [309 comments](https://news.ycombinator.com/item?id=49630253) |
+| [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/) | 14 | [0 comments](https://news.ycombinator.com/item?id=49623398) |
+| [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) | 219 | [423 comments](https://news.ycombinator.com/item?id=49629886) |
+| [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/) | 306 | [327 comments](https://news.ycombinator.com/item?id=49628493) |
+| [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/) | 284 | [297 comments](https://news.ycombinator.com/item?id=49630151) |
+| [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) | 354 | [124 comments](https://news.ycombinator.com/item?id=49627370) |
+| [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260) | 36 | [5 comments](https://news.ycombinator.com/item?id=49633534) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 21.0°C (70.0°F) |
-| Average Humidity | 74% |
+| Average Temperature | 16.0°C (61.0°F) |
+| Average Humidity | 78% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-09 02:18:33 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-10 02:17:12 UTC*

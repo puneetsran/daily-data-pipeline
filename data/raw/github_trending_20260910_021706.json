@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-10 02:17 UTC",
-  "github_trending": [
+  "collected_at": "2026-09-10T02:17:06.898486",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "ashemag/human-atlas",
       "stars": 2853,
@@ -80,88 +81,6 @@
       "description": "\u624b\u7ed8\u98ce\u683c\u7f16\u53f7\u753b\u5eca\u4e0e\u53cc\u8bed\u63d0\u793a\u8bcd Skill",
       "url": "https://github.com/yang0/handraw-style",
       "created_at": "2026-09-05T21:57:22Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "iPhone Duo",
-      "url": "https://www.apple.com/iphone-duo/",
-      "score": 911,
-      "comments": 1710,
-      "by": "thecosmicfrog",
-      "hn_url": "https://news.ycombinator.com/item?id=49630931"
-    },
-    {
-      "title": "Shopify acquires Tailwind",
-      "url": "https://tailwindcss.com/blog/tailwind-is-joining-shopify",
-      "score": 898,
-      "comments": 356,
-      "by": "EdwinHoksberg",
-      "hn_url": "https://news.ycombinator.com/item?id=49626190"
-    },
-    {
-      "title": "What do Visa and Mastercard do? An intro to card networks",
-      "url": "https://tautology.town/2026/06/01/card-networks.html",
-      "score": 386,
-      "comments": 227,
-      "by": "evakhoury",
-      "hn_url": "https://news.ycombinator.com/item?id=49614280"
-    },
-    {
-      "title": "AirPods 5",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/",
-      "score": 380,
-      "comments": 309,
-      "by": "awad",
-      "hn_url": "https://news.ycombinator.com/item?id=49630253"
-    },
-    {
-      "title": "Show HN: Compute polynomials twice as fast",
-      "url": "https://thomasahle.com/fast-polynomials/",
-      "score": 14,
-      "comments": 0,
-      "by": "thomasahle",
-      "hn_url": "https://news.ycombinator.com/item?id=49623398"
-    },
-    {
-      "title": "Growing proof that autonomous cars save lives",
-      "url": "https://spectrum.ieee.org/are-self-driving-cars-safe",
-      "score": 219,
-      "comments": 423,
-      "by": "bookofjoe",
-      "hn_url": "https://news.ycombinator.com/item?id=49629886"
-    },
-    {
-      "title": "No Man's Sky Cosmos",
-      "url": "https://www.nomanssky.com/cosmos-update/",
-      "score": 306,
-      "comments": 327,
-      "by": "Limb",
-      "hn_url": "https://news.ycombinator.com/item?id=49628493"
-    },
-    {
-      "title": "iPhone 18 Pro and iPhone 18 Pro Max",
-      "url": "https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/",
-      "score": 284,
-      "comments": 297,
-      "by": "meetpateltech",
-      "hn_url": "https://news.ycombinator.com/item?id=49630151"
-    },
-    {
-      "title": "GPT-6 Astra, looped transformers, and hidden reasoning",
-      "url": "https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and",
-      "score": 354,
-      "comments": 124,
-      "by": "ModelForge",
-      "hn_url": "https://news.ycombinator.com/item?id=49627370"
-    },
-    {
-      "title": "Factoring RSA 260",
-      "url": "https://cognition.com/blog/factoring-rsa-260",
-      "score": 36,
-      "comments": 5,
-      "by": "samyok",
-      "hn_url": "https://news.ycombinator.com/item?id=49633534"
     }
   ]
 }
