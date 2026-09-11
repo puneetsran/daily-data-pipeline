@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-11T02:13:05.286714",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "YuE2 \u00b7 Frontier Music with Symbolic Planning",
+      "url": "https://map-yue2.github.io/",
+      "score": 41,
+      "comments": 33,
+      "by": "sexy_seedbox",
+      "hn_url": "https://news.ycombinator.com/item?id=49652028"
+    },
+    {
+      "title": "Shopify is moving from React Native back to Swift and Kotlin",
+      "url": "https://shopify.engineering/back-to-native",
+      "score": 798,
+      "comments": 538,
+      "by": "fnthawar2",
+      "hn_url": "https://news.ycombinator.com/item?id=49643982"
+    },
+    {
+      "title": "More questions about whether researchers can trust OpenAI with unpublished math",
+      "url": "https://mathstodon.xyz/@andreasthom/117240535270608201",
+      "score": 685,
+      "comments": 635,
+      "by": "pred_",
+      "hn_url": "https://news.ycombinator.com/item?id=49639408"
+    },
+    {
+      "title": "Google will buy half the electricity of a nuclear power plant",
+      "url": "https://www.bbc.com/news/articles/c8r6y4me2g6o",
+      "score": 78,
+      "comments": 53,
+      "by": "lukaspetersson",
+      "hn_url": "https://news.ycombinator.com/item?id=49652105"
+    },
+    {
+      "title": "OpenAI Agents API",
+      "url": "https://developers.openai.com/api/docs/guides/agents-api/overview",
+      "score": 139,
+      "comments": 89,
+      "by": "aquir",
+      "hn_url": "https://news.ycombinator.com/item?id=49649213"
+    },
+    {
+      "title": "The Deathray: A simple way for an untrusted site to freeze a Mac",
+      "url": "https://auberon.xyz/blog/posts/deathray/",
+      "score": 89,
+      "comments": 55,
+      "by": "auberonedu",
+      "hn_url": "https://news.ycombinator.com/item?id=49649124"
+    },
+    {
+      "title": "Don't let anyone take away your big box of cables",
+      "url": "https://blog.jim-nielsen.com/2026/hands-off-my-cables/",
+      "score": 335,
+      "comments": 258,
+      "by": "Brajeshwar",
+      "hn_url": "https://news.ycombinator.com/item?id=49645393"
+    },
+    {
+      "title": "Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra",
+      "url": "https://cognition.com/blog/swe-2",
+      "score": 357,
+      "comments": 150,
+      "by": "seelos",
+      "hn_url": "https://news.ycombinator.com/item?id=49645443"
+    },
+    {
+      "title": "Thelio Mira AI Linux Workstation: 192 GB GPU Memory",
+      "url": "https://system76.com/workstations/thelio-mira-ai",
+      "score": 33,
+      "comments": 24,
+      "by": "jonifico",
+      "hn_url": "https://news.ycombinator.com/item?id=49651372"
+    },
+    {
+      "title": "Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)",
+      "url": "https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images",
+      "score": 277,
+      "comments": 42,
+      "by": "gumby",
+      "hn_url": "https://news.ycombinator.com/item?id=49645437"
+    }
+  ]
+}

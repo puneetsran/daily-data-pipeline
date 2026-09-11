@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-10 02:17:12 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-11 02:13:07 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 2,853 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay... |
-| [Rion-Wu-tech/wechat-intelligence-hub](https://github.com/Rion-Wu-tech/wechat-intelligence-hub) | 2,025 | Python | Local-first WeChat intelligence system with a read-only CLI, Codex skills, searc... |
-| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,567 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
-| [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | 1,288 | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav... |
-| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,243 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
+| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 3,099 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay... |
+| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,720 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
+| [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | 1,444 | N/A | Here is a dlssg for RTX30 Series GPU  |
+| [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | 1,389 | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav... |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,338 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-10 02:17:12 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-11 02:13:07 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [iPhone Duo](https://www.apple.com/iphone-duo/) | 911 | [1710 comments](https://news.ycombinator.com/item?id=49630931) |
-| [Shopify acquires Tailwind](https://tailwindcss.com/blog/tailwind-is-joining-shopify) | 898 | [356 comments](https://news.ycombinator.com/item?id=49626190) |
-| [What do Visa and Mastercard do? An intro to card networks](https://tautology.town/2026/06/01/card-networks.html) | 386 | [227 comments](https://news.ycombinator.com/item?id=49614280) |
-| [AirPods 5](https://www.apple.com/newsroom/2026/09/apple-introduces-airpods-5-with-best-in-class-open-ear-active-noise-cancellation/) | 380 | [309 comments](https://news.ycombinator.com/item?id=49630253) |
-| [Show HN: Compute polynomials twice as fast](https://thomasahle.com/fast-polynomials/) | 14 | [0 comments](https://news.ycombinator.com/item?id=49623398) |
-| [Growing proof that autonomous cars save lives](https://spectrum.ieee.org/are-self-driving-cars-safe) | 219 | [423 comments](https://news.ycombinator.com/item?id=49629886) |
-| [No Man's Sky Cosmos](https://www.nomanssky.com/cosmos-update/) | 306 | [327 comments](https://news.ycombinator.com/item?id=49628493) |
-| [iPhone 18 Pro and iPhone 18 Pro Max](https://www.apple.com/newsroom/2026/09/apple-debuts-iphone-18-pro-and-iphone-18-pro-max/) | 284 | [297 comments](https://news.ycombinator.com/item?id=49630151) |
-| [GPT-6 Astra, looped transformers, and hidden reasoning](https://magazine.sebastianraschka.com/p/gpt-6-astra-looped-transformers-and) | 354 | [124 comments](https://news.ycombinator.com/item?id=49627370) |
-| [Factoring RSA 260](https://cognition.com/blog/factoring-rsa-260) | 36 | [5 comments](https://news.ycombinator.com/item?id=49633534) |
+| [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/) | 41 | [33 comments](https://news.ycombinator.com/item?id=49652028) |
+| [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) | 798 | [538 comments](https://news.ycombinator.com/item?id=49643982) |
+| [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) | 685 | [635 comments](https://news.ycombinator.com/item?id=49639408) |
+| [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o) | 78 | [53 comments](https://news.ycombinator.com/item?id=49652105) |
+| [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) | 139 | [89 comments](https://news.ycombinator.com/item?id=49649213) |
+| [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) | 89 | [55 comments](https://news.ycombinator.com/item?id=49649124) |
+| [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) | 335 | [258 comments](https://news.ycombinator.com/item?id=49645393) |
+| [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) | 357 | [150 comments](https://news.ycombinator.com/item?id=49645443) |
+| [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai) | 33 | [24 comments](https://news.ycombinator.com/item?id=49651372) |
+| [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) | 277 | [42 comments](https://news.ycombinator.com/item?id=49645437) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 16.0°C (61.0°F) |
-| Average Humidity | 78% |
+| Average Temperature | 18.0°C (64.0°F) |
+| Average Humidity | 63% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-10 02:17:12 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-11 02:13:07 UTC*
