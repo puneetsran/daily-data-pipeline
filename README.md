@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-11 02:13:07 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-12 02:19:26 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [ashemag/human-atlas](https://github.com/ashemag/human-atlas) | 3,099 | TypeScript | Open-source 3D anatomy explorer: 2,234 selectable BodyParts3D meshes, system lay... |
-| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,720 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
-| [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | 1,444 | N/A | Here is a dlssg for RTX30 Series GPU  |
-| [vinzdg/codenotch](https://github.com/vinzdg/codenotch) | 1,389 | Swift | A macOS app that pins usage limits from Claude Code, Cursor, Codex, and Antigrav... |
-| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,338 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
+| [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | 1,789 | N/A | Here is a dlssg for RTX30 Series GPU  |
+| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,778 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,447 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
+| [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 1,354 | Python | No description |
+| [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 945 | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-11 02:13:07 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-12 02:19:26 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [YuE2 · Frontier Music with Symbolic Planning](https://map-yue2.github.io/) | 41 | [33 comments](https://news.ycombinator.com/item?id=49652028) |
-| [Shopify is moving from React Native back to Swift and Kotlin](https://shopify.engineering/back-to-native) | 798 | [538 comments](https://news.ycombinator.com/item?id=49643982) |
-| [More questions about whether researchers can trust OpenAI with unpublished math](https://mathstodon.xyz/@andreasthom/117240535270608201) | 685 | [635 comments](https://news.ycombinator.com/item?id=49639408) |
-| [Google will buy half the electricity of a nuclear power plant](https://www.bbc.com/news/articles/c8r6y4me2g6o) | 78 | [53 comments](https://news.ycombinator.com/item?id=49652105) |
-| [OpenAI Agents API](https://developers.openai.com/api/docs/guides/agents-api/overview) | 139 | [89 comments](https://news.ycombinator.com/item?id=49649213) |
-| [The Deathray: A simple way for an untrusted site to freeze a Mac](https://auberon.xyz/blog/posts/deathray/) | 89 | [55 comments](https://news.ycombinator.com/item?id=49649124) |
-| [Don't let anyone take away your big box of cables](https://blog.jim-nielsen.com/2026/hands-off-my-cables/) | 335 | [258 comments](https://news.ycombinator.com/item?id=49645393) |
-| [Cognition launches new SWE-2 model, Rivaling Fable 5.1 and GPT-Astra](https://cognition.com/blog/swe-2) | 357 | [150 comments](https://news.ycombinator.com/item?id=49645443) |
-| [Thelio Mira AI Linux Workstation: 192 GB GPU Memory](https://system76.com/workstations/thelio-mira-ai) | 33 | [24 comments](https://news.ycombinator.com/item?id=49651372) |
-| [Technique for Manipulating Satellite Photos Now Reveals Ancient Images (2025)](https://spinoff.nasa.gov/Manipulating_Satellite_Photos_Now_Reveals_Ancient_Images) | 277 | [42 comments](https://news.ycombinator.com/item?id=49645437) |
+| [A misalignment of AI in mathematics](https://mathandai.org/) | 661 | [695 comments](https://news.ycombinator.com/item?id=49662371) |
+| [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | 311 | [173 comments](https://news.ycombinator.com/item?id=49662990) |
+| [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) | 152 | [31 comments](https://news.ycombinator.com/item?id=49626718) |
+| [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) | 355 | [213 comments](https://news.ycombinator.com/item?id=49666735) |
+| [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) | 202 | [128 comments](https://news.ycombinator.com/item?id=49663373) |
+| [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) | 36 | [21 comments](https://news.ycombinator.com/item?id=49665711) |
+| [Project Blinkenlights](https://blinkenlights.de/en/) | 51 | [23 comments](https://news.ycombinator.com/item?id=49666146) |
+| [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) | 97 | [38 comments](https://news.ycombinator.com/item?id=49662767) |
+| [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ) | 29 | [11 comments](https://news.ycombinator.com/item?id=49665864) |
+| [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) | 115 | [61 comments](https://news.ycombinator.com/item?id=49662214) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 18.0°C (64.0°F) |
-| Average Humidity | 63% |
+| Average Temperature | 17.0°C (63.0°F) |
+| Average Humidity | 69% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-11 02:13:07 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-12 02:19:26 UTC*

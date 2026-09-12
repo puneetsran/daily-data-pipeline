@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-12T02:19:25.040317",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "A misalignment of AI in mathematics",
+      "url": "https://mathandai.org/",
+      "score": 661,
+      "comments": 695,
+      "by": "meredydd",
+      "hn_url": "https://news.ycombinator.com/item?id=49662371"
+    },
+    {
+      "title": "I spent $220 on Google app ads and 60% of the installs were robots",
+      "url": "https://dayzlegame.com/blog/google-ads-bot-farm/",
+      "score": 311,
+      "comments": 173,
+      "by": "nickabe",
+      "hn_url": "https://news.ycombinator.com/item?id=49662990"
+    },
+    {
+      "title": "A Design Space Exploration of Async/Await",
+      "url": "https://cel.cs.brown.edu/blog/design-space-async-await/",
+      "score": 152,
+      "comments": 31,
+      "by": "wcrichton",
+      "hn_url": "https://news.ycombinator.com/item?id=49626718"
+    },
+    {
+      "title": "OpenAI agents carried out an undisclosed attack on RubyGems",
+      "url": "https://www.rubyhack.ai/",
+      "score": 355,
+      "comments": 213,
+      "by": "chao-",
+      "hn_url": "https://news.ycombinator.com/item?id=49666735"
+    },
+    {
+      "title": "GrapheneOS' rewritten Messages app is released",
+      "url": "https://github.com/GrapheneOS/Messaging/releases/tag/13",
+      "score": 202,
+      "comments": 128,
+      "by": "microtonal",
+      "hn_url": "https://news.ycombinator.com/item?id=49663373"
+    },
+    {
+      "title": "AI researchers debate how close we are to recursive self-improvement",
+      "url": "https://www.dwarkesh.com/p/john-beren-charlie",
+      "score": 36,
+      "comments": 21,
+      "by": "artninja1988",
+      "hn_url": "https://news.ycombinator.com/item?id=49665711"
+    },
+    {
+      "title": "Project Blinkenlights",
+      "url": "https://blinkenlights.de/en/",
+      "score": 51,
+      "comments": 23,
+      "by": "doener",
+      "hn_url": "https://news.ycombinator.com/item?id=49666146"
+    },
+    {
+      "title": "Litelm: LiteLLM Without the Bloat",
+      "url": "https://github.com/kennethwolters/litelm",
+      "score": 97,
+      "comments": 38,
+      "by": "kennethwolters",
+      "hn_url": "https://news.ycombinator.com/item?id=49662767"
+    },
+    {
+      "title": "Show HN: ResolveHQ \u2013 A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues",
+      "url": "https://github.com/mirza-rizvi/ResolveHQ",
+      "score": 29,
+      "comments": 11,
+      "by": "mirza_rizvi",
+      "hn_url": "https://news.ycombinator.com/item?id=49665864"
+    },
+    {
+      "title": "\u039b Snap \u2013 An inviting programming language for kids and adults for CS study",
+      "url": "https://snap.berkeley.edu/",
+      "score": 115,
+      "comments": 61,
+      "by": "dr_kiszonka",
+      "hn_url": "https://news.ycombinator.com/item?id=49662214"
+    }
+  ]
+}
