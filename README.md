@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-12 02:19:26 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-13 02:17:16 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | 1,789 | N/A | Here is a dlssg for RTX30 Series GPU  |
-| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,778 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
-| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,447 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
-| [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 1,354 | Python | No description |
-| [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 945 | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a... |
+| [sdli1995/dlssg_for_sm86](https://github.com/sdli1995/dlssg_for_sm86) | 2,197 | N/A | Here is a dlssg for RTX30 Series GPU  |
+| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,829 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
+| [EverettFish/holo-card-studio](https://github.com/EverettFish/holo-card-studio) | 1,470 | Python | Turn the user's description or uploaded reference into a finished, editable Blen... |
+| [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 1,451 | Python | No description |
+| [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 1,077 | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-12 02:19:26 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-13 02:17:16 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [A misalignment of AI in mathematics](https://mathandai.org/) | 661 | [695 comments](https://news.ycombinator.com/item?id=49662371) |
-| [I spent $220 on Google app ads and 60% of the installs were robots](https://dayzlegame.com/blog/google-ads-bot-farm/) | 311 | [173 comments](https://news.ycombinator.com/item?id=49662990) |
-| [A Design Space Exploration of Async/Await](https://cel.cs.brown.edu/blog/design-space-async-await/) | 152 | [31 comments](https://news.ycombinator.com/item?id=49626718) |
-| [OpenAI agents carried out an undisclosed attack on RubyGems](https://www.rubyhack.ai/) | 355 | [213 comments](https://news.ycombinator.com/item?id=49666735) |
-| [GrapheneOS' rewritten Messages app is released](https://github.com/GrapheneOS/Messaging/releases/tag/13) | 202 | [128 comments](https://news.ycombinator.com/item?id=49663373) |
-| [AI researchers debate how close we are to recursive self-improvement](https://www.dwarkesh.com/p/john-beren-charlie) | 36 | [21 comments](https://news.ycombinator.com/item?id=49665711) |
-| [Project Blinkenlights](https://blinkenlights.de/en/) | 51 | [23 comments](https://news.ycombinator.com/item?id=49666146) |
-| [Litelm: LiteLLM Without the Bloat](https://github.com/kennethwolters/litelm) | 97 | [38 comments](https://news.ycombinator.com/item?id=49662767) |
-| [Show HN: ResolveHQ – A Helpdesk Built on Cloudflare Workers, D1, R2 and Queues](https://github.com/mirza-rizvi/ResolveHQ) | 29 | [11 comments](https://news.ycombinator.com/item?id=49665864) |
-| [Λ Snap – An inviting programming language for kids and adults for CS study](https://snap.berkeley.edu/) | 115 | [61 comments](https://news.ycombinator.com/item?id=49662214) |
+| [Make your first edit to OpenStreetMap](https://high5apps.github.io/josm-plugin-website-wizard/) | 338 | [78 comments](https://news.ycombinator.com/item?id=49674050) |
+| [Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases](https://withspecific.com/benchmarks/real-swe) | 125 | [64 comments](https://news.ycombinator.com/item?id=49676820) |
+| [Align AI and Mathematics–To Something Else](https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/) | 13 | [1 comments](https://news.ycombinator.com/item?id=49678783) |
+| [Nvidia is the central bank of AI](https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai) | 403 | [272 comments](https://news.ycombinator.com/item?id=49673098) |
+| [Apple iPod Engraver (2019)](https://dunstanorchard.com/apple-ipod-engraver/) | 129 | [27 comments](https://news.ycombinator.com/item?id=49619848) |
+| [Everyone should slow down AI development except for me](https://xeiaso.net/notes/2026/everyone-slowdown-but-me/) | 131 | [40 comments](https://news.ycombinator.com/item?id=49678683) |
+| [Recurrent Looped Transformer](https://yifanzhang-pro.github.io/recurrent-looped-tranformer/) | 12 | [3 comments](https://news.ycombinator.com/item?id=49678548) |
+| [Why are AI agents lying, cheating and coordinating?](https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating) | 6 | [1 comments](https://news.ycombinator.com/item?id=49678969) |
+| [Getting 50 GB/S Back from the Apple Neural Engine](https://eiln.github.io/posts/ane-dma.html) | 81 | [15 comments](https://news.ycombinator.com/item?id=49636479) |
+| [Stabilizing Rust's Never Type](https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/) | 141 | [34 comments](https://news.ycombinator.com/item?id=49625056) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 17.0°C (63.0°F) |
-| Average Humidity | 69% |
+| Average Temperature | 21.0°C (69.0°F) |
+| Average Humidity | 41% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-12 02:19:26 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-13 02:17:16 UTC*
