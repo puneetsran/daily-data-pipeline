@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-15T02:38:22.214965",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "iOS 27, iPadOS 27, and macOS 27",
+      "url": "https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/",
+      "score": 406,
+      "comments": 463,
+      "by": "throw0101d",
+      "hn_url": "https://news.ycombinator.com/item?id=49701004"
+    },
+    {
+      "title": "Pion, an agent designed to run any company autonomously",
+      "url": "https://andonlabs.com/blog/why-we-built-pion",
+      "score": 302,
+      "comments": 330,
+      "by": "lukaspetersson",
+      "hn_url": "https://news.ycombinator.com/item?id=49700477"
+    },
+    {
+      "title": "Charts built for Chat",
+      "url": "https://dbtcharts.com/blog/charts-built-for-chat/",
+      "score": 111,
+      "comments": 37,
+      "by": "thingsilearned",
+      "hn_url": "https://news.ycombinator.com/item?id=49704246"
+    },
+    {
+      "title": "Show HN: Sunk Cost \u2013 How long until a local LLM rig pays for itself?",
+      "url": "https://sunkcost.ai/",
+      "score": 8,
+      "comments": 4,
+      "by": "rlindsey123",
+      "hn_url": "https://news.ycombinator.com/item?id=49706656"
+    },
+    {
+      "title": "Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS",
+      "url": "https://github.com/JamesRyanATX/fcbnerd",
+      "score": 39,
+      "comments": 4,
+      "by": "fretlessjazz",
+      "hn_url": "https://news.ycombinator.com/item?id=49705442"
+    },
+    {
+      "title": "4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls",
+      "url": "https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/",
+      "score": 26,
+      "comments": 4,
+      "by": "arunbahl",
+      "hn_url": "https://news.ycombinator.com/item?id=49675817"
+    },
+    {
+      "title": "Compressing a Flag to 11 Bits",
+      "url": "https://read.vantezzen.io/miniflags",
+      "score": 77,
+      "comments": 37,
+      "by": "bennett_dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49673689"
+    },
+    {
+      "title": "Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)",
+      "url": "https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/",
+      "score": 39,
+      "comments": 12,
+      "by": "nathannaveen",
+      "hn_url": "https://news.ycombinator.com/item?id=49697477"
+    },
+    {
+      "title": "Distributed Systems Classics (2017)",
+      "url": "https://nvartolomei.com/dist-sys-classics/",
+      "score": 242,
+      "comments": 54,
+      "by": "grep_it",
+      "hn_url": "https://news.ycombinator.com/item?id=49699158"
+    },
+    {
+      "title": "XCancel service is suspended until further notice",
+      "url": "https://xcancel.com/#",
+      "score": 476,
+      "comments": 781,
+      "by": "gaganyaan",
+      "hn_url": "https://news.ycombinator.com/item?id=49694296"
+    }
+  ]
+}

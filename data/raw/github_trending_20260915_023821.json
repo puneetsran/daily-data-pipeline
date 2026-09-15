@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-15T02:38:21.133971",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "sumimakito/Mac-Duo",
+      "stars": 874,
+      "language": "Swift",
+      "description": "Wish you could bring the iPhone Duo effect to your MacBook?",
+      "url": "https://github.com/sumimakito/Mac-Duo",
+      "created_at": "2026-09-10T18:55:39Z"
+    },
+    {
+      "name": "Chuloo/mural",
+      "stars": 823,
+      "language": "Kotlin",
+      "description": "The language app you eventually delete. A native iPhone companion for learning through conversation.",
+      "url": "https://github.com/Chuloo/mural",
+      "created_at": "2026-09-12T11:51:08Z"
+    },
+    {
+      "name": "kruzovic7/ai-data-extractor",
+      "stars": 812,
+      "language": "Python",
+      "description": "Free open-source extractor for AI coding assistant chat histories. Supports Claude Code, Cursor, Win",
+      "url": "https://github.com/kruzovic7/ai-data-extractor",
+      "created_at": "2026-09-11T18:12:58Z"
+    },
+    {
+      "name": "yifanzhang-pro/recurrent-looped-tranformer",
+      "stars": 753,
+      "language": "HTML",
+      "description": "Official Project Page for Recurrent Looped Transformer (RLT)",
+      "url": "https://github.com/yifanzhang-pro/recurrent-looped-tranformer",
+      "created_at": "2026-09-12T19:02:46Z"
+    },
+    {
+      "name": "angusdevgo/IDM_Pro_Tool",
+      "stars": 697,
+      "language": "C#",
+      "description": "IDM\u6fc0\u6d3b\u4e0e\u72b6\u6001\u7ef4\u62a4\u5de5\u5177",
+      "url": "https://github.com/angusdevgo/IDM_Pro_Tool",
+      "created_at": "2026-09-10T09:39:06Z"
+    },
+    {
+      "name": "eternityspring/reelbench-skills",
+      "stars": 676,
+      "language": "HTML",
+      "description": "Learning notes and tooling skills for AI video - AI \u89c6\u9891\u76f8\u5173\u7684\u5b66\u4e60\u4e0e\u5de5\u5177 skill",
+      "url": "https://github.com/eternityspring/reelbench-skills",
+      "created_at": "2026-09-11T04:55:49Z"
+    },
+    {
+      "name": "ArasTey/lunel",
+      "stars": 664,
+      "language": "Python",
+      "description": "No description",
+      "url": "https://github.com/ArasTey/lunel",
+      "created_at": "2026-09-09T06:58:25Z"
+    },
+    {
+      "name": "nftechie/stonkfly",
+      "stars": 654,
+      "language": "Python",
+      "description": "A full retained fly-connectome simulation with experimental memory and guarded Coinbase AgentKit tra",
+      "url": "https://github.com/nftechie/stonkfly",
+      "created_at": "2026-09-10T02:40:30Z"
+    },
+    {
+      "name": "rizqinrr/viserys-agent",
+      "stars": 648,
+      "language": "JavaScript",
+      "description": "No description",
+      "url": "https://github.com/rizqinrr/viserys-agent",
+      "created_at": "2026-09-12T16:51:29Z"
+    },
+    {
+      "name": "Faizpi/bank-sampah",
+      "stars": 646,
+      "language": "PHP",
+      "description": "No description",
+      "url": "https://github.com/Faizpi/bank-sampah",
+      "created_at": "2026-09-11T02:13:29Z"
+    }
+  ]
+}

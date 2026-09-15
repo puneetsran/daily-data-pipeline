@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-14 02:34:36 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-15 02:38:24 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [openai/NavierStokesAndEuler](https://github.com/openai/NavierStokesAndEuler) | 1,859 | Lean | Lean certificates accompanying Navier-Stokes and Euler results |
-| [Edge0-AI/Edge0](https://github.com/Edge0-AI/Edge0) | 1,610 | Python | No description |
-| [Vincentwei1021/anything2explainer](https://github.com/Vincentwei1021/anything2explainer) | 1,182 | TypeScript | Topic in, narrated explainer video out. A Claude Code / Codex skill that turns a... |
-| [gazijarin/itsgiving](https://github.com/gazijarin/itsgiving) | 816 | Python | Express yourself in meetings (with memes, of course). |
-| [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 801 | Swift | Wish you could bring the iPhone Duo effect to your MacBook? |
+| [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 874 | Swift | Wish you could bring the iPhone Duo effect to your MacBook? |
+| [Chuloo/mural](https://github.com/Chuloo/mural) | 823 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
+| [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 812 | Python | Free open-source extractor for AI coding assistant chat histories. Supports Clau... |
+| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 753 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
+| [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | 697 | C# | IDM激活与状态维护工具 |
 
-### Hacker News Top Stories (Last Updated: 2026-09-14 02:34:36 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-15 02:38:24 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Fable 5.1 Solves the Cyphral Distich, a 370-year-old cipher](https://www.vals.ai/blogs/fable-solves-cyphral-distich) | 511 | [224 comments](https://news.ycombinator.com/item?id=49688695) |
-| [Why is Google still serving dodgy ads?](https://www.atomic14.com/2026/09/13/why-is-google-still-serving-dodgy-ads) | 619 | [295 comments](https://news.ycombinator.com/item?id=49686445) |
-| [Spaceships (Reverse Asteroid)](https://spaceships.treybastian.com/) | 18 | [7 comments](https://news.ycombinator.com/item?id=49638510) |
-| [Registration without a phone number on Signal will use zero-knowledge proofs](https://community.signalusers.org/t/registration-without-a-phone-number/2222?page=10) | 98 | [45 comments](https://news.ycombinator.com/item?id=49689048) |
-| [Open-Source AI and Open Models Reading List](https://www.interconnects.ai/p/open-source-ai-reading-list) | 27 | [1 comments](https://news.ycombinator.com/item?id=49690260) |
-| [Julia 1.13 highlights](https://julialang.org/blog/2026/09/julia-1.13-highlights/) | 167 | [12 comments](https://news.ycombinator.com/item?id=49642645) |
-| [Astra and Fable still hack on simple variants of alignment evals from 2025](https://www.lesswrong.com/posts/munJKF7iWMsWJLAH2/astra-and-fable-still-hack-on-simple-variants-of-alignment) | 386 | [176 comments](https://news.ycombinator.com/item?id=49684393) |
-| [Data collected by cars and sold to third parties](https://www.theverge.com/column/994172/your-car-is-selling-your-data) | 319 | [165 comments](https://news.ycombinator.com/item?id=49683953) |
-| [Flawed routers flood University of Wisconsin internet time server (2003)](https://pages.cs.wisc.edu/~plonka/netgear-sntp/) | 67 | [8 comments](https://news.ycombinator.com/item?id=49688391) |
-| [Ask HN: What are you working on? (September 2026)](https://news.ycombinator.com/item?id=49686380) | 92 | [202 comments](https://news.ycombinator.com/item?id=49686380) |
+| [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | 406 | [463 comments](https://news.ycombinator.com/item?id=49701004) |
+| [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | 302 | [330 comments](https://news.ycombinator.com/item?id=49700477) |
+| [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | 111 | [37 comments](https://news.ycombinator.com/item?id=49704246) |
+| [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | 8 | [4 comments](https://news.ycombinator.com/item?id=49706656) |
+| [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) | 39 | [4 comments](https://news.ycombinator.com/item?id=49705442) |
+| [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) | 26 | [4 comments](https://news.ycombinator.com/item?id=49675817) |
+| [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags) | 77 | [37 comments](https://news.ycombinator.com/item?id=49673689) |
+| [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) | 39 | [12 comments](https://news.ycombinator.com/item?id=49697477) |
+| [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) | 242 | [54 comments](https://news.ycombinator.com/item?id=49699158) |
+| [XCancel service is suspended until further notice](https://xcancel.com/#) | 476 | [781 comments](https://news.ycombinator.com/item?id=49694296) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 14.0°C (56.0°F) |
-| Average Humidity | 89% |
+| Average Temperature | 15.0°C (60.0°F) |
+| Average Humidity | 80% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-14 02:34:36 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-15 02:38:24 UTC*
