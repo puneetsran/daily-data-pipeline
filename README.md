@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-15 02:38:24 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-16 02:32:55 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 874 | Swift | Wish you could bring the iPhone Duo effect to your MacBook? |
-| [Chuloo/mural](https://github.com/Chuloo/mural) | 823 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
-| [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 812 | Python | Free open-source extractor for AI coding assistant chat histories. Supports Clau... |
-| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 753 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
-| [angusdevgo/IDM_Pro_Tool](https://github.com/angusdevgo/IDM_Pro_Tool) | 697 | C# | IDM激活与状态维护工具 |
+| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,054 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
+| [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 914 | Swift | Wish you could bring the iPhone Duo effect to your MacBook? |
+| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 830 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
+| [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 822 | Python | Free open-source extractor for AI coding assistant chat histories. Supports Clau... |
+| [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | 812 | N/A | If you think AI sucks, star the repo. |
 
-### Hacker News Top Stories (Last Updated: 2026-09-15 02:38:24 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-16 02:32:55 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [iOS 27, iPadOS 27, and macOS 27](https://www.apple.com/newsroom/2026/09/major-updates-for-apples-software-platforms-are-now-available/) | 406 | [463 comments](https://news.ycombinator.com/item?id=49701004) |
-| [Pion, an agent designed to run any company autonomously](https://andonlabs.com/blog/why-we-built-pion) | 302 | [330 comments](https://news.ycombinator.com/item?id=49700477) |
-| [Charts built for Chat](https://dbtcharts.com/blog/charts-built-for-chat/) | 111 | [37 comments](https://news.ycombinator.com/item?id=49704246) |
-| [Show HN: Sunk Cost – How long until a local LLM rig pays for itself?](https://sunkcost.ai/) | 8 | [4 comments](https://news.ycombinator.com/item?id=49706656) |
-| [Show HN: Macros with a Behringer FCB1010 MIDI Pedalboard in macOS](https://github.com/JamesRyanATX/fcbnerd) | 39 | [4 comments](https://news.ycombinator.com/item?id=49705442) |
-| [4,400-Year-Old Tomb of Egyptian Judge Found at Saqqara with Colors on Walls](https://arkeonews.net/4400-year-old-tomb-of-an-egyptian-judge-found-at-saqqara-with-colors-still-on-the-walls/) | 26 | [4 comments](https://news.ycombinator.com/item?id=49675817) |
-| [Compressing a Flag to 11 Bits](https://read.vantezzen.io/miniflags) | 77 | [37 comments](https://news.ycombinator.com/item?id=49673689) |
-| [Dropping eBPF CPU Cost by About 90% with Memoization (Not AI Gen)](https://nathannaveen.dev/posts/dropping-ebpf-cpu-cost-by-90/) | 39 | [12 comments](https://news.ycombinator.com/item?id=49697477) |
-| [Distributed Systems Classics (2017)](https://nvartolomei.com/dist-sys-classics/) | 242 | [54 comments](https://news.ycombinator.com/item?id=49699158) |
-| [XCancel service is suspended until further notice](https://xcancel.com/#) | 476 | [781 comments](https://news.ycombinator.com/item?id=49694296) |
+| [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | 825 | [273 comments](https://news.ycombinator.com/item?id=49717558) |
+| [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | 1348 | [183 comments](https://news.ycombinator.com/item?id=49711544) |
+| [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) | 403 | [218 comments](https://news.ycombinator.com/item?id=49716176) |
+| [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) | 320 | [195 comments](https://news.ycombinator.com/item?id=49715947) |
+| [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) | 135 | [41 comments](https://news.ycombinator.com/item?id=49718928) |
+| [Cloudflare: Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) | 4 | [0 comments](https://news.ycombinator.com/item?id=49721435) |
+| [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) | 227 | [121 comments](https://news.ycombinator.com/item?id=49716476) |
+| [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) | 42 | [9 comments](https://news.ycombinator.com/item?id=49719938) |
+| [Sierra digital cameras on the Apple II](https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/) | 23 | [2 comments](https://news.ycombinator.com/item?id=49680916) |
+| [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) | 173 | [113 comments](https://news.ycombinator.com/item?id=49717638) |
 
 ### Weather Data Summary
 
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-15 02:38:24 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-16 02:32:55 UTC*

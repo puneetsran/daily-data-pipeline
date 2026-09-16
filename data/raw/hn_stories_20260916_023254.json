@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-16T02:32:54.132280",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Introducing System One Models and Jev",
+      "url": "https://typesafe.ai/blog/introducing-system-one-models-and-jev",
+      "score": 825,
+      "comments": 273,
+      "by": "albelfio",
+      "hn_url": "https://news.ycombinator.com/item?id=49717558"
+    },
+    {
+      "title": "Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations",
+      "url": "https://github.com/arnegiacomo/fugleramme",
+      "score": 1348,
+      "comments": 183,
+      "by": "arnemunthekaas",
+      "hn_url": "https://news.ycombinator.com/item?id=49711544"
+    },
+    {
+      "title": "An Update on Wayback Machine Access",
+      "url": "https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/",
+      "score": 403,
+      "comments": 218,
+      "by": "ChrisArchitect",
+      "hn_url": "https://news.ycombinator.com/item?id=49716176"
+    },
+    {
+      "title": "Gemini 3.8 Live and 3.8 Live Extended Thinking",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/",
+      "score": 320,
+      "comments": 195,
+      "by": "leumon",
+      "hn_url": "https://news.ycombinator.com/item?id=49715947"
+    },
+    {
+      "title": "German Rheinmetall open-sources its Battlesuite connected weapon system protcol",
+      "url": "https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html",
+      "score": 135,
+      "comments": 41,
+      "by": "summarity",
+      "hn_url": "https://news.ycombinator.com/item?id=49718928"
+    },
+    {
+      "title": "Cloudflare: Stay discoverable in search while disallowing AI training",
+      "url": "https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/",
+      "score": 4,
+      "comments": 0,
+      "by": "djfergus",
+      "hn_url": "https://news.ycombinator.com/item?id=49721435"
+    },
+    {
+      "title": "We got admin access to Baseten's production GitHub in 25 minutes",
+      "url": "https://www.strix.ai/blog/baseten-harbor-github-pat-takeover",
+      "score": 227,
+      "comments": 121,
+      "by": "bearsyankees",
+      "hn_url": "https://news.ycombinator.com/item?id=49716476"
+    },
+    {
+      "title": "Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA",
+      "url": "https://nand2mario.github.io/posts/2026/zsst-voodoo/",
+      "score": 42,
+      "comments": 9,
+      "by": "zdw",
+      "hn_url": "https://news.ycombinator.com/item?id=49719938"
+    },
+    {
+      "title": "Sierra digital cameras on the Apple II",
+      "url": "https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/",
+      "score": 23,
+      "comments": 2,
+      "by": "ibobev",
+      "hn_url": "https://news.ycombinator.com/item?id=49680916"
+    },
+    {
+      "title": "Building a Linux GPU Driver for the M4 Mac Mini in One Month",
+      "url": "https://codyho.dev/blog/gpu-driver/",
+      "score": 173,
+      "comments": 113,
+      "by": "ADevWithAnIdea",
+      "hn_url": "https://news.ycombinator.com/item?id=49717638"
+    }
+  ]
+}
