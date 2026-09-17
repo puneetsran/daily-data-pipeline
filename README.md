@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-16 02:32:55 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-17 02:36:59 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,054 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
-| [sumimakito/Mac-Duo](https://github.com/sumimakito/Mac-Duo) | 914 | Swift | Wish you could bring the iPhone Duo effect to your MacBook? |
-| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 830 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
-| [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 822 | Python | Free open-source extractor for AI coding assistant chat histories. Supports Clau... |
-| [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | 812 | N/A | If you think AI sucks, star the repo. |
+| [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | 1,882 | Python | If you think AI sucks, star the repo. |
+| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,261 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
+| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 861 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
+| [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 827 | Python | Free open-source extractor for AI coding assistant chat histories. Supports Clau... |
+| [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | 773 | N/A | GPT-6 Astra for embodied AI and robotics. |
 
-### Hacker News Top Stories (Last Updated: 2026-09-16 02:32:55 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-17 02:36:59 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Introducing System One Models and Jev](https://typesafe.ai/blog/introducing-system-one-models-and-jev) | 825 | [273 comments](https://news.ycombinator.com/item?id=49717558) |
-| [Show HN: An e-ink frame that hears birds and draws them as 1800s illustrations](https://github.com/arnegiacomo/fugleramme) | 1348 | [183 comments](https://news.ycombinator.com/item?id=49711544) |
-| [An Update on Wayback Machine Access](https://blog.archive.org/2026/09/15/an-update-on-wayback-machine-access/) | 403 | [218 comments](https://news.ycombinator.com/item?id=49716176) |
-| [Gemini 3.8 Live and 3.8 Live Extended Thinking](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-8-live-gemini-3-8-live-extended-thinking/) | 320 | [195 comments](https://news.ycombinator.com/item?id=49715947) |
-| [German Rheinmetall open-sources its Battlesuite connected weapon system protcol](https://rheinmetall.github.io/onboardapi-documentation/9.10.0/index.html) | 135 | [41 comments](https://news.ycombinator.com/item?id=49718928) |
-| [Cloudflare: Stay discoverable in search while disallowing AI training](https://blog.cloudflare.com/accountable-mixed-use-ai-crawlers/) | 4 | [0 comments](https://news.ycombinator.com/item?id=49721435) |
-| [We got admin access to Baseten's production GitHub in 25 minutes](https://www.strix.ai/blog/baseten-harbor-github-pat-takeover) | 227 | [121 comments](https://news.ycombinator.com/item?id=49716476) |
-| [Recreating Voodoo Graphics and a Late-1990s Gaming PC on an FPGA](https://nand2mario.github.io/posts/2026/zsst-voodoo/) | 42 | [9 comments](https://news.ycombinator.com/item?id=49719938) |
-| [Sierra digital cameras on the Apple II](https://www.colino.net/wordpress/archives/2026/09/11/sierra-digital-cameras-on-the-apple-ii/) | 23 | [2 comments](https://news.ycombinator.com/item?id=49680916) |
-| [Building a Linux GPU Driver for the M4 Mac Mini in One Month](https://codyho.dev/blog/gpu-driver/) | 173 | [113 comments](https://news.ycombinator.com/item?id=49717638) |
+| [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) | 329 | [131 comments](https://news.ycombinator.com/item?id=49724881) |
+| [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) | 417 | [85 comments](https://news.ycombinator.com/item?id=49731285) |
+| [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) | 279 | [69 comments](https://news.ycombinator.com/item?id=49732270) |
+| [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) | 148 | [20 comments](https://news.ycombinator.com/item?id=49732931) |
+| [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) | 101 | [45 comments](https://news.ycombinator.com/item?id=49732513) |
+| [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) | 412 | [186 comments](https://news.ycombinator.com/item?id=49729000) |
+| [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) | 118 | [43 comments](https://news.ycombinator.com/item?id=49719596) |
+| [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) | 29 | [2 comments](https://news.ycombinator.com/item?id=49700153) |
+| [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/) | 77 | [29 comments](https://news.ycombinator.com/item?id=49734264) |
+| [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/) | 23 | [4 comments](https://news.ycombinator.com/item?id=49734929) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 15.0°C (60.0°F) |
-| Average Humidity | 80% |
+| Average Temperature | 17.0°C (63.0°F) |
+| Average Humidity | 72% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-16 02:32:55 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-17 02:36:59 UTC*

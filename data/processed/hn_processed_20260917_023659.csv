@@ -1,0 +1,11 @@
+title,url,score,comments,by,hn_url
+Nvidia announces native GPU programming in Rust,https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/,329,131,nonmaskable,https://news.ycombinator.com/item?id=49724881
+Training a 4B model to produce 81% faster query plans than Postgres,https://rohanbansal.com/qorl,417,85,polyphilz,https://news.ycombinator.com/item?id=49731285
+Xiaomi Mimo 2.6 live post-training dashboard,https://mimo.xiaomi.com/rl/,279,69,krackers,https://news.ycombinator.com/item?id=49732270
+Breaking the 1.58-bit Barrier for Ternary LLMs,https://arxiv.org/abs/2609.16338,148,20,matt_d,https://news.ycombinator.com/item?id=49732931
+Backups Aren't Simple,https://filipovski.net/2026/09/16/backups-arent-simple.html,101,45,afilipovski,https://news.ycombinator.com/item?id=49732513
+Small programming tricks,https://will-keleher.com/posts/small-programming-tricks-matter/,412,186,signa11,https://news.ycombinator.com/item?id=49729000
+The engineering behind the US Strategic Petroleum Reserve,https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve,118,43,johnjwang,https://news.ycombinator.com/item?id=49719596
+Developing provably correct Rust code with Verus,https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus,29,2,Betelbuddy,https://news.ycombinator.com/item?id=49700153
+OpenSpec – A lightweight and configurable AI spec framework,https://openspec.dev/,77,29,etoxin,https://news.ycombinator.com/item?id=49734264
+The Return of Sail Power: Cargo Ships Are Turning Back to the Wind,https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/,23,4,gumby,https://news.ycombinator.com/item?id=49734929
