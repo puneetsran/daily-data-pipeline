@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-17 02:36:59 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-18 02:24:26 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [ai-sucks-butt/ai-sucks-butt](https://github.com/ai-sucks-butt/ai-sucks-butt) | 1,882 | Python | If you think AI sucks, star the repo. |
-| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,261 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
-| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 861 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
-| [kruzovic7/ai-data-extractor](https://github.com/kruzovic7/ai-data-extractor) | 827 | Python | Free open-source extractor for AI coding assistant chat histories. Supports Clau... |
-| [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | 773 | N/A | GPT-6 Astra for embodied AI and robotics. |
+| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 2,377 | Python | No description |
+| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,322 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
+| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 873 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
+| [TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev) | 854 | Python | Can we run something like Jev on a 3090 at home? |
+| [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | 825 | N/A | GPT-6 Astra for embodied AI and robotics. |
 
-### Hacker News Top Stories (Last Updated: 2026-09-17 02:36:59 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-18 02:24:26 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Nvidia announces native GPU programming in Rust](https://developer.nvidia.com/blog/introducing-cuda-rust-two-tracks-for-writing-gpu-kernels/) | 329 | [131 comments](https://news.ycombinator.com/item?id=49724881) |
-| [Training a 4B model to produce 81% faster query plans than Postgres](https://rohanbansal.com/qorl) | 417 | [85 comments](https://news.ycombinator.com/item?id=49731285) |
-| [Xiaomi Mimo 2.6 live post-training dashboard](https://mimo.xiaomi.com/rl/) | 279 | [69 comments](https://news.ycombinator.com/item?id=49732270) |
-| [Breaking the 1.58-bit Barrier for Ternary LLMs](https://arxiv.org/abs/2609.16338) | 148 | [20 comments](https://news.ycombinator.com/item?id=49732931) |
-| [Backups Aren't Simple](https://filipovski.net/2026/09/16/backups-arent-simple.html) | 101 | [45 comments](https://news.ycombinator.com/item?id=49732513) |
-| [Small programming tricks](https://will-keleher.com/posts/small-programming-tricks-matter/) | 412 | [186 comments](https://news.ycombinator.com/item?id=49729000) |
-| [The engineering behind the US Strategic Petroleum Reserve](https://johnjwang.com/post/2026/09/15/engineering-behind-us-strategic-petroleum-reserve) | 118 | [43 comments](https://news.ycombinator.com/item?id=49719596) |
-| [Developing provably correct Rust code with Verus](https://www.amazon.science/blog/developing-provably-correct-rust-code-with-verus) | 29 | [2 comments](https://news.ycombinator.com/item?id=49700153) |
-| [OpenSpec – A lightweight and configurable AI spec framework](https://openspec.dev/) | 77 | [29 comments](https://news.ycombinator.com/item?id=49734264) |
-| [The Return of Sail Power: Cargo Ships Are Turning Back to the Wind](https://gcaptain.com/the-return-of-sail-power-cargo-ships-are-turning-back-to-the-wind/) | 23 | [4 comments](https://news.ycombinator.com/item?id=49734929) |
+| [Astra for Law](https://openai.com/index/astra-for-law/) | 330 | [362 comments](https://news.ycombinator.com/item?id=49745940) |
+| [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) | 247 | [75 comments](https://news.ycombinator.com/item?id=49746618) |
+| [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) | 302 | [155 comments](https://news.ycombinator.com/item?id=49746163) |
+| [Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe](https://github.com/aardappel/goose/tree/master) | 31 | [27 comments](https://news.ycombinator.com/item?id=49748954) |
+| [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) | 478 | [137 comments](https://news.ycombinator.com/item?id=49743097) |
+| [Wax motor](https://en.wikipedia.org/wiki/Wax_motor) | 252 | [50 comments](https://news.ycombinator.com/item?id=49726007) |
+| [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) | 520 | [198 comments](https://news.ycombinator.com/item?id=49715813) |
+| [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) | 34 | [5 comments](https://news.ycombinator.com/item?id=49747925) |
+| [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006) | 12 | [3 comments](https://news.ycombinator.com/item?id=49748957) |
+| [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/) | 64 | [34 comments](https://news.ycombinator.com/item?id=49746290) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 17.0°C (63.0°F) |
-| Average Humidity | 72% |
+| Average Temperature | 16.0°C (62.0°F) |
+| Average Humidity | 73% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-17 02:36:59 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-18 02:24:26 UTC*
