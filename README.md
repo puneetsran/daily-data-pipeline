@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-18 02:24:26 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-19 02:24:23 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 2,377 | Python | No description |
-| [Chuloo/mural](https://github.com/Chuloo/mural) | 1,322 | Kotlin | The language app you eventually delete. A native iPhone companion for learning t... |
-| [yifanzhang-pro/recurrent-looped-tranformer](https://github.com/yifanzhang-pro/recurrent-looped-tranformer) | 873 | HTML | Official Project Page for Recurrent Looped Transformer (RLT) |
-| [TheoLeeCJ/openjev](https://github.com/TheoLeeCJ/openjev) | 854 | Python | Can we run something like Jev on a 3090 at home? |
-| [zjwzcx/Awesome-Astra-Embodied-AI](https://github.com/zjwzcx/Awesome-Astra-Embodied-AI) | 825 | N/A | GPT-6 Astra for embodied AI and robotics. |
+| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 5,685 | Python | i. am. speed. |
+| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 3,320 | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: ever... |
+| [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 1,613 | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated wi... |
+| [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 1,069 | Python | Private source preview: native Jianying drafts, isolated editing/export, and sta... |
+| [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) | 897 | Python | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-09-18 02:24:26 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-19 02:24:23 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Astra for Law](https://openai.com/index/astra-for-law/) | 330 | [362 comments](https://news.ycombinator.com/item?id=49745940) |
-| [Bonsai 2 27B: Near-Lossless Compression in a 9x Smaller Footprint](https://prismml.com/news/bonsai-2-27b) | 247 | [75 comments](https://news.ycombinator.com/item?id=49746618) |
-| [Bend – A language that blocks AI mistakes via proof, on CPU and GPU](https://bend-lang.com/) | 302 | [155 comments](https://news.ycombinator.com/item?id=49746163) |
-| [Goose: 1.16x faster than C++ and 1.12x than safe Rust, while memory safe](https://github.com/aardappel/goose/tree/master) | 31 | [27 comments](https://news.ycombinator.com/item?id=49748954) |
-| [Hister: A private search engine for the pages you visit and the files you keep](https://github.com/asciimoo/hister) | 478 | [137 comments](https://news.ycombinator.com/item?id=49743097) |
-| [Wax motor](https://en.wikipedia.org/wiki/Wax_motor) | 252 | [50 comments](https://news.ycombinator.com/item?id=49726007) |
-| [Fujitsu launches made-in-Japan next-generation CPU FUJITSU-MONAKA](https://global.fujitsu/en-global/pr/news/2026/09/14-02) | 520 | [198 comments](https://news.ycombinator.com/item?id=49715813) |
-| [Alibaba releases Qwen 3.8 Omni Flash](https://qwen.ai/blog?id=qwen3.8-omni-flash) | 34 | [5 comments](https://news.ycombinator.com/item?id=49747925) |
-| [Telstra outage: The night a network decided the year was 2006](https://www.netnod.se/blog/telstra-outage-night-network-decided-year-was-2006) | 12 | [3 comments](https://news.ycombinator.com/item?id=49748957) |
-| [Flet 1.0 – Build cross-platform apps in Python](https://flet.dev/) | 64 | [34 comments](https://news.ycombinator.com/item?id=49746290) |
+| [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | 561 | [267 comments](https://news.ycombinator.com/item?id=49758736) |
+| [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | 592 | [251 comments](https://news.ycombinator.com/item?id=49754785) |
+| [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | 239 | [45 comments](https://news.ycombinator.com/item?id=49758580) |
+| [The Farnese letter](https://simonklee.dk/farnese-letter) | 30 | [5 comments](https://news.ycombinator.com/item?id=49744036) |
+| [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) | 400 | [274 comments](https://news.ycombinator.com/item?id=49747070) |
+| [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) | 116 | [68 comments](https://news.ycombinator.com/item?id=49758419) |
+| [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/) | 13 | [7 comments](https://news.ycombinator.com/item?id=49762099) |
+| [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) | 160 | [54 comments](https://news.ycombinator.com/item?id=49757050) |
+| [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) | 166 | [78 comments](https://news.ycombinator.com/item?id=49748553) |
+| [The first new cat species discovered in 100 years](https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years) | 179 | [62 comments](https://news.ycombinator.com/item?id=49744704) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 16.0°C (62.0°F) |
-| Average Humidity | 73% |
+| Average Temperature | 15.0°C (58.0°F) |
+| Average Humidity | 84% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-18 02:24:26 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-19 02:24:23 UTC*

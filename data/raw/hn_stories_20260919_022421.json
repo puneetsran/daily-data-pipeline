@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-19T02:24:21.553600",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Android 17 is the first since 3.x to add new APIs without releasing to the AOSP",
+      "url": "https://grapheneos.social/@GrapheneOS/117282080803799576",
+      "score": 561,
+      "comments": 267,
+      "by": "theanonymousone",
+      "hn_url": "https://news.ycombinator.com/item?id=49758736"
+    },
+    {
+      "title": "Cloudflare Quick Tunnels",
+      "url": "https://try.cloudflare.com/",
+      "score": 592,
+      "comments": 251,
+      "by": "jcbhmr",
+      "hn_url": "https://news.ycombinator.com/item?id=49754785"
+    },
+    {
+      "title": "Saving another 100TB of RAM",
+      "url": "https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/",
+      "score": 239,
+      "comments": 45,
+      "by": "f311a",
+      "hn_url": "https://news.ycombinator.com/item?id=49758580"
+    },
+    {
+      "title": "The Farnese letter",
+      "url": "https://simonklee.dk/farnese-letter",
+      "score": 30,
+      "comments": 5,
+      "by": "grigolin",
+      "hn_url": "https://news.ycombinator.com/item?id=49744036"
+    },
+    {
+      "title": "How to Write with an LLM",
+      "url": "https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/",
+      "score": 400,
+      "comments": 274,
+      "by": "joeriddles",
+      "hn_url": "https://news.ycombinator.com/item?id=49747070"
+    },
+    {
+      "title": "Xcode 27.1 Beta Release Notes",
+      "url": "https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes",
+      "score": 116,
+      "comments": 68,
+      "by": "CameronBanga",
+      "hn_url": "https://news.ycombinator.com/item?id=49758419"
+    },
+    {
+      "title": "Show HN: LiveWorld \u2013 Every 24/7 YouTube live camera on one globe",
+      "url": "https://liveworld.info/",
+      "score": 13,
+      "comments": 7,
+      "by": "harisingh1612",
+      "hn_url": "https://news.ycombinator.com/item?id=49762099"
+    },
+    {
+      "title": "Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug",
+      "url": "https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/",
+      "score": 160,
+      "comments": 54,
+      "by": "synack",
+      "hn_url": "https://news.ycombinator.com/item?id=49757050"
+    },
+    {
+      "title": "Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash",
+      "url": "https://cactuscompute.com/needle",
+      "score": 166,
+      "comments": 78,
+      "by": "HenryNdubuaku",
+      "hn_url": "https://news.ycombinator.com/item?id=49748553"
+    },
+    {
+      "title": "The first new cat species discovered in 100 years",
+      "url": "https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years",
+      "score": 179,
+      "comments": 62,
+      "by": "ohjeez",
+      "hn_url": "https://news.ycombinator.com/item?id=49744704"
+    }
+  ]
+}
