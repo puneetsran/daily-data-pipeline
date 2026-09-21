@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+browser-use/jev-ultrafast,12223,Python,i. am. speed.,https://github.com/browser-use/jev-ultrafast,2026-09-16T21:30:12Z
+tamaratran/fast-jev-compaction,5277,TypeScript,Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu,https://github.com/tamaratran/fast-jev-compaction,2026-09-17T05:57:20Z
+NandhaKishorM/laya,4562,Python,No description,https://github.com/NandhaKishorM/laya,2026-09-18T04:46:33Z
+robbietilton/Compositor,3736,Swift,The Photoshop alternative for Mac,https://github.com/robbietilton/Compositor,2026-09-16T20:35:54Z
+TheoLeeCJ/SemIf,2482,Python,"Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",https://github.com/TheoLeeCJ/SemIf,2026-09-16T03:51:21Z
+mcncarl/jianying-headless,2042,Python,"Private source preview: native Jianying drafts, isolated editing/export, and standalone Agent Skill.",https://github.com/mcncarl/jianying-headless,2026-09-15T11:51:15Z
+zai-org/ZCode,1830,TypeScript,"Z.ai's coding agent harness. Powerful, intelligent, extensible.",https://github.com/zai-org/ZCode,2026-09-20T12:01:16Z
+mizorewww/laya-mlx,1809,Python,Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener,https://github.com/mizorewww/laya-mlx,2026-09-19T13:50:26Z
+jarrodwatts/jev-trader,1555,TypeScript,One AI trade decision every Monad block. Jev on Kuru MON-USDC.,https://github.com/jarrodwatts/jev-trader,2026-09-16T21:36:20Z
+TianyuCodings/NanoJev,1459,Python,"A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",https://github.com/TianyuCodings/NanoJev,2026-09-17T16:08:30Z
