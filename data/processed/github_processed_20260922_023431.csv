@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+browser-use/jev-ultrafast,16029,Python,Fastest and cheapest web agent,https://github.com/browser-use/jev-ultrafast,2026-09-16T21:30:12Z
+NandhaKishorM/laya,10920,Python,No description,https://github.com/NandhaKishorM/laya,2026-09-18T04:46:33Z
+tamaratran/fast-jev-compaction,6006,TypeScript,Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu,https://github.com/tamaratran/fast-jev-compaction,2026-09-17T05:57:20Z
+zai-org/ZCode,5760,TypeScript,"Z.ai's coding agent harness. Powerful, intelligent, extensible.",https://github.com/zai-org/ZCode,2026-09-20T12:01:16Z
+robbietilton/Compositor,4436,Swift,The Photoshop alternative for Mac,https://github.com/robbietilton/Compositor,2026-09-16T20:35:54Z
+mizorewww/laya-mlx,4018,Python,Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener,https://github.com/mizorewww/laya-mlx,2026-09-19T13:50:26Z
+TheoLeeCJ/SemIf,3306,Python,"Semantic ifs from open models, on a 3090 at home. Independent; not affiliated with Jev or TypeSafe.",https://github.com/TheoLeeCJ/SemIf,2026-09-16T03:51:21Z
+jaredpalmer/kev,2544,Python,tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own,https://github.com/jaredpalmer/kev,2026-09-17T20:49:39Z
+jarrodwatts/jev-trader,1869,TypeScript,One AI trade decision every Monad block. Jev on Kuru MON-USDC.,https://github.com/jarrodwatts/jev-trader,2026-09-16T21:36:20Z
+TianyuCodings/NanoJev,1828,Python,"A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",https://github.com/TianyuCodings/NanoJev,2026-09-17T16:08:30Z
