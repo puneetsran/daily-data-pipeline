@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-23 02:34 UTC",
-  "github_trending": [
+  "collected_at": "2026-09-23T02:34:45.458179",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "NandhaKishorM/laya",
       "stars": 16962,
@@ -80,88 +81,6 @@
       "description": "Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decision",
       "url": "https://github.com/mizorewww/laya-coreml",
       "created_at": "2026-09-19T23:14:13Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "GPT-6 Sol and Luna",
-      "url": "https://openai.com/index/introducing-gpt-6-sol-and-luna/",
-      "score": 1215,
-      "comments": 619,
-      "by": "OfficialTurkey",
-      "hn_url": "https://news.ycombinator.com/item?id=49805509"
-    },
-    {
-      "title": "Claude Opus 5.5",
-      "url": "https://www.anthropic.com/claude-opus-5-5",
-      "score": 1239,
-      "comments": 833,
-      "by": "km144",
-      "hn_url": "https://news.ycombinator.com/item?id=49803892"
-    },
-    {
-      "title": "'We hacked the FBI:' Hackers say they have data on all FBI employees",
-      "url": "https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/",
-      "score": 430,
-      "comments": 300,
-      "by": "spenvo",
-      "hn_url": "https://news.ycombinator.com/item?id=49805278"
-    },
-    {
-      "title": "OpenAI GPT\u20136 Astra breaks Enigma message that has resisted solution since 2005",
-      "url": "https://www.cryptocellar.org/bgac/the-mvueh-break.html",
-      "score": 572,
-      "comments": 362,
-      "by": "sohkamyung",
-      "hn_url": "https://news.ycombinator.com/item?id=49801324"
-    },
-    {
-      "title": "ReBarUEFI: Resizable BAR for almost any UEFI system",
-      "url": "https://github.com/xCuri0/ReBarUEFI",
-      "score": 81,
-      "comments": 23,
-      "by": "nateb2022",
-      "hn_url": "https://news.ycombinator.com/item?id=49781862"
-    },
-    {
-      "title": "Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",
-      "url": "https://foxscript.org/",
-      "score": 193,
-      "comments": 133,
-      "by": "boredjohnny",
-      "hn_url": "https://news.ycombinator.com/item?id=49808023"
-    },
-    {
-      "title": "What California is learning from solar panels built over irrigation canals",
-      "url": "https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals",
-      "score": 126,
-      "comments": 172,
-      "by": "Jtsummers",
-      "hn_url": "https://news.ycombinator.com/item?id=49796379"
-    },
-    {
-      "title": "SAML: A fractal of bad design",
-      "url": "https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/",
-      "score": 167,
-      "comments": 94,
-      "by": "aray07",
-      "hn_url": "https://news.ycombinator.com/item?id=49806335"
-    },
-    {
-      "title": "Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",
-      "url": "https://artificialanalysis.ai/models/claude-opus-5-5",
-      "score": 239,
-      "comments": 72,
-      "by": "theanonymousone",
-      "hn_url": "https://news.ycombinator.com/item?id=49804316"
-    },
-    {
-      "title": "WordPress: Unauthenticated path traversal leading to conditional RCE",
-      "url": "https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp",
-      "score": 158,
-      "comments": 84,
-      "by": "vntok",
-      "hn_url": "https://news.ycombinator.com/item?id=49803959"
     }
   ]
 }

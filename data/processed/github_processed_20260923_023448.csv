@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+NandhaKishorM/laya,16962,Python,No description,https://github.com/NandhaKishorM/laya,2026-09-18T04:46:33Z
+zai-org/ZCode,6334,TypeScript,"Z.ai's coding agent harness. Powerful, intelligent, extensible.",https://github.com/zai-org/ZCode,2026-09-20T12:01:16Z
+tamaratran/fast-jev-compaction,6332,TypeScript,Claude Code plugin that replaces the compaction summary with Jev decisions: every tool call and resu,https://github.com/tamaratran/fast-jev-compaction,2026-09-17T05:57:20Z
+mizorewww/laya-mlx,5511,Python,Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener,https://github.com/mizorewww/laya-mlx,2026-09-19T13:50:26Z
+jaredpalmer/kev,4405,Python,tiny Jev-like family of decision models built on top of Qwen3.5 you can train and run on your own,https://github.com/jaredpalmer/kev,2026-09-17T20:49:39Z
+jev-chat/jev-chat-jarvis,4047,Kotlin,装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。,https://github.com/jev-chat/jev-chat-jarvis,2026-09-21T11:12:53Z
+TianyuCodings/NanoJev,2012,Python,"A nano replica of Jev: parallel decisions, dynamic candidates, and an end-to-end training pipeline.",https://github.com/TianyuCodings/NanoJev,2026-09-17T16:08:30Z
+bespokelabsai/nimble,1636,Python,"Local typed decisions, contrastive data curation, and model evaluation.",https://github.com/bespokelabsai/nimble,2026-09-18T09:07:48Z
+yibie/awesome-jev,1325,Python,"A curated list of public projects, integrations, and discussions built on Jev — TypeSafe AI's System",https://github.com/yibie/awesome-jev,2026-09-17T14:23:21Z
+mizorewww/laya-coreml,1300,Python,"Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decision",https://github.com/mizorewww/laya-coreml,2026-09-19T23:14:13Z
