@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+NandhaKishorM/laya,20684,Python,"Non-autoregressive System 1 decision engine. Typed choice, score and yes/no decisions over any text ",https://github.com/NandhaKishorM/laya,2026-09-18T04:46:33Z
+zai-org/ZCode,6551,TypeScript,"Z.ai's coding agent harness. Powerful, intelligent, extensible.",https://github.com/zai-org/ZCode,2026-09-20T12:01:16Z
+mizorewww/laya-mlx,5982,Python,Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener,https://github.com/mizorewww/laya-mlx,2026-09-19T13:50:26Z
+jev-chat/jev-chat-jarvis,5308,Kotlin,装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。,https://github.com/jev-chat/jev-chat-jarvis,2026-09-21T11:12:53Z
+unreallabsai/unreal-agent,1742,Go,Async-first agent harness,https://github.com/unreallabsai/unreal-agent,2026-09-21T23:14:02Z
+bespokelabsai/nimble,1689,Python,"Local typed decisions, contrastive data curation, and model evaluation.",https://github.com/bespokelabsai/nimble,2026-09-18T09:07:48Z
+mizorewww/laya-coreml,1394,Python,"Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decision",https://github.com/mizorewww/laya-coreml,2026-09-19T23:14:13Z
+newliver666/apk-reverse,1304,Python,Suitable for Android APK reverse engineering analysis,https://github.com/newliver666/apk-reverse,2026-09-19T13:12:54Z
+Lumid-Off/AirCard-Windows,791,Rust,No description,https://github.com/Lumid-Off/AirCard-Windows,2026-09-18T14:27:48Z
+heyjunpenn/awesome-jev,775,Astro,"A verified, community-maintained catalog of 834 open-source projects built with Jev.",https://github.com/heyjunpenn/awesome-jev,2026-09-19T05:14:36Z

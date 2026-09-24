@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-23 02:34:49 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-24 02:24:01 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 16,962 | Python | No description |
-| [zai-org/ZCode](https://github.com/zai-org/ZCode) | 6,334 | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
-| [tamaratran/fast-jev-compaction](https://github.com/tamaratran/fast-jev-compaction) | 6,332 | TypeScript | Claude Code plugin that replaces the compaction summary with Jev decisions: ever... |
-| [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 5,511 | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M... |
-| [jaredpalmer/kev](https://github.com/jaredpalmer/kev) | 4,405 | Python | tiny Jev-like family of decision models built on top of Qwen3.5 you can train an... |
+| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 20,684 | Python | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci... |
+| [zai-org/ZCode](https://github.com/zai-org/ZCode) | 6,551 | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 5,982 | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M... |
+| [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 5,308 | Kotlin | 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
+| [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | 1,742 | Go | Async-first agent harness |
 
-### Hacker News Top Stories (Last Updated: 2026-09-23 02:34:49 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-24 02:24:01 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [GPT-6 Sol and Luna](https://openai.com/index/introducing-gpt-6-sol-and-luna/) | 1215 | [619 comments](https://news.ycombinator.com/item?id=49805509) |
-| [Claude Opus 5.5](https://www.anthropic.com/claude-opus-5-5) | 1239 | [833 comments](https://news.ycombinator.com/item?id=49803892) |
-| ['We hacked the FBI:' Hackers say they have data on all FBI employees](https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/) | 430 | [300 comments](https://news.ycombinator.com/item?id=49805278) |
-| [OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005](https://www.cryptocellar.org/bgac/the-mvueh-break.html) | 572 | [362 comments](https://news.ycombinator.com/item?id=49801324) |
-| [ReBarUEFI: Resizable BAR for almost any UEFI system](https://github.com/xCuri0/ReBarUEFI) | 81 | [23 comments](https://news.ycombinator.com/item?id=49781862) |
-| [Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived](https://foxscript.org/) | 193 | [133 comments](https://news.ycombinator.com/item?id=49808023) |
-| [What California is learning from solar panels built over irrigation canals](https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals) | 126 | [172 comments](https://news.ycombinator.com/item?id=49796379) |
-| [SAML: A fractal of bad design](https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/) | 167 | [94 comments](https://news.ycombinator.com/item?id=49806335) |
-| [Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)](https://artificialanalysis.ai/models/claude-opus-5-5) | 239 | [72 comments](https://news.ycombinator.com/item?id=49804316) |
-| [WordPress: Unauthenticated path traversal leading to conditional RCE](https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp) | 158 | [84 comments](https://news.ycombinator.com/item?id=49803959) |
+| [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | 167 | [71 comments](https://news.ycombinator.com/item?id=49823582) |
+| [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 515 | [538 comments](https://news.ycombinator.com/item?id=49820134) |
+| [Meta VR Glasses](https://www.meta.com/vr-glasses/) | 239 | [196 comments](https://news.ycombinator.com/item?id=49824268) |
+| [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) | 135 | [87 comments](https://news.ycombinator.com/item?id=49822555) |
+| [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | 61 | [10 comments](https://news.ycombinator.com/item?id=49823664) |
+| [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) | 10 | [3 comments](https://news.ycombinator.com/item?id=49824864) |
+| [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) | 59 | [9 comments](https://news.ycombinator.com/item?id=49796372) |
+| [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) | 55 | [26 comments](https://news.ycombinator.com/item?id=49823348) |
+| [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) | 17 | [4 comments](https://news.ycombinator.com/item?id=49824686) |
+| [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) | 382 | [89 comments](https://news.ycombinator.com/item?id=49817469) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 16.0°C (61.0°F) |
-| Average Humidity | 71% |
+| Average Temperature | 15.0°C (59.0°F) |
+| Average Humidity | 74% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-23 02:34:49 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-24 02:24:01 UTC*
