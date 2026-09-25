@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+zai-org/ZCode,6720,TypeScript,"Z.ai's coding agent harness. Powerful, intelligent, extensible.",https://github.com/zai-org/ZCode,2026-09-20T12:01:16Z
+mizorewww/laya-mlx,6229,Python,Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M3 Max. No text gener,https://github.com/mizorewww/laya-mlx,2026-09-19T13:50:26Z
+jev-chat/jev-chat-jarvis,6133,Kotlin,装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。,https://github.com/jev-chat/jev-chat-jarvis,2026-09-21T11:12:53Z
+unreallabsai/unreal-agent,1882,Go,Async-first agent harness,https://github.com/unreallabsai/unreal-agent,2026-09-21T23:14:02Z
+mizorewww/laya-coreml,1440,Python,"Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ~5 ms short decision",https://github.com/mizorewww/laya-coreml,2026-09-19T23:14:13Z
+newliver666/apk-reverse,1420,Python,Suitable for Android APK reverse engineering analysis,https://github.com/newliver666/apk-reverse,2026-09-19T13:12:54Z
+driceroland/Search,1261,Swift,"A small, fast WebKit browser for macOS, by Office Commun.",https://github.com/driceroland/Search,2026-09-20T10:29:47Z
+deepopen-com/deepopen,1006,Python,"非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",https://github.com/deepopen-com/deepopen,2026-09-21T02:12:24Z
+mikehasa/golive-skill,884,TypeScript,"Take your agent-built product live: hosting, database, domain, email, payments — on your own account",https://github.com/mikehasa/golive-skill,2026-09-23T13:37:26Z
+Contrastive-LM/CLM,863,Python,No description,https://github.com/Contrastive-LM/CLM,2026-09-23T19:29:56Z

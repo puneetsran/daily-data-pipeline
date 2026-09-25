@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-24 02:24:01 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-25 02:40:36 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [NandhaKishorM/laya](https://github.com/NandhaKishorM/laya) | 20,684 | Python | Non-autoregressive System 1 decision engine. Typed choice, score and yes/no deci... |
-| [zai-org/ZCode](https://github.com/zai-org/ZCode) | 6,551 | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
-| [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 5,982 | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M... |
-| [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 5,308 | Kotlin | 装在手机上的对话副驾：在微信 / QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
-| [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | 1,742 | Go | Async-first agent harness |
+| [zai-org/ZCode](https://github.com/zai-org/ZCode) | 6,720 | TypeScript | Z.ai's coding agent harness. Powerful, intelligent, extensible. |
+| [mizorewww/laya-mlx](https://github.com/mizorewww/laya-mlx) | 6,229 | Python | Native MLX runtime for Laya typed decision models — 7–14 ms short decisions on M... |
+| [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 6,133 | Kotlin | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
+| [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | 1,882 | Go | Async-first agent harness |
+| [mizorewww/laya-coreml](https://github.com/mizorewww/laya-coreml) | 1,440 | Python | Local Laya typed decisions on Apple Core ML and Neural Engine. Validated ports, ... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-24 02:24:01 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-25 02:40:36 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Linux support is coming to Snapdragon X2 Series](https://www.qualcomm.com/news/onq/2026/09/snapdragon-summit-agentic-ai-pcs-linux) | 167 | [71 comments](https://news.ycombinator.com/item?id=49823582) |
-| [Claude discovers a novel enzyme system with CRISPR-like repeats](https://www.anthropic.com/news/claude-discovers-novel-enzyme-system) | 515 | [538 comments](https://news.ycombinator.com/item?id=49820134) |
-| [Meta VR Glasses](https://www.meta.com/vr-glasses/) | 239 | [196 comments](https://news.ycombinator.com/item?id=49824268) |
-| [VSCode's SSH Agent Is Bananas (2025)](https://fly.io/blog/vscode-ssh-wtf/) | 135 | [87 comments](https://news.ycombinator.com/item?id=49822555) |
-| [ArXiv receives multiyear commitments to support it as an independent nonprofit](https://blog.arxiv.org/2026/09/23/arxiv-receives-multiyear-investment/) | 61 | [10 comments](https://news.ycombinator.com/item?id=49823664) |
-| [Virtio-nvgpu: Near-native Nvidia GPU access inside a KVM guest](https://github.com/nestrilabs/virtio-nvgpu) | 10 | [3 comments](https://news.ycombinator.com/item?id=49824864) |
-| [The "Windows XP Box" (2003)](https://www.mini-itx.com/projects/windowsxpbox/) | 59 | [9 comments](https://news.ycombinator.com/item?id=49796372) |
-| [Mercury 2.5 LLM hits 770 tokens per second](https://artificialanalysis.ai/models/mercury-2-5) | 55 | [26 comments](https://news.ycombinator.com/item?id=49823348) |
-| [Feds Target AI Critics as "Foreign Agents"](https://www.kenklippenstein.com/p/feds-think-ai-critics-are-foreign) | 17 | [4 comments](https://news.ycombinator.com/item?id=49824686) |
-| [Fixing the Portobello Police Station Clock](https://pointinthecloud.com/2026-04-11-211700.html) | 382 | [89 comments](https://news.ycombinator.com/item?id=49817469) |
+| [F-Droid 2.0](https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html) | 972 | [265 comments](https://news.ycombinator.com/item?id=49831968) |
+| [Show HN: Make cursed fonts like Times New Bastard](https://bastardica.mitpit.com) | 505 | [71 comments](https://news.ycombinator.com/item?id=49823738) |
+| [Show HN: Whiteboard (YC W26) – An open-source IDE for thoughtful software design](https://github.com/devdotfast/whiteboard) | 212 | [84 comments](https://news.ycombinator.com/item?id=49833867) |
+| [Why is the liver so weirdly regenerative?](https://dynomight.substack.com/p/liver) | 278 | [160 comments](https://news.ycombinator.com/item?id=49832938) |
+| [Fearless SIMD v1.0](https://linebender.org/blog/fearless-simd-1-0/) | 197 | [31 comments](https://news.ycombinator.com/item?id=49800085) |
+| [2DWillNeverDie](https://2dwillneverdie.com/) | 128 | [10 comments](https://news.ycombinator.com/item?id=49801436) |
+| [Jev and System One Models: Calibration Beats Accuracy](https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions) | 3 | [0 comments](https://news.ycombinator.com/item?id=49839510) |
+| [Rails World 2026 Opening Keynote [video]](https://www.youtube.com/watch?v=vDjW_dRyKXY) | 251 | [266 comments](https://news.ycombinator.com/item?id=49817680) |
+| [Toyota is taking the Corolla electric](https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/) | 239 | [391 comments](https://news.ycombinator.com/item?id=49823568) |
+| [My weird new hobby: Wandering around Tokyo on Google Maps](https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/) | 235 | [102 comments](https://news.ycombinator.com/item?id=49805344) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 15.0°C (59.0°F) |
-| Average Humidity | 74% |
+| Average Temperature | 13.0°C (56.0°F) |
+| Average Humidity | 77% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-24 02:24:01 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-25 02:40:36 UTC*

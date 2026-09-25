@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-25 02:40 UTC",
-  "github_trending": [
+  "collected_at": "2026-09-25T02:40:33.593709",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "zai-org/ZCode",
       "stars": 6720,
@@ -80,88 +81,6 @@
       "description": "No description",
       "url": "https://github.com/Contrastive-LM/CLM",
       "created_at": "2026-09-23T19:29:56Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "F-Droid 2.0",
-      "url": "https://f-droid.org/2026/09/24/f-droid-2.0-a-new-chapter-for-android-freedom.html",
-      "score": 972,
-      "comments": 265,
-      "by": "daveoc64",
-      "hn_url": "https://news.ycombinator.com/item?id=49831968"
-    },
-    {
-      "title": "Show HN: Make cursed fonts like Times New Bastard",
-      "url": "https://bastardica.mitpit.com",
-      "score": 505,
-      "comments": 71,
-      "by": "MitPitt",
-      "hn_url": "https://news.ycombinator.com/item?id=49823738"
-    },
-    {
-      "title": "Show HN: Whiteboard (YC W26) \u2013 An open-source IDE for thoughtful software design",
-      "url": "https://github.com/devdotfast/whiteboard",
-      "score": 212,
-      "comments": 84,
-      "by": "sidharthkmenon",
-      "hn_url": "https://news.ycombinator.com/item?id=49833867"
-    },
-    {
-      "title": "Why is the liver so weirdly regenerative?",
-      "url": "https://dynomight.substack.com/p/liver",
-      "score": 278,
-      "comments": 160,
-      "by": "jbotz",
-      "hn_url": "https://news.ycombinator.com/item?id=49832938"
-    },
-    {
-      "title": "Fearless SIMD v1.0",
-      "url": "https://linebender.org/blog/fearless-simd-1-0/",
-      "score": 197,
-      "comments": 31,
-      "by": "verdagon",
-      "hn_url": "https://news.ycombinator.com/item?id=49800085"
-    },
-    {
-      "title": "2DWillNeverDie",
-      "url": "https://2dwillneverdie.com/",
-      "score": 128,
-      "comments": 10,
-      "by": "surprisetalk",
-      "hn_url": "https://news.ycombinator.com/item?id=49801436"
-    },
-    {
-      "title": "Jev and System One Models: Calibration Beats Accuracy",
-      "url": "https://www.kartikpansuriya.com/blog/jev-system-one-model-calibrated-decisions",
-      "score": 3,
-      "comments": 0,
-      "by": "pansuriyakartik",
-      "hn_url": "https://news.ycombinator.com/item?id=49839510"
-    },
-    {
-      "title": "Rails World 2026 Opening Keynote [video]",
-      "url": "https://www.youtube.com/watch?v=vDjW_dRyKXY",
-      "score": 251,
-      "comments": 266,
-      "by": "an0malous",
-      "hn_url": "https://news.ycombinator.com/item?id=49817680"
-    },
-    {
-      "title": "Toyota is taking the Corolla electric",
-      "url": "https://electrek.co/2026/09/23/toyota-best-selling-corolla-electric/",
-      "score": 239,
-      "comments": 391,
-      "by": "cisc",
-      "hn_url": "https://news.ycombinator.com/item?id=49823568"
-    },
-    {
-      "title": "My weird new hobby: Wandering around Tokyo on Google Maps",
-      "url": "https://ahmedhossamdev.com/writing/my-weird-new-hobby-wandering-around-tokyo/",
-      "score": 235,
-      "comments": 102,
-      "by": "ahmedhossamdev",
-      "hn_url": "https://news.ycombinator.com/item?id=49805344"
     }
   ]
 }
