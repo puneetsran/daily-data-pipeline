@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-09-27T02:43:36.677512",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Does Georgism work? Five years later",
+      "url": "https://www.astralcodexten.com/p/does-georgism-work-five-years-later",
+      "score": 157,
+      "comments": 88,
+      "by": "silveraxe93",
+      "hn_url": "https://news.ycombinator.com/item?id=49844657"
+    },
+    {
+      "title": "PipePipe: NewPipe hard fork implementing SponsorBlock",
+      "url": "https://github.com/InfinityLoop1308/PipePipe",
+      "score": 327,
+      "comments": 185,
+      "by": "Qision",
+      "hn_url": "https://news.ycombinator.com/item?id=49842764"
+    },
+    {
+      "title": "DeepSeek Elastic Compute (DSec)",
+      "url": "https://arxiv.org/abs/2609.22978",
+      "score": 166,
+      "comments": 52,
+      "by": "shenli3514",
+      "hn_url": "https://news.ycombinator.com/item?id=49859112"
+    },
+    {
+      "title": "Go Concurrency Distilled",
+      "url": "https://antonz.org/go-concurrency-distilled/",
+      "score": 48,
+      "comments": 9,
+      "by": "chmaynard",
+      "hn_url": "https://news.ycombinator.com/item?id=49856988"
+    },
+    {
+      "title": "Show HN: Reladraw \u2013 A diagram language where you decide where to place things",
+      "url": "https://github.com/reladraw/reladraw",
+      "score": 200,
+      "comments": 57,
+      "by": "jpwalsh234",
+      "hn_url": "https://news.ycombinator.com/item?id=49858513"
+    },
+    {
+      "title": "Turning GLM-5.3-Flash into a Jev-like decision model",
+      "url": "https://www.privatemode.ai/blog/system-one-from-glm-flash",
+      "score": 35,
+      "comments": 18,
+      "by": "flxflx",
+      "hn_url": "https://news.ycombinator.com/item?id=49857656"
+    },
+    {
+      "title": "Evolving programming languages in the AI era",
+      "url": "https://dashbit.co/blog/evolving-ai-era",
+      "score": 38,
+      "comments": 24,
+      "by": "pjm331",
+      "hn_url": "https://news.ycombinator.com/item?id=49839567"
+    },
+    {
+      "title": "A searchable library of forgotten public-domain film clips from 1915 onward",
+      "url": "https://www.movingimagearchive.com/",
+      "score": 118,
+      "comments": 25,
+      "by": "momentmaker",
+      "hn_url": "https://news.ycombinator.com/item?id=49832768"
+    },
+    {
+      "title": "Drawgent: Coding agent on a live Excalidraw canvas",
+      "url": "https://tangled.org/yanndegat.tngl.sh/drawgent",
+      "score": 112,
+      "comments": 32,
+      "by": "parasitid",
+      "hn_url": "https://news.ycombinator.com/item?id=49857729"
+    },
+    {
+      "title": "Fifteen years later, the Apple Cards origin story",
+      "url": "https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story",
+      "score": 348,
+      "comments": 90,
+      "by": "ksec",
+      "hn_url": "https://news.ycombinator.com/item?id=49854693"
+    }
+  ]
+}

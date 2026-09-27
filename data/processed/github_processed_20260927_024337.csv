@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+jev-chat/jev-chat-jarvis,6679,Kotlin,装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。,https://github.com/jev-chat/jev-chat-jarvis,2026-09-21T11:12:53Z
+unreallabsai/unreal-agent,1969,Go,Async-first agent harness,https://github.com/unreallabsai/unreal-agent,2026-09-21T23:14:02Z
+Contrastive-LM/CLM,1609,Python,No description,https://github.com/Contrastive-LM/CLM,2026-09-23T19:29:56Z
+tobi/disktree,1311,Rust,"A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPUI.",https://github.com/tobi/disktree,2026-09-24T20:56:29Z
+JohnHeibel/PDoomVideo,1056,JavaScript,Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom),https://github.com/JohnHeibel/PDoomVideo,2026-09-22T23:32:19Z
+yetone/magpie,1047,Go,"Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the menu bar.",https://github.com/yetone/magpie,2026-09-23T16:22:35Z
+deepopen-com/deepopen,1038,Python,"非自回归System 1决策引擎，专为结构化类型决策场景设计  DeepOpen Multilingual, non-autoregressive System 1 decision engine. ",https://github.com/deepopen-com/deepopen,2026-09-21T02:12:24Z
+mikehasa/golive-skill,981,TypeScript,"Take your agent-built product live: hosting, database, domain, email, payments — on your own account",https://github.com/mikehasa/golive-skill,2026-09-23T13:37:26Z
+kryvora-network/kryvora-node,893,Go,Reference client daemon and verification worker for Kryvora Network nodes.,https://github.com/kryvora-network/kryvora-node,2026-09-22T16:10:23Z
+riba2534/claude-opus-5-5-demo,810,JavaScript,claude-opus-5-5-demo,https://github.com/riba2534/claude-opus-5-5-demo,2026-09-23T06:31:00Z
