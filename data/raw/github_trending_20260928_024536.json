@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-09-28 02:45 UTC",
-  "github_trending": [
+  "collected_at": "2026-09-28T02:45:36.604913",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "Contrastive-LM/CLM",
       "stars": 1942,
@@ -80,88 +81,6 @@
       "description": "\u6b4c\u8a5e\u304b\u3089\u6587\u5b57PV\u3092\u81ea\u52d5\u3067\u7d44\u307f\u7acb\u3066\u308b\u30d6\u30e9\u30a6\u30b6\u30a2\u30d7\u30ea",
       "url": "https://github.com/852wa/JIZURA",
       "created_at": "2026-09-23T04:04:13Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Self-parking car using genetic algorithm (2021)",
-      "url": "https://trekhleb.dev/blog/2021/self-parking-car-evolution/",
-      "score": 32,
-      "comments": 4,
-      "by": "trekhleb",
-      "hn_url": "https://news.ycombinator.com/item?id=49872472"
-    },
-    {
-      "title": "Ember-1",
-      "url": "https://fireworks.ai/blog/ember-1",
-      "score": 368,
-      "comments": 186,
-      "by": "gmays",
-      "hn_url": "https://news.ycombinator.com/item?id=49868830"
-    },
-    {
-      "title": "When did Google get so weird?",
-      "url": "https://sancho.bearblog.dev/google-weird/",
-      "score": 852,
-      "comments": 457,
-      "by": "sancho-panza",
-      "hn_url": "https://news.ycombinator.com/item?id=49870367"
-    },
-    {
-      "title": "Owed a billion dollars in Nvidia stock",
-      "url": "https://colo.to/nvidia-stock-narrative.html",
-      "score": 10,
-      "comments": 1,
-      "by": "Eric_Gullichsen",
-      "hn_url": "https://news.ycombinator.com/item?id=49872723"
-    },
-    {
-      "title": "Research finds 485 chemicals in US pesticide products linked to breast cancer",
-      "url": "https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products",
-      "score": 42,
-      "comments": 10,
-      "by": "Teever",
-      "hn_url": "https://news.ycombinator.com/item?id=49872497"
-    },
-    {
-      "title": "Alan Kay's answer to \u201cDid the ENIAC have a BIOS\u201d?",
-      "url": "https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11",
-      "score": 79,
-      "comments": 30,
-      "by": "midnightfish",
-      "hn_url": "https://news.ycombinator.com/item?id=49870070"
-    },
-    {
-      "title": "There is more to code review than (automatable) detection",
-      "url": "https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/",
-      "score": 73,
-      "comments": 37,
-      "by": "utiiiD",
-      "hn_url": "https://news.ycombinator.com/item?id=49857281"
-    },
-    {
-      "title": "The state of SIMD in Rust in 2026",
-      "url": "https://shnatsel.github.io/state-of-simd-rust-2026/",
-      "score": 102,
-      "comments": 21,
-      "by": "verdagon",
-      "hn_url": "https://news.ycombinator.com/item?id=49844629"
-    },
-    {
-      "title": "Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06",
-      "url": "https://github.com/dashersw/coyopedal",
-      "score": 26,
-      "comments": 4,
-      "by": "arbayi",
-      "hn_url": "https://news.ycombinator.com/item?id=49852600"
-    },
-    {
-      "title": "Lunar Terminator Paradox",
-      "url": "https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html",
-      "score": 49,
-      "comments": 32,
-      "by": "dima55",
-      "hn_url": "https://news.ycombinator.com/item?id=49870837"
     }
   ]
 }

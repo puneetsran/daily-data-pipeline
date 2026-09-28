@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-27 02:43:38 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-28 02:45:39 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [jev-chat/jev-chat-jarvis](https://github.com/jev-chat/jev-chat-jarvis) | 6,679 | Kotlin | 装在手机上的对话副驾：在 QQ / X / 飞书里读懂对方、给出候选回复、一键填入输入框，发不发由你。非侵入，只读屏幕，不 hook 不改包。 |
-| [unreallabsai/unreal-agent](https://github.com/unreallabsai/unreal-agent) | 1,969 | Go | Async-first agent harness |
-| [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 1,609 | Python | No description |
-| [tobi/disktree](https://github.com/tobi/disktree) | 1,311 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU... |
-| [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,056 | JavaScript | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
+| [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 1,942 | Python | No description |
+| [tobi/disktree](https://github.com/tobi/disktree) | 1,635 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU... |
+| [yetone/magpie](https://github.com/yetone/magpie) | 1,279 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the... |
+| [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,268 | JavaScript | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
+| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,202 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
 
-### Hacker News Top Stories (Last Updated: 2026-09-27 02:43:38 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-28 02:45:39 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Does Georgism work? Five years later](https://www.astralcodexten.com/p/does-georgism-work-five-years-later) | 157 | [88 comments](https://news.ycombinator.com/item?id=49844657) |
-| [PipePipe: NewPipe hard fork implementing SponsorBlock](https://github.com/InfinityLoop1308/PipePipe) | 327 | [185 comments](https://news.ycombinator.com/item?id=49842764) |
-| [DeepSeek Elastic Compute (DSec)](https://arxiv.org/abs/2609.22978) | 166 | [52 comments](https://news.ycombinator.com/item?id=49859112) |
-| [Go Concurrency Distilled](https://antonz.org/go-concurrency-distilled/) | 48 | [9 comments](https://news.ycombinator.com/item?id=49856988) |
-| [Show HN: Reladraw – A diagram language where you decide where to place things](https://github.com/reladraw/reladraw) | 200 | [57 comments](https://news.ycombinator.com/item?id=49858513) |
-| [Turning GLM-5.3-Flash into a Jev-like decision model](https://www.privatemode.ai/blog/system-one-from-glm-flash) | 35 | [18 comments](https://news.ycombinator.com/item?id=49857656) |
-| [Evolving programming languages in the AI era](https://dashbit.co/blog/evolving-ai-era) | 38 | [24 comments](https://news.ycombinator.com/item?id=49839567) |
-| [A searchable library of forgotten public-domain film clips from 1915 onward](https://www.movingimagearchive.com/) | 118 | [25 comments](https://news.ycombinator.com/item?id=49832768) |
-| [Drawgent: Coding agent on a live Excalidraw canvas](https://tangled.org/yanndegat.tngl.sh/drawgent) | 112 | [32 comments](https://news.ycombinator.com/item?id=49857729) |
-| [Fifteen years later, the Apple Cards origin story](https://lexontech.org/fifteen-years-later-the-apple-cards-origin-story) | 348 | [90 comments](https://news.ycombinator.com/item?id=49854693) |
+| [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) | 32 | [4 comments](https://news.ycombinator.com/item?id=49872472) |
+| [Ember-1](https://fireworks.ai/blog/ember-1) | 368 | [186 comments](https://news.ycombinator.com/item?id=49868830) |
+| [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) | 852 | [457 comments](https://news.ycombinator.com/item?id=49870367) |
+| [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) | 10 | [1 comments](https://news.ycombinator.com/item?id=49872723) |
+| [Research finds 485 chemicals in US pesticide products linked to breast cancer](https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products) | 42 | [10 comments](https://news.ycombinator.com/item?id=49872497) |
+| [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) | 79 | [30 comments](https://news.ycombinator.com/item?id=49870070) |
+| [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/) | 73 | [37 comments](https://news.ycombinator.com/item?id=49857281) |
+| [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/) | 102 | [21 comments](https://news.ycombinator.com/item?id=49844629) |
+| [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal) | 26 | [4 comments](https://news.ycombinator.com/item?id=49852600) |
+| [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html) | 49 | [32 comments](https://news.ycombinator.com/item?id=49870837) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 13.0°C (55.0°F) |
-| Average Humidity | 68% |
+| Average Temperature | 14.0°C (57.0°F) |
+| Average Humidity | 61% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-27 02:43:38 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-28 02:45:39 UTC*
