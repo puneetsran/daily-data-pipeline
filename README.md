@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-28 02:45:39 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-29 03:27:11 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 1,942 | Python | No description |
-| [tobi/disktree](https://github.com/tobi/disktree) | 1,635 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU... |
-| [yetone/magpie](https://github.com/yetone/magpie) | 1,279 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the... |
-| [JohnHeibel/PDoomVideo](https://github.com/JohnHeibel/PDoomVideo) | 1,268 | JavaScript | Source code for the Claude Opus 5.5 music video for I'm Upping My P(doom) |
-| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,202 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
+| [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,306 | Python | No description |
+| [tobi/disktree](https://github.com/tobi/disktree) | 1,832 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU... |
+| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,793 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
+| [yetone/magpie](https://github.com/yetone/magpie) | 1,656 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the... |
+| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,473 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-28 02:45:39 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-29 03:27:11 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Self-parking car using genetic algorithm (2021)](https://trekhleb.dev/blog/2021/self-parking-car-evolution/) | 32 | [4 comments](https://news.ycombinator.com/item?id=49872472) |
-| [Ember-1](https://fireworks.ai/blog/ember-1) | 368 | [186 comments](https://news.ycombinator.com/item?id=49868830) |
-| [When did Google get so weird?](https://sancho.bearblog.dev/google-weird/) | 852 | [457 comments](https://news.ycombinator.com/item?id=49870367) |
-| [Owed a billion dollars in Nvidia stock](https://colo.to/nvidia-stock-narrative.html) | 10 | [1 comments](https://news.ycombinator.com/item?id=49872723) |
-| [Research finds 485 chemicals in US pesticide products linked to breast cancer](https://www.theguardian.com/us-news/2026/sep/26/breast-cancer-us-pesticide-products) | 42 | [10 comments](https://news.ycombinator.com/item?id=49872497) |
-| [Alan Kay's answer to “Did the ENIAC have a BIOS”?](https://www.quora.com/Did-the-ENIAC-have-a-BIOS/answer/Alan-Kay-11) | 79 | [30 comments](https://news.ycombinator.com/item?id=49870070) |
-| [There is more to code review than (automatable) detection](https://www.adaptivecapacitylabs.com/2026/08/24/there-is-more-to-code-review-than-automatable-detection/) | 73 | [37 comments](https://news.ycombinator.com/item?id=49857281) |
-| [The state of SIMD in Rust in 2026](https://shnatsel.github.io/state-of-simd-rust-2026/) | 102 | [21 comments](https://news.ycombinator.com/item?id=49844629) |
-| [Guitar amp and effects pedal built on the Waveshare ESP32-S3-Touch-AMOLED-2.06](https://github.com/dashersw/coyopedal) | 26 | [4 comments](https://news.ycombinator.com/item?id=49852600) |
-| [Lunar Terminator Paradox](https://notes.secretsauce.net/notes/2026/09/27_lunar-terminator-paradox.html) | 49 | [32 comments](https://news.ycombinator.com/item?id=49870837) |
+| [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) | 330 | [133 comments](https://news.ycombinator.com/item?id=49883844) |
+| [U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982](https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html) | 50 | [8 comments](https://news.ycombinator.com/item?id=49887337) |
+| [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | 443 | [235 comments](https://news.ycombinator.com/item?id=49880036) |
+| [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) | 92 | [23 comments](https://news.ycombinator.com/item?id=49855059) |
+| [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) | 39 | [23 comments](https://news.ycombinator.com/item?id=49886195) |
+| [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | 154 | [66 comments](https://news.ycombinator.com/item?id=49882781) |
+| [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops) | 86 | [219 comments](https://news.ycombinator.com/item?id=49883539) |
+| [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/) | 72 | [39 comments](https://news.ycombinator.com/item?id=49883536) |
+| [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) | 633 | [425 comments](https://news.ycombinator.com/item?id=49881850) |
+| [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster) | 42 | [5 comments](https://news.ycombinator.com/item?id=49884625) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 14.0°C (57.0°F) |
-| Average Humidity | 61% |
+| Average Temperature | 13.0°C (55.0°F) |
+| Average Humidity | 82% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-28 02:45:39 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-29 03:27:11 UTC*
