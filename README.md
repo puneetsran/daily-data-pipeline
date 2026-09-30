@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-29 03:27:11 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-09-30 03:10:45 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [Contrastive-LM/CLM](https://github.com/Contrastive-LM/CLM) | 2,306 | Python | No description |
-| [tobi/disktree](https://github.com/tobi/disktree) | 1,832 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU... |
-| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,793 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
-| [yetone/magpie](https://github.com/yetone/magpie) | 1,656 | Go | Every agent's model. One place. Codex on DeepSeek, Claude Code on Kimi, from the... |
-| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,473 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
+| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 3,367 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,991 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
+| [tobi/disktree](https://github.com/tobi/disktree) | 1,919 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU... |
+| [Niko1221/Strata](https://github.com/Niko1221/Strata) | 1,848 | C++ | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Window... |
+| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,789 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
 
-### Hacker News Top Stories (Last Updated: 2026-09-29 03:27:11 UTC)
+### Hacker News Top Stories (Last Updated: 2026-09-30 03:10:45 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Jeff – Jev-compatible 0.8B decision models, trained at home, ~30 ms](https://github.com/firelex/jeff) | 330 | [133 comments](https://news.ycombinator.com/item?id=49883844) |
-| [U.S. Strategic Petroleum Reserve Falls to Lowest Level Since 1982](https://oilprice.com/Latest-Energy-News/World-News/US-Strategic-Petroleum-Reserve-Falls-to-Lowest-Level-Since-1982.html) | 50 | [8 comments](https://news.ycombinator.com/item?id=49887337) |
-| [Pirating the Pirates](https://mubi.com/en/notebook/posts/pirating-the-pirates) | 443 | [235 comments](https://news.ycombinator.com/item?id=49880036) |
-| [12,000-year-old Göbeklitepe burials explain scattered bones](https://archaeologymag.com/2026/09/gobeklitepe-burials-hundreds-of-scattered-bones/) | 92 | [23 comments](https://news.ycombinator.com/item?id=49855059) |
-| [1996 chat room simulator connected to Win95 and System 7 web desktops](https://lolchat.rip/) | 39 | [23 comments](https://news.ycombinator.com/item?id=49886195) |
-| [MicroLLM Lab – Try 7 tiny LLM's in the browser](https://stateofutopia.com/experiments/microllmlab/) | 154 | [66 comments](https://news.ycombinator.com/item?id=49882781) |
-| [California farmers are struggling to sell grapes as demand for wine drops](https://www.kqed.org/news/12101534/california-farmers-are-struggling-to-sell-grapes-as-demand-for-wine-drops) | 86 | [219 comments](https://news.ycombinator.com/item?id=49883539) |
-| [Scientists solve 1840s space weather mystery](https://arstechnica.com/science/2026/09/scientists-solve-1840s-space-weather-mystery/) | 72 | [39 comments](https://news.ycombinator.com/item?id=49883536) |
-| [Sonnet 5.5](https://www.anthropic.com/claude-sonnet-5-5) | 633 | [425 comments](https://news.ycombinator.com/item?id=49881850) |
-| [ESP32S3 cluster running 1.58-bit (BitNet) Language model](https://github.com/Low-Zi-Hong/ESP32s3-LLM-Cluster) | 42 | [5 comments](https://news.ycombinator.com/item?id=49884625) |
+| [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) | 305 | [133 comments](https://news.ycombinator.com/item?id=49901736) |
+| [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) | 182 | [107 comments](https://news.ycombinator.com/item?id=49899090) |
+| [America.gov](https://america.gov/) | 398 | [322 comments](https://news.ycombinator.com/item?id=49893509) |
+| [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/) | 132 | [32 comments](https://news.ycombinator.com/item?id=49898778) |
+| [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) | 816 | [748 comments](https://news.ycombinator.com/item?id=49896586) |
+| [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) | 449 | [264 comments](https://news.ycombinator.com/item?id=49892245) |
+| [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) | 243 | [132 comments](https://news.ycombinator.com/item?id=49895304) |
+| [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev) | 42 | [1 comments](https://news.ycombinator.com/item?id=49891203) |
+| [Needed 1+1, built a functional programming language](https://hereticpleb.vercel.app/blog/needed-one-plus-one/) | 40 | [9 comments](https://news.ycombinator.com/item?id=49895864) |
+| [Backblaze drive stats for Q2 2026](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/) | 98 | [17 comments](https://news.ycombinator.com/item?id=49893002) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 13.0°C (55.0°F) |
-| Average Humidity | 82% |
+| Average Temperature | 13.0°C (56.0°F) |
+| Average Humidity | 79% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-29 03:27:11 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-09-30 03:10:45 UTC*
