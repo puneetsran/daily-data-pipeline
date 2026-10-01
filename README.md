@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-09-30 03:10:45 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-01 03:17:42 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 3,367 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| [mexicat/pdoom-video](https://github.com/mexicat/pdoom-video) | 1,991 | TypeScript | Code-rendered music video for "I'm Upping My P(doom)" |
-| [tobi/disktree](https://github.com/tobi/disktree) | 1,919 | Rust | A treemap for finding and removing what fills your disk, for Omarchy. Rust + GPU... |
-| [Niko1221/Strata](https://github.com/Niko1221/Strata) | 1,848 | C++ | Qwen3.8-Flash-Next (125B MoE) on a 8GB+ NVIDIA GPU: one-click install for Window... |
-| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,789 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
+| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 4,137 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [feder-cr/dots](https://github.com/feder-cr/dots) | 1,937 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
+| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,910 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
+| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | 1,456 | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Win... |
+| [firelex/jeff](https://github.com/firelex/jeff) | 1,200 | Python | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification |
 
-### Hacker News Top Stories (Last Updated: 2026-09-30 03:10:45 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-01 03:17:42 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Livenerf: Has Opus 5.5 been nerfed yet?](https://github.com/ninjahawk/livenerf) | 305 | [133 comments](https://news.ycombinator.com/item?id=49901736) |
-| [U.S. postal inspectors shut down website selling counterfeit postage labels](https://postalemployeenetwork.com/news/2026/09/26/u-s-postal-inspectors-shut-down-website-selling-millions-of-counterfeit-postage-labels/) | 182 | [107 comments](https://news.ycombinator.com/item?id=49899090) |
-| [America.gov](https://america.gov/) | 398 | [322 comments](https://news.ycombinator.com/item?id=49893509) |
-| [Show HN: Real-time Solar System with 526k asteroids and all tracked satellites](https://space.bl2.net/) | 132 | [32 comments](https://news.ycombinator.com/item?id=49898778) |
-| [GPT 6.1 Sol: Near-Astra intelligence for a fifth of the price](https://openai.com/index/introducing-gpt-6-1-sol/) | 816 | [748 comments](https://news.ycombinator.com/item?id=49896586) |
-| [How Delhi cut electricity loss from 50 to 5 percent](https://spectrum.ieee.org/delhi-electricity-loss) | 449 | [264 comments](https://news.ycombinator.com/item?id=49892245) |
-| [PS5 Relapse Exploit](https://github.com/ntfargo/Relapse-Exploit) | 243 | [132 comments](https://news.ycombinator.com/item?id=49895304) |
-| [Language models for text classification: From bag-of-words to Jev](https://magazine.sebastianraschka.com/p/classifier-history-and-jev) | 42 | [1 comments](https://news.ycombinator.com/item?id=49891203) |
-| [Needed 1+1, built a functional programming language](https://hereticpleb.vercel.app/blog/needed-one-plus-one/) | 40 | [9 comments](https://news.ycombinator.com/item?id=49895864) |
-| [Backblaze drive stats for Q2 2026](https://www.backblaze.com/blog/backblaze-drive-stats-for-q2-2026/) | 98 | [17 comments](https://news.ycombinator.com/item?id=49893002) |
+| [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | 1065 | [713 comments](https://news.ycombinator.com/item?id=49913571) |
+| [California bans child marriage, a practice still legal in 32 US states](https://www.bbc.com/news/articles/c6rm9mnn0w3eo) | 29 | [15 comments](https://news.ycombinator.com/item?id=49917089) |
+| [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) | 147 | [61 comments](https://news.ycombinator.com/item?id=49915082) |
+| [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) | 88 | [52 comments](https://news.ycombinator.com/item?id=49915126) |
+| [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) | 134 | [42 comments](https://news.ycombinator.com/item?id=49912955) |
+| [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) | 106 | [62 comments](https://news.ycombinator.com/item?id=49890732) |
+| [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra) | 4 | [0 comments](https://news.ycombinator.com/item?id=49916997) |
+| [EDG C++ front-end goes public](https://edgcpp.org/#transition) | 164 | [78 comments](https://news.ycombinator.com/item?id=49913192) |
+| [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) | 131 | [60 comments](https://news.ycombinator.com/item?id=49911995) |
+| [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258) | 248 | [186 comments](https://news.ycombinator.com/item?id=49906432) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 13.0°C (56.0°F) |
-| Average Humidity | 79% |
+| Average Temperature | 12.0°C (54.0°F) |
+| Average Humidity | 74% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-09-30 03:10:45 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-01 03:17:42 UTC*
