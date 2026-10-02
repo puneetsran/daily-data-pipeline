@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-01 03:17:42 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-02 03:18:12 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 4,137 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| [feder-cr/dots](https://github.com/feder-cr/dots) | 1,937 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
-| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 1,910 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
-| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | 1,456 | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Win... |
-| [firelex/jeff](https://github.com/firelex/jeff) | 1,200 | Python | Fine-tunes of Qwen3.5 and Gemma 4 for zero-shot classification |
+| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 4,703 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | 2,513 | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Win... |
+| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,391 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
+| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 2,003 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 1,606 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
 
-### Hacker News Top Stories (Last Updated: 2026-10-01 03:17:42 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-02 03:18:12 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Gemini 4 Argon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-4-argon/) | 1065 | [713 comments](https://news.ycombinator.com/item?id=49913571) |
-| [California bans child marriage, a practice still legal in 32 US states](https://www.bbc.com/news/articles/c6rm9mnn0w3eo) | 29 | [15 comments](https://news.ycombinator.com/item?id=49917089) |
-| [The top secret URSALA, RAQUEL, and FARRAH satellites (2025)](https://www.thespacereview.com/article/4951/1) | 147 | [61 comments](https://news.ycombinator.com/item?id=49915082) |
-| [56k.rip – the 1996 dial-up internet experience](https://56k.rip/) | 88 | [52 comments](https://news.ycombinator.com/item?id=49915126) |
-| [Surprisingly complex waves reveal the brain's inner workings](https://www.quantamagazine.org/surprisingly-complex-waves-reveal-the-brains-inner-workings-20260930/) | 134 | [42 comments](https://news.ycombinator.com/item?id=49912955) |
-| [Why the Bronze Age Collapsed](https://www.worksinprogress.news/p/why-really-caused-the-bronze-age) | 106 | [62 comments](https://news.ycombinator.com/item?id=49890732) |
-| [Show HN: Yantra – an LALR(1) parser generator for C++](https://github.com/TantrixAuto/yantra) | 4 | [0 comments](https://news.ycombinator.com/item?id=49916997) |
-| [EDG C++ front-end goes public](https://edgcpp.org/#transition) | 164 | [78 comments](https://news.ycombinator.com/item?id=49913192) |
-| [Launch HN: Magnitude (YC S25) – Self-optimizing inference engine for agents](https://github.com/magnitudedev/magnitude) | 131 | [60 comments](https://news.ycombinator.com/item?id=49911995) |
-| [Singapore govt dating app uses Gale-Shapley stable marriage algorithm](https://twitter.com/tuakdotsol/status/2105105417760391258) | 248 | [186 comments](https://news.ycombinator.com/item?id=49906432) |
+| [Pi 1.0](https://earendil.com/posts/pi-1-0/) | 837 | [288 comments](https://news.ycombinator.com/item?id=49926069) |
+| [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) | 143 | [79 comments](https://news.ycombinator.com/item?id=49928121) |
+| [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | 450 | [165 comments](https://news.ycombinator.com/item?id=49923692) |
+| [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) | 143 | [56 comments](https://news.ycombinator.com/item?id=49926536) |
+| [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) | 164 | [170 comments](https://news.ycombinator.com/item?id=49922569) |
+| [Pi Durable](https://earendil.com/posts/pi-durable/) | 260 | [29 comments](https://news.ycombinator.com/item?id=49925969) |
+| [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness) | 89 | [16 comments](https://news.ycombinator.com/item?id=49926917) |
+| [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) | 531 | [135 comments](https://news.ycombinator.com/item?id=49920160) |
+| [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com) | 67 | [15 comments](https://news.ycombinator.com/item?id=49927212) |
+| [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256) | 246 | [251 comments](https://news.ycombinator.com/item?id=49924179) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 12.0°C (54.0°F) |
-| Average Humidity | 74% |
+| Average Temperature | 14.0°C (57.0°F) |
+| Average Humidity | 86% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-01 03:17:42 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-02 03:18:12 UTC*
