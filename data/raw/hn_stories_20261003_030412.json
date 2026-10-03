@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-03T03:04:12.736499",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "The Forgetful CPU (Linux on M4)",
+      "url": "https://yuka.dev/blog-2026-10-02-linux-m4.html",
+      "score": 130,
+      "comments": 56,
+      "by": "signa11",
+      "hn_url": "https://news.ycombinator.com/item?id=49933869"
+    },
+    {
+      "title": "Court agrees with EFF: Utah's VPN law demands a technical impossibility",
+      "url": "https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility",
+      "score": 533,
+      "comments": 233,
+      "by": "hn_acker",
+      "hn_url": "https://news.ycombinator.com/item?id=49927754"
+    },
+    {
+      "title": "Newgrounds.com \u2013 A community of games, music, and art",
+      "url": "https://www.newgrounds.com/",
+      "score": 30,
+      "comments": 0,
+      "by": "azhenley",
+      "hn_url": "https://news.ycombinator.com/item?id=49940394"
+    },
+    {
+      "title": "Mike Tomlin spent 12 years building a Minecraft city",
+      "url": "https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/",
+      "score": 320,
+      "comments": 86,
+      "by": "CoryOndrejka",
+      "hn_url": "https://news.ycombinator.com/item?id=49925184"
+    },
+    {
+      "title": "A 12-year sequence of telescope images of a star and four planets orbiting",
+      "url": "https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f",
+      "score": 212,
+      "comments": 50,
+      "by": "mariuz",
+      "hn_url": "https://news.ycombinator.com/item?id=49932147"
+    },
+    {
+      "title": "Apple Pass Designer",
+      "url": "https://developer.apple.com/pass-designer/",
+      "score": 337,
+      "comments": 223,
+      "by": "soheilpro",
+      "hn_url": "https://news.ycombinator.com/item?id=49937276"
+    },
+    {
+      "title": "Things that apparently cause cancer",
+      "url": "https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer",
+      "score": 94,
+      "comments": 37,
+      "by": "timpera",
+      "hn_url": "https://news.ycombinator.com/item?id=49940219"
+    },
+    {
+      "title": "With most information hidden, the game Stratego had stumped AI until now",
+      "url": "https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/",
+      "score": 189,
+      "comments": 91,
+      "by": "PaulHoule",
+      "hn_url": "https://news.ycombinator.com/item?id=49933740"
+    },
+    {
+      "title": "NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]",
+      "url": "https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf",
+      "score": 17,
+      "comments": 9,
+      "by": "sdko",
+      "hn_url": "https://news.ycombinator.com/item?id=49940467"
+    },
+    {
+      "title": "Loss of cell identity drives human aging: Two new papers",
+      "url": "https://erictopol.substack.com/p/loss-of-cell-identity-drives-human",
+      "score": 188,
+      "comments": 49,
+      "by": "bookofjoe",
+      "hn_url": "https://news.ycombinator.com/item?id=49926411"
+    }
+  ]
+}

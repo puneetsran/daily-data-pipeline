@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-02 03:18:12 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-03 03:04:14 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 4,703 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | 2,513 | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Win... |
-| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,391 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
-| [dzhng/jevgrep](https://github.com/dzhng/jevgrep) | 2,003 | TypeScript | Find code by asking what it does. A CLI for coding agents that uses Jev to disco... |
-| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 1,606 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
+| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 4,989 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | 3,004 | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Win... |
+| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,509 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 2,173 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
+| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 1,536 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
 
-### Hacker News Top Stories (Last Updated: 2026-10-02 03:18:12 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-03 03:04:14 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Pi 1.0](https://earendil.com/posts/pi-1-0/) | 837 | [288 comments](https://news.ycombinator.com/item?id=49926069) |
-| [Several vulnerabilities have been discovered in the Linux kernel](https://lwn.net/Articles/1097401/) | 143 | [79 comments](https://news.ycombinator.com/item?id=49928121) |
-| [Clef: Open-weight decision models, and new RL fine-tuning platform](https://blog.cloudflare.com/clef-decision-models/) | 450 | [165 comments](https://news.ycombinator.com/item?id=49923692) |
-| [SvelteKit 3](https://svelte.dev/blog/sveltekit-3-is-here) | 143 | [56 comments](https://news.ycombinator.com/item?id=49926536) |
-| [Ask HN: Who is hiring? (October 2026)](https://news.ycombinator.com/item?id=49922569) | 164 | [170 comments](https://news.ycombinator.com/item?id=49922569) |
-| [Pi Durable](https://earendil.com/posts/pi-durable/) | 260 | [29 comments](https://news.ycombinator.com/item?id=49925969) |
-| [Using Opus 5.5 to discover a new eyewitness record of the dodo](https://resobscura.substack.com/p/using-opus-55-to-discover-a-new-eyewitness) | 89 | [16 comments](https://news.ycombinator.com/item?id=49926917) |
-| [StreetComplete on iOS is now in public beta](https://github.com/streetcomplete/StreetComplete/issues/5421) | 531 | [135 comments](https://news.ycombinator.com/item?id=49920160) |
-| [CSS Bed: Classless CSS themes to use as starting points in web development](https://www.cssbed.com) | 67 | [15 comments](https://news.ycombinator.com/item?id=49927212) |
-| [Git 3.0's upcoming SHA-256 default will be a costly mistake](https://blog.gitbutler.com/git-3-sha-256) | 246 | [251 comments](https://news.ycombinator.com/item?id=49924179) |
+| [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) | 130 | [56 comments](https://news.ycombinator.com/item?id=49933869) |
+| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | 533 | [233 comments](https://news.ycombinator.com/item?id=49927754) |
+| [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | 30 | [0 comments](https://news.ycombinator.com/item?id=49940394) |
+| [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | 320 | [86 comments](https://news.ycombinator.com/item?id=49925184) |
+| [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) | 212 | [50 comments](https://news.ycombinator.com/item?id=49932147) |
+| [Apple Pass Designer](https://developer.apple.com/pass-designer/) | 337 | [223 comments](https://news.ycombinator.com/item?id=49937276) |
+| [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) | 94 | [37 comments](https://news.ycombinator.com/item?id=49940219) |
+| [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) | 189 | [91 comments](https://news.ycombinator.com/item?id=49933740) |
+| [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) | 17 | [9 comments](https://news.ycombinator.com/item?id=49940467) |
+| [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) | 188 | [49 comments](https://news.ycombinator.com/item?id=49926411) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 14.0°C (57.0°F) |
-| Average Humidity | 86% |
+| Average Temperature | 18.0°C (64.0°F) |
+| Average Humidity | 84% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-02 03:18:12 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-03 03:04:14 UTC*
