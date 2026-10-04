@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-04 03:32 UTC",
-  "github_trending": [
+  "collected_at": "2026-10-04T03:32:41.910301",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "KKKKhazix/AIHOT",
       "stars": 5465,
@@ -80,88 +81,6 @@
       "description": "Open source SDK to build Muse gadgets",
       "url": "https://github.com/facebookincubator/muse-gadget-sdk",
       "created_at": "2026-10-02T18:21:23Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "We're going to need default hard budget caps on pretty much everything",
-      "url": "https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/",
-      "score": 253,
-      "comments": 136,
-      "by": "elffjs",
-      "hn_url": "https://news.ycombinator.com/item?id=49949235"
-    },
-    {
-      "title": "Bob Cringely Has Died",
-      "url": "https://news.ycombinator.com/item?id=49949438",
-      "score": 189,
-      "comments": 29,
-      "by": "paveworld",
-      "hn_url": "https://news.ycombinator.com/item?id=49949438"
-    },
-    {
-      "title": "Treachery in the Rodin Museum 3D scan verdict",
-      "url": "https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict",
-      "score": 107,
-      "comments": 55,
-      "by": "CosmoWenman",
-      "hn_url": "https://news.ycombinator.com/item?id=49946355"
-    },
-    {
-      "title": "Hole Punch: Sling your spaceship around gravitational fields",
-      "url": "https://notoriousbfg.com/hole-punch/",
-      "score": 249,
-      "comments": 62,
-      "by": "trwhite",
-      "hn_url": "https://news.ycombinator.com/item?id=49946393"
-    },
-    {
-      "title": "The work by Valve's Timur Krist\u00f3f on improving old AMD GPUs on Linux",
-      "url": "https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU",
-      "score": 171,
-      "comments": 21,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=49946895"
-    },
-    {
-      "title": "Inside Anthropic's Quest to Instill Morality into Its A.I. Models",
-      "url": "https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html",
-      "score": 6,
-      "comments": 2,
-      "by": "bookofjoe",
-      "hn_url": "https://news.ycombinator.com/item?id=49950052"
-    },
-    {
-      "title": "Reasons I didn't become an EMT, ranked",
-      "url": "https://ben.stolovitz.com/posts/reasons-not-emt-ranked/",
-      "score": 114,
-      "comments": 56,
-      "by": "citelao",
-      "hn_url": "https://news.ycombinator.com/item?id=49947631"
-    },
-    {
-      "title": "Celebrating the 100th birthday of the kidney donated to him as a teenager",
-      "url": "https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/",
-      "score": 157,
-      "comments": 41,
-      "by": "gscott",
-      "hn_url": "https://news.ycombinator.com/item?id=49923873"
-    },
-    {
-      "title": "So You Think You Could Be an Electrician?",
-      "url": "https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician",
-      "score": 38,
-      "comments": 17,
-      "by": "zdw",
-      "hn_url": "https://news.ycombinator.com/item?id=49910462"
-    },
-    {
-      "title": "Kolibri: A Sovereign Open-Weight Model",
-      "url": "https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/",
-      "score": 537,
-      "comments": 307,
-      "by": "bastitx",
-      "hn_url": "https://news.ycombinator.com/item?id=49942706"
     }
   ]
 }

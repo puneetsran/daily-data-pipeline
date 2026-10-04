@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-03 03:04:14 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-04 03:32:44 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 4,989 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| [Louis-CFM/coucou](https://github.com/Louis-CFM/coucou) | 3,004 | Swift | A tiny friend that lives in your notch (macOS) or at the top of your screen (Win... |
-| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,509 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
-| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 2,173 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
-| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 1,536 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
+| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 5,465 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 2,666 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
+| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 2,602 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
+| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,575 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
+| [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 1,363 | HTML | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-10-03 03:04:14 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-04 03:32:44 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [The Forgetful CPU (Linux on M4)](https://yuka.dev/blog-2026-10-02-linux-m4.html) | 130 | [56 comments](https://news.ycombinator.com/item?id=49933869) |
-| [Court agrees with EFF: Utah's VPN law demands a technical impossibility](https://www.eff.org/deeplinks/2026/10/court-agrees-eff-utahs-vpn-law-demands-technical-impossibility) | 533 | [233 comments](https://news.ycombinator.com/item?id=49927754) |
-| [Newgrounds.com – A community of games, music, and art](https://www.newgrounds.com/) | 30 | [0 comments](https://news.ycombinator.com/item?id=49940394) |
-| [Mike Tomlin spent 12 years building a Minecraft city](https://www.nytimes.com/athletic/7648198/2026/10/01/mike-tomlin-minecraft-nfl-coach/) | 320 | [86 comments](https://news.ycombinator.com/item?id=49925184) |
-| [A 12-year sequence of telescope images of a star and four planets orbiting](https://bsky.app/profile/theplanetaryguy.com/post/3mwucf5ert22f) | 212 | [50 comments](https://news.ycombinator.com/item?id=49932147) |
-| [Apple Pass Designer](https://developer.apple.com/pass-designer/) | 337 | [223 comments](https://news.ycombinator.com/item?id=49937276) |
-| [Things that apparently cause cancer](https://www.breakthroughjournal.org/p/things-that-apparently-cause-cancer) | 94 | [37 comments](https://news.ycombinator.com/item?id=49940219) |
-| [With most information hidden, the game Stratego had stumped AI until now](https://arstechnica.com/science/2026/10/ai-finally-beat-the-best-stratego-player-in-history-and-did-it-on-a-budget/) | 189 | [91 comments](https://news.ycombinator.com/item?id=49933740) |
-| [NTSB Preliminary Report: Prime Air 767 Runway Overrun [pdf]](https://www.ntsb.gov/investigations/Documents/DCA26MA352%20Prelim.pdf) | 17 | [9 comments](https://news.ycombinator.com/item?id=49940467) |
-| [Loss of cell identity drives human aging: Two new papers](https://erictopol.substack.com/p/loss-of-cell-identity-drives-human) | 188 | [49 comments](https://news.ycombinator.com/item?id=49926411) |
+| [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) | 253 | [136 comments](https://news.ycombinator.com/item?id=49949235) |
+| [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) | 189 | [29 comments](https://news.ycombinator.com/item?id=49949438) |
+| [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) | 107 | [55 comments](https://news.ycombinator.com/item?id=49946355) |
+| [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) | 249 | [62 comments](https://news.ycombinator.com/item?id=49946393) |
+| [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | 171 | [21 comments](https://news.ycombinator.com/item?id=49946895) |
+| [Inside Anthropic's Quest to Instill Morality into Its A.I. Models](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) | 6 | [2 comments](https://news.ycombinator.com/item?id=49950052) |
+| [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/) | 114 | [56 comments](https://news.ycombinator.com/item?id=49947631) |
+| [Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/) | 157 | [41 comments](https://news.ycombinator.com/item?id=49923873) |
+| [So You Think You Could Be an Electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | 38 | [17 comments](https://news.ycombinator.com/item?id=49910462) |
+| [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) | 537 | [307 comments](https://news.ycombinator.com/item?id=49942706) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 18.0°C (64.0°F) |
-| Average Humidity | 84% |
+| Average Temperature | 15.0°C (60.0°F) |
+| Average Humidity | 82% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-03 03:04:14 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-04 03:32:44 UTC*
