@@ -1,6 +1,7 @@
 {
-  "updated_at": "2026-10-05 03:13 UTC",
-  "github_trending": [
+  "collected_at": "2026-10-05T03:13:18.686776",
+  "source": "GitHub API",
+  "data": [
     {
       "name": "rehan-remade/universal-modder",
       "stars": 3252,
@@ -80,88 +81,6 @@
       "description": "No description",
       "url": "https://github.com/storytold/photocraft",
       "created_at": "2026-09-30T13:37:48Z"
-    }
-  ],
-  "hn_stories": [
-    {
-      "title": "Powerless F1 drivers frustrated by Bahrain F1 software glitch",
-      "url": "https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/",
-      "score": 75,
-      "comments": 30,
-      "by": "llm_nerd",
-      "hn_url": "https://news.ycombinator.com/item?id=49959869"
-    },
-    {
-      "title": "Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s",
-      "url": "https://github.com/Niko1221/Strata",
-      "score": 639,
-      "comments": 300,
-      "by": "snehesht",
-      "hn_url": "https://news.ycombinator.com/item?id=49953495"
-    },
-    {
-      "title": "In the wake of closure, a digital archive of animated materials appears online",
-      "url": "https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/",
-      "score": 48,
-      "comments": 4,
-      "by": "rdmuser",
-      "hn_url": "https://news.ycombinator.com/item?id=49957812"
-    },
-    {
-      "title": "Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague",
-      "url": "https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857",
-      "score": 31,
-      "comments": 5,
-      "by": "ericmay",
-      "hn_url": "https://news.ycombinator.com/item?id=49960084"
-    },
-    {
-      "title": "A tribute to one of the best games on the Atari 2600",
-      "url": "https://plicerin.github.io/riverraid-rom-port/",
-      "score": 8,
-      "comments": 2,
-      "by": "plicerin",
-      "hn_url": "https://news.ycombinator.com/item?id=49959865"
-    },
-    {
-      "title": "Infidel goes wild",
-      "url": "https://blog.zarfhome.com/2026/10/infidel-goes-wild",
-      "score": 86,
-      "comments": 13,
-      "by": "tobr",
-      "hn_url": "https://news.ycombinator.com/item?id=49943637"
-    },
-    {
-      "title": "The Tao of Backup",
-      "url": "http://www.taobackup.com/index.html",
-      "score": 40,
-      "comments": 9,
-      "by": "vntok",
-      "hn_url": "https://news.ycombinator.com/item?id=49932236"
-    },
-    {
-      "title": "A browser-native classic Visual Basic VB6 IDE",
-      "url": "https://wieslawsoltes.github.io/VB6/",
-      "score": 104,
-      "comments": 44,
-      "by": "wiso",
-      "hn_url": "https://news.ycombinator.com/item?id=49956681"
-    },
-    {
-      "title": "Quantitative Finance with OCaml",
-      "url": "https://qcaml.com/index.html",
-      "score": 18,
-      "comments": 1,
-      "by": "leonry",
-      "hn_url": "https://news.ycombinator.com/item?id=49930690"
-    },
-    {
-      "title": "Turn off Apple Intelligence on macOS 27 and get its disk space back",
-      "url": "https://github.com/omlahore/RemoveMacAI",
-      "score": 407,
-      "comments": 268,
-      "by": "privacyisntdead",
-      "hn_url": "https://news.ycombinator.com/item?id=49957116"
     }
   ]
 }

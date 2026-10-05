@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-04 03:32:44 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-05 03:13:20 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [KKKKhazix/AIHOT](https://github.com/KKKKhazix/AIHOT) | 5,465 | TypeScript | 一个自己找热点、自己写日报的网站框架。把信源和精选标准换成你的，它就是你的行业热点站。 |
-| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 2,666 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
-| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 2,602 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
-| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,575 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
-| [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 1,363 | HTML | No description |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 3,252 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
+| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 3,238 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
+| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,604 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
+| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,412 | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese... |
+| [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 1,394 | HTML | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-10-04 03:32:44 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-05 03:13:20 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [We're going to need default hard budget caps on pretty much everything](https://simonwillison.net/2026/Oct/3/default-hard-budget-caps/) | 253 | [136 comments](https://news.ycombinator.com/item?id=49949235) |
-| [Bob Cringely Has Died](https://news.ycombinator.com/item?id=49949438) | 189 | [29 comments](https://news.ycombinator.com/item?id=49949438) |
-| [Treachery in the Rodin Museum 3D scan verdict](https://cosmowenman.substack.com/p/rodin-museum-3d-scan-verdict) | 107 | [55 comments](https://news.ycombinator.com/item?id=49946355) |
-| [Hole Punch: Sling your spaceship around gravitational fields](https://notoriousbfg.com/hole-punch/) | 249 | [62 comments](https://news.ycombinator.com/item?id=49946393) |
-| [The work by Valve's Timur Kristóf on improving old AMD GPUs on Linux](https://www.phoronix.com/news/XDC-2026-Valve-Timur-AMDGPU) | 171 | [21 comments](https://news.ycombinator.com/item?id=49946895) |
-| [Inside Anthropic's Quest to Instill Morality into Its A.I. Models](https://www.nytimes.com/2026/09/29/us/anthropic-claude-morals-ai.html) | 6 | [2 comments](https://news.ycombinator.com/item?id=49950052) |
-| [Reasons I didn't become an EMT, ranked](https://ben.stolovitz.com/posts/reasons-not-emt-ranked/) | 114 | [56 comments](https://news.ycombinator.com/item?id=49947631) |
-| [Celebrating the 100th birthday of the kidney donated to him as a teenager](https://www.whec.com/top-news/webster-man-celebrating-the-100th-birthday-of-the-kidney-his-mom-donated-to-him-as-a-teenager/) | 157 | [41 comments](https://news.ycombinator.com/item?id=49923873) |
-| [So You Think You Could Be an Electrician?](https://asteriskmag.com/issues/15/so-you-think-you-could-be-an-electrician) | 38 | [17 comments](https://news.ycombinator.com/item?id=49910462) |
-| [Kolibri: A Sovereign Open-Weight Model](https://aleph-alpha.com/en/blog/kolibri-has-landed-a-sovereign-open-weight-model/) | 537 | [307 comments](https://news.ycombinator.com/item?id=49942706) |
+| [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) | 75 | [30 comments](https://news.ycombinator.com/item?id=49959869) |
+| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | 639 | [300 comments](https://news.ycombinator.com/item?id=49953495) |
+| [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) | 48 | [4 comments](https://news.ycombinator.com/item?id=49957812) |
+| [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) | 31 | [5 comments](https://news.ycombinator.com/item?id=49960084) |
+| [A tribute to one of the best games on the Atari 2600](https://plicerin.github.io/riverraid-rom-port/) | 8 | [2 comments](https://news.ycombinator.com/item?id=49959865) |
+| [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) | 86 | [13 comments](https://news.ycombinator.com/item?id=49943637) |
+| [The Tao of Backup](http://www.taobackup.com/index.html) | 40 | [9 comments](https://news.ycombinator.com/item?id=49932236) |
+| [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/) | 104 | [44 comments](https://news.ycombinator.com/item?id=49956681) |
+| [Quantitative Finance with OCaml](https://qcaml.com/index.html) | 18 | [1 comments](https://news.ycombinator.com/item?id=49930690) |
+| [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) | 407 | [268 comments](https://news.ycombinator.com/item?id=49957116) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 15.0°C (60.0°F) |
-| Average Humidity | 82% |
+| Average Temperature | 14.0°C (58.0°F) |
+| Average Humidity | 84% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-04 03:32:44 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-05 03:13:20 UTC*
