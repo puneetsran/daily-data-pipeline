@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-05 03:13:20 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-06 04:01:09 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 3,252 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
-| [CopilotKit/OpenDots](https://github.com/CopilotKit/OpenDots) | 3,238 | TypeScript | Your always-on AI coworkers that move between text, calls, and Slack. |
-| [feder-cr/dots](https://github.com/feder-cr/dots) | 2,604 | Python | Open-source dots for the web: an AI agent with its own browser, one that does no... |
-| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,412 | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese... |
-| [wy51ai/floorplan-3d](https://github.com/wy51ai/floorplan-3d) | 1,394 | HTML | No description |
+| [rehan-remade/universal-modder](https://github.com/rehan-remade/universal-modder) | 3,894 | Python | Point Claude at any game. Skills, tools and the fal MCP that let Claude Code mod... |
+| [storytold/photocraft](https://github.com/storytold/photocraft) | 2,210 | Rust | An open-source, clean-room reimplementation of Adobe Photoshop in pure Rust |
+| [nanaism/yomiyasu](https://github.com/nanaism/yomiyasu) | 1,532 | Python | AI生成の日本語を自然な日本語へ推敲するAgent Skill / Agent Skill for Refining AI-Generated Japanese... |
+| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 1,512 | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-page... |
+| [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,479 | TypeScript | No description |
 
-### Hacker News Top Stories (Last Updated: 2026-10-05 03:13:20 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-06 04:01:09 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Powerless F1 drivers frustrated by Bahrain F1 software glitch](https://www.motorsport.com/f1/news/horrible-totally-unacceptable-powerless-f1-drivers-frustrated-by-bahrain-f1-software-glitch/10861968/) | 75 | [30 comments](https://news.ycombinator.com/item?id=49959869) |
-| [Run Qwen 3.8 Flash Next (125B) on consumer hardware (RTX 4090) at 100T/s](https://github.com/Niko1221/Strata) | 639 | [300 comments](https://news.ycombinator.com/item?id=49953495) |
-| [In the wake of closure, a digital archive of animated materials appears online](https://filmstories.co.uk/news/tippett-studios-in-the-wake-of-its-closure-a-digital-archive-of-animated-materials-appears-online/) | 48 | [4 comments](https://news.ycombinator.com/item?id=49957812) |
-| [Nearly 200 People Under Observation After Irkutsk Lab Worker Dies from Plague](https://www.themoscowtimes.com/2026/10/02/nearly-200-people-under-observation-after-irkutsk-lab-worker-dies-from-plague-a93857) | 31 | [5 comments](https://news.ycombinator.com/item?id=49960084) |
-| [A tribute to one of the best games on the Atari 2600](https://plicerin.github.io/riverraid-rom-port/) | 8 | [2 comments](https://news.ycombinator.com/item?id=49959865) |
-| [Infidel goes wild](https://blog.zarfhome.com/2026/10/infidel-goes-wild) | 86 | [13 comments](https://news.ycombinator.com/item?id=49943637) |
-| [The Tao of Backup](http://www.taobackup.com/index.html) | 40 | [9 comments](https://news.ycombinator.com/item?id=49932236) |
-| [A browser-native classic Visual Basic VB6 IDE](https://wieslawsoltes.github.io/VB6/) | 104 | [44 comments](https://news.ycombinator.com/item?id=49956681) |
-| [Quantitative Finance with OCaml](https://qcaml.com/index.html) | 18 | [1 comments](https://news.ycombinator.com/item?id=49930690) |
-| [Turn off Apple Intelligence on macOS 27 and get its disk space back](https://github.com/omlahore/RemoveMacAI) | 407 | [268 comments](https://news.ycombinator.com/item?id=49957116) |
+| [Beam: Reflection's 501B open-weight model](https://reflection.ai/blog/introducing-beam) | 361 | [107 comments](https://news.ycombinator.com/item?id=49969183) |
+| [Find the flattest route between any two points in SF](https://flattensf.com/) | 138 | [45 comments](https://news.ycombinator.com/item?id=49971230) |
+| [Example.com just launched the biggest redesign in decades](https://www.debugbear.com/blog/example-dot-com-redesign-history) | 119 | [72 comments](https://news.ycombinator.com/item?id=49971921) |
+| [Dust: Pretraining Transformers Without Backpropagation](https://qlabs.sh/research/dust) | 128 | [23 comments](https://news.ycombinator.com/item?id=49970871) |
+| [AI tutoring with Khanmigo in a two-year school experiment](https://edworkingpapers.com/ai26-1551) | 48 | [35 comments](https://news.ycombinator.com/item?id=49972419) |
+| [An algorithmic failure beneath the secret ballot](https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/) | 45 | [14 comments](https://news.ycombinator.com/item?id=49945588) |
+| [Friendship ended with Deno, now Node is my best friend](https://dbushell.com/2026/10/03/deno-to-node/) | 92 | [35 comments](https://news.ycombinator.com/item?id=49971719) |
+| [Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates](https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors) | 249 | [177 comments](https://news.ycombinator.com/item?id=49970667) |
+| [Photopea creator weighs in on Photosuite project](https://github.com/eolix/photosuite/issues/77) | 49 | [23 comments](https://news.ycombinator.com/item?id=49972730) |
+| [ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons](https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/) | 334 | [234 comments](https://news.ycombinator.com/item?id=49971846) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 14.0°C (58.0°F) |
-| Average Humidity | 84% |
+| Average Temperature | 13.0°C (55.0°F) |
+| Average Humidity | 87% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-05 03:13:20 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-06 04:01:09 UTC*

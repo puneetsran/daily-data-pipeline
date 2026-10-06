@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-06T04:01:08.289301",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Beam: Reflection's 501B open-weight model",
+      "url": "https://reflection.ai/blog/introducing-beam",
+      "score": 361,
+      "comments": 107,
+      "by": "Philpax",
+      "hn_url": "https://news.ycombinator.com/item?id=49969183"
+    },
+    {
+      "title": "Find the flattest route between any two points in SF",
+      "url": "https://flattensf.com/",
+      "score": 138,
+      "comments": 45,
+      "by": "ishan0102",
+      "hn_url": "https://news.ycombinator.com/item?id=49971230"
+    },
+    {
+      "title": "Example.com just launched the biggest redesign in decades",
+      "url": "https://www.debugbear.com/blog/example-dot-com-redesign-history",
+      "score": 119,
+      "comments": 72,
+      "by": "jgx0",
+      "hn_url": "https://news.ycombinator.com/item?id=49971921"
+    },
+    {
+      "title": "Dust: Pretraining Transformers Without Backpropagation",
+      "url": "https://qlabs.sh/research/dust",
+      "score": 128,
+      "comments": 23,
+      "by": "E-Reverance",
+      "hn_url": "https://news.ycombinator.com/item?id=49970871"
+    },
+    {
+      "title": "AI tutoring with Khanmigo in a two-year school experiment",
+      "url": "https://edworkingpapers.com/ai26-1551",
+      "score": 48,
+      "comments": 35,
+      "by": "bryan0",
+      "hn_url": "https://news.ycombinator.com/item?id=49972419"
+    },
+    {
+      "title": "An algorithmic failure beneath the secret ballot",
+      "url": "https://blog.citp.princeton.edu/2026/08/03/an-algorithmic-failure-beneath-the-secret-ballot/",
+      "score": 45,
+      "comments": 14,
+      "by": "leecoursey",
+      "hn_url": "https://news.ycombinator.com/item?id=49945588"
+    },
+    {
+      "title": "Friendship ended with Deno, now Node is my best friend",
+      "url": "https://dbushell.com/2026/10/03/deno-to-node/",
+      "score": 92,
+      "comments": 35,
+      "by": "ibobev",
+      "hn_url": "https://news.ycombinator.com/item?id=49971719"
+    },
+    {
+      "title": "Opus 5.5 agents discover two room-temperature magnetic semiconductor candidates",
+      "url": "https://www.vals.ai/blogs/room-temperature-magnetic-semiconductors",
+      "score": 249,
+      "comments": 177,
+      "by": "outlier99",
+      "hn_url": "https://news.ycombinator.com/item?id=49970667"
+    },
+    {
+      "title": "Photopea creator weighs in on Photosuite project",
+      "url": "https://github.com/eolix/photosuite/issues/77",
+      "score": 49,
+      "comments": 23,
+      "by": "montag",
+      "hn_url": "https://news.ycombinator.com/item?id=49972730"
+    },
+    {
+      "title": "ChatGPT is adding real cartoonists' signatures to fake New Yorker cartoons",
+      "url": "https://www.niemanlab.org/2026/10/chatgpt-is-adding-real-cartoonists-signatures-to-fake-new-yorker-cartoons/",
+      "score": 334,
+      "comments": 234,
+      "by": "rdmuser",
+      "hn_url": "https://news.ycombinator.com/item?id=49971846"
+    }
+  ]
+}
