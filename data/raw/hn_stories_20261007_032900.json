@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-07T03:29:00.586416",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Sharing AI progress in mathematics",
+      "url": "https://openai.com/index/sharing-ai-progress-in-mathematics/",
+      "score": 530,
+      "comments": 451,
+      "by": "OfficialTurkey",
+      "hn_url": "https://news.ycombinator.com/item?id=49984923"
+    },
+    {
+      "title": "Strands Decider 2B: a small, open-source, decision model",
+      "url": "https://strandsagents.com/blog/introducing-strands-decider/",
+      "score": 48,
+      "comments": 5,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=49987076"
+    },
+    {
+      "title": "Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4/\\",
+      "score": 1623,
+      "comments": 974,
+      "by": "Philpax",
+      "hn_url": "https://news.ycombinator.com/item?id=49977979"
+    },
+    {
+      "title": "Decisions API is in public beta",
+      "url": "https://developers.openai.com/api/docs/guides/decisions",
+      "score": 180,
+      "comments": 75,
+      "by": "chiefstorm",
+      "hn_url": "https://news.ycombinator.com/item?id=49984025"
+    },
+    {
+      "title": "La Cueva BBS in Mexico in 1993 (session replay)",
+      "url": "https://nanochess.org/la_cueva_bbs.html",
+      "score": 4,
+      "comments": 0,
+      "by": "nanochess",
+      "hn_url": "https://news.ycombinator.com/item?id=49987675"
+    },
+    {
+      "title": "The cost of lies: A Mineserver story",
+      "url": "https://www.jeremyreimer.com/rockets-item.lsp?f=true&p=272",
+      "score": 25,
+      "comments": 8,
+      "by": "luu",
+      "hn_url": "https://news.ycombinator.com/item?id=49950865"
+    },
+    {
+      "title": "Penguin Mail \u2013 open-source Rust email client for Linux with AI",
+      "url": "https://penguin-mail.com/",
+      "score": 94,
+      "comments": 39,
+      "by": "kavourias",
+      "hn_url": "https://news.ycombinator.com/item?id=49984716"
+    },
+    {
+      "title": "EmbeddingGemma 2: An open, lightweight multimodal embedding model",
+      "url": "https://blog.google/innovation-and-ai/technology/developers-tools/embeddinggemma-2/",
+      "score": 246,
+      "comments": 31,
+      "by": "ilreb",
+      "hn_url": "https://news.ycombinator.com/item?id=49980487"
+    },
+    {
+      "title": "Claude Code\u2019s suggested message feature: I think the real customer is the model",
+      "url": "https://www.zohaib.cc/blog/smartest-claude-code-feature",
+      "score": 126,
+      "comments": 63,
+      "by": "zed_labs_dev",
+      "hn_url": "https://news.ycombinator.com/item?id=49981905"
+    },
+    {
+      "title": "AnyPS5: Port PS5 binaries to PC without emulation (87% system libraries mapped)",
+      "url": "https://github.com/boykopovar/AnyPS5",
+      "score": 133,
+      "comments": 103,
+      "by": "Fe2O3",
+      "hn_url": "https://news.ycombinator.com/item?id=49985664"
+    }
+  ]
+}
