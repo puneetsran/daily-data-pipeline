@@ -1,0 +1,15 @@
+{
+  "collected_at": "2026-10-09T03:49:13.696021",
+  "source": "wttr.in",
+  "data": [
+    {
+      "city": "Vancouver",
+      "temperature_c": "14",
+      "temperature_f": "57",
+      "condition": "Smoky haze",
+      "humidity": "88",
+      "wind_speed_kmph": "13",
+      "collected_at": "2026-10-09T03:49:13.695897"
+    }
+  ]
+}

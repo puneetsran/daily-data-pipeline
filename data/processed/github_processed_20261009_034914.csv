@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+openai/math,12287,Lean,No description,https://github.com/openai/math,2026-10-06T21:47:02Z
+alchaincyf/huashu-art-motion,2539,JavaScript,艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。,https://github.com/alchaincyf/huashu-art-motion,2026-10-06T04:49:37Z
+kargulstudio/sales-crm,1659,TypeScript,No description,https://github.com/kargulstudio/sales-crm,2026-10-04T10:55:58Z
+nullmoth/nvidia-macos-driver,1236,Rust,"Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",https://github.com/nullmoth/nvidia-macos-driver,2026-10-07T08:13:12Z
+Jakeschincariol/replica-skill,1124,Python,"Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, test it for bugs, the",https://github.com/Jakeschincariol/replica-skill,2026-10-03T12:07:49Z
+alejandrobujan/tendedero,1052,Swift,"Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the t",https://github.com/alejandrobujan/tendedero,2026-10-07T01:29:54Z
+LoreanXavier/pt-pc,1027,C++,Native PC port of P.T. (runs from your own PS4 game files),https://github.com/LoreanXavier/pt-pc,2026-10-07T09:33:31Z
+mhtsec/ARTEX,1000,Go,AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目,https://github.com/mhtsec/ARTEX,2026-10-08T05:33:06Z
+storytold/wordcraft,888,Rust,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",https://github.com/storytold/wordcraft,2026-10-07T08:34:24Z
+storytold/cadcraft,838,Rust,"CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure ",https://github.com/storytold/cadcraft,2026-10-07T05:22:31Z

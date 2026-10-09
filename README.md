@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-08 03:43:46 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-09 03:49:14 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [openai/math](https://github.com/openai/math) | 10,045 | Lean | No description |
-| [QingYunA/answer-me-with-html](https://github.com/QingYunA/answer-me-with-html) | 2,120 | JavaScript | Answer me with HTML — an agent skill that answers hard questions with a one-page... |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 1,814 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [facebookincubator/muse-gadget-sdk](https://github.com/facebookincubator/muse-gadget-sdk) | 1,676 | C | Open source SDK to build Muse gadgets |
-| [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,637 | TypeScript | No description |
+| [openai/math](https://github.com/openai/math) | 12,287 | Lean | No description |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 2,539 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,659 | TypeScript | No description |
+| [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | 1,236 | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore)... |
+| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 1,124 | Python | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, t... |
 
-### Hacker News Top Stories (Last Updated: 2026-10-08 03:43:46 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-09 03:49:14 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Claude Haiku 5.5](https://www.anthropic.com/claude-haiku-5-5) | 733 | [371 comments](https://news.ycombinator.com/item?id=49996437) |
-| [Margaret Hamilton has died](https://news.mit.edu/2026/margaret-hamilton-computing-pioneer-dies-1007) | 951 | [109 comments](https://news.ycombinator.com/item?id=49998895) |
-| [Cleo (Mathematician)](https://en.wikipedia.org/wiki/Cleo_(mathematician)) | 66 | [7 comments](https://news.ycombinator.com/item?id=49982445) |
-| [How did Rosalind Franklin miss the helix in her iconic DNA image? She didn't](https://www.science.org/content/article/how-did-rosalind-franklin-miss-helix-her-iconic-dna-image-she-didn-t) | 96 | [44 comments](https://news.ycombinator.com/item?id=49969073) |
-| [Living off-grid: Hundred Rabbits](https://100r.ca/site/home.html) | 33 | [6 comments](https://news.ycombinator.com/item?id=49970767) |
-| ['Jonathan' is the oldest land animal on Earth](https://www.404media.co/oldest-living-land-animal-jonathan-the-tortoise/) | 84 | [33 comments](https://news.ycombinator.com/item?id=49998066) |
-| [Show HN: Bigwords.page – Turn any screen into a sign. The URL is the app](https://bigwords.page/) | 401 | [116 comments](https://news.ycombinator.com/item?id=49994443) |
-| [GPT‑6 and Intelligent UI for everyone](https://openai.com/index/gpt-6-for-everyone/) | 539 | [280 comments](https://news.ycombinator.com/item?id=49996425) |
-| [Shipping JPEG XL in Chrome](https://developer.chrome.com/blog/jpeg-xl-in-chrome) | 507 | [344 comments](https://news.ycombinator.com/item?id=49991227) |
-| [Docker Agent](https://github.com/docker/docker-agent) | 196 | [87 comments](https://news.ycombinator.com/item?id=49996259) |
+| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | 603 | [134 comments](https://news.ycombinator.com/item?id=50008427) |
+| [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) | 33 | [11 comments](https://news.ycombinator.com/item?id=50015074) |
+| [Theranos.world](https://www.theranos.world/) | 331 | [124 comments](https://news.ycombinator.com/item?id=50009295) |
+| [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | 486 | [308 comments](https://news.ycombinator.com/item?id=49995495) |
+| [Bevy 0.20](https://bevy.org/news/bevy-0-20/) | 77 | [13 comments](https://news.ycombinator.com/item?id=50013610) |
+| [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) | 455 | [78 comments](https://news.ycombinator.com/item?id=49986882) |
+| [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) | 487 | [409 comments](https://news.ycombinator.com/item?id=50000488) |
+| [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/) | 13 | [6 comments](https://news.ycombinator.com/item?id=50015515) |
+| [Yes, and](https://htmx.org/essays/yes-and/) | 241 | [79 comments](https://news.ycombinator.com/item?id=50003796) |
+| [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) | 136 | [42 comments](https://news.ycombinator.com/item?id=50010470) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 14.0°C (57.0°F) |
-| Average Humidity | 81% |
+| Average Humidity | 88% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-08 03:43:46 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-09 03:49:14 UTC*
