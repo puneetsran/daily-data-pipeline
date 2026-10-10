@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+openai/math,13169,Lean,No description,https://github.com/openai/math,2026-10-06T21:47:02Z
+alchaincyf/huashu-art-motion,2937,JavaScript,艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。,https://github.com/alchaincyf/huashu-art-motion,2026-10-06T04:49:37Z
+mhtsec/ARTEX,2344,Go,AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目,https://github.com/mhtsec/ARTEX,2026-10-08T05:33:06Z
+storytold/wordcraft,1995,Rust,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",https://github.com/storytold/wordcraft,2026-10-07T08:34:24Z
+zhongerxin/iPhone-use,1956,Python,让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。,https://github.com/zhongerxin/iPhone-use,2026-10-06T15:09:33Z
+nullmoth/nvidia-macos-driver,1949,Rust,"Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",https://github.com/nullmoth/nvidia-macos-driver,2026-10-07T08:13:12Z
+kargulstudio/sales-crm,1677,TypeScript,No description,https://github.com/kargulstudio/sales-crm,2026-10-04T10:55:58Z
+LosaLosSantos/aurelio-finance,1556,Python,"Open-source personal finance app with an AI financial advisor: track your net worth, investments, ET",https://github.com/LosaLosSantos/aurelio-finance,2026-10-06T20:14:19Z
+storytold/cadcraft,1415,Rust,"CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure ",https://github.com/storytold/cadcraft,2026-10-07T05:22:31Z
+storytold/gridcraft,1249,Rust,"GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",https://github.com/storytold/gridcraft,2026-10-07T05:18:16Z

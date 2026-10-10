@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-09 03:49:14 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-10 03:32:25 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [openai/math](https://github.com/openai/math) | 12,287 | Lean | No description |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 2,539 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [kargulstudio/sales-crm](https://github.com/kargulstudio/sales-crm) | 1,659 | TypeScript | No description |
-| [nullmoth/nvidia-macos-driver](https://github.com/nullmoth/nvidia-macos-driver) | 1,236 | Rust | Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore)... |
-| [Jakeschincariol/replica-skill](https://github.com/Jakeschincariol/replica-skill) | 1,124 | Python | Eleven free Claude skills that clone any app: reverse-engineer it, rebuild it, t... |
+| [openai/math](https://github.com/openai/math) | 13,169 | Lean | No description |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 2,937 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 2,344 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 1,995 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 1,956 | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
 
-### Hacker News Top Stories (Last Updated: 2026-10-09 03:49:14 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-10 03:32:25 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Whistle: Speech to Text in 16.9 MB](https://cactuscompute.com/blog/whistle) | 603 | [134 comments](https://news.ycombinator.com/item?id=50008427) |
-| [Reducing undefined behavior in the C language](https://lwn.net/Articles/1095811/) | 33 | [11 comments](https://news.ycombinator.com/item?id=50015074) |
-| [Theranos.world](https://www.theranos.world/) | 331 | [124 comments](https://news.ycombinator.com/item?id=50009295) |
-| [Man discovers his parents' coffee machine used 1TB of data in 10 days](https://www.dexerto.com/entertainment/man-discovers-his-parents-coffee-machine-used-1tb-of-data-in-10-days-3416399/) | 486 | [308 comments](https://news.ycombinator.com/item?id=49995495) |
-| [Bevy 0.20](https://bevy.org/news/bevy-0-20/) | 77 | [13 comments](https://news.ycombinator.com/item?id=50013610) |
-| [I hired an illustrator to draw my house. Now it's my Home Assistant dashboard](https://antonfrolov.substack.com/p/i-hired-an-illustrator-to-draw-my) | 455 | [78 comments](https://news.ycombinator.com/item?id=49986882) |
-| [Why isn't the industry freaking out about DeepSeek 4.1 Flash?](https://www.dgt.is/blog/2026-10-07-deepseek-freek-out/) | 487 | [409 comments](https://news.ycombinator.com/item?id=50000488) |
-| [Keyboard differences between Windows and Macs](https://unsung.aresluna.org/deeper-dive-keyboard-differences-between-windows-and-macs/) | 13 | [6 comments](https://news.ycombinator.com/item?id=50015515) |
-| [Yes, and](https://htmx.org/essays/yes-and/) | 241 | [79 comments](https://news.ycombinator.com/item?id=50003796) |
-| [The value of not getting to the point (2015)](https://ken.arneson.name/2015/11/the-value-of-not-getting-to-the-point/) | 136 | [42 comments](https://news.ycombinator.com/item?id=50010470) |
+| [REA Reverse – Engineer Anything](https://rea.tools/) | 154 | [36 comments](https://news.ycombinator.com/item?id=50028275) |
+| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | 1105 | [570 comments](https://news.ycombinator.com/item?id=50019911) |
+| [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | 732 | [142 comments](https://news.ycombinator.com/item?id=50022292) |
+| [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | 612 | [275 comments](https://news.ycombinator.com/item?id=50020014) |
+| [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) | 232 | [31 comments](https://news.ycombinator.com/item?id=50024499) |
+| [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/) | 28 | [8 comments](https://news.ycombinator.com/item?id=50021410) |
+| [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) | 34 | [2 comments](https://news.ycombinator.com/item?id=50027853) |
+| [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) | 296 | [225 comments](https://news.ycombinator.com/item?id=50023450) |
+| [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) | 117 | [56 comments](https://news.ycombinator.com/item?id=50019056) |
+| [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) | 469 | [260 comments](https://news.ycombinator.com/item?id=50026555) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 14.0°C (57.0°F) |
-| Average Humidity | 88% |
+| Average Temperature | 12.0°C (54.0°F) |
+| Average Humidity | 68% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-09 03:49:14 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-10 03:32:25 UTC*
