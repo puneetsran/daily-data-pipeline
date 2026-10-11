@@ -1,17 +1,25 @@
 {
-  "updated_at": "2026-10-10 03:32 UTC",
+  "updated_at": "2026-10-11 03:05 UTC",
   "github_trending": [
     {
       "name": "openai/math",
-      "stars": 13169,
+      "stars": 13714,
       "language": "Lean",
       "description": "No description",
       "url": "https://github.com/openai/math",
       "created_at": "2026-10-06T21:47:02Z"
     },
     {
+      "name": "storytold/wordcraft",
+      "stars": 3253,
+      "language": "Rust",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "url": "https://github.com/storytold/wordcraft",
+      "created_at": "2026-10-07T08:34:24Z"
+    },
+    {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 2937,
+      "stars": 3233,
       "language": "JavaScript",
       "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
@@ -19,23 +27,15 @@
     },
     {
       "name": "mhtsec/ARTEX",
-      "stars": 2344,
+      "stars": 2939,
       "language": "Go",
       "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
       "url": "https://github.com/mhtsec/ARTEX",
       "created_at": "2026-10-08T05:33:06Z"
     },
     {
-      "name": "storytold/wordcraft",
-      "stars": 1995,
-      "language": "Rust",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "url": "https://github.com/storytold/wordcraft",
-      "created_at": "2026-10-07T08:34:24Z"
-    },
-    {
       "name": "zhongerxin/iPhone-use",
-      "stars": 1956,
+      "stars": 2594,
       "language": "Python",
       "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
       "url": "https://github.com/zhongerxin/iPhone-use",
@@ -43,23 +43,15 @@
     },
     {
       "name": "nullmoth/nvidia-macos-driver",
-      "stars": 1949,
+      "stars": 2322,
       "language": "Rust",
       "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
       "created_at": "2026-10-07T08:13:12Z"
     },
     {
-      "name": "kargulstudio/sales-crm",
-      "stars": 1677,
-      "language": "TypeScript",
-      "description": "No description",
-      "url": "https://github.com/kargulstudio/sales-crm",
-      "created_at": "2026-10-04T10:55:58Z"
-    },
-    {
       "name": "LosaLosSantos/aurelio-finance",
-      "stars": 1556,
+      "stars": 2094,
       "language": "Python",
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ET",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
@@ -67,7 +59,7 @@
     },
     {
       "name": "storytold/cadcraft",
-      "stars": 1415,
+      "stars": 1908,
       "language": "Rust",
       "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
       "url": "https://github.com/storytold/cadcraft",
@@ -75,93 +67,101 @@
     },
     {
       "name": "storytold/gridcraft",
-      "stars": 1249,
+      "stars": 1884,
       "language": "Rust",
       "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
       "url": "https://github.com/storytold/gridcraft",
       "created_at": "2026-10-07T05:18:16Z"
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "stars": 1645,
+      "language": "Rust",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M f",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "created_at": "2026-10-08T17:50:33Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "REA Reverse \u2013 Engineer Anything",
-      "url": "https://rea.tools/",
-      "score": 154,
-      "comments": 36,
-      "by": "modinfo",
-      "hn_url": "https://news.ycombinator.com/item?id=50028275"
+      "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
+      "url": "https://wallhop.io/",
+      "score": 130,
+      "comments": 57,
+      "by": "TheWaffleHax",
+      "hn_url": "https://news.ycombinator.com/item?id=50038634"
     },
     {
-      "title": "Cloudflare acquires Deno",
-      "url": "https://deno.com/blog/cloudflare",
-      "score": 1105,
-      "comments": 570,
-      "by": "ilreb",
-      "hn_url": "https://news.ycombinator.com/item?id=50019911"
+      "title": "Build your own decision model",
+      "url": "https://nishtahir.com/build-your-own-decision-model/",
+      "score": 140,
+      "comments": 30,
+      "by": "softwaredoug",
+      "hn_url": "https://news.ycombinator.com/item?id=50037949"
     },
     {
-      "title": "Triple-A Minesweeper",
-      "url": "https://minesweeper.mikelacher.com/",
-      "score": 732,
-      "comments": 142,
-      "by": "robin_reala",
-      "hn_url": "https://news.ycombinator.com/item?id=50022292"
+      "title": "2D Vehicles",
+      "url": "https://patkerr.co.uk/2d-vehicles/",
+      "score": 375,
+      "comments": 85,
+      "by": "Michelangelo11",
+      "hn_url": "https://news.ycombinator.com/item?id=49991852"
     },
     {
-      "title": "Our $445M Series D",
-      "url": "https://oxide.computer/blog/our-445m-series-d",
-      "score": 612,
-      "comments": 275,
-      "by": "ahlCVA",
-      "hn_url": "https://news.ycombinator.com/item?id=50020014"
+      "title": "A city-building game in which the city would prefer you didn't",
+      "url": "https://housing.over.pizza/",
+      "score": 201,
+      "comments": 77,
+      "by": "JumpCrisscross",
+      "hn_url": "https://news.ycombinator.com/item?id=50036864"
     },
     {
-      "title": "Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded",
-      "url": "https://carrierexplode.com/",
-      "score": 232,
-      "comments": 31,
-      "by": "simplyalec",
-      "hn_url": "https://news.ycombinator.com/item?id=50024499"
+      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
+      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
+      "score": 29,
+      "comments": 18,
+      "by": "davikr",
+      "hn_url": "https://news.ycombinator.com/item?id=50039092"
     },
     {
-      "title": "Can you use autoregressive diffusion to generate market data?",
-      "url": "https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/",
-      "score": 28,
-      "comments": 8,
-      "by": "jsomers",
-      "hn_url": "https://news.ycombinator.com/item?id=50021410"
+      "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
+      "url": "https://github.com/othermod/PSPi-Version-6",
+      "score": 19,
+      "comments": 4,
+      "by": "therepanic",
+      "hn_url": "https://news.ycombinator.com/item?id=50038623"
     },
     {
-      "title": "Compiling Rust to readable C with Eurydice",
-      "url": "https://lwn.net/Articles/1055211/",
-      "score": 34,
-      "comments": 2,
-      "by": "peter_d_sherman",
-      "hn_url": "https://news.ycombinator.com/item?id=50027853"
+      "title": "The Lightbulb Computer",
+      "url": "https://lightbulbcomputer.com/",
+      "score": 276,
+      "comments": 45,
+      "by": "oskarth",
+      "hn_url": "https://news.ycombinator.com/item?id=50029487"
     },
     {
-      "title": "Typesafe AI raises $870M at $7.5B",
-      "url": "https://typesafe.ai/blog/series-ai",
-      "score": 296,
-      "comments": 225,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=50023450"
+      "title": "Nix wrote half of my debugger",
+      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
+      "score": 147,
+      "comments": 28,
+      "by": "ingve",
+      "hn_url": "https://news.ycombinator.com/item?id=50017247"
     },
     {
-      "title": "Pointing AI at archives found a forgotten meteorite, lost rhinos, and more",
-      "url": "https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/",
-      "score": 117,
-      "comments": 56,
-      "by": "piratebroadcast",
-      "hn_url": "https://news.ycombinator.com/item?id=50019056"
+      "title": "Knuth reward check",
+      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
+      "score": 159,
+      "comments": 61,
+      "by": "Curiositry",
+      "hn_url": "https://news.ycombinator.com/item?id=50034081"
     },
     {
-      "title": "YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops",
-      "url": "https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306",
-      "score": 469,
-      "comments": 260,
-      "by": "gumby",
-      "hn_url": "https://news.ycombinator.com/item?id=50026555"
+      "title": "Veda: The First Agentic Hobby Operating System",
+      "url": "https://github.com/vahmoh25/Veda",
+      "score": 23,
+      "comments": 3,
+      "by": "vahmohh",
+      "hn_url": "https://news.ycombinator.com/item?id=50038473"
     }
   ]
 }

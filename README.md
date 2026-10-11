@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-10 03:32:25 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-11 03:05:20 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [openai/math](https://github.com/openai/math) | 13,169 | Lean | No description |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 2,937 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 2,344 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 1,995 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 1,956 | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
+| [openai/math](https://github.com/openai/math) | 13,714 | Lean | No description |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 3,253 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,233 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 2,939 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
+| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 2,594 | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
 
-### Hacker News Top Stories (Last Updated: 2026-10-10 03:32:25 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-11 03:05:20 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [REA Reverse – Engineer Anything](https://rea.tools/) | 154 | [36 comments](https://news.ycombinator.com/item?id=50028275) |
-| [Cloudflare acquires Deno](https://deno.com/blog/cloudflare) | 1105 | [570 comments](https://news.ycombinator.com/item?id=50019911) |
-| [Triple-A Minesweeper](https://minesweeper.mikelacher.com/) | 732 | [142 comments](https://news.ycombinator.com/item?id=50022292) |
-| [Our $445M Series D](https://oxide.computer/blog/our-445m-series-d) | 612 | [275 comments](https://news.ycombinator.com/item?id=50020014) |
-| [Show HN: Carrier-Explode: iPhone, Pixel and Galaxy carrier settings decoded](https://carrierexplode.com/) | 232 | [31 comments](https://news.ycombinator.com/item?id=50024499) |
-| [Can you use autoregressive diffusion to generate market data?](https://blog.janestreet.com/can-you-use-autoregressive-diffusion-to-generate-market-data/) | 28 | [8 comments](https://news.ycombinator.com/item?id=50021410) |
-| [Compiling Rust to readable C with Eurydice](https://lwn.net/Articles/1055211/) | 34 | [2 comments](https://news.ycombinator.com/item?id=50027853) |
-| [Typesafe AI raises $870M at $7.5B](https://typesafe.ai/blog/series-ai) | 296 | [225 comments](https://news.ycombinator.com/item?id=50023450) |
-| [Pointing AI at archives found a forgotten meteorite, lost rhinos, and more](https://jessewaites.com/blog/post/i-pointed-ai-at-400-years-of-archives/) | 117 | [56 comments](https://news.ycombinator.com/item?id=50019056) |
-| [YouTuber Says Cops Visited Him After He Built a Flock-Style Camera to Track Cops](https://gizmodo.com/youtuber-says-cops-paid-him-a-visit-after-he-built-flock-style-camera-to-track-cops-2000824306) | 469 | [260 comments](https://news.ycombinator.com/item?id=50026555) |
+| [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) | 130 | [57 comments](https://news.ycombinator.com/item?id=50038634) |
+| [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) | 140 | [30 comments](https://news.ycombinator.com/item?id=50037949) |
+| [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | 375 | [85 comments](https://news.ycombinator.com/item?id=49991852) |
+| [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | 201 | [77 comments](https://news.ycombinator.com/item?id=50036864) |
+| [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/) | 29 | [18 comments](https://news.ycombinator.com/item?id=50039092) |
+| [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6) | 19 | [4 comments](https://news.ycombinator.com/item?id=50038623) |
+| [The Lightbulb Computer](https://lightbulbcomputer.com/) | 276 | [45 comments](https://news.ycombinator.com/item?id=50029487) |
+| [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger) | 147 | [28 comments](https://news.ycombinator.com/item?id=50017247) |
+| [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/) | 159 | [61 comments](https://news.ycombinator.com/item?id=50034081) |
+| [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda) | 23 | [3 comments](https://news.ycombinator.com/item?id=50038473) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 12.0°C (54.0°F) |
-| Average Humidity | 68% |
+| Average Humidity | 69% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-10 03:32:25 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-11 03:05:20 UTC*

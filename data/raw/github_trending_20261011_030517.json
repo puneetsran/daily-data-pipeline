@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-11T03:05:17.462511",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "openai/math",
+      "stars": 13714,
+      "language": "Lean",
+      "description": "No description",
+      "url": "https://github.com/openai/math",
+      "created_at": "2026-10-06T21:47:02Z"
+    },
+    {
+      "name": "storytold/wordcraft",
+      "stars": 3253,
+      "language": "Rust",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "url": "https://github.com/storytold/wordcraft",
+      "created_at": "2026-10-07T08:34:24Z"
+    },
+    {
+      "name": "alchaincyf/huashu-art-motion",
+      "stars": 3233,
+      "language": "JavaScript",
+      "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "created_at": "2026-10-06T04:49:37Z"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "stars": 2939,
+      "language": "Go",
+      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "created_at": "2026-10-08T05:33:06Z"
+    },
+    {
+      "name": "zhongerxin/iPhone-use",
+      "stars": 2594,
+      "language": "Python",
+      "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "created_at": "2026-10-06T15:09:33Z"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 2322,
+      "language": "Rust",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "created_at": "2026-10-07T08:13:12Z"
+    },
+    {
+      "name": "LosaLosSantos/aurelio-finance",
+      "stars": 2094,
+      "language": "Python",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ET",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "created_at": "2026-10-06T20:14:19Z"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "stars": 1908,
+      "language": "Rust",
+      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
+      "url": "https://github.com/storytold/cadcraft",
+      "created_at": "2026-10-07T05:22:31Z"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "stars": 1884,
+      "language": "Rust",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "url": "https://github.com/storytold/gridcraft",
+      "created_at": "2026-10-07T05:18:16Z"
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "stars": 1645,
+      "language": "Rust",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M f",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "created_at": "2026-10-08T17:50:33Z"
+    }
+  ]
+}
