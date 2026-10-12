@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-11 03:05 UTC",
+  "updated_at": "2026-10-12 03:28 UTC",
   "github_trending": [
     {
       "name": "openai/math",
-      "stars": 13714,
+      "stars": 14133,
       "language": "Lean",
       "description": "No description",
       "url": "https://github.com/openai/math",
@@ -11,15 +11,23 @@
     },
     {
       "name": "storytold/wordcraft",
-      "stars": 3253,
+      "stars": 6308,
       "language": "Rust",
       "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
       "url": "https://github.com/storytold/wordcraft",
       "created_at": "2026-10-07T08:34:24Z"
     },
     {
+      "name": "wheresryan22/anatomy",
+      "stars": 3660,
+      "language": "JavaScript",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "created_at": "2026-10-08T10:12:49Z"
+    },
+    {
       "name": "alchaincyf/huashu-art-motion",
-      "stars": 3233,
+      "stars": 3415,
       "language": "JavaScript",
       "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
       "url": "https://github.com/alchaincyf/huashu-art-motion",
@@ -27,7 +35,7 @@
     },
     {
       "name": "mhtsec/ARTEX",
-      "stars": 2939,
+      "stars": 3255,
       "language": "Go",
       "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
       "url": "https://github.com/mhtsec/ARTEX",
@@ -35,15 +43,31 @@
     },
     {
       "name": "zhongerxin/iPhone-use",
-      "stars": 2594,
+      "stars": 3134,
       "language": "Python",
       "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
       "url": "https://github.com/zhongerxin/iPhone-use",
       "created_at": "2026-10-06T15:09:33Z"
     },
     {
+      "name": "storytold/gridcraft",
+      "stars": 3035,
+      "language": "Rust",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "url": "https://github.com/storytold/gridcraft",
+      "created_at": "2026-10-07T05:18:16Z"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "stars": 2762,
+      "language": "Rust",
+      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
+      "url": "https://github.com/storytold/cadcraft",
+      "created_at": "2026-10-07T05:22:31Z"
+    },
+    {
       "name": "nullmoth/nvidia-macos-driver",
-      "stars": 2322,
+      "stars": 2572,
       "language": "Rust",
       "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
       "url": "https://github.com/nullmoth/nvidia-macos-driver",
@@ -51,117 +75,93 @@
     },
     {
       "name": "LosaLosSantos/aurelio-finance",
-      "stars": 2094,
+      "stars": 2327,
       "language": "Python",
       "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ET",
       "url": "https://github.com/LosaLosSantos/aurelio-finance",
       "created_at": "2026-10-06T20:14:19Z"
-    },
-    {
-      "name": "storytold/cadcraft",
-      "stars": 1908,
-      "language": "Rust",
-      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
-      "url": "https://github.com/storytold/cadcraft",
-      "created_at": "2026-10-07T05:22:31Z"
-    },
-    {
-      "name": "storytold/gridcraft",
-      "stars": 1884,
-      "language": "Rust",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "url": "https://github.com/storytold/gridcraft",
-      "created_at": "2026-10-07T05:18:16Z"
-    },
-    {
-      "name": "noahdunnagan/fsearch",
-      "stars": 1645,
-      "language": "Rust",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M f",
-      "url": "https://github.com/noahdunnagan/fsearch",
-      "created_at": "2026-10-08T17:50:33Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "WallHop \u2013 12ft.io is gone, so I built a replacement",
-      "url": "https://wallhop.io/",
-      "score": 130,
-      "comments": 57,
-      "by": "TheWaffleHax",
-      "hn_url": "https://news.ycombinator.com/item?id=50038634"
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 87,
+      "comments": 36,
+      "by": "cainxinth",
+      "hn_url": "https://news.ycombinator.com/item?id=50049411"
     },
     {
-      "title": "Build your own decision model",
-      "url": "https://nishtahir.com/build-your-own-decision-model/",
-      "score": 140,
-      "comments": 30,
-      "by": "softwaredoug",
-      "hn_url": "https://news.ycombinator.com/item?id=50037949"
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 399,
+      "comments": 170,
+      "by": "jttnr",
+      "hn_url": "https://news.ycombinator.com/item?id=50045984"
     },
     {
-      "title": "2D Vehicles",
-      "url": "https://patkerr.co.uk/2d-vehicles/",
-      "score": 375,
-      "comments": 85,
-      "by": "Michelangelo11",
-      "hn_url": "https://news.ycombinator.com/item?id=49991852"
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 138,
+      "comments": 55,
+      "by": "royfish",
+      "hn_url": "https://news.ycombinator.com/item?id=50048642"
     },
     {
-      "title": "A city-building game in which the city would prefer you didn't",
-      "url": "https://housing.over.pizza/",
-      "score": 201,
-      "comments": 77,
-      "by": "JumpCrisscross",
-      "hn_url": "https://news.ycombinator.com/item?id=50036864"
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 202,
+      "comments": 38,
+      "by": "edent",
+      "hn_url": "https://news.ycombinator.com/item?id=50047091"
     },
     {
-      "title": "500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter",
-      "url": "https://momo5502.com/posts/2026-10-09-game-decompilation/",
-      "score": 29,
-      "comments": 18,
-      "by": "davikr",
-      "hn_url": "https://news.ycombinator.com/item?id=50039092"
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 286,
+      "comments": 466,
+      "by": "albertzeyer",
+      "hn_url": "https://news.ycombinator.com/item?id=50047422"
     },
     {
-      "title": "PSPi 6 \u2013 Raspberry Pi in a PSP",
-      "url": "https://github.com/othermod/PSPi-Version-6",
-      "score": 19,
-      "comments": 4,
-      "by": "therepanic",
-      "hn_url": "https://news.ycombinator.com/item?id=50038623"
+      "title": "Tattoos you can turn on and off",
+      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+      "score": 18,
+      "comments": 5,
+      "by": "MortyDev",
+      "hn_url": "https://news.ycombinator.com/item?id=50047802"
     },
     {
-      "title": "The Lightbulb Computer",
-      "url": "https://lightbulbcomputer.com/",
-      "score": 276,
-      "comments": 45,
-      "by": "oskarth",
-      "hn_url": "https://news.ycombinator.com/item?id=50029487"
+      "title": "Illustration Beyond Proof",
+      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "score": 40,
+      "comments": 0,
+      "by": "smilelamp",
+      "hn_url": "https://news.ycombinator.com/item?id=50049133"
     },
     {
-      "title": "Nix wrote half of my debugger",
-      "url": "https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger",
-      "score": 147,
-      "comments": 28,
-      "by": "ingve",
-      "hn_url": "https://news.ycombinator.com/item?id=50017247"
+      "title": "Google is illegaly cutting forest to build data centers",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "score": 211,
+      "comments": 44,
+      "by": "heyimada",
+      "hn_url": "https://news.ycombinator.com/item?id=50048638"
     },
     {
-      "title": "Knuth reward check",
-      "url": "https://www.thomas-huehn.com/knuth-reward-check/",
-      "score": 159,
-      "comments": 61,
-      "by": "Curiositry",
-      "hn_url": "https://news.ycombinator.com/item?id=50034081"
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "score": 336,
+      "comments": 388,
+      "by": "Anon84",
+      "hn_url": "https://news.ycombinator.com/item?id=50043026"
     },
     {
-      "title": "Veda: The First Agentic Hobby Operating System",
-      "url": "https://github.com/vahmoh25/Veda",
-      "score": 23,
-      "comments": 3,
-      "by": "vahmohh",
-      "hn_url": "https://news.ycombinator.com/item?id=50038473"
+      "title": "Vectorized CLZ and CTZ",
+      "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+      "score": 18,
+      "comments": 2,
+      "by": "zX41ZdbW",
+      "hn_url": "https://news.ycombinator.com/item?id=50039608"
     }
   ]
 }

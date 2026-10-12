@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-11 03:05:20 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-12 03:28:41 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [openai/math](https://github.com/openai/math) | 13,714 | Lean | No description |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 3,253 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,233 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 2,939 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
-| [zhongerxin/iPhone-use](https://github.com/zhongerxin/iPhone-use) | 2,594 | Python | 让 Codex 通过 USB 操作真实 iPhone：引导安装、App 自动化、实时屏幕与截图回退。 |
+| [openai/math](https://github.com/openai/math) | 14,133 | Lean | No description |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 6,308 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 3,660 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of rea... |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,415 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,255 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
 
-### Hacker News Top Stories (Last Updated: 2026-10-11 03:05:20 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-12 03:28:41 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [WallHop – 12ft.io is gone, so I built a replacement](https://wallhop.io/) | 130 | [57 comments](https://news.ycombinator.com/item?id=50038634) |
-| [Build your own decision model](https://nishtahir.com/build-your-own-decision-model/) | 140 | [30 comments](https://news.ycombinator.com/item?id=50037949) |
-| [2D Vehicles](https://patkerr.co.uk/2d-vehicles/) | 375 | [85 comments](https://news.ycombinator.com/item?id=49991852) |
-| [A city-building game in which the city would prefer you didn't](https://housing.over.pizza/) | 201 | [77 comments](https://news.ycombinator.com/item?id=50036864) |
-| [500B Tokens Later: Letting AI Agents Decompile a First-Person Shooter](https://momo5502.com/posts/2026-10-09-game-decompilation/) | 29 | [18 comments](https://news.ycombinator.com/item?id=50039092) |
-| [PSPi 6 – Raspberry Pi in a PSP](https://github.com/othermod/PSPi-Version-6) | 19 | [4 comments](https://news.ycombinator.com/item?id=50038623) |
-| [The Lightbulb Computer](https://lightbulbcomputer.com/) | 276 | [45 comments](https://news.ycombinator.com/item?id=50029487) |
-| [Nix wrote half of my debugger](https://fzakaria.com/2026/10/07/nix-wrote-half-of-my-debugger) | 147 | [28 comments](https://news.ycombinator.com/item?id=50017247) |
-| [Knuth reward check](https://www.thomas-huehn.com/knuth-reward-check/) | 159 | [61 comments](https://news.ycombinator.com/item?id=50034081) |
-| [Veda: The First Agentic Hobby Operating System](https://github.com/vahmoh25/Veda) | 23 | [3 comments](https://news.ycombinator.com/item?id=50038473) |
+| [Whatever became of holography? (2011)](https://www.americanscientist.org/article/whatever-became-of-holography) | 87 | [36 comments](https://news.ycombinator.com/item?id=50049411) |
+| [Total Annihilation, rebuilt for modern computers](https://nanolathe.gg) | 399 | [170 comments](https://news.ycombinator.com/item?id=50045984) |
+| [Fingerprints are the new cookies](https://royfish.dev/fingerprints-are-the-new-cookies) | 138 | [55 comments](https://news.ycombinator.com/item?id=50048642) |
+| [Cartographers of North Korea (2019)](https://cartographers-nk.wonyoung.so/) | 202 | [38 comments](https://news.ycombinator.com/item?id=50047091) |
+| [The gap in shared understanding of LLM capability is widening](https://twitter.com/karpathy/status/2109361546505966046) | 286 | [466 comments](https://news.ycombinator.com/item?id=50047422) |
+| [Tattoos you can turn on and off](https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off) | 18 | [5 comments](https://news.ycombinator.com/item?id=50047802) |
+| [Illustration Beyond Proof](https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/) | 40 | [0 comments](https://news.ycombinator.com/item?id=50049133) |
+| [Google is illegaly cutting forest to build data centers](https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment) | 211 | [44 comments](https://news.ycombinator.com/item?id=50048638) |
+| [Terence Tao: Math 2.0 [pdf]](https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf) | 336 | [388 comments](https://news.ycombinator.com/item?id=50043026) |
+| [Vectorized CLZ and CTZ](https://purplesyringa.moe/blog/vectorized-clz-and-ctz/) | 18 | [2 comments](https://news.ycombinator.com/item?id=50039608) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 12.0°C (54.0°F) |
-| Average Humidity | 69% |
+| Average Humidity | 62% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-11 03:05:20 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-12 03:28:41 UTC*

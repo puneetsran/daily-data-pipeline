@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-12T03:28:39.744880",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Whatever became of holography? (2011)",
+      "url": "https://www.americanscientist.org/article/whatever-became-of-holography",
+      "score": 87,
+      "comments": 36,
+      "by": "cainxinth",
+      "hn_url": "https://news.ycombinator.com/item?id=50049411"
+    },
+    {
+      "title": "Total Annihilation, rebuilt for modern computers",
+      "url": "https://nanolathe.gg",
+      "score": 399,
+      "comments": 170,
+      "by": "jttnr",
+      "hn_url": "https://news.ycombinator.com/item?id=50045984"
+    },
+    {
+      "title": "Fingerprints are the new cookies",
+      "url": "https://royfish.dev/fingerprints-are-the-new-cookies",
+      "score": 138,
+      "comments": 55,
+      "by": "royfish",
+      "hn_url": "https://news.ycombinator.com/item?id=50048642"
+    },
+    {
+      "title": "Cartographers of North Korea (2019)",
+      "url": "https://cartographers-nk.wonyoung.so/",
+      "score": 202,
+      "comments": 38,
+      "by": "edent",
+      "hn_url": "https://news.ycombinator.com/item?id=50047091"
+    },
+    {
+      "title": "The gap in shared understanding of LLM capability is widening",
+      "url": "https://twitter.com/karpathy/status/2109361546505966046",
+      "score": 286,
+      "comments": 466,
+      "by": "albertzeyer",
+      "hn_url": "https://news.ycombinator.com/item?id=50047422"
+    },
+    {
+      "title": "Tattoos you can turn on and off",
+      "url": "https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off",
+      "score": 18,
+      "comments": 5,
+      "by": "MortyDev",
+      "hn_url": "https://news.ycombinator.com/item?id=50047802"
+    },
+    {
+      "title": "Illustration Beyond Proof",
+      "url": "https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/",
+      "score": 40,
+      "comments": 0,
+      "by": "smilelamp",
+      "hn_url": "https://news.ycombinator.com/item?id=50049133"
+    },
+    {
+      "title": "Google is illegaly cutting forest to build data centers",
+      "url": "https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment",
+      "score": 211,
+      "comments": 44,
+      "by": "heyimada",
+      "hn_url": "https://news.ycombinator.com/item?id=50048638"
+    },
+    {
+      "title": "Terence Tao: Math 2.0 [pdf]",
+      "url": "https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf",
+      "score": 336,
+      "comments": 388,
+      "by": "Anon84",
+      "hn_url": "https://news.ycombinator.com/item?id=50043026"
+    },
+    {
+      "title": "Vectorized CLZ and CTZ",
+      "url": "https://purplesyringa.moe/blog/vectorized-clz-and-ctz/",
+      "score": 18,
+      "comments": 2,
+      "by": "zX41ZdbW",
+      "hn_url": "https://news.ycombinator.com/item?id=50039608"
+    }
+  ]
+}
