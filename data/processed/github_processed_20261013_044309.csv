@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+storytold/wordcraft,9484,Rust,"An open-source, clean-room reimplementation of Microsoft Word in pure Rust",https://github.com/storytold/wordcraft,2026-10-07T08:34:24Z
+wheresryan22/anatomy,6610,JavaScript,"An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",https://github.com/wheresryan22/anatomy,2026-10-08T10:12:49Z
+storytold/gridcraft,3935,Rust,"GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",https://github.com/storytold/gridcraft,2026-10-07T05:18:16Z
+mhtsec/ARTEX,3657,Go,AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目,https://github.com/mhtsec/ARTEX,2026-10-08T05:33:06Z
+storytold/cadcraft,3582,Rust,"CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCAD-style app in pure ",https://github.com/storytold/cadcraft,2026-10-07T05:22:31Z
+nullmoth/nvidia-macos-driver,2777,Rust,"Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",https://github.com/nullmoth/nvidia-macos-driver,2026-10-07T08:13:12Z
+storytold/deckcraft,2657,Rust,"Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint i",https://github.com/storytold/deckcraft,2026-10-07T05:27:21Z
+t4t5/omdrop-owl,2465,Shell,airdrop for non-apple devices,https://github.com/t4t5/omdrop-owl,2026-10-08T06:38:33Z
+storytold/soundcraft,2302,Rust,"An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",https://github.com/storytold/soundcraft,2026-10-07T08:31:31Z
+alejandrobujan/tendedero,2028,Swift,"Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the t",https://github.com/alejandrobujan/tendedero,2026-10-07T01:29:54Z

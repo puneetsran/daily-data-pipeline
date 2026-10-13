@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-13T04:43:07.384168",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "storytold/wordcraft",
+      "stars": 9484,
+      "language": "Rust",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "url": "https://github.com/storytold/wordcraft",
+      "created_at": "2026-10-07T08:34:24Z"
+    },
+    {
+      "name": "wheresryan22/anatomy",
+      "stars": 6610,
+      "language": "JavaScript",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "created_at": "2026-10-08T10:12:49Z"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "stars": 3935,
+      "language": "Rust",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "url": "https://github.com/storytold/gridcraft",
+      "created_at": "2026-10-07T05:18:16Z"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "stars": 3657,
+      "language": "Go",
+      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "created_at": "2026-10-08T05:33:06Z"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "stars": 3582,
+      "language": "Rust",
+      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
+      "url": "https://github.com/storytold/cadcraft",
+      "created_at": "2026-10-07T05:22:31Z"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 2777,
+      "language": "Rust",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "created_at": "2026-10-07T08:13:12Z"
+    },
+    {
+      "name": "storytold/deckcraft",
+      "stars": 2657,
+      "language": "Rust",
+      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint i",
+      "url": "https://github.com/storytold/deckcraft",
+      "created_at": "2026-10-07T05:27:21Z"
+    },
+    {
+      "name": "t4t5/omdrop-owl",
+      "stars": 2465,
+      "language": "Shell",
+      "description": "airdrop for non-apple devices",
+      "url": "https://github.com/t4t5/omdrop-owl",
+      "created_at": "2026-10-08T06:38:33Z"
+    },
+    {
+      "name": "storytold/soundcraft",
+      "stars": 2302,
+      "language": "Rust",
+      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
+      "url": "https://github.com/storytold/soundcraft",
+      "created_at": "2026-10-07T08:31:31Z"
+    },
+    {
+      "name": "alejandrobujan/tendedero",
+      "stars": 2028,
+      "language": "Swift",
+      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the t",
+      "url": "https://github.com/alejandrobujan/tendedero",
+      "created_at": "2026-10-07T01:29:54Z"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-13T04:43:08.421711",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "The baffling intelligence of a single cell (2024)",
+      "url": "https://jsomers.net/e-coli-chemotaxis/",
+      "score": 148,
+      "comments": 14,
+      "by": "jsomers",
+      "hn_url": "https://news.ycombinator.com/item?id=50041866"
+    },
+    {
+      "title": "GLM-Legal",
+      "url": "https://z.ai/blog/glm-legal",
+      "score": 483,
+      "comments": 279,
+      "by": "ilreb",
+      "hn_url": "https://news.ycombinator.com/item?id=50058507"
+    },
+    {
+      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
+      "url": "https://arxiv.org/abs/2610.13928",
+      "score": 42,
+      "comments": 22,
+      "by": "sbulaev",
+      "hn_url": "https://news.ycombinator.com/item?id=50065692"
+    },
+    {
+      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
+      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
+      "score": 125,
+      "comments": 47,
+      "by": "hurricanepootis",
+      "hn_url": "https://news.ycombinator.com/item?id=50063365"
+    },
+    {
+      "title": "A Modern Web App in C",
+      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
+      "score": 456,
+      "comments": 181,
+      "by": "prophittcorey",
+      "hn_url": "https://news.ycombinator.com/item?id=50058528"
+    },
+    {
+      "title": "Who is vfmaddrnd231pd?",
+      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
+      "score": 148,
+      "comments": 15,
+      "by": "pngmangi",
+      "hn_url": "https://news.ycombinator.com/item?id=50063138"
+    },
+    {
+      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
+      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
+      "score": 515,
+      "comments": 708,
+      "by": "Zeekaas",
+      "hn_url": "https://news.ycombinator.com/item?id=50055304"
+    },
+    {
+      "title": "A look at OpenAI\u2019s math that\u2019s claimed computes faster Fourier transforms",
+      "url": "https://www.argmin.net/p/faster-fourier-transforms",
+      "score": 54,
+      "comments": 35,
+      "by": "mochomocha",
+      "hn_url": "https://news.ycombinator.com/item?id=50065932"
+    },
+    {
+      "title": "Making big downloads resumable in Firefox",
+      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
+      "score": 134,
+      "comments": 43,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=50061791"
+    },
+    {
+      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
+      "url": "https://github.com/prabanta-dev/janas",
+      "score": 69,
+      "comments": 26,
+      "by": "khalidkhair",
+      "hn_url": "https://news.ycombinator.com/item?id=50063717"
+    }
+  ]
+}
