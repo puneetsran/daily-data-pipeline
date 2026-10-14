@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-13 04:43:09 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-14 02:51:31 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 9,484 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 6,610 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of rea... |
-| [storytold/gridcraft](https://github.com/storytold/gridcraft) | 3,935 | Rust | GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pur... |
-| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,657 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
-| [storytold/cadcraft](https://github.com/storytold/cadcraft) | 3,582 | Rust | CADCraft: computer-aided design and drafting — an open-source, clean-room AutoCA... |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 8,374 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of rea... |
+| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,906 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
+| [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) | 2,595 | Shell | airdrop for non-apple devices |
+| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 2,539 | Swift | Search your Mac by what's in your files: photos, PDFs, recordings, videos and co... |
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2,342 | Rust | The Craft App Launcher |
 
-### Hacker News Top Stories (Last Updated: 2026-10-13 04:43:09 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-14 02:51:31 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [The baffling intelligence of a single cell (2024)](https://jsomers.net/e-coli-chemotaxis/) | 148 | [14 comments](https://news.ycombinator.com/item?id=50041866) |
-| [GLM-Legal](https://z.ai/blog/glm-legal) | 483 | [279 comments](https://news.ycombinator.com/item?id=50058507) |
-| [AI Models Can Provably Hide Arbitrary Capabilities](https://arxiv.org/abs/2610.13928) | 42 | [22 comments](https://news.ycombinator.com/item?id=50065692) |
-| [Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X](https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html) | 125 | [47 comments](https://news.ycombinator.com/item?id=50063365) |
-| [A Modern Web App in C](https://prophitt.me/writing/a-modern-web-app-in-c) | 456 | [181 comments](https://news.ycombinator.com/item?id=50058528) |
-| [Who is vfmaddrnd231pd?](https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/) | 148 | [15 comments](https://news.ycombinator.com/item?id=50063138) |
-| [Hackers activate automatic defrosting in supermarket fridges across Europe](https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident) | 515 | [708 comments](https://news.ycombinator.com/item?id=50055304) |
-| [A look at OpenAI’s math that’s claimed computes faster Fourier transforms](https://www.argmin.net/p/faster-fourier-transforms) | 54 | [35 comments](https://news.ycombinator.com/item?id=50065932) |
-| [Making big downloads resumable in Firefox](https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html) | 134 | [43 comments](https://news.ycombinator.com/item?id=50061791) |
-| [Janas: Run LLMs larger than RAM by streaming experts from SSD](https://github.com/prabanta-dev/janas) | 69 | [26 comments](https://news.ycombinator.com/item?id=50063717) |
+| [Gemini 4 Argon](https://deepmind.google/models/gemini/) | 1052 | [783 comments](https://news.ycombinator.com/item?id=50073879) |
+| [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | 308 | [92 comments](https://news.ycombinator.com/item?id=50077020) |
+| [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | 476 | [354 comments](https://news.ycombinator.com/item?id=50054092) |
+| [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | 575 | [545 comments](https://news.ycombinator.com/item?id=50073633) |
+| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | 68 | [32 comments](https://news.ycombinator.com/item?id=50080275) |
+| [Apple HomeView](https://www.apple.com/apple-homeview/) | 681 | [795 comments](https://news.ycombinator.com/item?id=50071017) |
+| [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) | 62 | [4 comments](https://news.ycombinator.com/item?id=50053487) |
+| [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/) | 20 | [0 comments](https://news.ycombinator.com/item?id=50081133) |
+| [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) | 357 | [160 comments](https://news.ycombinator.com/item?id=50072913) |
+| [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/) | 665 | [269 comments](https://news.ycombinator.com/item?id=50070302) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 11.0°C (51.0°F) |
-| Average Humidity | 57% |
+| Average Temperature | 12.0°C (53.0°F) |
+| Average Humidity | 73% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-13 04:43:09 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-14 02:51:31 UTC*

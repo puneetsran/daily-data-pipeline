@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-13 04:43 UTC",
+  "updated_at": "2026-10-14 02:51 UTC",
   "github_trending": [
     {
-      "name": "storytold/wordcraft",
-      "stars": 9484,
-      "language": "Rust",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "url": "https://github.com/storytold/wordcraft",
-      "created_at": "2026-10-07T08:34:24Z"
-    },
-    {
       "name": "wheresryan22/anatomy",
-      "stars": 6610,
+      "stars": 8374,
       "language": "JavaScript",
       "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
       "url": "https://github.com/wheresryan22/anatomy",
       "created_at": "2026-10-08T10:12:49Z"
     },
     {
-      "name": "storytold/gridcraft",
-      "stars": 3935,
-      "language": "Rust",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "url": "https://github.com/storytold/gridcraft",
-      "created_at": "2026-10-07T05:18:16Z"
-    },
-    {
       "name": "mhtsec/ARTEX",
-      "stars": 3657,
+      "stars": 3906,
       "language": "Go",
       "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
       "url": "https://github.com/mhtsec/ARTEX",
       "created_at": "2026-10-08T05:33:06Z"
     },
     {
-      "name": "storytold/cadcraft",
-      "stars": 3582,
-      "language": "Rust",
-      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
-      "url": "https://github.com/storytold/cadcraft",
-      "created_at": "2026-10-07T05:22:31Z"
-    },
-    {
-      "name": "nullmoth/nvidia-macos-driver",
-      "stars": 2777,
-      "language": "Rust",
-      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
-      "url": "https://github.com/nullmoth/nvidia-macos-driver",
-      "created_at": "2026-10-07T08:13:12Z"
-    },
-    {
-      "name": "storytold/deckcraft",
-      "stars": 2657,
-      "language": "Rust",
-      "description": "Presentations and slide shows: an open-source, clean-room reimplementation of Microsoft PowerPoint i",
-      "url": "https://github.com/storytold/deckcraft",
-      "created_at": "2026-10-07T05:27:21Z"
-    },
-    {
       "name": "t4t5/omdrop-owl",
-      "stars": 2465,
+      "stars": 2595,
       "language": "Shell",
       "description": "airdrop for non-apple devices",
       "url": "https://github.com/t4t5/omdrop-owl",
       "created_at": "2026-10-08T06:38:33Z"
     },
     {
-      "name": "storytold/soundcraft",
-      "stars": 2302,
-      "language": "Rust",
-      "description": "An open-source, clean-room reimplementation of Avid Pro Tools in pure Rust",
-      "url": "https://github.com/storytold/soundcraft",
-      "created_at": "2026-10-07T08:31:31Z"
+      "name": "ARahim3/DigUp",
+      "stars": 2539,
+      "language": "Swift",
+      "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built",
+      "url": "https://github.com/ARahim3/DigUp",
+      "created_at": "2026-10-08T20:37:51Z"
     },
     {
-      "name": "alejandrobujan/tendedero",
-      "stars": 2028,
-      "language": "Swift",
-      "description": "Screenshots, hung out to dry. A tiny native macOS app that hangs every screenshot on a line at the t",
-      "url": "https://github.com/alejandrobujan/tendedero",
-      "created_at": "2026-10-07T01:29:54Z"
+      "name": "storytold/craft-launcher",
+      "stars": 2342,
+      "language": "Rust",
+      "description": "The Craft App Launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "created_at": "2026-10-09T23:21:59Z"
+    },
+    {
+      "name": "liseami/CCBaga",
+      "stars": 2080,
+      "language": "Rust",
+      "description": "No description",
+      "url": "https://github.com/liseami/CCBaga",
+      "created_at": "2026-10-11T03:47:06Z"
+    },
+    {
+      "name": "noahdunnagan/fsearch",
+      "stars": 2031,
+      "language": "Rust",
+      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M f",
+      "url": "https://github.com/noahdunnagan/fsearch",
+      "created_at": "2026-10-08T17:50:33Z"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "stars": 1593,
+      "language": "Python",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "created_at": "2026-10-11T19:10:25Z"
+    },
+    {
+      "name": "trhhubsd/ARTEXX",
+      "stars": 1206,
+      "language": "Go",
+      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee Autumn-27/ARTEX",
+      "url": "https://github.com/trhhubsd/ARTEXX",
+      "created_at": "2026-10-08T20:35:22Z"
+    },
+    {
+      "name": "NVIDIA-Omniverse/usd-brep",
+      "stars": 1193,
+      "language": "C++",
+      "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid",
+      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
+      "created_at": "2026-10-08T17:27:36Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "The baffling intelligence of a single cell (2024)",
-      "url": "https://jsomers.net/e-coli-chemotaxis/",
-      "score": 148,
-      "comments": 14,
-      "by": "jsomers",
-      "hn_url": "https://news.ycombinator.com/item?id=50041866"
+      "title": "Gemini 4 Argon",
+      "url": "https://deepmind.google/models/gemini/",
+      "score": 1052,
+      "comments": 783,
+      "by": "737max",
+      "hn_url": "https://news.ycombinator.com/item?id=50073879"
     },
     {
-      "title": "GLM-Legal",
-      "url": "https://z.ai/blog/glm-legal",
-      "score": 483,
-      "comments": 279,
-      "by": "ilreb",
-      "hn_url": "https://news.ycombinator.com/item?id=50058507"
+      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
+      "url": "https://guitoro.com/",
+      "score": 308,
+      "comments": 92,
+      "by": "talccc",
+      "hn_url": "https://news.ycombinator.com/item?id=50077020"
     },
     {
-      "title": "AI Models Can Provably Hide Arbitrary Capabilities",
-      "url": "https://arxiv.org/abs/2610.13928",
-      "score": 42,
-      "comments": 22,
-      "by": "sbulaev",
-      "hn_url": "https://news.ycombinator.com/item?id=50065692"
+      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
+      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
+      "score": 476,
+      "comments": 354,
+      "by": "thm",
+      "hn_url": "https://news.ycombinator.com/item?id=50054092"
     },
     {
-      "title": "Intel D270 GPU AI Accelerator\u2013Up to 480 GB LPDDR5X",
-      "url": "https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html",
-      "score": 125,
-      "comments": 47,
-      "by": "hurricanepootis",
-      "hn_url": "https://news.ycombinator.com/item?id=50063365"
+      "title": "Redesigning source control at Anthropic",
+      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
+      "score": 575,
+      "comments": 545,
+      "by": "Philpax",
+      "hn_url": "https://news.ycombinator.com/item?id=50073633"
     },
     {
-      "title": "A Modern Web App in C",
-      "url": "https://prophitt.me/writing/a-modern-web-app-in-c",
-      "score": 456,
-      "comments": 181,
-      "by": "prophittcorey",
-      "hn_url": "https://news.ycombinator.com/item?id=50058528"
+      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
+      "url": "https://pulseos.finance",
+      "score": 68,
+      "comments": 32,
+      "by": "niztk",
+      "hn_url": "https://news.ycombinator.com/item?id=50080275"
     },
     {
-      "title": "Who is vfmaddrnd231pd?",
-      "url": "https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/",
-      "score": 148,
-      "comments": 15,
-      "by": "pngmangi",
-      "hn_url": "https://news.ycombinator.com/item?id=50063138"
+      "title": "Apple HomeView",
+      "url": "https://www.apple.com/apple-homeview/",
+      "score": 681,
+      "comments": 795,
+      "by": "etothet",
+      "hn_url": "https://news.ycombinator.com/item?id=50071017"
     },
     {
-      "title": "Hackers activate automatic defrosting in supermarket fridges across Europe",
-      "url": "https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident",
-      "score": 515,
-      "comments": 708,
-      "by": "Zeekaas",
-      "hn_url": "https://news.ycombinator.com/item?id=50055304"
+      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
+      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
+      "score": 62,
+      "comments": 4,
+      "by": "mdp2021",
+      "hn_url": "https://news.ycombinator.com/item?id=50053487"
     },
     {
-      "title": "A look at OpenAI\u2019s math that\u2019s claimed computes faster Fourier transforms",
-      "url": "https://www.argmin.net/p/faster-fourier-transforms",
-      "score": 54,
-      "comments": 35,
-      "by": "mochomocha",
-      "hn_url": "https://news.ycombinator.com/item?id=50065932"
+      "title": "High-speed video reveals how honey bee stingers pump venom",
+      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
+      "score": 20,
+      "comments": 0,
+      "by": "gumby",
+      "hn_url": "https://news.ycombinator.com/item?id=50081133"
     },
     {
-      "title": "Making big downloads resumable in Firefox",
-      "url": "https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html",
-      "score": 134,
-      "comments": 43,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=50061791"
+      "title": "Thunderbird for iOS",
+      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
+      "score": 357,
+      "comments": 160,
+      "by": "mjorgers",
+      "hn_url": "https://news.ycombinator.com/item?id=50072913"
     },
     {
-      "title": "Janas: Run LLMs larger than RAM by streaming experts from SSD",
-      "url": "https://github.com/prabanta-dev/janas",
-      "score": 69,
-      "comments": 26,
-      "by": "khalidkhair",
-      "hn_url": "https://news.ycombinator.com/item?id=50063717"
+      "title": "Firefox Enterprise",
+      "url": "https://www.firefox.com/en-US/enterprise/",
+      "score": 665,
+      "comments": 269,
+      "by": "recvonline",
+      "hn_url": "https://news.ycombinator.com/item?id=50070302"
     }
   ]
 }
