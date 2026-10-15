@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-14 02:51:31 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-15 02:30:40 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 8,374 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of rea... |
-| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,906 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
-| [t4t5/omdrop-owl](https://github.com/t4t5/omdrop-owl) | 2,595 | Shell | airdrop for non-apple devices |
-| [ARahim3/DigUp](https://github.com/ARahim3/DigUp) | 2,539 | Swift | Search your Mac by what's in your files: photos, PDFs, recordings, videos and co... |
-| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2,342 | Rust | The Craft App Launcher |
+| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2,668 | Rust | The Craft App Launcher |
+| [liseami/CCBaga](https://github.com/liseami/CCBaga) | 2,260 | Rust | No description |
+| [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | 2,227 | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the ... |
+| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 2,113 | C | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, ... |
+| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 1,283 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud... |
 
-### Hacker News Top Stories (Last Updated: 2026-10-14 02:51:31 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-15 02:30:40 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Gemini 4 Argon](https://deepmind.google/models/gemini/) | 1052 | [783 comments](https://news.ycombinator.com/item?id=50073879) |
-| [Show HN: Guitoro, a virtual guitar you strum with your keyboard](https://guitoro.com/) | 308 | [92 comments](https://news.ycombinator.com/item?id=50077020) |
-| [Ledger confirms spy chip implant behind wallet crypto thefts](https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/) | 476 | [354 comments](https://news.ycombinator.com/item?id=50054092) |
-| [Redesigning source control at Anthropic](https://www.anthropic.com/engineering/redesigning-source-control) | 575 | [545 comments](https://news.ycombinator.com/item?id=50073633) |
-| [Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine](https://pulseos.finance) | 68 | [32 comments](https://news.ycombinator.com/item?id=50080275) |
-| [Apple HomeView](https://www.apple.com/apple-homeview/) | 681 | [795 comments](https://news.ycombinator.com/item?id=50071017) |
-| [900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)](https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html) | 62 | [4 comments](https://news.ycombinator.com/item?id=50053487) |
-| [High-speed video reveals how honey bee stingers pump venom](https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/) | 20 | [0 comments](https://news.ycombinator.com/item?id=50081133) |
-| [Thunderbird for iOS](https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/) | 357 | [160 comments](https://news.ycombinator.com/item?id=50072913) |
-| [Firefox Enterprise](https://www.firefox.com/en-US/enterprise/) | 665 | [269 comments](https://news.ycombinator.com/item?id=50070302) |
+| [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 844 | [211 comments](https://news.ycombinator.com/item?id=50093568) |
+| [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 338 | [138 comments](https://news.ycombinator.com/item?id=50094994) |
+| [Tiny Little Office](https://tinylittleoffice.com/) | 161 | [24 comments](https://news.ycombinator.com/item?id=50096142) |
+| [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) | 85 | [19 comments](https://news.ycombinator.com/item?id=50097369) |
+| [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) | 202 | [62 comments](https://news.ycombinator.com/item?id=50095353) |
+| [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) | 451 | [335 comments](https://news.ycombinator.com/item?id=50050553) |
+| [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) | 6 | [0 comments](https://news.ycombinator.com/item?id=50098274) |
+| [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) | 247 | [269 comments](https://news.ycombinator.com/item?id=50089921) |
+| [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse) | 206 | [30 comments](https://news.ycombinator.com/item?id=50090369) |
+| [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html) | 30 | [8 comments](https://news.ycombinator.com/item?id=50071546) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 12.0°C (53.0°F) |
-| Average Humidity | 73% |
+| Average Temperature | 13.0°C (55.0°F) |
+| Average Humidity | 82% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-14 02:51:31 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-15 02:30:40 UTC*

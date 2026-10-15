@@ -1,41 +1,9 @@
 {
-  "updated_at": "2026-10-14 02:51 UTC",
+  "updated_at": "2026-10-15 02:30 UTC",
   "github_trending": [
     {
-      "name": "wheresryan22/anatomy",
-      "stars": 8374,
-      "language": "JavaScript",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "created_at": "2026-10-08T10:12:49Z"
-    },
-    {
-      "name": "mhtsec/ARTEX",
-      "stars": 3906,
-      "language": "Go",
-      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "created_at": "2026-10-08T05:33:06Z"
-    },
-    {
-      "name": "t4t5/omdrop-owl",
-      "stars": 2595,
-      "language": "Shell",
-      "description": "airdrop for non-apple devices",
-      "url": "https://github.com/t4t5/omdrop-owl",
-      "created_at": "2026-10-08T06:38:33Z"
-    },
-    {
-      "name": "ARahim3/DigUp",
-      "stars": 2539,
-      "language": "Swift",
-      "description": "Search your Mac by what's in your files: photos, PDFs, recordings, videos and code. On-device, built",
-      "url": "https://github.com/ARahim3/DigUp",
-      "created_at": "2026-10-08T20:37:51Z"
-    },
-    {
       "name": "storytold/craft-launcher",
-      "stars": 2342,
+      "stars": 2668,
       "language": "Rust",
       "description": "The Craft App Launcher",
       "url": "https://github.com/storytold/craft-launcher",
@@ -43,125 +11,157 @@
     },
     {
       "name": "liseami/CCBaga",
-      "stars": 2080,
+      "stars": 2260,
       "language": "Rust",
       "description": "No description",
       "url": "https://github.com/liseami/CCBaga",
       "created_at": "2026-10-11T03:47:06Z"
     },
     {
-      "name": "noahdunnagan/fsearch",
-      "stars": 2031,
-      "language": "Rust",
-      "description": "Whole-disk file search for macOS: fuzzy names, typo tolerance, indexed content grep. ~1 ms over 8M f",
-      "url": "https://github.com/noahdunnagan/fsearch",
-      "created_at": "2026-10-08T17:50:33Z"
+      "name": "jhaizhou-ops/d2r-mobile",
+      "stars": 2227,
+      "language": "C",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "created_at": "2026-10-12T08:41:19Z"
     },
     {
       "name": "onehumanbeing/esp32-iphone-agent",
-      "stars": 1593,
-      "language": "Python",
+      "stars": 2113,
+      "language": "C",
       "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl",
       "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
       "created_at": "2026-10-11T19:10:25Z"
     },
     {
-      "name": "trhhubsd/ARTEXX",
-      "stars": 1206,
-      "language": "Go",
-      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee Autumn-27/ARTEX",
-      "url": "https://github.com/trhhubsd/ARTEXX",
-      "created_at": "2026-10-08T20:35:22Z"
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 1283,
+      "language": "Python",
+      "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cur",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "created_at": "2026-10-13T03:09:42Z"
     },
     {
-      "name": "NVIDIA-Omniverse/usd-brep",
-      "stars": 1193,
-      "language": "C++",
-      "description": "USD BRep is a standalone C++ and Python library for NURBS-based boundary representation (BRep) solid",
-      "url": "https://github.com/NVIDIA-Omniverse/usd-brep",
-      "created_at": "2026-10-08T17:27:36Z"
+      "name": "shaongitbd/doory",
+      "stars": 1210,
+      "language": "TypeScript",
+      "description": "Open source canva alternative",
+      "url": "https://github.com/shaongitbd/doory",
+      "created_at": "2026-10-10T00:03:25Z"
+    },
+    {
+      "name": "opengeos/RustGIS",
+      "stars": 1070,
+      "language": "Rust",
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "url": "https://github.com/opengeos/RustGIS",
+      "created_at": "2026-10-10T18:45:41Z"
+    },
+    {
+      "name": "rociiu/talorys",
+      "stars": 1003,
+      "language": "TypeScript",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled remi",
+      "url": "https://github.com/rociiu/talorys",
+      "created_at": "2026-10-10T09:46:56Z"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "stars": 965,
+      "language": "Python",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, Gi",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "created_at": "2026-10-12T07:11:01Z"
+    },
+    {
+      "name": "storytold/figcraft",
+      "stars": 956,
+      "language": "Rust",
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collabora",
+      "url": "https://github.com/storytold/figcraft",
+      "created_at": "2026-10-09T16:02:13Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Gemini 4 Argon",
-      "url": "https://deepmind.google/models/gemini/",
-      "score": 1052,
-      "comments": 783,
-      "by": "737max",
-      "hn_url": "https://news.ycombinator.com/item?id=50073879"
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "score": 844,
+      "comments": 211,
+      "by": "jjmaxwell4",
+      "hn_url": "https://news.ycombinator.com/item?id=50093568"
     },
     {
-      "title": "Show HN: Guitoro, a virtual guitar you strum with your keyboard",
-      "url": "https://guitoro.com/",
-      "score": 308,
-      "comments": 92,
-      "by": "talccc",
-      "hn_url": "https://news.ycombinator.com/item?id=50077020"
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "score": 338,
+      "comments": 138,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=50094994"
     },
     {
-      "title": "Ledger confirms spy chip implant behind wallet crypto thefts",
-      "url": "https://www.bleepingcomputer.com/news/security/ledger-confirms-hardware-wallet-spy-implant-behind-crypto-thefts/",
-      "score": 476,
-      "comments": 354,
-      "by": "thm",
-      "hn_url": "https://news.ycombinator.com/item?id=50054092"
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "score": 161,
+      "comments": 24,
+      "by": "donohoe",
+      "hn_url": "https://news.ycombinator.com/item?id=50096142"
     },
     {
-      "title": "Redesigning source control at Anthropic",
-      "url": "https://www.anthropic.com/engineering/redesigning-source-control",
-      "score": 575,
-      "comments": 545,
-      "by": "Philpax",
-      "hn_url": "https://news.ycombinator.com/item?id=50073633"
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "score": 85,
+      "comments": 19,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=50097369"
     },
     {
-      "title": "Show HN: Pulse Local, a Mac budgeting app whose AI models run on your machine",
-      "url": "https://pulseos.finance",
-      "score": 68,
-      "comments": 32,
-      "by": "niztk",
-      "hn_url": "https://news.ycombinator.com/item?id=50080275"
+      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "score": 202,
+      "comments": 62,
+      "by": "emschwartz",
+      "hn_url": "https://news.ycombinator.com/item?id=50095353"
     },
     {
-      "title": "Apple HomeView",
-      "url": "https://www.apple.com/apple-homeview/",
-      "score": 681,
-      "comments": 795,
-      "by": "etothet",
-      "hn_url": "https://news.ycombinator.com/item?id=50071017"
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 451,
+      "comments": 335,
+      "by": "doitLP",
+      "hn_url": "https://news.ycombinator.com/item?id=50050553"
     },
     {
-      "title": "900-Page Pre-Pantone Guide to Color from 1692 (With Complete High-Res Scan)",
-      "url": "https://www.openculture.com/2026/10/a-900-page-pre-pantone-guide-to-color-from-1692.html",
-      "score": 62,
-      "comments": 4,
-      "by": "mdp2021",
-      "hn_url": "https://news.ycombinator.com/item?id=50053487"
-    },
-    {
-      "title": "High-speed video reveals how honey bee stingers pump venom",
-      "url": "https://arstechnica.com/science/2026/10/honey-bee-stingers-are-double-piston-venom-pumps/",
-      "score": 20,
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "score": 6,
       "comments": 0,
-      "by": "gumby",
-      "hn_url": "https://news.ycombinator.com/item?id=50081133"
+      "by": "g0xA52A2A",
+      "hn_url": "https://news.ycombinator.com/item?id=50098274"
     },
     {
-      "title": "Thunderbird for iOS",
-      "url": "https://blog.thunderbird.net/2026/10/thunderbird-for-ios-a-first-look-at-the-native-iphone-email-app-in-development/",
-      "score": 357,
-      "comments": 160,
-      "by": "mjorgers",
-      "hn_url": "https://news.ycombinator.com/item?id=50072913"
-    },
-    {
-      "title": "Firefox Enterprise",
-      "url": "https://www.firefox.com/en-US/enterprise/",
-      "score": 665,
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "score": 247,
       "comments": 269,
-      "by": "recvonline",
-      "hn_url": "https://news.ycombinator.com/item?id=50070302"
+      "by": "hubraumhugo",
+      "hn_url": "https://news.ycombinator.com/item?id=50089921"
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "score": 206,
+      "comments": 30,
+      "by": "allddd",
+      "hn_url": "https://news.ycombinator.com/item?id=50090369"
+    },
+    {
+      "title": "your C is not standard C",
+      "url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "score": 30,
+      "comments": 8,
+      "by": "dverlaeckt80",
+      "hn_url": "https://news.ycombinator.com/item?id=50071546"
     }
   ]
 }

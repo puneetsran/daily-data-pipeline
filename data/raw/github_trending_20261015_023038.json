@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-15T02:30:38.323680",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "storytold/craft-launcher",
+      "stars": 2668,
+      "language": "Rust",
+      "description": "The Craft App Launcher",
+      "url": "https://github.com/storytold/craft-launcher",
+      "created_at": "2026-10-09T23:21:59Z"
+    },
+    {
+      "name": "liseami/CCBaga",
+      "stars": 2260,
+      "language": "Rust",
+      "description": "No description",
+      "url": "https://github.com/liseami/CCBaga",
+      "created_at": "2026-10-11T03:47:06Z"
+    },
+    {
+      "name": "jhaizhou-ops/d2r-mobile",
+      "stars": 2227,
+      "language": "C",
+      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock",
+      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
+      "created_at": "2026-10-12T08:41:19Z"
+    },
+    {
+      "name": "onehumanbeing/esp32-iphone-agent",
+      "stars": 2113,
+      "language": "C",
+      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl",
+      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
+      "created_at": "2026-10-11T19:10:25Z"
+    },
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 1283,
+      "language": "Python",
+      "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cur",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "created_at": "2026-10-13T03:09:42Z"
+    },
+    {
+      "name": "shaongitbd/doory",
+      "stars": 1210,
+      "language": "TypeScript",
+      "description": "Open source canva alternative",
+      "url": "https://github.com/shaongitbd/doory",
+      "created_at": "2026-10-10T00:03:25Z"
+    },
+    {
+      "name": "opengeos/RustGIS",
+      "stars": 1070,
+      "language": "Rust",
+      "description": "A fast, free and open-source GIS in pure Rust.",
+      "url": "https://github.com/opengeos/RustGIS",
+      "created_at": "2026-10-10T18:45:41Z"
+    },
+    {
+      "name": "rociiu/talorys",
+      "stars": 1003,
+      "language": "TypeScript",
+      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled remi",
+      "url": "https://github.com/rociiu/talorys",
+      "created_at": "2026-10-10T09:46:56Z"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "stars": 965,
+      "language": "Python",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, Gi",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "created_at": "2026-10-12T07:11:01Z"
+    },
+    {
+      "name": "storytold/figcraft",
+      "stars": 956,
+      "language": "Rust",
+      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collabora",
+      "url": "https://github.com/storytold/figcraft",
+      "created_at": "2026-10-09T16:02:13Z"
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-15T02:30:39.549814",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Things to know when you get cancer",
+      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
+      "score": 844,
+      "comments": 211,
+      "by": "jjmaxwell4",
+      "hn_url": "https://news.ycombinator.com/item?id=50093568"
+    },
+    {
+      "title": "OpenCode 2.0",
+      "url": "https://anoma.ly/notes/opencode-2-0/",
+      "score": 338,
+      "comments": 138,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=50094994"
+    },
+    {
+      "title": "Tiny Little Office",
+      "url": "https://tinylittleoffice.com/",
+      "score": 161,
+      "comments": 24,
+      "by": "donohoe",
+      "hn_url": "https://news.ycombinator.com/item?id=50096142"
+    },
+    {
+      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
+      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
+      "score": 85,
+      "comments": 19,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=50097369"
+    },
+    {
+      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
+      "url": "https://typesafe.ai/blog/jev-1-14",
+      "score": 202,
+      "comments": 62,
+      "by": "emschwartz",
+      "hn_url": "https://news.ycombinator.com/item?id=50095353"
+    },
+    {
+      "title": "Do dentists know what they're doing?",
+      "url": "https://mapwriting.substack.com/p/dentists",
+      "score": 451,
+      "comments": 335,
+      "by": "doitLP",
+      "hn_url": "https://news.ycombinator.com/item?id=50050553"
+    },
+    {
+      "title": "The Double Headed Stack Allocator",
+      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
+      "score": 6,
+      "comments": 0,
+      "by": "g0xA52A2A",
+      "hn_url": "https://news.ycombinator.com/item?id=50098274"
+    },
+    {
+      "title": "Americans' social activity has steeply declined in the past 30 years",
+      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
+      "score": 247,
+      "comments": 269,
+      "by": "hubraumhugo",
+      "hn_url": "https://news.ycombinator.com/item?id=50089921"
+    },
+    {
+      "title": "Better HTTP/1 connection reuse in Go 1.27",
+      "url": "https://go.dev/blog/http-connection-reuse",
+      "score": 206,
+      "comments": 30,
+      "by": "allddd",
+      "hn_url": "https://news.ycombinator.com/item?id=50090369"
+    },
+    {
+      "title": "your C is not standard C",
+      "url": "https://sebsite.pw/w/20261012-notstdc.html",
+      "score": 30,
+      "comments": 8,
+      "by": "dverlaeckt80",
+      "hn_url": "https://news.ycombinator.com/item?id=50071546"
+    }
+  ]
+}
