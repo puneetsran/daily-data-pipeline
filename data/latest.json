@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-15 02:30 UTC",
+  "updated_at": "2026-10-16 02:25 UTC",
   "github_trending": [
     {
-      "name": "storytold/craft-launcher",
-      "stars": 2668,
-      "language": "Rust",
-      "description": "The Craft App Launcher",
-      "url": "https://github.com/storytold/craft-launcher",
-      "created_at": "2026-10-09T23:21:59Z"
-    },
-    {
-      "name": "liseami/CCBaga",
-      "stars": 2260,
-      "language": "Rust",
+      "name": "openai/math",
+      "stars": 14133,
+      "language": "Lean",
       "description": "No description",
-      "url": "https://github.com/liseami/CCBaga",
-      "created_at": "2026-10-11T03:47:06Z"
+      "url": "https://github.com/openai/math",
+      "created_at": "2026-10-06T21:47:02Z"
     },
     {
-      "name": "jhaizhou-ops/d2r-mobile",
-      "stars": 2227,
-      "language": "C",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "created_at": "2026-10-12T08:41:19Z"
-    },
-    {
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "stars": 2113,
-      "language": "C",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "created_at": "2026-10-11T19:10:25Z"
-    },
-    {
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 1283,
-      "language": "Python",
-      "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cur",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "created_at": "2026-10-13T03:09:42Z"
-    },
-    {
-      "name": "shaongitbd/doory",
-      "stars": 1210,
-      "language": "TypeScript",
-      "description": "Open source canva alternative",
-      "url": "https://github.com/shaongitbd/doory",
-      "created_at": "2026-10-10T00:03:25Z"
-    },
-    {
-      "name": "opengeos/RustGIS",
-      "stars": 1070,
+      "name": "storytold/wordcraft",
+      "stars": 6308,
       "language": "Rust",
-      "description": "A fast, free and open-source GIS in pure Rust.",
-      "url": "https://github.com/opengeos/RustGIS",
-      "created_at": "2026-10-10T18:45:41Z"
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "url": "https://github.com/storytold/wordcraft",
+      "created_at": "2026-10-07T08:34:24Z"
     },
     {
-      "name": "rociiu/talorys",
-      "stars": 1003,
-      "language": "TypeScript",
-      "description": "Your personal AI agent in your own Cloudflare account. Chat, memory, tasks, notes and scheduled remi",
-      "url": "https://github.com/rociiu/talorys",
-      "created_at": "2026-10-10T09:46:56Z"
+      "name": "wheresryan22/anatomy",
+      "stars": 3660,
+      "language": "JavaScript",
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "created_at": "2026-10-08T10:12:49Z"
     },
     {
-      "name": "zhuyansen/new-term-radar",
-      "stars": 965,
+      "name": "alchaincyf/huashu-art-motion",
+      "stars": 3415,
+      "language": "JavaScript",
+      "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "created_at": "2026-10-06T04:49:37Z"
+    },
+    {
+      "name": "mhtsec/ARTEX",
+      "stars": 3255,
+      "language": "Go",
+      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "created_at": "2026-10-08T05:33:06Z"
+    },
+    {
+      "name": "zhongerxin/iPhone-use",
+      "stars": 3134,
       "language": "Python",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, Gi",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "created_at": "2026-10-12T07:11:01Z"
+      "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "created_at": "2026-10-06T15:09:33Z"
     },
     {
-      "name": "storytold/figcraft",
-      "stars": 956,
+      "name": "storytold/gridcraft",
+      "stars": 3035,
       "language": "Rust",
-      "description": "FigCraft: interface design and prototyping; an open-source, clean-room reimplementation of collabora",
-      "url": "https://github.com/storytold/figcraft",
-      "created_at": "2026-10-09T16:02:13Z"
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "url": "https://github.com/storytold/gridcraft",
+      "created_at": "2026-10-07T05:18:16Z"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "stars": 2762,
+      "language": "Rust",
+      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
+      "url": "https://github.com/storytold/cadcraft",
+      "created_at": "2026-10-07T05:22:31Z"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 2572,
+      "language": "Rust",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "created_at": "2026-10-07T08:13:12Z"
+    },
+    {
+      "name": "LosaLosSantos/aurelio-finance",
+      "stars": 2327,
+      "language": "Python",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ET",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "created_at": "2026-10-06T20:14:19Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Things to know when you get cancer",
-      "url": "https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/",
-      "score": 844,
-      "comments": 211,
-      "by": "jjmaxwell4",
-      "hn_url": "https://news.ycombinator.com/item?id=50093568"
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 636,
+      "comments": 360,
+      "by": "bigwheels",
+      "hn_url": "https://news.ycombinator.com/item?id=50107379"
     },
     {
-      "title": "OpenCode 2.0",
-      "url": "https://anoma.ly/notes/opencode-2-0/",
-      "score": 338,
-      "comments": 138,
-      "by": "gmays",
-      "hn_url": "https://news.ycombinator.com/item?id=50094994"
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "score": 42,
+      "comments": 12,
+      "by": "emot",
+      "hn_url": "https://news.ycombinator.com/item?id=50112330"
     },
     {
-      "title": "Tiny Little Office",
-      "url": "https://tinylittleoffice.com/",
-      "score": 161,
-      "comments": 24,
-      "by": "donohoe",
-      "hn_url": "https://news.ycombinator.com/item?id=50096142"
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 517,
+      "comments": 201,
+      "by": "themgt",
+      "hn_url": "https://news.ycombinator.com/item?id=50105647"
     },
     {
-      "title": "LFM2.5-24B-A2B: Built for fast on-device agents",
-      "url": "https://www.liquid.ai/blog/lfm2-5-24b-a2b",
-      "score": 85,
-      "comments": 19,
-      "by": "gmays",
-      "hn_url": "https://news.ycombinator.com/item?id=50097369"
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "score": 40,
+      "comments": 7,
+      "by": "0in",
+      "hn_url": "https://news.ycombinator.com/item?id=50111852"
     },
     {
-      "title": "We\u2019re releasing Jev 1.14.0 along with experimental features for dreamers",
-      "url": "https://typesafe.ai/blog/jev-1-14",
-      "score": 202,
-      "comments": 62,
-      "by": "emschwartz",
-      "hn_url": "https://news.ycombinator.com/item?id=50095353"
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "score": 282,
+      "comments": 182,
+      "by": "BrunoBernardino",
+      "hn_url": "https://news.ycombinator.com/item?id=50109715"
     },
     {
-      "title": "Do dentists know what they're doing?",
-      "url": "https://mapwriting.substack.com/p/dentists",
-      "score": 451,
-      "comments": 335,
-      "by": "doitLP",
-      "hn_url": "https://news.ycombinator.com/item?id=50050553"
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "score": 56,
+      "comments": 31,
+      "by": "giuliomagnifico",
+      "hn_url": "https://news.ycombinator.com/item?id=50068203"
     },
     {
-      "title": "The Double Headed Stack Allocator",
-      "url": "https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/",
-      "score": 6,
-      "comments": 0,
-      "by": "g0xA52A2A",
-      "hn_url": "https://news.ycombinator.com/item?id=50098274"
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "score": 519,
+      "comments": 204,
+      "by": "FinalDestiny",
+      "hn_url": "https://news.ycombinator.com/item?id=50103338"
     },
     {
-      "title": "Americans' social activity has steeply declined in the past 30 years",
-      "url": "https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years",
-      "score": 247,
-      "comments": 269,
-      "by": "hubraumhugo",
-      "hn_url": "https://news.ycombinator.com/item?id=50089921"
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "score": 249,
+      "comments": 113,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=50108872"
     },
     {
-      "title": "Better HTTP/1 connection reuse in Go 1.27",
-      "url": "https://go.dev/blog/http-connection-reuse",
-      "score": 206,
-      "comments": 30,
-      "by": "allddd",
-      "hn_url": "https://news.ycombinator.com/item?id=50090369"
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 159,
+      "comments": 151,
+      "by": "shekhar101",
+      "hn_url": "https://news.ycombinator.com/item?id=50112657"
     },
     {
-      "title": "your C is not standard C",
-      "url": "https://sebsite.pw/w/20261012-notstdc.html",
-      "score": 30,
-      "comments": 8,
-      "by": "dverlaeckt80",
-      "hn_url": "https://news.ycombinator.com/item?id=50071546"
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "score": 316,
+      "comments": 151,
+      "by": "zlandes86",
+      "hn_url": "https://news.ycombinator.com/item?id=50106023"
     }
   ]
 }

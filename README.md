@@ -18,28 +18,28 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-15 02:30:40 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-16 02:25:16 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [storytold/craft-launcher](https://github.com/storytold/craft-launcher) | 2,668 | Rust | The Craft App Launcher |
-| [liseami/CCBaga](https://github.com/liseami/CCBaga) | 2,260 | Rust | No description |
-| [jhaizhou-ops/d2r-mobile](https://github.com/jhaizhou-ops/d2r-mobile) | 2,227 | C | Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the ... |
-| [onehumanbeing/esp32-iphone-agent](https://github.com/onehumanbeing/esp32-iphone-agent) | 2,113 | C | Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, ... |
-| [Arekejoker/qwen21-nsfw-pose-skill](https://github.com/Arekejoker/qwen21-nsfw-pose-skill) | 1,283 | Python | Qwen-Image 2.1 NSFW/姿势出图 skill：作者级提示词配方 + NSFW LoRA + 136 姿势 VNCCS 人偶控制；适用 Claud... |
+| [openai/math](https://github.com/openai/math) | 14,133 | Lean | No description |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 6,308 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 3,660 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of rea... |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,415 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,255 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
 
-### Hacker News Top Stories (Last Updated: 2026-10-15 02:30:40 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-16 02:25:16 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Things to know when you get cancer](https://jjmaxwell4.com/writing/things-to-know-when-you-get-cancer/) | 844 | [211 comments](https://news.ycombinator.com/item?id=50093568) |
-| [OpenCode 2.0](https://anoma.ly/notes/opencode-2-0/) | 338 | [138 comments](https://news.ycombinator.com/item?id=50094994) |
-| [Tiny Little Office](https://tinylittleoffice.com/) | 161 | [24 comments](https://news.ycombinator.com/item?id=50096142) |
-| [LFM2.5-24B-A2B: Built for fast on-device agents](https://www.liquid.ai/blog/lfm2-5-24b-a2b) | 85 | [19 comments](https://news.ycombinator.com/item?id=50097369) |
-| [We’re releasing Jev 1.14.0 along with experimental features for dreamers](https://typesafe.ai/blog/jev-1-14) | 202 | [62 comments](https://news.ycombinator.com/item?id=50095353) |
-| [Do dentists know what they're doing?](https://mapwriting.substack.com/p/dentists) | 451 | [335 comments](https://news.ycombinator.com/item?id=50050553) |
-| [The Double Headed Stack Allocator](https://blog.demofox.org/2026/10/03/the-double-headed-stack-allocator/) | 6 | [0 comments](https://news.ycombinator.com/item?id=50098274) |
-| [Americans' social activity has steeply declined in the past 30 years](https://www.dataforprogress.org/blog/2026/9/29/americans-social-activity-has-steeply-declined-in-the-past-30-years) | 247 | [269 comments](https://news.ycombinator.com/item?id=50089921) |
-| [Better HTTP/1 connection reuse in Go 1.27](https://go.dev/blog/http-connection-reuse) | 206 | [30 comments](https://news.ycombinator.com/item?id=50090369) |
-| [your C is not standard C](https://sebsite.pw/w/20261012-notstdc.html) | 30 | [8 comments](https://news.ycombinator.com/item?id=50071546) |
+| [Muse Spark Open](https://research.meta.ai/blog/muse-spark-open) | 636 | [360 comments](https://news.ycombinator.com/item?id=50107379) |
+| [RPKI now protects 70% of internet routes](https://ipinfo.io/blog/rpki-protects-70-internet-routes) | 42 | [12 comments](https://news.ycombinator.com/item?id=50112330) |
+| [Neural networks are clean](https://already-clean.goodfire.com/) | 517 | [201 comments](https://news.ycombinator.com/item?id=50105647) |
+| [Business accounts will consent to Meta scraping their websites Starting Oct. 30](https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/) | 40 | [7 comments](https://news.ycombinator.com/item?id=50111852) |
+| [What I Self-Host](https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/) | 282 | [182 comments](https://news.ycombinator.com/item?id=50109715) |
+| [Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat](https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge) | 56 | [31 comments](https://news.ycombinator.com/item?id=50068203) |
+| [Wayland desktop for Linux with skeuomorphic design](https://github.com/fyzugx/DEsk) | 519 | [204 comments](https://news.ycombinator.com/item?id=50103338) |
+| [Someone on Torrent Sites Kept Fucking with My Sonarr](https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup) | 249 | [113 comments](https://news.ycombinator.com/item?id=50108872) |
+| [Tesla Roadster](https://www.tesla.com/roadster) | 159 | [151 comments](https://news.ycombinator.com/item?id=50112657) |
+| [Jev meets the Trolley Problem](https://zachlandes.com/trolley-problem/) | 316 | [151 comments](https://news.ycombinator.com/item?id=50106023) |
 
 ### Weather Data Summary
 
@@ -47,7 +47,7 @@ This project showcases:
 |--------|-------|
 | City Tracked | Vancouver |
 | Average Temperature | 13.0°C (55.0°F) |
-| Average Humidity | 82% |
+| Average Humidity | 78% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-15 02:30:40 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-16 02:25:16 UTC*

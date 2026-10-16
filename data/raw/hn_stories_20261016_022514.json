@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-16T02:25:14.273097",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Muse Spark Open",
+      "url": "https://research.meta.ai/blog/muse-spark-open",
+      "score": 636,
+      "comments": 360,
+      "by": "bigwheels",
+      "hn_url": "https://news.ycombinator.com/item?id=50107379"
+    },
+    {
+      "title": "RPKI now protects 70% of internet routes",
+      "url": "https://ipinfo.io/blog/rpki-protects-70-internet-routes",
+      "score": 42,
+      "comments": 12,
+      "by": "emot",
+      "hn_url": "https://news.ycombinator.com/item?id=50112330"
+    },
+    {
+      "title": "Neural networks are clean",
+      "url": "https://already-clean.goodfire.com/",
+      "score": 517,
+      "comments": 201,
+      "by": "themgt",
+      "hn_url": "https://news.ycombinator.com/item?id=50105647"
+    },
+    {
+      "title": "Business accounts will consent to Meta scraping their websites Starting Oct. 30",
+      "url": "https://www.niemanlab.org/2026/10/metas-new-commercial-terms-will-allow-the-scraping-of-news-sites-legal-experts-say/",
+      "score": 40,
+      "comments": 7,
+      "by": "0in",
+      "hn_url": "https://news.ycombinator.com/item?id=50111852"
+    },
+    {
+      "title": "What I Self-Host",
+      "url": "https://viceconsole.fyi/blog/2026/10/10/what-i-self-host/",
+      "score": 282,
+      "comments": 182,
+      "by": "BrunoBernardino",
+      "hn_url": "https://news.ycombinator.com/item?id=50109715"
+    },
+    {
+      "title": "Apple routed a graphite pipe through the iPhone Duo's hinge to dissipate heat",
+      "url": "https://www.pcmag.com/news/apple-routed-a-graphite-pipe-through-the-iphone-duos-hinge",
+      "score": 56,
+      "comments": 31,
+      "by": "giuliomagnifico",
+      "hn_url": "https://news.ycombinator.com/item?id=50068203"
+    },
+    {
+      "title": "Wayland desktop for Linux with skeuomorphic design",
+      "url": "https://github.com/fyzugx/DEsk",
+      "score": 519,
+      "comments": 204,
+      "by": "FinalDestiny",
+      "hn_url": "https://news.ycombinator.com/item?id=50103338"
+    },
+    {
+      "title": "Someone on Torrent Sites Kept Fucking with My Sonarr",
+      "url": "https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup",
+      "score": 249,
+      "comments": 113,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=50108872"
+    },
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 159,
+      "comments": 151,
+      "by": "shekhar101",
+      "hn_url": "https://news.ycombinator.com/item?id=50112657"
+    },
+    {
+      "title": "Jev meets the Trolley Problem",
+      "url": "https://zachlandes.com/trolley-problem/",
+      "score": 316,
+      "comments": 151,
+      "by": "zlandes86",
+      "hn_url": "https://news.ycombinator.com/item?id=50106023"
+    }
+  ]
+}
