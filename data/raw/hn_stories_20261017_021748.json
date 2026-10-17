@@ -1,0 +1,78 @@
+{
+  "collected_at": "2026-10-17T02:17:48.718082",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Tesla Roadster",
+      "url": "https://www.tesla.com/roadster",
+      "score": 1212,
+      "comments": 2187,
+      "by": "shekhar101",
+      "hn_url": "https://news.ycombinator.com/item?id=50112657"
+    },
+    {
+      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
+      "url": "https://github.com/cobanov/PS5LM",
+      "score": 207,
+      "comments": 54,
+      "by": "Anon84",
+      "hn_url": "https://news.ycombinator.com/item?id=50122431"
+    },
+    {
+      "title": "Claude reveals ECDSA curve origins",
+      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
+      "score": 696,
+      "comments": 274,
+      "by": "ahlCVA",
+      "hn_url": "https://news.ycombinator.com/item?id=50122800"
+    },
+    {
+      "title": "FLUX 3 Image Klein",
+      "url": "https://bfl.ai/blog/flux-3-image-klein",
+      "score": 117,
+      "comments": 29,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=50123580"
+    },
+    {
+      "title": "You could have invented transformers from memory",
+      "url": "https://alexwang.ai/posts/associative-memory/",
+      "score": 157,
+      "comments": 42,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=50122878"
+    },
+    {
+      "title": "Waymo in Toronto",
+      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
+      "score": 276,
+      "comments": 390,
+      "by": "ChrisArchitect",
+      "hn_url": "https://news.ycombinator.com/item?id=50118981"
+    },
+    {
+      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
+      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
+      "score": 177,
+      "comments": 142,
+      "by": "7402",
+      "hn_url": "https://news.ycombinator.com/item?id=50122034"
+    },
+    {
+      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
+      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
+      "score": 71,
+      "comments": 8,
+      "by": "giuliomagnifico",
+      "hn_url": "https://news.ycombinator.com/item?id=50083673"
+    },
+    {
+      "title": "Designing more efficient quantum circuits with Claude",
+      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
+      "score": 105,
+      "comments": 20,
+      "by": "pretext",
+      "hn_url": "https://news.ycombinator.com/item?id=50121939"
+    }
+  ]
+}
