@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-18T02:17:40.388546",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "score": 189,
+      "comments": 89,
+      "by": "DeepLogin",
+      "hn_url": "https://news.ycombinator.com/item?id=50136881"
+    },
+    {
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 334,
+      "comments": 72,
+      "by": "alkyon",
+      "hn_url": "https://news.ycombinator.com/item?id=50126253"
+    },
+    {
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 209,
+      "comments": 55,
+      "by": "sohkamyung",
+      "hn_url": "https://news.ycombinator.com/item?id=50126312"
+    },
+    {
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 710,
+      "comments": 592,
+      "by": "theykk",
+      "hn_url": "https://news.ycombinator.com/item?id=50129045"
+    },
+    {
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 274,
+      "comments": 58,
+      "by": "plaguna",
+      "hn_url": "https://news.ycombinator.com/item?id=50100994"
+    },
+    {
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "score": 249,
+      "comments": 26,
+      "by": "dchest",
+      "hn_url": "https://news.ycombinator.com/item?id=50132193"
+    },
+    {
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 146,
+      "comments": 24,
+      "by": "antirez",
+      "hn_url": "https://news.ycombinator.com/item?id=50100366"
+    },
+    {
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "score": 259,
+      "comments": 67,
+      "by": "crescit_eundo",
+      "hn_url": "https://news.ycombinator.com/item?id=50131213"
+    },
+    {
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 57,
+      "comments": 13,
+      "by": "guiambros",
+      "hn_url": "https://news.ycombinator.com/item?id=50136536"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "score": 246,
+      "comments": 127,
+      "by": "iamnothere",
+      "hn_url": "https://news.ycombinator.com/item?id=50132870"
+    }
+  ]
+}

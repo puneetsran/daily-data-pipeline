@@ -1,41 +1,25 @@
 {
-  "updated_at": "2026-10-17 02:17 UTC",
+  "updated_at": "2026-10-18 02:17 UTC",
   "github_trending": [
     {
       "name": "jhaizhou-ops/d2r-mobile",
-      "stars": 3544,
+      "stars": 3717,
       "language": "C",
       "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock",
       "url": "https://github.com/jhaizhou-ops/d2r-mobile",
       "created_at": "2026-10-12T08:41:19Z"
     },
     {
-      "name": "onehumanbeing/esp32-iphone-agent",
-      "stars": 2868,
-      "language": "C",
-      "description": "Let an AI model use a real iPhone with a $7 ESP32: AirPlay eyes, USB HID hands, any OpenAI-compatibl",
-      "url": "https://github.com/onehumanbeing/esp32-iphone-agent",
-      "created_at": "2026-10-11T19:10:25Z"
-    },
-    {
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 2530,
+      "stars": 2647,
       "language": "Python",
       "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cur",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "created_at": "2026-10-13T03:09:42Z"
     },
     {
-      "name": "liseami/CCBaga",
-      "stars": 2404,
-      "language": "Rust",
-      "description": "No description",
-      "url": "https://github.com/liseami/CCBaga",
-      "created_at": "2026-10-11T03:47:06Z"
-    },
-    {
       "name": "HeyPuter/everything",
-      "stars": 1754,
+      "stars": 2059,
       "language": "JavaScript",
       "description": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
       "url": "https://github.com/HeyPuter/everything",
@@ -43,117 +27,141 @@
     },
     {
       "name": "ahwootech/BRUTAL",
-      "stars": 1579,
+      "stars": 1798,
       "language": "C#",
       "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native ",
       "url": "https://github.com/ahwootech/BRUTAL",
       "created_at": "2026-10-14T19:33:56Z"
     },
     {
-      "name": "chenglou/handwired",
-      "stars": 1571,
-      "language": "TypeScript",
-      "description": "Turn your regular JavaScript code into a neural net.",
-      "url": "https://github.com/chenglou/handwired",
-      "created_at": "2026-10-15T02:15:09Z"
-    },
-    {
       "name": "deeplethe/solid-glass",
-      "stars": 1417,
+      "stars": 1747,
       "language": "TypeScript",
       "description": "A design system for AI applications. Material, physical, tactile, technical.",
       "url": "https://github.com/deeplethe/solid-glass",
       "created_at": "2026-10-12T09:19:02Z"
     },
     {
-      "name": "zhuyansen/new-term-radar",
-      "stars": 1066,
-      "language": "Python",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, Gi",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "created_at": "2026-10-12T07:11:01Z"
+      "name": "chenglou/handwired",
+      "stars": 1681,
+      "language": "TypeScript",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "created_at": "2026-10-15T02:15:09Z"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "stars": 1269,
+      "language": "C++",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "created_at": "2026-10-15T00:17:23Z"
     },
     {
       "name": "feder-cr/git-ai",
-      "stars": 1064,
+      "stars": 1139,
       "language": "Go",
       "description": "Git designed for AI agents.",
       "url": "https://github.com/feder-cr/git-ai",
       "created_at": "2026-10-15T13:12:02Z"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "stars": 1137,
+      "language": "TypeScript",
+      "description": "\u57fa\u4e8e REA \u6df1\u5ea6\u62c6\u89e3\u5e76\u9ad8\u4fdd\u771f\u8fd8\u539f Claude \u5b98\u65b9\u684c\u9762\u7aef UI\u3002\u8fd8\u539f 30 \u4e2a\u72ec\u7acb React \u7ec4\u4ef6\u4e0e 8 \u9879\u786c\u6838\u4ea4\u4e92\u7269\u7406\u7b97\u6cd5\uff0c\u9644\u5e26 3000+ \u884c\u9006\u5411\u5206\u6790\u624b\u518c\u3002",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "created_at": "2026-10-14T14:05:05Z"
+    },
+    {
+      "name": "zhuyansen/new-term-radar",
+      "stars": 1083,
+      "language": "Python",
+      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, Gi",
+      "url": "https://github.com/zhuyansen/new-term-radar",
+      "created_at": "2026-10-12T07:11:01Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Tesla Roadster",
-      "url": "https://www.tesla.com/roadster",
-      "score": 1212,
-      "comments": 2187,
-      "by": "shekhar101",
-      "hn_url": "https://news.ycombinator.com/item?id=50112657"
+      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
+      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
+      "score": 189,
+      "comments": 89,
+      "by": "DeepLogin",
+      "hn_url": "https://news.ycombinator.com/item?id=50136881"
     },
     {
-      "title": "Llama.cpp on a jailbroken PS5: run any GGUF model natively on the console",
-      "url": "https://github.com/cobanov/PS5LM",
-      "score": 207,
-      "comments": 54,
-      "by": "Anon84",
-      "hn_url": "https://news.ycombinator.com/item?id=50122431"
+      "title": "Bleached corals thrive within days when touching healthy neighbour",
+      "url": "https://www.nature.com/articles/d41586-026-03266-x",
+      "score": 334,
+      "comments": 72,
+      "by": "alkyon",
+      "hn_url": "https://news.ycombinator.com/item?id=50126253"
     },
     {
-      "title": "Claude reveals ECDSA curve origins",
-      "url": "https://www.anthropic.com/research/ecdsa-curve-origins",
-      "score": 696,
-      "comments": 274,
-      "by": "ahlCVA",
-      "hn_url": "https://news.ycombinator.com/item?id=50122800"
+      "title": "Dam removals are bringing fish back across the northeastern United States",
+      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
+      "score": 209,
+      "comments": 55,
+      "by": "sohkamyung",
+      "hn_url": "https://news.ycombinator.com/item?id=50126312"
     },
     {
-      "title": "FLUX 3 Image Klein",
-      "url": "https://bfl.ai/blog/flux-3-image-klein",
-      "score": 117,
-      "comments": 29,
-      "by": "gmays",
-      "hn_url": "https://news.ycombinator.com/item?id=50123580"
+      "title": "DeepSeek-v4.1-Flash-1017",
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "score": 710,
+      "comments": 592,
+      "by": "theykk",
+      "hn_url": "https://news.ycombinator.com/item?id=50129045"
     },
     {
-      "title": "You could have invented transformers from memory",
-      "url": "https://alexwang.ai/posts/associative-memory/",
-      "score": 157,
-      "comments": 42,
-      "by": "speckx",
-      "hn_url": "https://news.ycombinator.com/item?id=50122878"
+      "title": "Furifont, a Japanese font that shows furigana",
+      "url": "https://furifont.antfu.me/",
+      "score": 274,
+      "comments": 58,
+      "by": "plaguna",
+      "hn_url": "https://news.ycombinator.com/item?id=50100994"
     },
     {
-      "title": "Waymo in Toronto",
-      "url": "https://waymo.com/blog/2026/10/waymo-in-toronto/",
-      "score": 276,
-      "comments": 390,
-      "by": "ChrisArchitect",
-      "hn_url": "https://news.ycombinator.com/item?id=50118981"
+      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
+      "url": "https://pele.run/",
+      "score": 249,
+      "comments": 26,
+      "by": "dchest",
+      "hn_url": "https://news.ycombinator.com/item?id=50132193"
     },
     {
-      "title": "eBay Restricts Listings of Radio Equipment, but Exempts Ham-Band-Only Gear",
-      "url": "https://www.arrl.org/arrlletterissue?issue=2026-10-15#eBay-Restricts-Listings-of-Radio-Equipment_-But-Exempts-Ham-Band-Only-Gear",
-      "score": 177,
-      "comments": 142,
-      "by": "7402",
-      "hn_url": "https://news.ycombinator.com/item?id=50122034"
+      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
+      "url": "https://github.com/antirez/c64-hw-simulator",
+      "score": 146,
+      "comments": 24,
+      "by": "antirez",
+      "hn_url": "https://news.ycombinator.com/item?id=50100366"
     },
     {
-      "title": "Wireless magnetic millirobots that deliver medicine inside the beating heart",
-      "url": "https://hub.jhu.edu/2026/10/12/magnetic-millirobots-cardiac-treatment/",
-      "score": 71,
-      "comments": 8,
-      "by": "giuliomagnifico",
-      "hn_url": "https://news.ycombinator.com/item?id=50083673"
+      "title": "Making chicken transparent using Dorito dust",
+      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
+      "score": 259,
+      "comments": 67,
+      "by": "crescit_eundo",
+      "hn_url": "https://news.ycombinator.com/item?id=50131213"
     },
     {
-      "title": "Designing more efficient quantum circuits with Claude",
-      "url": "https://www.anthropic.com/research/designing-efficient-quantum-circuits",
-      "score": 105,
-      "comments": 20,
-      "by": "pretext",
-      "hn_url": "https://news.ycombinator.com/item?id=50121939"
+      "title": "NY announces game ownership bill requiring ownership rather than licensing",
+      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
+      "score": 57,
+      "comments": 13,
+      "by": "guiambros",
+      "hn_url": "https://news.ycombinator.com/item?id=50136536"
+    },
+    {
+      "title": "Gold is now the top U.S. export",
+      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
+      "score": 246,
+      "comments": 127,
+      "by": "iamnothere",
+      "hn_url": "https://news.ycombinator.com/item?id=50132870"
     }
   ]
 }
