@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-19T02:33:04.809543",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "Arekejoker/qwen21-nsfw-pose-skill",
+      "stars": 2920,
+      "language": "Python",
+      "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cur",
+      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
+      "created_at": "2026-10-13T03:09:42Z"
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "stars": 2305,
+      "language": "Go",
+      "description": "Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "created_at": "2026-10-15T13:12:02Z"
+    },
+    {
+      "name": "HeyPuter/everything",
+      "stars": 2225,
+      "language": "JavaScript",
+      "description": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
+      "url": "https://github.com/HeyPuter/everything",
+      "created_at": "2026-10-13T16:18:22Z"
+    },
+    {
+      "name": "Gathin23/tv-vibehack",
+      "stars": 2159,
+      "language": "Java",
+      "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher.",
+      "url": "https://github.com/Gathin23/tv-vibehack",
+      "created_at": "2026-10-17T08:12:35Z"
+    },
+    {
+      "name": "ahwootech/BRUTAL",
+      "stars": 1906,
+      "language": "C#",
+      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native ",
+      "url": "https://github.com/ahwootech/BRUTAL",
+      "created_at": "2026-10-14T19:33:56Z"
+    },
+    {
+      "name": "chenglou/handwired",
+      "stars": 1734,
+      "language": "TypeScript",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "created_at": "2026-10-15T02:15:09Z"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "stars": 1459,
+      "language": "C++",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "created_at": "2026-10-15T00:17:23Z"
+    },
+    {
+      "name": "Caho1/open-claude-ui",
+      "stars": 1210,
+      "language": "TypeScript",
+      "description": "\u57fa\u4e8e REA \u6df1\u5ea6\u62c6\u89e3\u5e76\u9ad8\u4fdd\u771f\u8fd8\u539f Claude \u5b98\u65b9\u684c\u9762\u7aef UI\u3002\u8fd8\u539f 30 \u4e2a\u72ec\u7acb React \u7ec4\u4ef6\u4e0e 8 \u9879\u786c\u6838\u4ea4\u4e92\u7269\u7406\u7b97\u6cd5\uff0c\u9644\u5e26 3000+ \u884c\u9006\u5411\u5206\u6790\u624b\u518c\u3002",
+      "url": "https://github.com/Caho1/open-claude-ui",
+      "created_at": "2026-10-14T14:05:05Z"
+    },
+    {
+      "name": "outcrawlai/scout",
+      "stars": 945,
+      "language": "TypeScript",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own reposi",
+      "url": "https://github.com/outcrawlai/scout",
+      "created_at": "2026-10-13T09:18:55Z"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "stars": 890,
+      "language": "C",
+      "description": "No description",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "created_at": "2026-10-17T19:52:00Z"
+    }
+  ]
+}

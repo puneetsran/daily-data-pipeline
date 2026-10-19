@@ -1,49 +1,49 @@
 {
-  "updated_at": "2026-10-18 02:17 UTC",
+  "updated_at": "2026-10-19 02:33 UTC",
   "github_trending": [
     {
-      "name": "jhaizhou-ops/d2r-mobile",
-      "stars": 3717,
-      "language": "C",
-      "description": "Open-source iOS / macOS compatibility layer for Diablo II: Resurrected with the Reign of the Warlock",
-      "url": "https://github.com/jhaizhou-ops/d2r-mobile",
-      "created_at": "2026-10-12T08:41:19Z"
-    },
-    {
       "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 2647,
+      "stars": 2920,
       "language": "Python",
       "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cur",
       "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
       "created_at": "2026-10-13T03:09:42Z"
     },
     {
+      "name": "feder-cr/git-ai",
+      "stars": 2305,
+      "language": "Go",
+      "description": "Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "created_at": "2026-10-15T13:12:02Z"
+    },
+    {
       "name": "HeyPuter/everything",
-      "stars": 2059,
+      "stars": 2225,
       "language": "JavaScript",
       "description": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
       "url": "https://github.com/HeyPuter/everything",
       "created_at": "2026-10-13T16:18:22Z"
     },
     {
+      "name": "Gathin23/tv-vibehack",
+      "stars": 2159,
+      "language": "Java",
+      "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher.",
+      "url": "https://github.com/Gathin23/tv-vibehack",
+      "created_at": "2026-10-17T08:12:35Z"
+    },
+    {
       "name": "ahwootech/BRUTAL",
-      "stars": 1798,
+      "stars": 1906,
       "language": "C#",
       "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native ",
       "url": "https://github.com/ahwootech/BRUTAL",
       "created_at": "2026-10-14T19:33:56Z"
     },
     {
-      "name": "deeplethe/solid-glass",
-      "stars": 1747,
-      "language": "TypeScript",
-      "description": "A design system for AI applications. Material, physical, tactile, technical.",
-      "url": "https://github.com/deeplethe/solid-glass",
-      "created_at": "2026-10-12T09:19:02Z"
-    },
-    {
       "name": "chenglou/handwired",
-      "stars": 1681,
+      "stars": 1734,
       "language": "TypeScript",
       "description": "Turn your regular JavaScript code into a neural net.",
       "url": "https://github.com/chenglou/handwired",
@@ -51,117 +51,117 @@
     },
     {
       "name": "Supermedo/uncharted_pc",
-      "stars": 1269,
+      "stars": 1459,
       "language": "C++",
       "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "url": "https://github.com/Supermedo/uncharted_pc",
       "created_at": "2026-10-15T00:17:23Z"
     },
     {
-      "name": "feder-cr/git-ai",
-      "stars": 1139,
-      "language": "Go",
-      "description": "Git designed for AI agents.",
-      "url": "https://github.com/feder-cr/git-ai",
-      "created_at": "2026-10-15T13:12:02Z"
-    },
-    {
       "name": "Caho1/open-claude-ui",
-      "stars": 1137,
+      "stars": 1210,
       "language": "TypeScript",
       "description": "\u57fa\u4e8e REA \u6df1\u5ea6\u62c6\u89e3\u5e76\u9ad8\u4fdd\u771f\u8fd8\u539f Claude \u5b98\u65b9\u684c\u9762\u7aef UI\u3002\u8fd8\u539f 30 \u4e2a\u72ec\u7acb React \u7ec4\u4ef6\u4e0e 8 \u9879\u786c\u6838\u4ea4\u4e92\u7269\u7406\u7b97\u6cd5\uff0c\u9644\u5e26 3000+ \u884c\u9006\u5411\u5206\u6790\u624b\u518c\u3002",
       "url": "https://github.com/Caho1/open-claude-ui",
       "created_at": "2026-10-14T14:05:05Z"
     },
     {
-      "name": "zhuyansen/new-term-radar",
-      "stars": 1083,
-      "language": "Python",
-      "description": "Daily radar for new AI terms: names of new models, products and repos, caught on X, Hugging Face, Gi",
-      "url": "https://github.com/zhuyansen/new-term-radar",
-      "created_at": "2026-10-12T07:11:01Z"
+      "name": "outcrawlai/scout",
+      "stars": 945,
+      "language": "TypeScript",
+      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own reposi",
+      "url": "https://github.com/outcrawlai/scout",
+      "created_at": "2026-10-13T09:18:55Z"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "stars": 890,
+      "language": "C",
+      "description": "No description",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "created_at": "2026-10-17T19:52:00Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Zuckerberg's Meta Takes Down No Kings Instagram During Protest Day",
-      "url": "https://meidasnews.com/news/zuckerbergs-meta-takes-down-no-kings-instagram-during-massive-protest-day",
-      "score": 189,
-      "comments": 89,
-      "by": "DeepLogin",
-      "hn_url": "https://news.ycombinator.com/item?id=50136881"
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 229,
+      "comments": 139,
+      "by": "allinonai",
+      "hn_url": "https://news.ycombinator.com/item?id=50145337"
     },
     {
-      "title": "Bleached corals thrive within days when touching healthy neighbour",
-      "url": "https://www.nature.com/articles/d41586-026-03266-x",
-      "score": 334,
-      "comments": 72,
-      "by": "alkyon",
-      "hn_url": "https://news.ycombinator.com/item?id=50126253"
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "score": 76,
+      "comments": 5,
+      "by": "Eric_Gullichsen",
+      "hn_url": "https://news.ycombinator.com/item?id=50146625"
     },
     {
-      "title": "Dam removals are bringing fish back across the northeastern United States",
-      "url": "https://www.smithsonianmag.com/science-nature/dam-removals-are-bringing-fish-back-across-the-northeastern-united-states-striking-down-one-tiny-barrier-at-a-time-180989679/",
-      "score": 209,
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 185,
+      "comments": 177,
+      "by": "mdp2021",
+      "hn_url": "https://news.ycombinator.com/item?id=50136150"
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "score": 43,
+      "comments": 31,
+      "by": "amrrs",
+      "hn_url": "https://news.ycombinator.com/item?id=50145507"
+    },
+    {
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "score": 324,
+      "comments": 137,
+      "by": "tosh",
+      "hn_url": "https://news.ycombinator.com/item?id=50142573"
+    },
+    {
+      "title": "Laptop Based on 6502 CPU",
+      "url": "https://www.maddox.pro/?p=448",
+      "score": 39,
+      "comments": 15,
+      "by": "nanochess",
+      "hn_url": "https://news.ycombinator.com/item?id=50111537"
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 116,
+      "comments": 23,
+      "by": "sysrpl",
+      "hn_url": "https://news.ycombinator.com/item?id=50144066"
+    },
+    {
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 335,
       "comments": 55,
-      "by": "sohkamyung",
-      "hn_url": "https://news.ycombinator.com/item?id=50126312"
+      "by": "RobotToaster",
+      "hn_url": "https://news.ycombinator.com/item?id=50141076"
     },
     {
-      "title": "DeepSeek-v4.1-Flash-1017",
-      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
-      "score": 710,
-      "comments": 592,
-      "by": "theykk",
-      "hn_url": "https://news.ycombinator.com/item?id=50129045"
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "score": 48,
+      "comments": 34,
+      "by": "zoozla",
+      "hn_url": "https://news.ycombinator.com/item?id=50145715"
     },
     {
-      "title": "Furifont, a Japanese font that shows furigana",
-      "url": "https://furifont.antfu.me/",
-      "score": 274,
-      "comments": 58,
-      "by": "plaguna",
-      "hn_url": "https://news.ycombinator.com/item?id=50100994"
-    },
-    {
-      "title": "Pele \u2013 Mermaid diagrams as themeable SVG",
-      "url": "https://pele.run/",
-      "score": 249,
-      "comments": 26,
-      "by": "dchest",
-      "hn_url": "https://news.ycombinator.com/item?id=50132193"
-    },
-    {
-      "title": "The Commodore 64 hardware simulator: break chips and pins, see the results",
-      "url": "https://github.com/antirez/c64-hw-simulator",
-      "score": 146,
-      "comments": 24,
-      "by": "antirez",
-      "hn_url": "https://news.ycombinator.com/item?id=50100366"
-    },
-    {
-      "title": "Making chicken transparent using Dorito dust",
-      "url": "https://chillphysicsenjoyer.substack.com/p/making-chicken-transparent-using",
-      "score": 259,
-      "comments": 67,
-      "by": "crescit_eundo",
-      "hn_url": "https://news.ycombinator.com/item?id=50131213"
-    },
-    {
-      "title": "NY announces game ownership bill requiring ownership rather than licensing",
-      "url": "https://www.tomshardware.com/video-games/new-york-rep-announces-game-ownership-bill-that-would-require-consumer-ownership-rather-than-sale-of-licenses-would-also-require-publishers-to-keep-the-game-functional-after-support-ends",
-      "score": 57,
-      "comments": 13,
-      "by": "guiambros",
-      "hn_url": "https://news.ycombinator.com/item?id=50136536"
-    },
-    {
-      "title": "Gold is now the top U.S. export",
-      "url": "https://www.numismaticnews.net/gold-now-top-u-s-export",
-      "score": 246,
-      "comments": 127,
-      "by": "iamnothere",
-      "hn_url": "https://news.ycombinator.com/item?id=50132870"
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "score": 137,
+      "comments": 83,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=50136979"
     }
   ]
 }

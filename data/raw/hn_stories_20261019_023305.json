@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-19T02:33:05.748251",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
+      "url": "https://arxiv.org/abs/2610.18861",
+      "score": 229,
+      "comments": 139,
+      "by": "allinonai",
+      "hn_url": "https://news.ycombinator.com/item?id=50145337"
+    },
+    {
+      "title": "William Gibson and the trademarking of cyberspace",
+      "url": "https://colo.to/cyberspace.html",
+      "score": 76,
+      "comments": 5,
+      "by": "Eric_Gullichsen",
+      "hn_url": "https://news.ycombinator.com/item?id=50146625"
+    },
+    {
+      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
+      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
+      "score": 185,
+      "comments": 177,
+      "by": "mdp2021",
+      "hn_url": "https://news.ycombinator.com/item?id=50136150"
+    },
+    {
+      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
+      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
+      "score": 43,
+      "comments": 31,
+      "by": "amrrs",
+      "hn_url": "https://news.ycombinator.com/item?id=50145507"
+    },
+    {
+      "title": "Someone behind the software",
+      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
+      "score": 324,
+      "comments": 137,
+      "by": "tosh",
+      "hn_url": "https://news.ycombinator.com/item?id=50142573"
+    },
+    {
+      "title": "Laptop Based on 6502 CPU",
+      "url": "https://www.maddox.pro/?p=448",
+      "score": 39,
+      "comments": 15,
+      "by": "nanochess",
+      "hn_url": "https://news.ycombinator.com/item?id=50111537"
+    },
+    {
+      "title": "Free Pascal compiler now supports dynamic packages",
+      "url": "https://www.getlazarus.org/dynamic/",
+      "score": 116,
+      "comments": 23,
+      "by": "sysrpl",
+      "hn_url": "https://news.ycombinator.com/item?id=50144066"
+    },
+    {
+      "title": "RepRapMicron",
+      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
+      "score": 335,
+      "comments": 55,
+      "by": "RobotToaster",
+      "hn_url": "https://news.ycombinator.com/item?id=50141076"
+    },
+    {
+      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
+      "url": "https://github.com/finereli/whatsapp-mcp",
+      "score": 48,
+      "comments": 34,
+      "by": "zoozla",
+      "hn_url": "https://news.ycombinator.com/item?id=50145715"
+    },
+    {
+      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
+      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
+      "score": 137,
+      "comments": 83,
+      "by": "gmays",
+      "hn_url": "https://news.ycombinator.com/item?id=50136979"
+    }
+  ]
+}
