@@ -1,49 +1,41 @@
 {
-  "updated_at": "2026-10-19 02:33 UTC",
+  "updated_at": "2026-10-20 02:45 UTC",
   "github_trending": [
     {
-      "name": "Arekejoker/qwen21-nsfw-pose-skill",
-      "stars": 2920,
-      "language": "Python",
-      "description": "Qwen-Image 2.1 NSFW/\u59ff\u52bf\u51fa\u56fe skill\uff1a\u4f5c\u8005\u7ea7\u63d0\u793a\u8bcd\u914d\u65b9 + NSFW LoRA + 136 \u59ff\u52bf VNCCS \u4eba\u5076\u63a7\u5236\uff1b\u9002\u7528 Claude Code / Codex / Cur",
-      "url": "https://github.com/Arekejoker/qwen21-nsfw-pose-skill",
-      "created_at": "2026-10-13T03:09:42Z"
+      "name": "Gathin23/cleanyourtv",
+      "stars": 5798,
+      "language": "Java",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "created_at": "2026-10-17T08:12:35Z"
     },
     {
       "name": "feder-cr/git-ai",
-      "stars": 2305,
+      "stars": 2461,
       "language": "Go",
       "description": "Git designed for AI agents.",
       "url": "https://github.com/feder-cr/git-ai",
       "created_at": "2026-10-15T13:12:02Z"
     },
     {
-      "name": "HeyPuter/everything",
-      "stars": 2225,
-      "language": "JavaScript",
-      "description": "We're rebuilding and open-sourcing the world\u2019s software from scratch.",
-      "url": "https://github.com/HeyPuter/everything",
-      "created_at": "2026-10-13T16:18:22Z"
-    },
-    {
-      "name": "Gathin23/tv-vibehack",
-      "stars": 2159,
-      "language": "Java",
-      "description": "Your TV, minus the ads. Debloat any Android TV over ADB and give it a clean, tvOS-inspired launcher.",
-      "url": "https://github.com/Gathin23/tv-vibehack",
-      "created_at": "2026-10-17T08:12:35Z"
-    },
-    {
       "name": "ahwootech/BRUTAL",
-      "stars": 1906,
+      "stars": 1998,
       "language": "C#",
       "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native ",
       "url": "https://github.com/ahwootech/BRUTAL",
       "created_at": "2026-10-14T19:33:56Z"
     },
     {
+      "name": "ly05010419/MacNativeGames",
+      "stars": 1850,
+      "language": "C",
+      "description": "No description",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "created_at": "2026-10-17T19:52:00Z"
+    },
+    {
       "name": "chenglou/handwired",
-      "stars": 1734,
+      "stars": 1816,
       "language": "TypeScript",
       "description": "Turn your regular JavaScript code into a neural net.",
       "url": "https://github.com/chenglou/handwired",
@@ -51,117 +43,125 @@
     },
     {
       "name": "Supermedo/uncharted_pc",
-      "stars": 1459,
+      "stars": 1595,
       "language": "C++",
       "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "url": "https://github.com/Supermedo/uncharted_pc",
       "created_at": "2026-10-15T00:17:23Z"
     },
     {
+      "name": "Leonxlnx/earshot",
+      "stars": 1572,
+      "language": "Python",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "created_at": "2026-10-15T06:52:46Z"
+    },
+    {
       "name": "Caho1/open-claude-ui",
-      "stars": 1210,
+      "stars": 1255,
       "language": "TypeScript",
       "description": "\u57fa\u4e8e REA \u6df1\u5ea6\u62c6\u89e3\u5e76\u9ad8\u4fdd\u771f\u8fd8\u539f Claude \u5b98\u65b9\u684c\u9762\u7aef UI\u3002\u8fd8\u539f 30 \u4e2a\u72ec\u7acb React \u7ec4\u4ef6\u4e0e 8 \u9879\u786c\u6838\u4ea4\u4e92\u7269\u7406\u7b97\u6cd5\uff0c\u9644\u5e26 3000+ \u884c\u9006\u5411\u5206\u6790\u624b\u518c\u3002",
       "url": "https://github.com/Caho1/open-claude-ui",
       "created_at": "2026-10-14T14:05:05Z"
     },
     {
-      "name": "outcrawlai/scout",
-      "stars": 945,
-      "language": "TypeScript",
-      "description": "Scout: the open-source browser agent, by Outcrawl. Mirrored automatically from Outcrawl's own reposi",
-      "url": "https://github.com/outcrawlai/scout",
-      "created_at": "2026-10-13T09:18:55Z"
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "stars": 1007,
+      "language": "Python",
+      "description": "\u4e2d\u5c0f\u5b66\u6570\u5b66\u77e5\u8bc6\u56fe\u8c31 + \u524d\u7f6e\u8bca\u65ad\uff1a\u8bfe\u6807\u5bf9\u9f50\u3001\u4eba\u6559\u7248\u4e00\u2013\u4e5d\u5e74\u7ea7\u3001531 \u77e5\u8bc6\u70b9\u30012271 \u9898\u3001\u81ea\u9002\u5e94\u8bca\u65ad",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "created_at": "2026-10-18T09:04:43Z"
     },
     {
-      "name": "ly05010419/MacNativeGames",
-      "stars": 890,
-      "language": "C",
-      "description": "No description",
-      "url": "https://github.com/ly05010419/MacNativeGames",
-      "created_at": "2026-10-17T19:52:00Z"
+      "name": "aicodeking/leanrea",
+      "stars": 1003,
+      "language": "Python",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ",
+      "url": "https://github.com/aicodeking/leanrea",
+      "created_at": "2026-10-17T02:53:24Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Hybrid Reasoning Agents: LLM agents that think in latent space, act through text",
-      "url": "https://arxiv.org/abs/2610.18861",
-      "score": 229,
-      "comments": 139,
-      "by": "allinonai",
-      "hn_url": "https://news.ycombinator.com/item?id=50145337"
+      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
+      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
+      "score": 154,
+      "comments": 70,
+      "by": "jumpocelot",
+      "hn_url": "https://news.ycombinator.com/item?id=50159993"
     },
     {
-      "title": "William Gibson and the trademarking of cyberspace",
-      "url": "https://colo.to/cyberspace.html",
-      "score": 76,
-      "comments": 5,
-      "by": "Eric_Gullichsen",
-      "hn_url": "https://news.ycombinator.com/item?id=50146625"
+      "title": "MiniMax M3.1 Flash",
+      "url": "https://www.minimax.io/blog/minimax-m31f",
+      "score": 394,
+      "comments": 168,
+      "by": "jtg",
+      "hn_url": "https://news.ycombinator.com/item?id=50154540"
     },
     {
-      "title": "There's never been a better time to go into math (by: 3blue1brown) [video]",
-      "url": "https://www.youtube.com/watch?v=LKrwhjOI8Nc",
-      "score": 185,
-      "comments": 177,
-      "by": "mdp2021",
-      "hn_url": "https://news.ycombinator.com/item?id=50136150"
+      "title": "I built a drone with only one motor [video]",
+      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
+      "score": 416,
+      "comments": 91,
+      "by": "hakonjdjohnsen",
+      "hn_url": "https://news.ycombinator.com/item?id=50150089"
     },
     {
-      "title": "If you don't run your own LLM proxy, how do you know whats going on?",
-      "url": "https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on/",
-      "score": 43,
-      "comments": 31,
-      "by": "amrrs",
-      "hn_url": "https://news.ycombinator.com/item?id=50145507"
+      "title": "Wine ported to OpenBSD",
+      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
+      "score": 511,
+      "comments": 172,
+      "by": "iamnothere",
+      "hn_url": "https://news.ycombinator.com/item?id=50152307"
     },
     {
-      "title": "Someone behind the software",
-      "url": "https://karrisaarinen.com/posts/someone-behind-the-software/",
-      "score": 324,
-      "comments": 137,
-      "by": "tosh",
-      "hn_url": "https://news.ycombinator.com/item?id=50142573"
+      "title": "Weball: Play Katamari on Websites",
+      "url": "https://www.funwithcomputervision.com/weball/",
+      "score": 85,
+      "comments": 4,
+      "by": "croes",
+      "hn_url": "https://news.ycombinator.com/item?id=50140584"
     },
     {
-      "title": "Laptop Based on 6502 CPU",
-      "url": "https://www.maddox.pro/?p=448",
-      "score": 39,
-      "comments": 15,
-      "by": "nanochess",
-      "hn_url": "https://news.ycombinator.com/item?id=50111537"
+      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
+      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
+      "score": 53,
+      "comments": 4,
+      "by": "ds",
+      "hn_url": "https://news.ycombinator.com/item?id=50159341"
     },
     {
-      "title": "Free Pascal compiler now supports dynamic packages",
-      "url": "https://www.getlazarus.org/dynamic/",
-      "score": 116,
-      "comments": 23,
-      "by": "sysrpl",
-      "hn_url": "https://news.ycombinator.com/item?id=50144066"
+      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
+      "url": "https://bsd.network/@brynet/117407035545900963",
+      "score": 99,
+      "comments": 21,
+      "by": "doener",
+      "hn_url": "https://news.ycombinator.com/item?id=50158138"
     },
     {
-      "title": "RepRapMicron",
-      "url": "https://github.com/VikOlliver/RepRapMicron/wiki",
-      "score": 335,
-      "comments": 55,
-      "by": "RobotToaster",
-      "hn_url": "https://news.ycombinator.com/item?id=50141076"
+      "title": "RuneScape Bench: MMOs for Agents [video]",
+      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
+      "score": 165,
+      "comments": 64,
+      "by": "evakhoury",
+      "hn_url": "https://news.ycombinator.com/item?id=50136126"
     },
     {
-      "title": "Show HN: WhatsApp MCP running free on Cloudflare",
-      "url": "https://github.com/finereli/whatsapp-mcp",
-      "score": 48,
-      "comments": 34,
-      "by": "zoozla",
-      "hn_url": "https://news.ycombinator.com/item?id=50145715"
+      "title": "It's still ok to enjoy programming",
+      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
+      "score": 464,
+      "comments": 427,
+      "by": "goostavos",
+      "hn_url": "https://news.ycombinator.com/item?id=50134472"
     },
     {
-      "title": "Dogs seem to agree with humans that 'bouba' is round and 'kiki' is spiky",
-      "url": "https://www.sciencealert.com/dogs-seem-to-agree-with-humans-that-bouba-is-round-and-kiki-is-spiky",
-      "score": 137,
-      "comments": 83,
-      "by": "gmays",
-      "hn_url": "https://news.ycombinator.com/item?id=50136979"
+      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
+      "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
+      "score": 9,
+      "comments": 2,
+      "by": "hnburnsy",
+      "hn_url": "https://news.ycombinator.com/item?id=50160289"
     }
   ]
 }
