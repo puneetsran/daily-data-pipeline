@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-20 02:45:44 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-21 02:39:42 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 5,798 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| [feder-cr/git-ai](https://github.com/feder-cr/git-ai) | 2,461 | Go | Git designed for AI agents. |
-| [ahwootech/BRUTAL](https://github.com/ahwootech/BRUTAL) | 1,998 | C# | A free, open source C# framework for making games, or your own game engine. Dire... |
-| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 1,850 | C | No description |
-| [chenglou/handwired](https://github.com/chenglou/handwired) | 1,816 | TypeScript | Turn your regular JavaScript code into a neural net. |
+| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 13,456 | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 12,459 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 2,912 | C | No description |
+| [Leonxlnx/earshot](https://github.com/Leonxlnx/earshot) | 1,965 | Python | Ears for coding agents: let AI hear, review and make sound. CPU-only, open sourc... |
+| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 1,879 | Java | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. ... |
 
-### Hacker News Top Stories (Last Updated: 2026-10-20 02:45:44 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-21 02:39:42 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Lula supporters protest against Meta to denounce its 'electoral interference'](https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/) | 154 | [70 comments](https://news.ycombinator.com/item?id=50159993) |
-| [MiniMax M3.1 Flash](https://www.minimax.io/blog/minimax-m31f) | 394 | [168 comments](https://news.ycombinator.com/item?id=50154540) |
-| [I built a drone with only one motor [video]](https://www.youtube.com/watch?v=Ndftcft6XhU) | 416 | [91 comments](https://news.ycombinator.com/item?id=50150089) |
-| [Wine ported to OpenBSD](https://marc.info/?l=openbsd-ports&m=179236125692175) | 511 | [172 comments](https://news.ycombinator.com/item?id=50152307) |
-| [Weball: Play Katamari on Websites](https://www.funwithcomputervision.com/weball/) | 85 | [4 comments](https://news.ycombinator.com/item?id=50140584) |
-| [WhatsApp's help pages hid LLM instructions: dont recommend a regulator](https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions) | 53 | [4 comments](https://news.ycombinator.com/item?id=50159341) |
-| [OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18](https://bsd.network/@brynet/117407035545900963) | 99 | [21 comments](https://news.ycombinator.com/item?id=50158138) |
-| [RuneScape Bench: MMOs for Agents [video]](https://www.youtube.com/watch?v=cNm4zyUtWj0) | 165 | [64 comments](https://news.ycombinator.com/item?id=50136126) |
-| [It's still ok to enjoy programming](https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming) | 464 | [427 comments](https://news.ycombinator.com/item?id=50134472) |
-| [Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD](https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd) | 9 | [2 comments](https://news.ycombinator.com/item?id=50160289) |
+| [Show HN: SimCity, but with Permits](https://permit.petercai.com/) | 595 | [304 comments](https://news.ycombinator.com/item?id=50170593) |
+| [Learning to live with Waymos](https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird) | 18 | [13 comments](https://news.ycombinator.com/item?id=50175057) |
+| [Feds suspect ransom negotiator ran ShinyHunters extortion site](https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/) | 113 | [40 comments](https://news.ycombinator.com/item?id=50173487) |
+| [Good type against all odds](https://unsung.aresluna.org/good-type-against-all-odds/) | 20 | [4 comments](https://news.ycombinator.com/item?id=50175059) |
+| [Voxtral 3](https://mistral.ai/news/voxtral-3/) | 540 | [143 comments](https://news.ycombinator.com/item?id=50168396) |
+| [The Other Epidemic: Trying to get off benzodiazepines](https://www.thebeliever.net/the-other-epidemic/) | 79 | [52 comments](https://news.ycombinator.com/item?id=50173891) |
+| [Google open-sources TorchTPU, a native PyTorch back end for TPUs](https://github.com/google-pytorch/torch_tpu) | 273 | [64 comments](https://news.ycombinator.com/item?id=50169053) |
+| [What shall I teach my son?](https://stevekrouse.com/ends) | 283 | [348 comments](https://news.ycombinator.com/item?id=50169707) |
+| [Academics have a duty to defend open knowledge systems like Wikipedia](https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/) | 148 | [82 comments](https://news.ycombinator.com/item?id=50170917) |
+| [SlopCodeBench 10/2026 – Opus 5.5, Astra wins overall, xhigh considered harmful](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md) | 183 | [81 comments](https://news.ycombinator.com/item?id=50108717) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 11.0°C (53.0°F) |
-| Average Humidity | 76% |
+| Average Temperature | 12.0°C (54.0°F) |
+| Average Humidity | 69% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-20 02:45:44 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-21 02:39:42 UTC*

@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-21T02:39:40.396046",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 595,
+      "comments": 304,
+      "by": "pcai",
+      "hn_url": "https://news.ycombinator.com/item?id=50170593"
+    },
+    {
+      "title": "Learning to live with Waymos",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "score": 18,
+      "comments": 13,
+      "by": "njrc",
+      "hn_url": "https://news.ycombinator.com/item?id=50175057"
+    },
+    {
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 113,
+      "comments": 40,
+      "by": "Bender",
+      "hn_url": "https://news.ycombinator.com/item?id=50173487"
+    },
+    {
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "score": 20,
+      "comments": 4,
+      "by": "firloop",
+      "hn_url": "https://news.ycombinator.com/item?id=50175059"
+    },
+    {
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 540,
+      "comments": 143,
+      "by": "ilreb",
+      "hn_url": "https://news.ycombinator.com/item?id=50168396"
+    },
+    {
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 79,
+      "comments": 52,
+      "by": "gaplong",
+      "hn_url": "https://news.ycombinator.com/item?id=50173891"
+    },
+    {
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "score": 273,
+      "comments": 64,
+      "by": "ilreb",
+      "hn_url": "https://news.ycombinator.com/item?id=50169053"
+    },
+    {
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "score": 283,
+      "comments": 348,
+      "by": "Curiositry",
+      "hn_url": "https://news.ycombinator.com/item?id=50169707"
+    },
+    {
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "score": 148,
+      "comments": 82,
+      "by": "jruohonen",
+      "hn_url": "https://news.ycombinator.com/item?id=50170917"
+    },
+    {
+      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "score": 183,
+      "comments": 81,
+      "by": "dhorthy",
+      "hn_url": "https://news.ycombinator.com/item?id=50108717"
+    }
+  ]
+}

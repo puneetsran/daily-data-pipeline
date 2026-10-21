@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-21T02:39:38.696072",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "deepseek-ai/DeepInfer",
+      "stars": 13456,
+      "language": "Python",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "created_at": "2026-10-16T07:47:23Z"
+    },
+    {
+      "name": "Gathin23/cleanyourtv",
+      "stars": 12459,
+      "language": "Java",
+      "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
+      "url": "https://github.com/Gathin23/cleanyourtv",
+      "created_at": "2026-10-17T08:12:35Z"
+    },
+    {
+      "name": "ly05010419/MacNativeGames",
+      "stars": 2912,
+      "language": "C",
+      "description": "No description",
+      "url": "https://github.com/ly05010419/MacNativeGames",
+      "created_at": "2026-10-17T19:52:00Z"
+    },
+    {
+      "name": "Leonxlnx/earshot",
+      "stars": 1965,
+      "language": "Python",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "created_at": "2026-10-15T06:52:46Z"
+    },
+    {
+      "name": "simbasjungles/free-my-tv",
+      "stars": 1879,
+      "language": "Java",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "created_at": "2026-10-19T19:29:01Z"
+    },
+    {
+      "name": "chenglou/handwired",
+      "stars": 1853,
+      "language": "TypeScript",
+      "description": "Turn your regular JavaScript code into a neural net.",
+      "url": "https://github.com/chenglou/handwired",
+      "created_at": "2026-10-15T02:15:09Z"
+    },
+    {
+      "name": "Supermedo/uncharted_pc",
+      "stars": 1730,
+      "language": "C++",
+      "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
+      "url": "https://github.com/Supermedo/uncharted_pc",
+      "created_at": "2026-10-15T00:17:23Z"
+    },
+    {
+      "name": "xiaoyang111222/cn-math-taxonomy",
+      "stars": 1626,
+      "language": "Python",
+      "description": "\u4e2d\u5c0f\u5b66\u77e5\u8bc6\u56fe\u8c31 + \u524d\u7f6e\u8bca\u65ad\uff1a\u6570\u5b66\uff08\u4e00\u2013\u4e5d\u5e74\u7ea7\u3001\u9ad8\u4e2d\u5fc5\u4fee\u4e0e\u9009\u62e9\u6027\u5fc5\u4fee\uff09+ \u82f1\u8bed\uff08\u5c0f\u5b66\u3001\u521d\u4e2d\uff09\uff0c\u8bfe\u6807\u5bf9\u9f50\u3001\u4eba\u6559\u7248\uff0c1244 \u77e5\u8bc6\u70b9\u30015123 \u9898\u3001\u81ea\u9002\u5e94\u8bca\u65ad",
+      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
+      "created_at": "2026-10-18T09:04:43Z"
+    },
+    {
+      "name": "feder-cr/git-ai",
+      "stars": 1279,
+      "language": "Go",
+      "description": "Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "created_at": "2026-10-15T13:12:02Z"
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "stars": 1183,
+      "language": "Python",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ",
+      "url": "https://github.com/aicodeking/leanrea",
+      "created_at": "2026-10-17T02:53:24Z"
+    }
+  ]
+}

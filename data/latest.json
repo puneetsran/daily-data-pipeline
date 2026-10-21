@@ -1,41 +1,49 @@
 {
-  "updated_at": "2026-10-20 02:45 UTC",
+  "updated_at": "2026-10-21 02:39 UTC",
   "github_trending": [
     {
+      "name": "deepseek-ai/DeepInfer",
+      "stars": 13456,
+      "language": "Python",
+      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
+      "url": "https://github.com/deepseek-ai/DeepInfer",
+      "created_at": "2026-10-16T07:47:23Z"
+    },
+    {
       "name": "Gathin23/cleanyourtv",
-      "stars": 5798,
+      "stars": 12459,
       "language": "Java",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "created_at": "2026-10-17T08:12:35Z"
     },
     {
-      "name": "feder-cr/git-ai",
-      "stars": 2461,
-      "language": "Go",
-      "description": "Git designed for AI agents.",
-      "url": "https://github.com/feder-cr/git-ai",
-      "created_at": "2026-10-15T13:12:02Z"
-    },
-    {
-      "name": "ahwootech/BRUTAL",
-      "stars": 1998,
-      "language": "C#",
-      "description": "A free, open source C# framework for making games, or your own game engine. Direct access to native ",
-      "url": "https://github.com/ahwootech/BRUTAL",
-      "created_at": "2026-10-14T19:33:56Z"
-    },
-    {
       "name": "ly05010419/MacNativeGames",
-      "stars": 1850,
+      "stars": 2912,
       "language": "C",
       "description": "No description",
       "url": "https://github.com/ly05010419/MacNativeGames",
       "created_at": "2026-10-17T19:52:00Z"
     },
     {
+      "name": "Leonxlnx/earshot",
+      "stars": 1965,
+      "language": "Python",
+      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
+      "url": "https://github.com/Leonxlnx/earshot",
+      "created_at": "2026-10-15T06:52:46Z"
+    },
+    {
+      "name": "simbasjungles/free-my-tv",
+      "stars": 1879,
+      "language": "Java",
+      "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
+      "url": "https://github.com/simbasjungles/free-my-tv",
+      "created_at": "2026-10-19T19:29:01Z"
+    },
+    {
       "name": "chenglou/handwired",
-      "stars": 1816,
+      "stars": 1853,
       "language": "TypeScript",
       "description": "Turn your regular JavaScript code into a neural net.",
       "url": "https://github.com/chenglou/handwired",
@@ -43,39 +51,31 @@
     },
     {
       "name": "Supermedo/uncharted_pc",
-      "stars": 1595,
+      "stars": 1730,
       "language": "C++",
       "description": "Uncharted: The Nathan Drake Collection running natively on Windows - by SuperMedo",
       "url": "https://github.com/Supermedo/uncharted_pc",
       "created_at": "2026-10-15T00:17:23Z"
     },
     {
-      "name": "Leonxlnx/earshot",
-      "stars": 1572,
-      "language": "Python",
-      "description": "Ears for coding agents: let AI hear, review and make sound. CPU-only, open source.",
-      "url": "https://github.com/Leonxlnx/earshot",
-      "created_at": "2026-10-15T06:52:46Z"
-    },
-    {
-      "name": "Caho1/open-claude-ui",
-      "stars": 1255,
-      "language": "TypeScript",
-      "description": "\u57fa\u4e8e REA \u6df1\u5ea6\u62c6\u89e3\u5e76\u9ad8\u4fdd\u771f\u8fd8\u539f Claude \u5b98\u65b9\u684c\u9762\u7aef UI\u3002\u8fd8\u539f 30 \u4e2a\u72ec\u7acb React \u7ec4\u4ef6\u4e0e 8 \u9879\u786c\u6838\u4ea4\u4e92\u7269\u7406\u7b97\u6cd5\uff0c\u9644\u5e26 3000+ \u884c\u9006\u5411\u5206\u6790\u624b\u518c\u3002",
-      "url": "https://github.com/Caho1/open-claude-ui",
-      "created_at": "2026-10-14T14:05:05Z"
-    },
-    {
       "name": "xiaoyang111222/cn-math-taxonomy",
-      "stars": 1007,
+      "stars": 1626,
       "language": "Python",
-      "description": "\u4e2d\u5c0f\u5b66\u6570\u5b66\u77e5\u8bc6\u56fe\u8c31 + \u524d\u7f6e\u8bca\u65ad\uff1a\u8bfe\u6807\u5bf9\u9f50\u3001\u4eba\u6559\u7248\u4e00\u2013\u4e5d\u5e74\u7ea7\u3001531 \u77e5\u8bc6\u70b9\u30012271 \u9898\u3001\u81ea\u9002\u5e94\u8bca\u65ad",
+      "description": "\u4e2d\u5c0f\u5b66\u77e5\u8bc6\u56fe\u8c31 + \u524d\u7f6e\u8bca\u65ad\uff1a\u6570\u5b66\uff08\u4e00\u2013\u4e5d\u5e74\u7ea7\u3001\u9ad8\u4e2d\u5fc5\u4fee\u4e0e\u9009\u62e9\u6027\u5fc5\u4fee\uff09+ \u82f1\u8bed\uff08\u5c0f\u5b66\u3001\u521d\u4e2d\uff09\uff0c\u8bfe\u6807\u5bf9\u9f50\u3001\u4eba\u6559\u7248\uff0c1244 \u77e5\u8bc6\u70b9\u30015123 \u9898\u3001\u81ea\u9002\u5e94\u8bca\u65ad",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "created_at": "2026-10-18T09:04:43Z"
     },
     {
+      "name": "feder-cr/git-ai",
+      "stars": 1279,
+      "language": "Go",
+      "description": "Git designed for AI agents.",
+      "url": "https://github.com/feder-cr/git-ai",
+      "created_at": "2026-10-15T13:12:02Z"
+    },
+    {
       "name": "aicodeking/leanrea",
-      "stars": 1003,
+      "stars": 1183,
       "language": "Python",
       "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ",
       "url": "https://github.com/aicodeking/leanrea",
@@ -84,84 +84,84 @@
   ],
   "hn_stories": [
     {
-      "title": "Lula supporters protest against Meta to denounce its 'electoral interference'",
-      "url": "https://efe.com/english/latest-news/2026-10-20/lula-supporters-protest-against-meta-to-denounce-its-electoral-interference/",
-      "score": 154,
-      "comments": 70,
-      "by": "jumpocelot",
-      "hn_url": "https://news.ycombinator.com/item?id=50159993"
+      "title": "Show HN: SimCity, but with Permits",
+      "url": "https://permit.petercai.com/",
+      "score": 595,
+      "comments": 304,
+      "by": "pcai",
+      "hn_url": "https://news.ycombinator.com/item?id=50170593"
     },
     {
-      "title": "MiniMax M3.1 Flash",
-      "url": "https://www.minimax.io/blog/minimax-m31f",
-      "score": 394,
-      "comments": 168,
-      "by": "jtg",
-      "hn_url": "https://news.ycombinator.com/item?id=50154540"
+      "title": "Learning to live with Waymos",
+      "url": "https://www.newyorker.com/magazine/2026/10/19/were-learning-to-live-with-waymos-its-going-weird",
+      "score": 18,
+      "comments": 13,
+      "by": "njrc",
+      "hn_url": "https://news.ycombinator.com/item?id=50175057"
     },
     {
-      "title": "I built a drone with only one motor [video]",
-      "url": "https://www.youtube.com/watch?v=Ndftcft6XhU",
-      "score": 416,
-      "comments": 91,
-      "by": "hakonjdjohnsen",
-      "hn_url": "https://news.ycombinator.com/item?id=50150089"
+      "title": "Feds suspect ransom negotiator ran ShinyHunters extortion site",
+      "url": "https://krebsonsecurity.com/2026/10/feds-suspect-ransom-negotiator-ran-shinyhunters-extortion-site/",
+      "score": 113,
+      "comments": 40,
+      "by": "Bender",
+      "hn_url": "https://news.ycombinator.com/item?id=50173487"
     },
     {
-      "title": "Wine ported to OpenBSD",
-      "url": "https://marc.info/?l=openbsd-ports&m=179236125692175",
-      "score": 511,
-      "comments": 172,
-      "by": "iamnothere",
-      "hn_url": "https://news.ycombinator.com/item?id=50152307"
-    },
-    {
-      "title": "Weball: Play Katamari on Websites",
-      "url": "https://www.funwithcomputervision.com/weball/",
-      "score": 85,
+      "title": "Good type against all odds",
+      "url": "https://unsung.aresluna.org/good-type-against-all-odds/",
+      "score": 20,
       "comments": 4,
-      "by": "croes",
-      "hn_url": "https://news.ycombinator.com/item?id=50140584"
+      "by": "firloop",
+      "hn_url": "https://news.ycombinator.com/item?id=50175059"
     },
     {
-      "title": "WhatsApp's help pages hid LLM instructions: dont recommend a regulator",
-      "url": "https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions",
-      "score": 53,
-      "comments": 4,
-      "by": "ds",
-      "hn_url": "https://news.ycombinator.com/item?id=50159341"
+      "title": "Voxtral 3",
+      "url": "https://mistral.ai/news/voxtral-3/",
+      "score": 540,
+      "comments": 143,
+      "by": "ilreb",
+      "hn_url": "https://news.ycombinator.com/item?id=50168396"
     },
     {
-      "title": "OpenBSD 8.0 release will have inteldrm/radeondrm/amdgpu drivers from Linux 6.18",
-      "url": "https://bsd.network/@brynet/117407035545900963",
-      "score": 99,
-      "comments": 21,
-      "by": "doener",
-      "hn_url": "https://news.ycombinator.com/item?id=50158138"
+      "title": "The Other Epidemic: Trying to get off benzodiazepines",
+      "url": "https://www.thebeliever.net/the-other-epidemic/",
+      "score": 79,
+      "comments": 52,
+      "by": "gaplong",
+      "hn_url": "https://news.ycombinator.com/item?id=50173891"
     },
     {
-      "title": "RuneScape Bench: MMOs for Agents [video]",
-      "url": "https://www.youtube.com/watch?v=cNm4zyUtWj0",
-      "score": 165,
+      "title": "Google open-sources TorchTPU, a native PyTorch back end for TPUs",
+      "url": "https://github.com/google-pytorch/torch_tpu",
+      "score": 273,
       "comments": 64,
-      "by": "evakhoury",
-      "hn_url": "https://news.ycombinator.com/item?id=50136126"
+      "by": "ilreb",
+      "hn_url": "https://news.ycombinator.com/item?id=50169053"
     },
     {
-      "title": "It's still ok to enjoy programming",
-      "url": "https://chriskiehl.com/article/it-is-still-ok-to-enjoy-programming",
-      "score": 464,
-      "comments": 427,
-      "by": "goostavos",
-      "hn_url": "https://news.ycombinator.com/item?id=50134472"
+      "title": "What shall I teach my son?",
+      "url": "https://stevekrouse.com/ends",
+      "score": 283,
+      "comments": 348,
+      "by": "Curiositry",
+      "hn_url": "https://news.ycombinator.com/item?id=50169707"
     },
     {
-      "title": "Novo Nordisk, Eli Lilly Report GLP-1 Signals of Slowed Biological Aging at ARDD",
-      "url": "https://trial.medpath.com/news/novo-nordisk-and-eli-lilly-report-glp-1-signals-of-slowed-biological-aging-at-ardd",
-      "score": 9,
-      "comments": 2,
-      "by": "hnburnsy",
-      "hn_url": "https://news.ycombinator.com/item?id=50160289"
+      "title": "Academics have a duty to defend open knowledge systems like Wikipedia",
+      "url": "https://blogs.lse.ac.uk/impactofsocialsciences/2026/10/19/academics-have-a-duty-to-defend-open-knowledge-systems-like-wikipedia/",
+      "score": 148,
+      "comments": 82,
+      "by": "jruohonen",
+      "hn_url": "https://news.ycombinator.com/item?id=50170917"
+    },
+    {
+      "title": "SlopCodeBench 10/2026 \u2013 Opus 5.5, Astra wins overall, xhigh considered harmful",
+      "url": "https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/benchmarking-new-models-on-slop-code-bench.md",
+      "score": 183,
+      "comments": 81,
+      "by": "dhorthy",
+      "hn_url": "https://news.ycombinator.com/item?id=50108717"
     }
   ]
 }
