@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-22T02:37:26.450751",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "mitmproxy adds --emudhra option",
+      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
+      "score": 236,
+      "comments": 63,
+      "by": "ahlCVA",
+      "hn_url": "https://news.ycombinator.com/item?id=50189232"
+    },
+    {
+      "title": "There isn't an easy exploit for this PHP vulnerability",
+      "url": "https://eliastaylor.com/noexploit/",
+      "score": 191,
+      "comments": 89,
+      "by": "zkldi",
+      "hn_url": "https://news.ycombinator.com/item?id=50188948"
+    },
+    {
+      "title": "Security Disclosure",
+      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
+      "score": 328,
+      "comments": 172,
+      "by": "passenger",
+      "hn_url": "https://news.ycombinator.com/item?id=50188228"
+    },
+    {
+      "title": "GitLab Critical Patch Release",
+      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
+      "score": 258,
+      "comments": 64,
+      "by": "artooro",
+      "hn_url": "https://news.ycombinator.com/item?id=50185869"
+    },
+    {
+      "title": "Rust Style Guide",
+      "url": "https://google.github.io/styleguide/rustguide.html",
+      "score": 222,
+      "comments": 121,
+      "by": "kaycebasques",
+      "hn_url": "https://news.ycombinator.com/item?id=50186010"
+    },
+    {
+      "title": "LLM Agents Play Pokemon Showdown",
+      "url": "https://olivergrabner.com/research/pokemon/",
+      "score": 9,
+      "comments": 1,
+      "by": "grabnero",
+      "hn_url": "https://news.ycombinator.com/item?id=50190334"
+    },
+    {
+      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
+      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
+      "score": 447,
+      "comments": 150,
+      "by": "abhisek",
+      "hn_url": "https://news.ycombinator.com/item?id=50181114"
+    },
+    {
+      "title": "No more icons in every menu by default",
+      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
+      "score": 195,
+      "comments": 133,
+      "by": "riffraff",
+      "hn_url": "https://news.ycombinator.com/item?id=50161346"
+    },
+    {
+      "title": "Chain of Thought for Humans",
+      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
+      "score": 37,
+      "comments": 13,
+      "by": "ibobev",
+      "hn_url": "https://news.ycombinator.com/item?id=50154100"
+    },
+    {
+      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
+      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
+      "score": 6,
+      "comments": 1,
+      "by": "Mayzie",
+      "hn_url": "https://news.ycombinator.com/item?id=50190168"
+    }
+  ]
+}
