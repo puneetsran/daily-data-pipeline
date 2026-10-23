@@ -1,25 +1,17 @@
 {
-  "updated_at": "2026-10-22 02:37 UTC",
+  "updated_at": "2026-10-23 02:41 UTC",
   "github_trending": [
     {
       "name": "Gathin23/cleanyourtv",
-      "stars": 19700,
+      "stars": 24457,
       "language": "Java",
       "description": "Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home.",
       "url": "https://github.com/Gathin23/cleanyourtv",
       "created_at": "2026-10-17T08:12:35Z"
     },
     {
-      "name": "deepseek-ai/DeepInfer",
-      "stars": 18170,
-      "language": "Python",
-      "description": "DeepInfer: High-performance, large-scale inference framework for DeepSeek models",
-      "url": "https://github.com/deepseek-ai/DeepInfer",
-      "created_at": "2026-10-16T07:47:23Z"
-    },
-    {
       "name": "ly05010419/MacNativeGames",
-      "stars": 3939,
+      "stars": 4518,
       "language": "C",
       "description": "No description",
       "url": "https://github.com/ly05010419/MacNativeGames",
@@ -27,7 +19,7 @@
     },
     {
       "name": "simbasjungles/free-my-tv",
-      "stars": 2778,
+      "stars": 3484,
       "language": "Java",
       "description": "A fast, ad-free home screen for Google TV. Open source, built with Claude Code. One button to undo.",
       "url": "https://github.com/simbasjungles/free-my-tv",
@@ -35,7 +27,7 @@
     },
     {
       "name": "pengchujin/aerial-tv",
-      "stars": 2228,
+      "stars": 3207,
       "language": "Kotlin",
       "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other",
       "url": "https://github.com/pengchujin/aerial-tv",
@@ -43,125 +35,133 @@
     },
     {
       "name": "xiaoyang111222/cn-math-taxonomy",
-      "stars": 2004,
+      "stars": 2220,
       "language": "Python",
-      "description": "\u4e2d\u5c0f\u5b66\u77e5\u8bc6\u56fe\u8c31 + \u524d\u7f6e\u8bca\u65ad\uff1a\u6570\u5b66\uff08\u4e00\u2013\u4e5d\u5e74\u7ea7\u3001\u9ad8\u4e2d\u5fc5\u4fee\u4e0e\u9009\u62e9\u6027\u5fc5\u4fee\uff09+ \u82f1\u8bed\uff08\u5c0f\u5b66\u3001\u521d\u4e2d\u3001\u9ad8\u4e2d\uff09\uff0c\u8bfe\u6807\u5bf9\u9f50\u3001\u4eba\u6559\u7248\uff0c1503 \u77e5\u8bc6\u70b9\u30016159 \u9898\u3001\u81ea\u9002\u5e94\u8bca\u65ad",
+      "description": "\u6570\u5b66\uff08\u5c0f\u5b66\u5230\u9ad8\u4e2d\uff09\u3001\u82f1\u8bed\uff08\u4e09\u5e74\u7ea7\u5230\u9ad8\u4e2d\uff09\u3001\u521d\u4e2d\u7269\u7406\u7684\u77e5\u8bc6\u56fe\u8c31\uff1a1644 \u4e2a\u77e5\u8bc6\u70b9\u30012403 \u6761\u5148\u4fee\u8fb9\u30016723 \u9053\u9898\uff0c\u5bf9\u9f50\u8bfe\u6807\uff0c\u9644\u81ea\u9002\u5e94\u524d\u7f6e\u8bca\u65ad\u3002",
       "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
       "created_at": "2026-10-18T09:04:43Z"
     },
     {
+      "name": "tek-sys-hub/Rubix-lang",
+      "stars": 1902,
+      "language": "Assembly",
+      "description": "The 100% Pure x86-64 Assembly Systems Language",
+      "url": "https://github.com/tek-sys-hub/Rubix-lang",
+      "created_at": "2026-10-19T05:34:37Z"
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "stars": 1545,
+      "language": "Python",
+      "description": "CVE-2026-109618/109619 \u2014 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "created_at": "2026-10-21T07:55:16Z"
+    },
+    {
       "name": "JoasASantos/REA-Prompts",
-      "stars": 1355,
+      "stars": 1490,
       "language": "N/A",
       "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or ",
       "url": "https://github.com/JoasASantos/REA-Prompts",
       "created_at": "2026-10-19T22:20:47Z"
     },
     {
-      "name": "OpenMOSS/MOSS-Image",
-      "stars": 1305,
-      "language": "Python",
-      "description": "Official repository for MOSS-Image, a 5B-parameter base DiT model with high-quality text rendering, ",
-      "url": "https://github.com/OpenMOSS/MOSS-Image",
-      "created_at": "2026-10-16T01:18:13Z"
-    },
-    {
-      "name": "aicodeking/leanrea",
-      "stars": 1299,
-      "language": "Python",
-      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ",
-      "url": "https://github.com/aicodeking/leanrea",
-      "created_at": "2026-10-17T02:53:24Z"
-    },
-    {
       "name": "alchaincyf/huashu-motion",
-      "stars": 1288,
+      "stars": 1451,
       "language": "JavaScript",
       "description": "\u8ba9\u4f60\u7684agent\u4e00\u952e\u76f4\u51fa\u5546\u4e1a\u7ea7\u4ea7\u54c1\u5ba3\u4f20\u7247\uff1a\u4f1a\u4f5c\u66f2\uff0c\u80fd\u6307\u7740\u753b\u9762\u6539\u3002Commercial-grade launch films by your coding agent \u2014 point at the fr",
       "url": "https://github.com/alchaincyf/huashu-motion",
       "created_at": "2026-10-18T12:19:27Z"
+    },
+    {
+      "name": "aicodeking/leanrea",
+      "stars": 1371,
+      "language": "Python",
+      "description": "One 8 KB skill that replaces REA (Reverse Engineer Anything): plain CLI tools, no MCP. Benchmarked: ",
+      "url": "https://github.com/aicodeking/leanrea",
+      "created_at": "2026-10-17T02:53:24Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "mitmproxy adds --emudhra option",
-      "url": "https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b",
-      "score": 236,
-      "comments": 63,
-      "by": "ahlCVA",
-      "hn_url": "https://news.ycombinator.com/item?id=50189232"
+      "title": "Docker is weird",
+      "url": "https://codeandcake.dev/posts/2026-10-22-docker-is-weird",
+      "score": 161,
+      "comments": 70,
+      "by": "psxuaw",
+      "hn_url": "https://news.ycombinator.com/item?id=50202681"
     },
     {
-      "title": "There isn't an easy exploit for this PHP vulnerability",
-      "url": "https://eliastaylor.com/noexploit/",
-      "score": 191,
-      "comments": 89,
-      "by": "zkldi",
-      "hn_url": "https://news.ycombinator.com/item?id=50188948"
+      "title": "LLMs are making formal software verification feasible at a much larger scale",
+      "url": "https://www.anthropic.com/research/formal-verification",
+      "score": 141,
+      "comments": 70,
+      "by": "johnbender",
+      "hn_url": "https://news.ycombinator.com/item?id=50202217"
     },
     {
-      "title": "Security Disclosure",
-      "url": "https://blog.railway.com/p/security-disclosure-wednesday-october-21st",
-      "score": 328,
-      "comments": 172,
-      "by": "passenger",
-      "hn_url": "https://news.ycombinator.com/item?id=50188228"
+      "title": "Quad9 (DNS Resolver) to Exit France",
+      "url": "https://quad9.net/news/blog/au-revoir-france/",
+      "score": 1022,
+      "comments": 369,
+      "by": "farrokhi",
+      "hn_url": "https://news.ycombinator.com/item?id=50195959"
     },
     {
-      "title": "GitLab Critical Patch Release",
-      "url": "https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/",
-      "score": 258,
-      "comments": 64,
-      "by": "artooro",
-      "hn_url": "https://news.ycombinator.com/item?id=50185869"
+      "title": "The foolishness of \"natural language programming\" (1978)",
+      "url": "https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html",
+      "score": 38,
+      "comments": 36,
+      "by": "xiaoyu2006",
+      "hn_url": "https://news.ycombinator.com/item?id=50203161"
     },
     {
-      "title": "Rust Style Guide",
-      "url": "https://google.github.io/styleguide/rustguide.html",
-      "score": 222,
-      "comments": 121,
-      "by": "kaycebasques",
-      "hn_url": "https://news.ycombinator.com/item?id=50186010"
+      "title": "OpenShell \u2013 A safe, private runtime for fleets of autonomous AI agents",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "score": 314,
+      "comments": 162,
+      "by": "niemandhier",
+      "hn_url": "https://news.ycombinator.com/item?id=50198675"
     },
     {
-      "title": "LLM Agents Play Pokemon Showdown",
-      "url": "https://olivergrabner.com/research/pokemon/",
-      "score": 9,
-      "comments": 1,
-      "by": "grabnero",
-      "hn_url": "https://news.ycombinator.com/item?id=50190334"
+      "title": "Woman faces six years in prison over Cash App account she never opened",
+      "url": "https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html",
+      "score": 532,
+      "comments": 544,
+      "by": "oidar",
+      "hn_url": "https://news.ycombinator.com/item?id=50194833"
     },
     {
-      "title": "Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor",
-      "url": "https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/",
-      "score": 447,
-      "comments": 150,
-      "by": "abhisek",
-      "hn_url": "https://news.ycombinator.com/item?id=50181114"
+      "title": "Every AI model has the same \"controversial\" take on humans",
+      "url": "https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans",
+      "score": 254,
+      "comments": 317,
+      "by": "rakannimer",
+      "hn_url": "https://news.ycombinator.com/item?id=50197313"
     },
     {
-      "title": "No more icons in every menu by default",
-      "url": "https://blog.jim-nielsen.com/2026/icons-in-every-menu/",
-      "score": 195,
-      "comments": 133,
-      "by": "riffraff",
-      "hn_url": "https://news.ycombinator.com/item?id=50161346"
+      "title": "AI compute is the new oil\u2013and needs a new market",
+      "url": "https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market",
+      "score": 25,
+      "comments": 16,
+      "by": "ijidak",
+      "hn_url": "https://news.ycombinator.com/item?id=50202671"
     },
     {
-      "title": "Chain of Thought for Humans",
-      "url": "https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/",
-      "score": 37,
-      "comments": 13,
-      "by": "ibobev",
-      "hn_url": "https://news.ycombinator.com/item?id=50154100"
+      "title": "Getting ready to operate GNU Taler in Germany",
+      "url": "https://www.taler.net/en/news/2026-13.html",
+      "score": 231,
+      "comments": 85,
+      "by": "dewey",
+      "hn_url": "https://news.ycombinator.com/item?id=50197404"
     },
     {
-      "title": "Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments",
-      "url": "https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552",
-      "score": 6,
-      "comments": 1,
-      "by": "Mayzie",
-      "hn_url": "https://news.ycombinator.com/item?id=50190168"
+      "title": "Run full iOS 16.5 firmware on Android Devices",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "score": 334,
+      "comments": 129,
+      "by": "aghuang",
+      "hn_url": "https://news.ycombinator.com/item?id=50196718"
     }
   ]
 }

@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-22 02:37:28 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-23 02:41:49 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 19,700 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
-| [deepseek-ai/DeepInfer](https://github.com/deepseek-ai/DeepInfer) | 18,170 | Python | DeepInfer: High-performance, large-scale inference framework for DeepSeek models |
-| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 3,939 | C | No description |
-| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 2,778 | Java | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. ... |
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 2,228 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X... |
+| [Gathin23/cleanyourtv](https://github.com/Gathin23/cleanyourtv) | 24,457 | Java | Debloat any Android or Google TV over Wi-Fi and get an Apple TV-style home. |
+| [ly05010419/MacNativeGames](https://github.com/ly05010419/MacNativeGames) | 4,518 | C | No description |
+| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 3,484 | Java | A fast, ad-free home screen for Google TV. Open source, built with Claude Code. ... |
+| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 3,207 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X... |
+| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 2,220 | Python | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。 |
 
-### Hacker News Top Stories (Last Updated: 2026-10-22 02:37:28 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-23 02:41:49 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [mitmproxy adds --emudhra option](https://github.com/mitmproxy/mitmproxy/commit/169234499088fc2c414644a67efaed3d64ae2e3b) | 236 | [63 comments](https://news.ycombinator.com/item?id=50189232) |
-| [There isn't an easy exploit for this PHP vulnerability](https://eliastaylor.com/noexploit/) | 191 | [89 comments](https://news.ycombinator.com/item?id=50188948) |
-| [Security Disclosure](https://blog.railway.com/p/security-disclosure-wednesday-october-21st) | 328 | [172 comments](https://news.ycombinator.com/item?id=50188228) |
-| [GitLab Critical Patch Release](https://docs.gitlab.com/releases/patches/patch-release-gitlab-19-5-1-released/) | 258 | [64 comments](https://news.ycombinator.com/item?id=50185869) |
-| [Rust Style Guide](https://google.github.io/styleguide/rustguide.html) | 222 | [121 comments](https://news.ycombinator.com/item?id=50186010) |
-| [LLM Agents Play Pokemon Showdown](https://olivergrabner.com/research/pokemon/) | 9 | [1 comments](https://news.ycombinator.com/item?id=50190334) |
-| [Compromised LiteLLM 1.107.0 on PyPI Installs a Credential Stealer and Backdoor](https://safedep.io/litellm-pypi-compromise-credential-stealer-backdoor/) | 447 | [150 comments](https://news.ycombinator.com/item?id=50181114) |
-| [No more icons in every menu by default](https://blog.jim-nielsen.com/2026/icons-in-every-menu/) | 195 | [133 comments](https://news.ycombinator.com/item?id=50161346) |
-| [Chain of Thought for Humans](https://www.boristhebrave.com/2026/10/18/chain-of-thought-for-humans/) | 37 | [13 comments](https://news.ycombinator.com/item?id=50154100) |
-| [Epic vs. Apple AU:Court Orders Alt App Stores,Sideloading and 3rd Party Payments](https://www.judgments.fedcourt.gov.au/judgments/Judgments/fca/single/2026/2026fca1552) | 6 | [1 comments](https://news.ycombinator.com/item?id=50190168) |
+| [Docker is weird](https://codeandcake.dev/posts/2026-10-22-docker-is-weird) | 161 | [70 comments](https://news.ycombinator.com/item?id=50202681) |
+| [LLMs are making formal software verification feasible at a much larger scale](https://www.anthropic.com/research/formal-verification) | 141 | [70 comments](https://news.ycombinator.com/item?id=50202217) |
+| [Quad9 (DNS Resolver) to Exit France](https://quad9.net/news/blog/au-revoir-france/) | 1022 | [369 comments](https://news.ycombinator.com/item?id=50195959) |
+| [The foolishness of "natural language programming" (1978)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD06xx/EWD667.html) | 38 | [36 comments](https://news.ycombinator.com/item?id=50203161) |
+| [OpenShell – A safe, private runtime for fleets of autonomous AI agents](https://github.com/NVIDIA/OpenShell) | 314 | [162 comments](https://news.ycombinator.com/item?id=50198675) |
+| [Woman faces six years in prison over Cash App account she never opened](https://www.techspot.com/news/114296-woman-spends-three-nights-jail-faces-six-years.html) | 532 | [544 comments](https://news.ycombinator.com/item?id=50194833) |
+| [Every AI model has the same "controversial" take on humans](https://www.modelcompare.ai/blog/ai-models-controversial-take-on-humans) | 254 | [317 comments](https://news.ycombinator.com/item?id=50197313) |
+| [AI compute is the new oil–and needs a new market](https://www.economist.com/finance-and-economics/2026/10/22/ai-compute-is-the-new-oil-and-needs-a-new-market) | 25 | [16 comments](https://news.ycombinator.com/item?id=50202671) |
+| [Getting ready to operate GNU Taler in Germany](https://www.taler.net/en/news/2026-13.html) | 231 | [85 comments](https://news.ycombinator.com/item?id=50197404) |
+| [Run full iOS 16.5 firmware on Android Devices](https://github.com/oosexgang/hackios-xnu-kernel) | 334 | [129 comments](https://news.ycombinator.com/item?id=50196718) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 12.0°C (54.0°F) |
-| Average Humidity | 70% |
+| Average Temperature | 12.0°C (53.0°F) |
+| Average Humidity | 72% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-22 02:37:28 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-23 02:41:49 UTC*
