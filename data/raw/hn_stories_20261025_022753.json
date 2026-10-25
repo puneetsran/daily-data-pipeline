@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-25T02:27:53.348633",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 124,
+      "comments": 80,
+      "by": "liotier",
+      "hn_url": "https://news.ycombinator.com/item?id=50224422"
+    },
+    {
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 251,
+      "comments": 171,
+      "by": "bobbydigitales",
+      "hn_url": "https://news.ycombinator.com/item?id=50224100"
+    },
+    {
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 185,
+      "comments": 154,
+      "by": "gnabgib",
+      "hn_url": "https://news.ycombinator.com/item?id=50226419"
+    },
+    {
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 192,
+      "comments": 154,
+      "by": "ltratt",
+      "hn_url": "https://news.ycombinator.com/item?id=50225695"
+    },
+    {
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 30,
+      "comments": 8,
+      "by": "andsoitis",
+      "hn_url": "https://news.ycombinator.com/item?id=50226577"
+    },
+    {
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 46,
+      "comments": 2,
+      "by": "andsoitis",
+      "hn_url": "https://news.ycombinator.com/item?id=50225674"
+    },
+    {
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "url": "https://codeberg.org/Misom/FindMyWeb",
+      "score": 21,
+      "comments": 5,
+      "by": "Velocifyer",
+      "hn_url": "https://news.ycombinator.com/item?id=50226646"
+    },
+    {
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 80,
+      "comments": 10,
+      "by": "LordNibbler",
+      "hn_url": "https://news.ycombinator.com/item?id=50224210"
+    },
+    {
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "score": 10,
+      "comments": 1,
+      "by": "matt_d",
+      "hn_url": "https://news.ycombinator.com/item?id=50188440"
+    },
+    {
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 37,
+      "comments": 0,
+      "by": "machinehum",
+      "hn_url": "https://news.ycombinator.com/item?id=50172432"
+    }
+  ]
+}

@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-24 02:39:19 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-25 02:27:55 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [simbasjungles/free-my-tv](https://github.com/simbasjungles/free-my-tv) | 3,983 | Java | A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One butto... |
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 3,876 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X... |
-| [xiaoyang111222/cn-math-taxonomy](https://github.com/xiaoyang111222/cn-math-taxonomy) | 2,848 | Python | 数学（小学到高中）、英语（三年级到高中）、初中物理的知识图谱：1644 个知识点、2403 条先修边、6723 道题，对齐课标，附自适应前置诊断。 |
-| [JoasASantos/REA-Prompts](https://github.com/JoasASantos/REA-Prompts) | 1,758 | N/A | REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out ... |
-| [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,701 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec... |
+| [openai/math](https://github.com/openai/math) | 14,133 | Lean | No description |
+| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 6,308 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
+| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 3,660 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of rea... |
+| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,415 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
+| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,255 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
 
-### Hacker News Top Stories (Last Updated: 2026-10-24 02:39:19 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-25 02:27:55 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Kimi K3.1 Pro and K3.1 Pro Highspeed](https://www.kimi.ai/blog/kimi-k3-1-pro) | 748 | [464 comments](https://news.ycombinator.com/item?id=50212065) |
-| [Evolving Threat: http2shell is an RCE in node, Python, and more](https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8) | 97 | [44 comments](https://news.ycombinator.com/item?id=50216791) |
-| [Apple Music 404 Not Found](https://music.apple.com/this-url-doesnt-exist) | 611 | [198 comments](https://news.ycombinator.com/item?id=50207910) |
-| [CVE Tracker](https://cve.0xosprey.com/) | 113 | [42 comments](https://news.ycombinator.com/item?id=50215530) |
-| [Dessa: the most authentic full-duplex speech model ever built](https://block.xyz/dessa) | 255 | [104 comments](https://news.ycombinator.com/item?id=50213925) |
-| [Local Wikipedia: Wikipedia, but only for things a half hour walk from you](https://edjefferson.com/localwiki/) | 1262 | [225 comments](https://news.ycombinator.com/item?id=50202285) |
-| [Today, we hacked what we'd set out to hack: the iPhone](https://blog.calif.io/p/iphone) | 762 | [515 comments](https://news.ycombinator.com/item?id=50211474) |
-| [The Real Kevin Bacon](https://pudding.cool/2026/10/kevin-bacon/) | 252 | [71 comments](https://news.ycombinator.com/item?id=50169499) |
-| [Bringing uv and ty together](https://astral.sh/blog/uv-ty-integration) | 29 | [9 comments](https://news.ycombinator.com/item?id=50172962) |
-| [Canadians are running out of time to oppose Bill C-22](https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill) | 344 | [177 comments](https://news.ycombinator.com/item?id=50202114) |
+| [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) | 124 | [80 comments](https://news.ycombinator.com/item?id=50224422) |
+| [The Goose Programming Language](https://aardappel.github.io/goose/) | 251 | [171 comments](https://news.ycombinator.com/item?id=50224100) |
+| [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) | 185 | [154 comments](https://news.ycombinator.com/item?id=50226419) |
+| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | 192 | [154 comments](https://news.ycombinator.com/item?id=50225695) |
+| [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) | 30 | [8 comments](https://news.ycombinator.com/item?id=50226577) |
+| [Small Programs and Languages](https://ratfactor.com/cards/pl-small) | 46 | [2 comments](https://news.ycombinator.com/item?id=50225674) |
+| [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb) | 21 | [5 comments](https://news.ycombinator.com/item?id=50226646) |
+| [SpeedCrunch 1.1](https://www.speedcrunch.org/) | 80 | [10 comments](https://news.ycombinator.com/item?id=50224210) |
+| [Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/) | 10 | [1 comments](https://news.ycombinator.com/item?id=50188440) |
+| [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/) | 37 | [0 comments](https://news.ycombinator.com/item?id=50172432) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 10.0°C (51.0°F) |
-| Average Humidity | 66% |
+| Average Temperature | 8.0°C (47.0°F) |
+| Average Humidity | 83% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-24 02:39:19 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-25 02:27:55 UTC*

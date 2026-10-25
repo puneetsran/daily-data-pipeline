@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-24 02:39 UTC",
+  "updated_at": "2026-10-25 02:27 UTC",
   "github_trending": [
     {
-      "name": "simbasjungles/free-my-tv",
-      "stars": 3983,
-      "language": "Java",
-      "description": "A fast, ad-free home screen for Google TV, LG webOS and Samsung Tizen. One button to undo.",
-      "url": "https://github.com/simbasjungles/free-my-tv",
-      "created_at": "2026-10-19T19:29:01Z"
+      "name": "openai/math",
+      "stars": 14133,
+      "language": "Lean",
+      "description": "No description",
+      "url": "https://github.com/openai/math",
+      "created_at": "2026-10-06T21:47:02Z"
     },
     {
-      "name": "pengchujin/aerial-tv",
-      "stars": 3876,
-      "language": "Kotlin",
-      "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other",
-      "url": "https://github.com/pengchujin/aerial-tv",
-      "created_at": "2026-10-20T09:13:06Z"
+      "name": "storytold/wordcraft",
+      "stars": 6308,
+      "language": "Rust",
+      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
+      "url": "https://github.com/storytold/wordcraft",
+      "created_at": "2026-10-07T08:34:24Z"
     },
     {
-      "name": "xiaoyang111222/cn-math-taxonomy",
-      "stars": 2848,
-      "language": "Python",
-      "description": "\u6570\u5b66\uff08\u5c0f\u5b66\u5230\u9ad8\u4e2d\uff09\u3001\u82f1\u8bed\uff08\u4e09\u5e74\u7ea7\u5230\u9ad8\u4e2d\uff09\u3001\u521d\u4e2d\u7269\u7406\u7684\u77e5\u8bc6\u56fe\u8c31\uff1a1644 \u4e2a\u77e5\u8bc6\u70b9\u30012403 \u6761\u5148\u4fee\u8fb9\u30016723 \u9053\u9898\uff0c\u5bf9\u9f50\u8bfe\u6807\uff0c\u9644\u81ea\u9002\u5e94\u524d\u7f6e\u8bca\u65ad\u3002",
-      "url": "https://github.com/xiaoyang111222/cn-math-taxonomy",
-      "created_at": "2026-10-18T09:04:43Z"
-    },
-    {
-      "name": "JoasASantos/REA-Prompts",
-      "stars": 1758,
-      "language": "N/A",
-      "description": "REAP - Prompts for you to use REA (Reverse Engineer Anything), get the most out of it, and clone or ",
-      "url": "https://github.com/JoasASantos/REA-Prompts",
-      "created_at": "2026-10-19T22:20:47Z"
-    },
-    {
-      "name": "ikow/php2shell-poc",
-      "stars": 1701,
-      "language": "Python",
-      "description": "CVE-2026-109618/109619 \u2014 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "created_at": "2026-10-21T07:55:16Z"
-    },
-    {
-      "name": "EthanArbuckle/fairplay-decrypt",
-      "stars": 1618,
-      "language": "C",
-      "description": "Offline FairPlay App Store IPA decryption with independent key derivation",
-      "url": "https://github.com/EthanArbuckle/fairplay-decrypt",
-      "created_at": "2026-10-19T10:07:58Z"
-    },
-    {
-      "name": "alchaincyf/huashu-motion",
-      "stars": 1543,
+      "name": "wheresryan22/anatomy",
+      "stars": 3660,
       "language": "JavaScript",
-      "description": "\u8ba9\u4f60\u7684agent\u4e00\u952e\u76f4\u51fa\u5546\u4e1a\u7ea7\u4ea7\u54c1\u5ba3\u4f20\u7247\uff1a\u4f1a\u4f5c\u66f2\uff0c\u80fd\u6307\u7740\u753b\u9762\u6539\u3002Commercial-grade launch films by your coding agent \u2014 point at the fr",
-      "url": "https://github.com/alchaincyf/huashu-motion",
-      "created_at": "2026-10-18T12:19:27Z"
+      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
+      "url": "https://github.com/wheresryan22/anatomy",
+      "created_at": "2026-10-08T10:12:49Z"
     },
     {
-      "name": "humblemuzzu/dumbtv",
-      "stars": 1400,
-      "language": "Java",
-      "description": "Take the ads, tracking and clutter out of your Fire TV over ADB, no root. Every step can be undone. ",
-      "url": "https://github.com/humblemuzzu/dumbtv",
-      "created_at": "2026-10-18T17:04:12Z"
+      "name": "alchaincyf/huashu-art-motion",
+      "stars": 3415,
+      "language": "JavaScript",
+      "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
+      "url": "https://github.com/alchaincyf/huashu-art-motion",
+      "created_at": "2026-10-06T04:49:37Z"
     },
     {
-      "name": "Ansub/tv-detox",
-      "stars": 1387,
-      "language": "Java",
-      "description": "Make an old Android TV fast again with Claude Code or Codex: a tiny ad-free home screen plus the pro",
-      "url": "https://github.com/Ansub/tv-detox",
-      "created_at": "2026-10-18T06:42:29Z"
+      "name": "mhtsec/ARTEX",
+      "stars": 3255,
+      "language": "Go",
+      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
+      "url": "https://github.com/mhtsec/ARTEX",
+      "created_at": "2026-10-08T05:33:06Z"
     },
     {
-      "name": "9bie/php2shell-bypass-aslr-exp",
-      "stars": 1279,
+      "name": "zhongerxin/iPhone-use",
+      "stars": 3134,
       "language": "Python",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require dis",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "created_at": "2026-10-21T11:11:57Z"
+      "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
+      "url": "https://github.com/zhongerxin/iPhone-use",
+      "created_at": "2026-10-06T15:09:33Z"
+    },
+    {
+      "name": "storytold/gridcraft",
+      "stars": 3035,
+      "language": "Rust",
+      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
+      "url": "https://github.com/storytold/gridcraft",
+      "created_at": "2026-10-07T05:18:16Z"
+    },
+    {
+      "name": "storytold/cadcraft",
+      "stars": 2762,
+      "language": "Rust",
+      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
+      "url": "https://github.com/storytold/cadcraft",
+      "created_at": "2026-10-07T05:22:31Z"
+    },
+    {
+      "name": "nullmoth/nvidia-macos-driver",
+      "stars": 2572,
+      "language": "Rust",
+      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
+      "url": "https://github.com/nullmoth/nvidia-macos-driver",
+      "created_at": "2026-10-07T08:13:12Z"
+    },
+    {
+      "name": "LosaLosSantos/aurelio-finance",
+      "stars": 2327,
+      "language": "Python",
+      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ET",
+      "url": "https://github.com/LosaLosSantos/aurelio-finance",
+      "created_at": "2026-10-06T20:14:19Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Kimi K3.1 Pro and K3.1 Pro Highspeed",
-      "url": "https://www.kimi.ai/blog/kimi-k3-1-pro",
-      "score": 748,
-      "comments": 464,
-      "by": "Jowsey",
-      "hn_url": "https://news.ycombinator.com/item?id=50212065"
+      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
+      "url": "https://missileer.watch",
+      "score": 124,
+      "comments": 80,
+      "by": "liotier",
+      "hn_url": "https://news.ycombinator.com/item?id=50224422"
     },
     {
-      "title": "Evolving Threat: http2shell is an RCE in node, Python, and more",
-      "url": "https://nitter.click/AikidoSecurity/status/2113759110625906950?__galadriel=lPmlGl9id4oAd5UeBwMhlYKArHyr6lR2IDGujPwB5HV2kQ1aLoPWFd5A9sGuzNcmrp8fUso8qygmHcKTDZ8MNHWqQ3bDJcycV87xp_0VypzQLYj6O_RRHlZuQqj33oASGY2YLSoAiMjeOZN40h7Stf8AG7DPrGZbAPVKUXy36HoMudRbvwF3_r2uYNmfJMhpKzywQDM6Ab8",
-      "score": 97,
-      "comments": 44,
-      "by": "cowlevel",
-      "hn_url": "https://news.ycombinator.com/item?id=50216791"
+      "title": "The Goose Programming Language",
+      "url": "https://aardappel.github.io/goose/",
+      "score": 251,
+      "comments": 171,
+      "by": "bobbydigitales",
+      "hn_url": "https://news.ycombinator.com/item?id=50224100"
     },
     {
-      "title": "Apple Music 404 Not Found",
-      "url": "https://music.apple.com/this-url-doesnt-exist",
-      "score": 611,
-      "comments": 198,
-      "by": "frizlab",
-      "hn_url": "https://news.ycombinator.com/item?id=50207910"
+      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+      "score": 185,
+      "comments": 154,
+      "by": "gnabgib",
+      "hn_url": "https://news.ycombinator.com/item?id=50226419"
     },
     {
-      "title": "CVE Tracker",
-      "url": "https://cve.0xosprey.com/",
-      "score": 113,
-      "comments": 42,
-      "by": "Group_B",
-      "hn_url": "https://news.ycombinator.com/item?id=50215530"
+      "title": "We should be more ambitious with the software we build",
+      "url": "https://danluu.com/ambitious/",
+      "score": 192,
+      "comments": 154,
+      "by": "ltratt",
+      "hn_url": "https://news.ycombinator.com/item?id=50225695"
     },
     {
-      "title": "Dessa: the most authentic full-duplex speech model ever built",
-      "url": "https://block.xyz/dessa",
-      "score": 255,
-      "comments": 104,
-      "by": "dsr12",
-      "hn_url": "https://news.ycombinator.com/item?id=50213925"
+      "title": "Why Gopher in 2026?",
+      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "score": 30,
+      "comments": 8,
+      "by": "andsoitis",
+      "hn_url": "https://news.ycombinator.com/item?id=50226577"
     },
     {
-      "title": "Local Wikipedia: Wikipedia, but only for things a half hour walk from you",
-      "url": "https://edjefferson.com/localwiki/",
-      "score": 1262,
-      "comments": 225,
-      "by": "sohkamyung",
-      "hn_url": "https://news.ycombinator.com/item?id=50202285"
+      "title": "Small Programs and Languages",
+      "url": "https://ratfactor.com/cards/pl-small",
+      "score": 46,
+      "comments": 2,
+      "by": "andsoitis",
+      "hn_url": "https://news.ycombinator.com/item?id=50225674"
     },
     {
-      "title": "Today, we hacked what we'd set out to hack: the iPhone",
-      "url": "https://blog.calif.io/p/iphone",
-      "score": 762,
-      "comments": 515,
-      "by": "pavel_lishin",
-      "hn_url": "https://news.ycombinator.com/item?id=50211474"
+      "title": "FindMyWeb: Apple Find My, reverse enginiered",
+      "url": "https://codeberg.org/Misom/FindMyWeb",
+      "score": 21,
+      "comments": 5,
+      "by": "Velocifyer",
+      "hn_url": "https://news.ycombinator.com/item?id=50226646"
     },
     {
-      "title": "The Real Kevin Bacon",
-      "url": "https://pudding.cool/2026/10/kevin-bacon/",
-      "score": 252,
-      "comments": 71,
-      "by": "xnx",
-      "hn_url": "https://news.ycombinator.com/item?id=50169499"
+      "title": "SpeedCrunch 1.1",
+      "url": "https://www.speedcrunch.org/",
+      "score": 80,
+      "comments": 10,
+      "by": "LordNibbler",
+      "hn_url": "https://news.ycombinator.com/item?id=50224210"
     },
     {
-      "title": "Bringing uv and ty together",
-      "url": "https://astral.sh/blog/uv-ty-integration",
-      "score": 29,
-      "comments": 9,
-      "by": "Ravencentric",
-      "hn_url": "https://news.ycombinator.com/item?id=50172962"
+      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
+      "url": "https://xingjianbai.com/reactive-optimizers/",
+      "score": 10,
+      "comments": 1,
+      "by": "matt_d",
+      "hn_url": "https://news.ycombinator.com/item?id=50188440"
     },
     {
-      "title": "Canadians are running out of time to oppose Bill C-22",
-      "url": "https://www.eff.org/deeplinks/2026/10/canadians-are-running-out-time-oppose-dangerous-c-22-surveillance-bill",
-      "score": 344,
-      "comments": 177,
-      "by": "hn_acker",
-      "hn_url": "https://news.ycombinator.com/item?id=50202114"
+      "title": "I Built a Stereo Vision Board for Hardware Hackers",
+      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
+      "score": 37,
+      "comments": 0,
+      "by": "machinehum",
+      "hn_url": "https://news.ycombinator.com/item?id=50172432"
     }
   ]
 }
