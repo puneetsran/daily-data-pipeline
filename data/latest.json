@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-25 02:27 UTC",
+  "updated_at": "2026-10-26 02:27 UTC",
   "github_trending": [
     {
-      "name": "openai/math",
-      "stars": 14133,
-      "language": "Lean",
+      "name": "pengchujin/aerial-tv",
+      "stars": 5106,
+      "language": "Kotlin",
+      "description": "\u7ed9\u56fd\u4ea7\u7535\u89c6\u7684\u4e00\u5757\u5e72\u51c0\u684c\u9762\uff1a\u53c2\u7167 tvOS \u8bbe\u8ba1\u7684\u5f00\u6e90 Android TV \u684c\u9762\uff0c\u6ca1\u6709\u5e7f\u544a\uff0c\u5f00\u673a\u81ea\u52a8\u63a5\u7ba1\u3002A tvOS-style launcher for Xiaomi, TCL and other",
+      "url": "https://github.com/pengchujin/aerial-tv",
+      "created_at": "2026-10-20T09:13:06Z"
+    },
+    {
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "stars": 2731,
+      "language": "C",
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "created_at": "2026-10-23T21:00:53Z"
+    },
+    {
+      "name": "xevrion/hatchzip",
+      "stars": 1947,
+      "language": "Rust",
+      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z",
+      "url": "https://github.com/xevrion/hatchzip",
+      "created_at": "2026-10-21T17:29:28Z"
+    },
+    {
+      "name": "wesbos/3d-model-anything",
+      "stars": 1938,
+      "language": "Swift",
+      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
+      "url": "https://github.com/wesbos/3d-model-anything",
+      "created_at": "2026-10-21T19:38:50Z"
+    },
+    {
+      "name": "ikow/php2shell-poc",
+      "stars": 1792,
+      "language": "Python",
+      "description": "CVE-2026-109618/109619 \u2014 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.",
+      "url": "https://github.com/ikow/php2shell-poc",
+      "created_at": "2026-10-21T07:55:16Z"
+    },
+    {
+      "name": "Jakeschincariol/day-trader-skill",
+      "stars": 1660,
+      "language": "Python",
+      "description": "11 Claude skills for day trading: scan thousands of charts, track breaking news, time every entry an",
+      "url": "https://github.com/Jakeschincariol/day-trader-skill",
+      "created_at": "2026-10-20T14:17:54Z"
+    },
+    {
+      "name": "oosexgang/hackios-xnu-kernel",
+      "stars": 1465,
+      "language": "C",
       "description": "No description",
-      "url": "https://github.com/openai/math",
-      "created_at": "2026-10-06T21:47:02Z"
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "created_at": "2026-10-22T06:20:11Z"
     },
     {
-      "name": "storytold/wordcraft",
-      "stars": 6308,
-      "language": "Rust",
-      "description": "An open-source, clean-room reimplementation of Microsoft Word in pure Rust",
-      "url": "https://github.com/storytold/wordcraft",
-      "created_at": "2026-10-07T08:34:24Z"
-    },
-    {
-      "name": "wheresryan22/anatomy",
-      "stars": 3660,
-      "language": "JavaScript",
-      "description": "An agent skill for creating detailed, interactive isometric illustrations of real-world machines and",
-      "url": "https://github.com/wheresryan22/anatomy",
-      "created_at": "2026-10-08T10:12:49Z"
-    },
-    {
-      "name": "alchaincyf/huashu-art-motion",
-      "stars": 3415,
-      "language": "JavaScript",
-      "description": "\u827a\u672f\u52a8\u753bskill\uff1a35\u79cd\u827a\u672f\u98ce\u683c\u30019\u79cd\u89e3\u8bf4\u8bed\u6cd5\uff0c\u7528\u4ee3\u7801\u8ba9\u753b\u52a8\u8d77\u6765\u3002",
-      "url": "https://github.com/alchaincyf/huashu-art-motion",
-      "created_at": "2026-10-06T04:49:37Z"
-    },
-    {
-      "name": "mhtsec/ARTEX",
-      "stars": 3255,
-      "language": "Go",
-      "description": "AI \u81ea\u4e3b\u6e17\u900f\u6d4b\u8bd5\u7cfb\u7edf | \u767e\u5ea6\u201cagent+\u201d\u653b\u9632\u6311\u6218\u8d5b\u51a0\u519b\u9879\u76ee",
-      "url": "https://github.com/mhtsec/ARTEX",
-      "created_at": "2026-10-08T05:33:06Z"
-    },
-    {
-      "name": "zhongerxin/iPhone-use",
-      "stars": 3134,
+      "name": "9bie/php2shell-bypass-aslr-exp",
+      "stars": 1437,
       "language": "Python",
-      "description": "\u8ba9 Codex \u901a\u8fc7 USB \u64cd\u4f5c\u771f\u5b9e iPhone\uff1a\u5f15\u5bfc\u5b89\u88c5\u3001App \u81ea\u52a8\u5316\u3001\u5b9e\u65f6\u5c4f\u5e55\u4e0e\u622a\u56fe\u56de\u9000\u3002",
-      "url": "https://github.com/zhongerxin/iPhone-use",
-      "created_at": "2026-10-06T15:09:33Z"
+      "description": "A php2shell exploit that requires no modifications to the official version, and does not require dis",
+      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
+      "created_at": "2026-10-21T11:11:57Z"
     },
     {
-      "name": "storytold/gridcraft",
-      "stars": 3035,
+      "name": "openai/php2shell-checker",
+      "stars": 1398,
+      "language": "JavaScript",
+      "description": "No description",
+      "url": "https://github.com/openai/php2shell-checker",
+      "created_at": "2026-10-21T00:29:12Z"
+    },
+    {
+      "name": "colinhacks/reylo",
+      "stars": 1265,
       "language": "Rust",
-      "description": "GridCraft: an open-source, clean-room spreadsheet (Microsoft Excel-style) in pure Rust. By ArtCraft.",
-      "url": "https://github.com/storytold/gridcraft",
-      "created_at": "2026-10-07T05:18:16Z"
-    },
-    {
-      "name": "storytold/cadcraft",
-      "stars": 2762,
-      "language": "Rust",
-      "description": "CADCraft: computer-aided design and drafting \u2014 an open-source, clean-room AutoCAD-style app in pure ",
-      "url": "https://github.com/storytold/cadcraft",
-      "created_at": "2026-10-07T05:22:31Z"
-    },
-    {
-      "name": "nullmoth/nvidia-macos-driver",
-      "stars": 2572,
-      "language": "Rust",
-      "description": "Metal driver for NVIDIA GeForce RTX cards on macOS 15 Sequoia (Intel / OpenCore). Free, source inclu",
-      "url": "https://github.com/nullmoth/nvidia-macos-driver",
-      "created_at": "2026-10-07T08:13:12Z"
-    },
-    {
-      "name": "LosaLosSantos/aurelio-finance",
-      "stars": 2327,
-      "language": "Python",
-      "description": "Open-source personal finance app with an AI financial advisor: track your net worth, investments, ET",
-      "url": "https://github.com/LosaLosSantos/aurelio-finance",
-      "created_at": "2026-10-06T20:14:19Z"
+      "description": "Import .sql files into TypeScript with full type inference and zero codegen.",
+      "url": "https://github.com/colinhacks/reylo",
+      "created_at": "2026-10-21T00:16:54Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz",
-      "url": "https://missileer.watch",
-      "score": 124,
-      "comments": 80,
-      "by": "liotier",
-      "hn_url": "https://news.ycombinator.com/item?id=50224422"
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 400,
+      "comments": 69,
+      "by": "jumploops",
+      "hn_url": "https://news.ycombinator.com/item?id=50234474"
     },
     {
-      "title": "The Goose Programming Language",
-      "url": "https://aardappel.github.io/goose/",
-      "score": 251,
-      "comments": 171,
-      "by": "bobbydigitales",
-      "hn_url": "https://news.ycombinator.com/item?id=50224100"
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "score": 48,
+      "comments": 31,
+      "by": "bpierre",
+      "hn_url": "https://news.ycombinator.com/item?id=50237078"
     },
     {
-      "title": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
-      "url": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
-      "score": 185,
-      "comments": 154,
-      "by": "gnabgib",
-      "hn_url": "https://news.ycombinator.com/item?id=50226419"
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "score": 148,
+      "comments": 40,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=50197108"
     },
     {
-      "title": "We should be more ambitious with the software we build",
-      "url": "https://danluu.com/ambitious/",
-      "score": 192,
-      "comments": 154,
-      "by": "ltratt",
-      "hn_url": "https://news.ycombinator.com/item?id=50225695"
-    },
-    {
-      "title": "Why Gopher in 2026?",
-      "url": "https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt",
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
       "score": 30,
-      "comments": 8,
-      "by": "andsoitis",
-      "hn_url": "https://news.ycombinator.com/item?id=50226577"
+      "comments": 11,
+      "by": "westurner",
+      "hn_url": "https://news.ycombinator.com/item?id=50237224"
     },
     {
-      "title": "Small Programs and Languages",
-      "url": "https://ratfactor.com/cards/pl-small",
-      "score": 46,
-      "comments": 2,
-      "by": "andsoitis",
-      "hn_url": "https://news.ycombinator.com/item?id=50225674"
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "score": 143,
+      "comments": 53,
+      "by": "jruohonen",
+      "hn_url": "https://news.ycombinator.com/item?id=50235017"
     },
     {
-      "title": "FindMyWeb: Apple Find My, reverse enginiered",
-      "url": "https://codeberg.org/Misom/FindMyWeb",
-      "score": 21,
-      "comments": 5,
-      "by": "Velocifyer",
-      "hn_url": "https://news.ycombinator.com/item?id=50226646"
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "score": 98,
+      "comments": 39,
+      "by": "embedding-shape",
+      "hn_url": "https://news.ycombinator.com/item?id=50235738"
     },
     {
-      "title": "SpeedCrunch 1.1",
-      "url": "https://www.speedcrunch.org/",
-      "score": 80,
-      "comments": 10,
-      "by": "LordNibbler",
-      "hn_url": "https://news.ycombinator.com/item?id=50224210"
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "score": 87,
+      "comments": 25,
+      "by": "pchristensen",
+      "hn_url": "https://news.ycombinator.com/item?id=50235780"
     },
     {
-      "title": "Reactive Optimizers: rewrite the optimizer's source code during training",
-      "url": "https://xingjianbai.com/reactive-optimizers/",
-      "score": 10,
-      "comments": 1,
-      "by": "matt_d",
-      "hn_url": "https://news.ycombinator.com/item?id=50188440"
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 451,
+      "comments": 214,
+      "by": "sungam",
+      "hn_url": "https://news.ycombinator.com/item?id=50233779"
     },
     {
-      "title": "I Built a Stereo Vision Board for Hardware Hackers",
-      "url": "https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/",
-      "score": 37,
-      "comments": 0,
-      "by": "machinehum",
-      "hn_url": "https://news.ycombinator.com/item?id=50172432"
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "score": 161,
+      "comments": 192,
+      "by": "minimaxir",
+      "hn_url": "https://news.ycombinator.com/item?id=50236102"
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "score": 53,
+      "comments": 21,
+      "by": "endorphine",
+      "hn_url": "https://news.ycombinator.com/item?id=50234879"
     }
   ]
 }

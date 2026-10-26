@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-25 02:27:55 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-26 02:27:29 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [openai/math](https://github.com/openai/math) | 14,133 | Lean | No description |
-| [storytold/wordcraft](https://github.com/storytold/wordcraft) | 6,308 | Rust | An open-source, clean-room reimplementation of Microsoft Word in pure Rust |
-| [wheresryan22/anatomy](https://github.com/wheresryan22/anatomy) | 3,660 | JavaScript | An agent skill for creating detailed, interactive isometric illustrations of rea... |
-| [alchaincyf/huashu-art-motion](https://github.com/alchaincyf/huashu-art-motion) | 3,415 | JavaScript | 艺术动画skill：35种艺术风格、9种解说语法，用代码让画动起来。 |
-| [mhtsec/ARTEX](https://github.com/mhtsec/ARTEX) | 3,255 | Go | AI 自主渗透测试系统 | 百度“agent+”攻防挑战赛冠军项目 |
+| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 5,106 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X... |
+| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 2,731 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa... |
+| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 1,947 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t... |
+| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 1,938 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor... |
+| [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,792 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec... |
 
-### Hacker News Top Stories (Last Updated: 2026-10-25 02:27:55 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-26 02:27:29 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Listen and read USA nuclear forces Emergency Action Messages, heard on 11175 kHz](https://missileer.watch) | 124 | [80 comments](https://news.ycombinator.com/item?id=50224422) |
-| [The Goose Programming Language](https://aardappel.github.io/goose/) | 251 | [171 comments](https://news.ycombinator.com/item?id=50224100) |
-| [America has lost 200k of jobs in media, film and the arts. How much is AI?](https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class) | 185 | [154 comments](https://news.ycombinator.com/item?id=50226419) |
-| [We should be more ambitious with the software we build](https://danluu.com/ambitious/) | 192 | [154 comments](https://news.ycombinator.com/item?id=50225695) |
-| [Why Gopher in 2026?](https://gopher.muffinlabs.com/sdf.org/users/nervtoji/phlog/001.txt) | 30 | [8 comments](https://news.ycombinator.com/item?id=50226577) |
-| [Small Programs and Languages](https://ratfactor.com/cards/pl-small) | 46 | [2 comments](https://news.ycombinator.com/item?id=50225674) |
-| [FindMyWeb: Apple Find My, reverse enginiered](https://codeberg.org/Misom/FindMyWeb) | 21 | [5 comments](https://news.ycombinator.com/item?id=50226646) |
-| [SpeedCrunch 1.1](https://www.speedcrunch.org/) | 80 | [10 comments](https://news.ycombinator.com/item?id=50224210) |
-| [Reactive Optimizers: rewrite the optimizer's source code during training](https://xingjianbai.com/reactive-optimizers/) | 10 | [1 comments](https://news.ycombinator.com/item?id=50188440) |
-| [I Built a Stereo Vision Board for Hardware Hackers](https://rootkitlabs.com/2026/10/06/i-built-a-stereo-vision-board-for-hardware-hackers/) | 37 | [0 comments](https://news.ycombinator.com/item?id=50172432) |
+| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | 400 | [69 comments](https://news.ycombinator.com/item?id=50234474) |
+| [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html) | 48 | [31 comments](https://news.ycombinator.com/item?id=50237078) |
+| [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) | 148 | [40 comments](https://news.ycombinator.com/item?id=50197108) |
+| [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) | 30 | [11 comments](https://news.ycombinator.com/item?id=50237224) |
+| [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) | 143 | [53 comments](https://news.ycombinator.com/item?id=50235017) |
+| [What goes into making an animated film?](https://www.disneyanimation.com/process/) | 98 | [39 comments](https://news.ycombinator.com/item?id=50235738) |
+| [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html) | 87 | [25 comments](https://news.ycombinator.com/item?id=50235780) |
+| [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) | 451 | [214 comments](https://news.ycombinator.com/item?id=50233779) |
+| [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) | 161 | [192 comments](https://news.ycombinator.com/item?id=50236102) |
+| [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/) | 53 | [21 comments](https://news.ycombinator.com/item?id=50234879) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 8.0°C (47.0°F) |
-| Average Humidity | 83% |
+| Average Temperature | 9.0°C (48.0°F) |
+| Average Humidity | 88% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-25 02:27:55 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-26 02:27:29 UTC*

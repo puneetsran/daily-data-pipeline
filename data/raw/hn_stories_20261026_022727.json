@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-26T02:27:27.763869",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Dolly Parton's Imagination Library",
+      "url": "https://imaginationlibrary.com/",
+      "score": 400,
+      "comments": 69,
+      "by": "jumploops",
+      "hn_url": "https://news.ycombinator.com/item?id=50234474"
+    },
+    {
+      "title": "F-Zero X on Nintendo 3DS",
+      "url": "https://hypnotize.works/gdx-3ds/postmortem/index.html",
+      "score": 48,
+      "comments": 31,
+      "by": "bpierre",
+      "hn_url": "https://news.ycombinator.com/item?id=50237078"
+    },
+    {
+      "title": "Overgrown, when plants invade your abandoned tabs",
+      "url": "https://charliegerard.dev/blog/overgrown-extension/",
+      "score": 148,
+      "comments": 40,
+      "by": "speckx",
+      "hn_url": "https://news.ycombinator.com/item?id=50197108"
+    },
+    {
+      "title": "Attention Is Not What You Need (2025)",
+      "url": "https://arxiv.org/abs/2512.19428",
+      "score": 30,
+      "comments": 11,
+      "by": "westurner",
+      "hn_url": "https://news.ycombinator.com/item?id=50237224"
+    },
+    {
+      "title": "Why I Am a Programmer",
+      "url": "https://www.alfie.wtf/programming/why-i-am-a-programmer.html",
+      "score": 143,
+      "comments": 53,
+      "by": "jruohonen",
+      "hn_url": "https://news.ycombinator.com/item?id=50235017"
+    },
+    {
+      "title": "What goes into making an animated film?",
+      "url": "https://www.disneyanimation.com/process/",
+      "score": 98,
+      "comments": 39,
+      "by": "embedding-shape",
+      "hn_url": "https://news.ycombinator.com/item?id=50235738"
+    },
+    {
+      "title": "The State of Context Engineering",
+      "url": "https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html",
+      "score": 87,
+      "comments": 25,
+      "by": "pchristensen",
+      "hn_url": "https://news.ycombinator.com/item?id=50235780"
+    },
+    {
+      "title": "A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis",
+      "url": "https://lynchlab.net/llm-skin-cancer",
+      "score": 451,
+      "comments": 214,
+      "by": "sungam",
+      "hn_url": "https://news.ycombinator.com/item?id=50233779"
+    },
+    {
+      "title": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+      "url": "https://minimaxir.com/2026/10/cheap-llms/",
+      "score": 161,
+      "comments": 192,
+      "by": "minimaxir",
+      "hn_url": "https://news.ycombinator.com/item?id=50236102"
+    },
+    {
+      "title": "Where the Romans Fought (interactive map)",
+      "url": "https://iosiflazaridis.github.io/battles-of-the-romans/",
+      "score": 53,
+      "comments": 21,
+      "by": "endorphine",
+      "hn_url": "https://news.ycombinator.com/item?id=50234879"
+    }
+  ]
+}
