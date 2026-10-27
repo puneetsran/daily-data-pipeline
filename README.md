@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-26 02:27:29 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-27 03:02:36 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [pengchujin/aerial-tv](https://github.com/pengchujin/aerial-tv) | 5,106 | Kotlin | 给国产电视的一块干净桌面：参照 tvOS 设计的开源 Android TV 桌面，没有广告，开机自动接管。A tvOS-style launcher for X... |
-| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 2,731 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa... |
-| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 1,947 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t... |
-| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 1,938 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor... |
-| [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,792 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec... |
+| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,895 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa... |
+| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,087 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor... |
+| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 2,075 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,063 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t... |
+| [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,838 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec... |
 
-### Hacker News Top Stories (Last Updated: 2026-10-26 02:27:29 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-27 03:02:36 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Dolly Parton's Imagination Library](https://imaginationlibrary.com/) | 400 | [69 comments](https://news.ycombinator.com/item?id=50234474) |
-| [F-Zero X on Nintendo 3DS](https://hypnotize.works/gdx-3ds/postmortem/index.html) | 48 | [31 comments](https://news.ycombinator.com/item?id=50237078) |
-| [Overgrown, when plants invade your abandoned tabs](https://charliegerard.dev/blog/overgrown-extension/) | 148 | [40 comments](https://news.ycombinator.com/item?id=50197108) |
-| [Attention Is Not What You Need (2025)](https://arxiv.org/abs/2512.19428) | 30 | [11 comments](https://news.ycombinator.com/item?id=50237224) |
-| [Why I Am a Programmer](https://www.alfie.wtf/programming/why-i-am-a-programmer.html) | 143 | [53 comments](https://news.ycombinator.com/item?id=50235017) |
-| [What goes into making an animated film?](https://www.disneyanimation.com/process/) | 98 | [39 comments](https://news.ycombinator.com/item?id=50235738) |
-| [The State of Context Engineering](https://www.dbreunig.com/2026/10/24/the-state-of-context-engineering.html) | 87 | [25 comments](https://news.ycombinator.com/item?id=50235780) |
-| [A 10-year-old CNN outperforms frontier LLMs for skin cancer diagnosis](https://lynchlab.net/llm-skin-cancer) | 451 | [214 comments](https://news.ycombinator.com/item?id=50233779) |
-| [OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?](https://minimaxir.com/2026/10/cheap-llms/) | 161 | [192 comments](https://news.ycombinator.com/item?id=50236102) |
-| [Where the Romans Fought (interactive map)](https://iosiflazaridis.github.io/battles-of-the-romans/) | 53 | [21 comments](https://news.ycombinator.com/item?id=50234879) |
+| [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | 563 | [235 comments](https://news.ycombinator.com/item?id=50251344) |
+| [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | 363 | [139 comments](https://news.ycombinator.com/item?id=50251661) |
+| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | 588 | [85 comments](https://news.ycombinator.com/item?id=50245138) |
+| [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) | 29 | [2 comments](https://news.ycombinator.com/item?id=50253529) |
+| [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) | 324 | [197 comments](https://news.ycombinator.com/item?id=50248055) |
+| [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) | 204 | [142 comments](https://news.ycombinator.com/item?id=50248371) |
+| [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) | 89 | [25 comments](https://news.ycombinator.com/item?id=50252159) |
+| [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219) | 72 | [20 comments](https://news.ycombinator.com/item?id=50204697) |
+| [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | 398 | [91 comments](https://news.ycombinator.com/item?id=50245831) |
+| [LISPy things you can do in 64K bytes of core (2019)](https://t3x.org/lisp64k/index.html) | 35 | [6 comments](https://news.ycombinator.com/item?id=50231041) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 9.0°C (48.0°F) |
-| Average Humidity | 88% |
+| Average Temperature | 10.0°C (50.0°F) |
+| Average Humidity | 81% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-26 02:27:29 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-27 03:02:36 UTC*

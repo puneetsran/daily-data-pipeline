@@ -1,0 +1,11 @@
+name,stars,language,description,url,created_at
+JustAResearcher/gpu-unlock-ada,3895,C,GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally,https://github.com/JustAResearcher/gpu-unlock-ada,2026-10-23T21:00:53Z
+wesbos/3d-model-anything,2087,Swift,"Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",https://github.com/wesbos/3d-model-anything,2026-10-21T19:38:50Z
+rddmwmddr/android-ad-cleaner,2075,Python,关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。,https://github.com/rddmwmddr/android-ad-cleaner,2026-10-24T05:35:47Z
+xevrion/hatchzip,2063,Rust,"HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z",https://github.com/xevrion/hatchzip,2026-10-21T17:29:28Z
+ikow/php2shell-poc,1838,Python,"CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.",https://github.com/ikow/php2shell-poc,2026-10-21T07:55:16Z
+designfuchen/word-atlas,1802,TypeScript,"词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-s",https://github.com/designfuchen/word-atlas,2026-10-25T08:27:22Z
+oosexgang/hackios-xnu-kernel,1695,C,No description,https://github.com/oosexgang/hackios-xnu-kernel,2026-10-22T06:20:11Z
+t3dotgg/tstack,1615,Python,The agent skills I use every day. Works with Claude Code and Codex.,https://github.com/t3dotgg/tstack,2026-10-24T05:00:20Z
+9bie/php2shell-bypass-aslr-exp,1479,Python,"A php2shell exploit that requires no modifications to the official version, and does not require dis",https://github.com/9bie/php2shell-bypass-aslr-exp,2026-10-21T11:11:57Z
+openai/php2shell-checker,1425,JavaScript,No description,https://github.com/openai/php2shell-checker,2026-10-21T00:29:12Z
