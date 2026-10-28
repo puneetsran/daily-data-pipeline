@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-28T03:13:49.975310",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Git for US Legislation",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "score": 36,
+      "comments": 19,
+      "by": "alansaber",
+      "hn_url": "https://news.ycombinator.com/item?id=50268380"
+    },
+    {
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "score": 770,
+      "comments": 466,
+      "by": "acossta",
+      "hn_url": "https://news.ycombinator.com/item?id=50261319"
+    },
+    {
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "score": 97,
+      "comments": 14,
+      "by": "_Microft",
+      "hn_url": "https://news.ycombinator.com/item?id=50234796"
+    },
+    {
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "score": 818,
+      "comments": 246,
+      "by": "deaux",
+      "hn_url": "https://news.ycombinator.com/item?id=50261998"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 154,
+      "comments": 134,
+      "by": "dataking",
+      "hn_url": "https://news.ycombinator.com/item?id=50265609"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "score": 214,
+      "comments": 114,
+      "by": "figmert",
+      "hn_url": "https://news.ycombinator.com/item?id=50264857"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "score": 213,
+      "comments": 109,
+      "by": "Luc",
+      "hn_url": "https://news.ycombinator.com/item?id=50264853"
+    },
+    {
+      "title": "Tabletop Whale is an original science illustration blog",
+      "url": "https://tabletopwhale.com",
+      "score": 19,
+      "comments": 2,
+      "by": "Levitating",
+      "hn_url": "https://news.ycombinator.com/item?id=50217978"
+    },
+    {
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "score": 112,
+      "comments": 43,
+      "by": "sthlmb",
+      "hn_url": "https://news.ycombinator.com/item?id=50265594"
+    },
+    {
+      "title": "81 Jokes for the ZX81",
+      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "score": 46,
+      "comments": 2,
+      "by": "robin_reala",
+      "hn_url": "https://news.ycombinator.com/item?id=50242688"
+    }
+  ]
+}

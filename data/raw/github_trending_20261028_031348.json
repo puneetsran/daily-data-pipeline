@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-28T03:13:48.762469",
+  "source": "GitHub API",
+  "data": [
+    {
+      "name": "JustAResearcher/gpu-unlock-ada",
+      "stars": 4304,
+      "language": "C",
+      "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
+      "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
+      "created_at": "2026-10-23T21:00:53Z"
+    },
+    {
+      "name": "rddmwmddr/android-ad-cleaner",
+      "stars": 3493,
+      "language": "Python",
+      "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
+      "url": "https://github.com/rddmwmddr/android-ad-cleaner",
+      "created_at": "2026-10-24T05:35:47Z"
+    },
+    {
+      "name": "designfuchen/word-atlas",
+      "stars": 2653,
+      "language": "TypeScript",
+      "description": "\u8bcd\u5149 \u00b7 Word Atlas \u2014 Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-s",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "created_at": "2026-10-25T08:27:22Z"
+    },
+    {
+      "name": "unclebob/ub-mode",
+      "stars": 2496,
+      "language": "N/A",
+      "description": "No description",
+      "url": "https://github.com/unclebob/ub-mode",
+      "created_at": "2026-10-25T16:04:09Z"
+    },
+    {
+      "name": "t3dotgg/tstack",
+      "stars": 2029,
+      "language": "Python",
+      "description": "The agent skills I use every day. Works with Claude Code and Codex.",
+      "url": "https://github.com/t3dotgg/tstack",
+      "created_at": "2026-10-24T05:00:20Z"
+    },
+    {
+      "name": "oosexgang/hackios-xnu-kernel",
+      "stars": 1826,
+      "language": "C",
+      "description": "No description",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "created_at": "2026-10-22T06:20:11Z"
+    },
+    {
+      "name": "morganlinton/BeautifulRust",
+      "stars": 1320,
+      "language": "Python",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "created_at": "2026-10-23T03:01:11Z"
+    },
+    {
+      "name": "DLSS-5-Swaper-New/.github",
+      "stars": 1280,
+      "language": "N/A",
+      "description": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing com",
+      "url": "https://github.com/DLSS-5-Swaper-New/.github",
+      "created_at": "2026-10-27T19:27:47Z"
+    },
+    {
+      "name": "enesozturk/dimensional-drawing",
+      "stars": 1269,
+      "language": "HTML",
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "created_at": "2026-10-23T12:20:16Z"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "stars": 1118,
+      "language": "TypeScript",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 ",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "created_at": "2026-10-26T04:34:09Z"
+    }
+  ]
+}

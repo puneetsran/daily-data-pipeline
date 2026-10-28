@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-27 03:02:36 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-28 03:13:51 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 3,895 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa... |
-| [wesbos/3d-model-anything](https://github.com/wesbos/3d-model-anything) | 2,087 | Swift | Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explor... |
-| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 2,075 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| [xevrion/hatchzip](https://github.com/xevrion/hatchzip) | 2,063 | Rust | HatchZip is a free, open-source archive extractor for Windows, macOS and Linux t... |
-| [ikow/php2shell-poc](https://github.com/ikow/php2shell-poc) | 1,838 | Python | CVE-2026-109618/109619 — 5 RCE chains + detection rules (Suricata, Sigma, ModSec... |
+| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 4,304 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa... |
+| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 3,493 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 2,653 | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and... |
+| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 2,496 | N/A | No description |
+| [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | 2,029 | Python | The agent skills I use every day. Works with Claude Code and Codex. |
 
-### Hacker News Top Stories (Last Updated: 2026-10-27 03:02:36 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-28 03:13:51 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Three new discoveries in mathematics, computer science, and physics](https://openai.com/index/building-scientific-understanding-with-academic-communities/) | 563 | [235 comments](https://news.ycombinator.com/item?id=50251344) |
-| [The Exponential Time Hypothesis Is False [pdf]](https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf) | 363 | [139 comments](https://news.ycombinator.com/item?id=50251661) |
-| [Sebastian Raschka's from-scratch video course on building reasoning models](https://magazine.sebastianraschka.com/p/building-reasoning-models) | 588 | [85 comments](https://news.ycombinator.com/item?id=50245138) |
-| [16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows](https://github.com/otya128/winevdm) | 29 | [2 comments](https://news.ycombinator.com/item?id=50253529) |
-| [Oldest GUI application that still runs on Windows 11](https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/) | 324 | [197 comments](https://news.ycombinator.com/item?id=50248055) |
-| [Type Server Protocol](https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md) | 204 | [142 comments](https://news.ycombinator.com/item?id=50248371) |
-| [Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)](https://blog.cloudflare.com/kv-cache-exposure-remediation/) | 89 | [25 comments](https://news.ycombinator.com/item?id=50252159) |
-| [A Printer Printing onto Paper](https://twitter.com/macrofying/status/2112904628509528219) | 72 | [20 comments](https://news.ycombinator.com/item?id=50204697) |
-| [CSS-Tricks has a new owner](https://css-tricks.com/css-tricks-has-a-new-owner/) | 398 | [91 comments](https://news.ycombinator.com/item?id=50245831) |
-| [LISPy things you can do in 64K bytes of core (2019)](https://t3x.org/lisp64k/index.html) | 35 | [6 comments](https://news.ycombinator.com/item?id=50231041) |
+| [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) | 36 | [19 comments](https://news.ycombinator.com/item?id=50268380) |
+| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | 770 | [466 comments](https://news.ycombinator.com/item?id=50261319) |
+| [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) | 97 | [14 comments](https://news.ycombinator.com/item?id=50234796) |
+| [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) | 818 | [246 comments](https://news.ycombinator.com/item?id=50261998) |
+| [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) | 154 | [134 comments](https://news.ycombinator.com/item?id=50265609) |
+| [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) | 214 | [114 comments](https://news.ycombinator.com/item?id=50264857) |
+| [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) | 213 | [109 comments](https://news.ycombinator.com/item?id=50264853) |
+| [Tabletop Whale is an original science illustration blog](https://tabletopwhale.com) | 19 | [2 comments](https://news.ycombinator.com/item?id=50217978) |
+| [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) | 112 | [43 comments](https://news.ycombinator.com/item?id=50265594) |
+| [81 Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81) | 46 | [2 comments](https://news.ycombinator.com/item?id=50242688) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 10.0°C (50.0°F) |
-| Average Humidity | 81% |
+| Average Temperature | 8.0°C (47.0°F) |
+| Average Humidity | 90% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-27 03:02:36 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-28 03:13:51 UTC*

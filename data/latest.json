@@ -1,167 +1,167 @@
 {
-  "updated_at": "2026-10-27 03:02 UTC",
+  "updated_at": "2026-10-28 03:13 UTC",
   "github_trending": [
     {
       "name": "JustAResearcher/gpu-unlock-ada",
-      "stars": 3895,
+      "stars": 4304,
       "language": "C",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
       "created_at": "2026-10-23T21:00:53Z"
     },
     {
-      "name": "wesbos/3d-model-anything",
-      "stars": 2087,
-      "language": "Swift",
-      "description": "Capture iPhone LiDAR and photos, reconstruct editable Three.js rooms, and explore them in a browser.",
-      "url": "https://github.com/wesbos/3d-model-anything",
-      "created_at": "2026-10-21T19:38:50Z"
-    },
-    {
       "name": "rddmwmddr/android-ad-cleaner",
-      "stars": 2075,
+      "stars": 3493,
       "language": "Python",
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "created_at": "2026-10-24T05:35:47Z"
     },
     {
-      "name": "xevrion/hatchzip",
-      "stars": 2063,
-      "language": "Rust",
-      "description": "HatchZip is a free, open-source archive extractor for Windows, macOS and Linux that extracts ZIP, 7z",
-      "url": "https://github.com/xevrion/hatchzip",
-      "created_at": "2026-10-21T17:29:28Z"
-    },
-    {
-      "name": "ikow/php2shell-poc",
-      "stars": 1838,
-      "language": "Python",
-      "description": "CVE-2026-109618/109619 \u2014 5 RCE chains + detection rules (Suricata, Sigma, ModSecurity). PHP session.",
-      "url": "https://github.com/ikow/php2shell-poc",
-      "created_at": "2026-10-21T07:55:16Z"
-    },
-    {
       "name": "designfuchen/word-atlas",
-      "stars": 1802,
+      "stars": 2653,
       "language": "TypeScript",
       "description": "\u8bcd\u5149 \u00b7 Word Atlas \u2014 Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-s",
       "url": "https://github.com/designfuchen/word-atlas",
       "created_at": "2026-10-25T08:27:22Z"
     },
     {
-      "name": "oosexgang/hackios-xnu-kernel",
-      "stars": 1695,
-      "language": "C",
+      "name": "unclebob/ub-mode",
+      "stars": 2496,
+      "language": "N/A",
       "description": "No description",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "created_at": "2026-10-22T06:20:11Z"
+      "url": "https://github.com/unclebob/ub-mode",
+      "created_at": "2026-10-25T16:04:09Z"
     },
     {
       "name": "t3dotgg/tstack",
-      "stars": 1615,
+      "stars": 2029,
       "language": "Python",
       "description": "The agent skills I use every day. Works with Claude Code and Codex.",
       "url": "https://github.com/t3dotgg/tstack",
       "created_at": "2026-10-24T05:00:20Z"
     },
     {
-      "name": "9bie/php2shell-bypass-aslr-exp",
-      "stars": 1479,
-      "language": "Python",
-      "description": "A php2shell exploit that requires no modifications to the official version, and does not require dis",
-      "url": "https://github.com/9bie/php2shell-bypass-aslr-exp",
-      "created_at": "2026-10-21T11:11:57Z"
+      "name": "oosexgang/hackios-xnu-kernel",
+      "stars": 1826,
+      "language": "C",
+      "description": "No description",
+      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
+      "created_at": "2026-10-22T06:20:11Z"
     },
     {
-      "name": "openai/php2shell-checker",
-      "stars": 1425,
-      "language": "JavaScript",
-      "description": "No description",
-      "url": "https://github.com/openai/php2shell-checker",
-      "created_at": "2026-10-21T00:29:12Z"
+      "name": "morganlinton/BeautifulRust",
+      "stars": 1320,
+      "language": "Python",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "created_at": "2026-10-23T03:01:11Z"
+    },
+    {
+      "name": "DLSS-5-Swaper-New/.github",
+      "stars": 1280,
+      "language": "N/A",
+      "description": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing com",
+      "url": "https://github.com/DLSS-5-Swaper-New/.github",
+      "created_at": "2026-10-27T19:27:47Z"
+    },
+    {
+      "name": "enesozturk/dimensional-drawing",
+      "stars": 1269,
+      "language": "HTML",
+      "description": "Create Apple style dimensional drawings of UI components.",
+      "url": "https://github.com/enesozturk/dimensional-drawing",
+      "created_at": "2026-10-23T12:20:16Z"
+    },
+    {
+      "name": "andyhuo520/digital-human-koubo",
+      "stars": 1118,
+      "language": "TypeScript",
+      "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 ",
+      "url": "https://github.com/andyhuo520/digital-human-koubo",
+      "created_at": "2026-10-26T04:34:09Z"
     }
   ],
   "hn_stories": [
     {
-      "title": "Three new discoveries in mathematics, computer science, and physics",
-      "url": "https://openai.com/index/building-scientific-understanding-with-academic-communities/",
-      "score": 563,
-      "comments": 235,
-      "by": "jonluca",
-      "hn_url": "https://news.ycombinator.com/item?id=50251344"
+      "title": "Git for US Legislation",
+      "url": "https://lexifina.com/blog/git-for-the-us-code",
+      "score": 36,
+      "comments": 19,
+      "by": "alansaber",
+      "hn_url": "https://news.ycombinator.com/item?id=50268380"
     },
     {
-      "title": "The Exponential Time Hypothesis Is False [pdf]",
-      "url": "https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf",
-      "score": 363,
-      "comments": 139,
-      "by": "vok",
-      "hn_url": "https://news.ycombinator.com/item?id=50251661"
+      "title": "Genie 4",
+      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
+      "score": 770,
+      "comments": 466,
+      "by": "acossta",
+      "hn_url": "https://news.ycombinator.com/item?id=50261319"
     },
     {
-      "title": "Sebastian Raschka's from-scratch video course on building reasoning models",
-      "url": "https://magazine.sebastianraschka.com/p/building-reasoning-models",
-      "score": 588,
-      "comments": 85,
-      "by": "sgiannopoulos",
-      "hn_url": "https://news.ycombinator.com/item?id=50245138"
+      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
+      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
+      "score": 97,
+      "comments": 14,
+      "by": "_Microft",
+      "hn_url": "https://news.ycombinator.com/item?id=50234796"
     },
     {
-      "title": "16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",
-      "url": "https://github.com/otya128/winevdm",
-      "score": 29,
+      "title": "Ghostty 1.4",
+      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
+      "score": 818,
+      "comments": 246,
+      "by": "deaux",
+      "hn_url": "https://news.ycombinator.com/item?id=50261998"
+    },
+    {
+      "title": "Early progress on accelerating drug development with Claude",
+      "url": "https://www.anthropic.com/research/early-progress-drug-development",
+      "score": 154,
+      "comments": 134,
+      "by": "dataking",
+      "hn_url": "https://news.ycombinator.com/item?id=50265609"
+    },
+    {
+      "title": "Tailscale SSH: Investigation and remediation update",
+      "url": "https://tailscale.com/ssh-investigation-update",
+      "score": 214,
+      "comments": 114,
+      "by": "figmert",
+      "hn_url": "https://news.ycombinator.com/item?id=50264857"
+    },
+    {
+      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+      "url": "https://www.brangus.io/survival-llm",
+      "score": 213,
+      "comments": 109,
+      "by": "Luc",
+      "hn_url": "https://news.ycombinator.com/item?id=50264853"
+    },
+    {
+      "title": "Tabletop Whale is an original science illustration blog",
+      "url": "https://tabletopwhale.com",
+      "score": 19,
       "comments": 2,
-      "by": "doener",
-      "hn_url": "https://news.ycombinator.com/item?id=50253529"
+      "by": "Levitating",
+      "hn_url": "https://news.ycombinator.com/item?id=50217978"
     },
     {
-      "title": "Oldest GUI application that still runs on Windows 11",
-      "url": "https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/",
-      "score": 324,
-      "comments": 197,
-      "by": "enlyth",
-      "hn_url": "https://news.ycombinator.com/item?id=50248055"
+      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
+      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
+      "score": 112,
+      "comments": 43,
+      "by": "sthlmb",
+      "hn_url": "https://news.ycombinator.com/item?id=50265594"
     },
     {
-      "title": "Type Server Protocol",
-      "url": "https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md",
-      "score": 204,
-      "comments": 142,
-      "by": "adamnemecek",
-      "hn_url": "https://news.ycombinator.com/item?id=50248371"
-    },
-    {
-      "title": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
-      "url": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
-      "score": 89,
-      "comments": 25,
-      "by": "wondersky",
-      "hn_url": "https://news.ycombinator.com/item?id=50252159"
-    },
-    {
-      "title": "A Printer Printing onto Paper",
-      "url": "https://twitter.com/macrofying/status/2112904628509528219",
-      "score": 72,
-      "comments": 20,
-      "by": "MrBuddyCasino",
-      "hn_url": "https://news.ycombinator.com/item?id=50204697"
-    },
-    {
-      "title": "CSS-Tricks has a new owner",
-      "url": "https://css-tricks.com/css-tricks-has-a-new-owner/",
-      "score": 398,
-      "comments": 91,
-      "by": "edent",
-      "hn_url": "https://news.ycombinator.com/item?id=50245831"
-    },
-    {
-      "title": "LISPy things you can do in 64K bytes of core (2019)",
-      "url": "https://t3x.org/lisp64k/index.html",
-      "score": 35,
-      "comments": 6,
-      "by": "andsoitis",
-      "hn_url": "https://news.ycombinator.com/item?id=50231041"
+      "title": "81 Jokes for the ZX81",
+      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
+      "score": 46,
+      "comments": 2,
+      "by": "robin_reala",
+      "hn_url": "https://news.ycombinator.com/item?id=50242688"
     }
   ]
 }
