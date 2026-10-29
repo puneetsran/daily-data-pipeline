@@ -18,36 +18,36 @@ This project showcases:
 
 ## 📈 Current Data Insights
 
-### GitHub Trending Repositories (Last Updated: 2026-10-28 03:13:51 UTC)
+### GitHub Trending Repositories (Last Updated: 2026-10-29 03:39:31 UTC)
 | Repository | Stars | Language | Description |
 |------------|-------|----------|-------------|
-| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 4,304 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa... |
-| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 3,493 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
-| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 2,653 | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and... |
-| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 2,496 | N/A | No description |
-| [t3dotgg/tstack](https://github.com/t3dotgg/tstack) | 2,029 | Python | The agent skills I use every day. Works with Claude Code and Codex. |
+| [JustAResearcher/gpu-unlock-ada](https://github.com/JustAResearcher/gpu-unlock-ada) | 4,433 | C | GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmwa... |
+| [rddmwmddr/android-ad-cleaner](https://github.com/rddmwmddr/android-ad-cleaner) | 4,388 | Python | 关掉国产安卓手机系统里的广告、热搜、资讯推荐和营销推送。不 root，可还原，支持 AI 智能体一键执行。 |
+| [unclebob/ub-mode](https://github.com/unclebob/ub-mode) | 3,899 | N/A | No description |
+| [designfuchen/word-atlas](https://github.com/designfuchen/word-atlas) | 3,086 | TypeScript | 词光 · Word Atlas — Illustrated IELTS vocabulary with 7,298 words, UK/US audio and... |
+| [interplains/Zero-Breach-Toolkit](https://github.com/interplains/Zero-Breach-Toolkit) | 2,862 | Python | Free, open-source, offline checks for traces of known mercenary spyware. Works o... |
 
-### Hacker News Top Stories (Last Updated: 2026-10-28 03:13:51 UTC)
+### Hacker News Top Stories (Last Updated: 2026-10-29 03:39:31 UTC)
 | Title | Score | Discussion |
 |-------|-------|------------|
-| [Git for US Legislation](https://lexifina.com/blog/git-for-the-us-code) | 36 | [19 comments](https://news.ycombinator.com/item?id=50268380) |
-| [Genie 4](https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/) | 770 | [466 comments](https://news.ycombinator.com/item?id=50261319) |
-| [Ink droplets in motion snag top prize in Nikon Small World contest](https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/) | 97 | [14 comments](https://news.ycombinator.com/item?id=50234796) |
-| [Ghostty 1.4](https://ghostty.org/docs/install/release-notes/1-4-0) | 818 | [246 comments](https://news.ycombinator.com/item?id=50261998) |
-| [Early progress on accelerating drug development with Claude](https://www.anthropic.com/research/early-progress-drug-development) | 154 | [134 comments](https://news.ycombinator.com/item?id=50265609) |
-| [Tailscale SSH: Investigation and remediation update](https://tailscale.com/ssh-investigation-update) | 214 | [114 comments](https://news.ycombinator.com/item?id=50264857) |
-| [Survival LLM: AI assistant and emergency library that runs on your own computer](https://www.brangus.io/survival-llm) | 213 | [109 comments](https://news.ycombinator.com/item?id=50264853) |
-| [Tabletop Whale is an original science illustration blog](https://tabletopwhale.com) | 19 | [2 comments](https://news.ycombinator.com/item?id=50217978) |
-| [Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees](https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/) | 112 | [43 comments](https://news.ycombinator.com/item?id=50265594) |
-| [81 Jokes for the ZX81](https://spelk.press/gb/products/81-jokes-for-the-zx81) | 46 | [2 comments](https://news.ycombinator.com/item?id=50242688) |
+| [Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5](https://divagr.com/blog/qwenputer) | 175 | [37 comments](https://news.ycombinator.com/item?id=50282838) |
+| [Why is this fingerprinting script creating bioweapons?](https://nullpt.rs/fingerprinting-bioweapons) | 928 | [195 comments](https://news.ycombinator.com/item?id=50276998) |
+| [GitLab Security Incident: Attempted Exploitation of CVE-2026-97229](https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html) | 109 | [43 comments](https://news.ycombinator.com/item?id=50282544) |
+| [A Health Update](https://furbo.org/2026/10/28/a-health-update/) | 140 | [17 comments](https://news.ycombinator.com/item?id=50280974) |
+| [CNC Stone Carving](https://carmelitegothic.com/cnc-stone-carving/) | 425 | [122 comments](https://news.ycombinator.com/item?id=50274409) |
+| [Human-enhanced tsunami hazard in large lakes](https://www.nature.com/articles/s41467-026-78272-8) | 11 | [0 comments](https://news.ycombinator.com/item?id=50242873) |
+| [Richest 0.1% (8M) produce more carbon pollution than 3.5B](https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing) | 21 | [0 comments](https://news.ycombinator.com/item?id=50284089) |
+| [Gemini 4 Carbon](https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/) | 836 | [698 comments](https://news.ycombinator.com/item?id=50276792) |
+| [StackOverflow now gets fewer than 1000 questions a month](https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1) | 164 | [170 comments](https://news.ycombinator.com/item?id=50282454) |
+| [Formlabs Studio 1 $699 Resin Printer](https://formlabs.com/products/form-studio-1-basic-founders-edition/) | 141 | [91 comments](https://news.ycombinator.com/item?id=50281044) |
 
 ### Weather Data Summary
 
 | Metric | Value |
 |--------|-------|
 | City Tracked | Vancouver |
-| Average Temperature | 8.0°C (47.0°F) |
-| Average Humidity | 90% |
+| Average Temperature | 8.0°C (46.0°F) |
+| Average Humidity | 84% |
 | Data Points | 1 |
 
 ## 🛠️ Tech Stack
@@ -175,4 +175,4 @@ MIT License - feel free to use this project as a template for your own data pipe
 
 ---
 
-*This README is automatically updated by the data pipeline. Last update: 2026-10-28 03:13:51 UTC*
+*This README is automatically updated by the data pipeline. Last update: 2026-10-29 03:39:31 UTC*

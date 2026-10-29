@@ -1,9 +1,9 @@
 {
-  "updated_at": "2026-10-28 03:13 UTC",
+  "updated_at": "2026-10-29 03:39 UTC",
   "github_trending": [
     {
       "name": "JustAResearcher/gpu-unlock-ada",
-      "stars": 4304,
+      "stars": 4433,
       "language": "C",
       "description": "GPU tensor unlock source for RTX 4090 and experimental RTX 4070 Ti SUPER; firmware generated locally",
       "url": "https://github.com/JustAResearcher/gpu-unlock-ada",
@@ -11,71 +11,71 @@
     },
     {
       "name": "rddmwmddr/android-ad-cleaner",
-      "stars": 3493,
+      "stars": 4388,
       "language": "Python",
       "description": "\u5173\u6389\u56fd\u4ea7\u5b89\u5353\u624b\u673a\u7cfb\u7edf\u91cc\u7684\u5e7f\u544a\u3001\u70ed\u641c\u3001\u8d44\u8baf\u63a8\u8350\u548c\u8425\u9500\u63a8\u9001\u3002\u4e0d root\uff0c\u53ef\u8fd8\u539f\uff0c\u652f\u6301 AI \u667a\u80fd\u4f53\u4e00\u952e\u6267\u884c\u3002",
       "url": "https://github.com/rddmwmddr/android-ad-cleaner",
       "created_at": "2026-10-24T05:35:47Z"
     },
     {
-      "name": "designfuchen/word-atlas",
-      "stars": 2653,
-      "language": "TypeScript",
-      "description": "\u8bcd\u5149 \u00b7 Word Atlas \u2014 Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-s",
-      "url": "https://github.com/designfuchen/word-atlas",
-      "created_at": "2026-10-25T08:27:22Z"
-    },
-    {
       "name": "unclebob/ub-mode",
-      "stars": 2496,
+      "stars": 3899,
       "language": "N/A",
       "description": "No description",
       "url": "https://github.com/unclebob/ub-mode",
       "created_at": "2026-10-25T16:04:09Z"
     },
     {
+      "name": "designfuchen/word-atlas",
+      "stars": 3086,
+      "language": "TypeScript",
+      "description": "\u8bcd\u5149 \u00b7 Word Atlas \u2014 Illustrated IELTS vocabulary with 7,298 words, UK/US audio and FSRS review. Open-s",
+      "url": "https://github.com/designfuchen/word-atlas",
+      "created_at": "2026-10-25T08:27:22Z"
+    },
+    {
+      "name": "interplains/Zero-Breach-Toolkit",
+      "stars": 2862,
+      "language": "Python",
+      "description": "Free, open-source, offline checks for traces of known mercenary spyware. Works on Windows, macOS and",
+      "url": "https://github.com/interplains/Zero-Breach-Toolkit",
+      "created_at": "2026-10-25T14:41:34Z"
+    },
+    {
       "name": "t3dotgg/tstack",
-      "stars": 2029,
+      "stars": 2281,
       "language": "Python",
       "description": "The agent skills I use every day. Works with Claude Code and Codex.",
       "url": "https://github.com/t3dotgg/tstack",
       "created_at": "2026-10-24T05:00:20Z"
     },
     {
-      "name": "oosexgang/hackios-xnu-kernel",
-      "stars": 1826,
-      "language": "C",
-      "description": "No description",
-      "url": "https://github.com/oosexgang/hackios-xnu-kernel",
-      "created_at": "2026-10-22T06:20:11Z"
-    },
-    {
-      "name": "morganlinton/BeautifulRust",
-      "stars": 1320,
-      "language": "Python",
-      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp",
-      "url": "https://github.com/morganlinton/BeautifulRust",
-      "created_at": "2026-10-23T03:01:11Z"
-    },
-    {
-      "name": "DLSS-5-Swaper-New/.github",
-      "stars": 1280,
-      "language": "N/A",
-      "description": "DLSS 5 Swapper is a specialized Windows utility for PC gaming enthusiasts interested in managing com",
-      "url": "https://github.com/DLSS-5-Swaper-New/.github",
-      "created_at": "2026-10-27T19:27:47Z"
+      "name": "anhao/ai-pose-gallery-zh",
+      "stars": 2067,
+      "language": "HTML",
+      "description": "\u4e2d\u6587\u7248 AI \u59ff\u52bf\u53c2\u8003\u56fe\u5e93 \u00b7 1439 \u7ec4 / 2878 \u5f20\u56fe\u7247 / \u5b8c\u6574\u6c49\u5316 \u00b7 \u96f6\u4f9d\u8d56\u9759\u6001\u753b\u5eca",
+      "url": "https://github.com/anhao/ai-pose-gallery-zh",
+      "created_at": "2026-10-27T12:24:37Z"
     },
     {
       "name": "enesozturk/dimensional-drawing",
-      "stars": 1269,
+      "stars": 1425,
       "language": "HTML",
       "description": "Create Apple style dimensional drawings of UI components.",
       "url": "https://github.com/enesozturk/dimensional-drawing",
       "created_at": "2026-10-23T12:20:16Z"
     },
     {
+      "name": "morganlinton/BeautifulRust",
+      "stars": 1371,
+      "language": "Python",
+      "description": "Agent Skills that teach coding agents to write, review, and port idiomatic Rust, plus a tested clipp",
+      "url": "https://github.com/morganlinton/BeautifulRust",
+      "created_at": "2026-10-23T03:01:11Z"
+    },
+    {
       "name": "andyhuo520/digital-human-koubo",
-      "stars": 1118,
+      "stars": 1328,
       "language": "TypeScript",
       "description": "AI digital-human talking-head videos from one photo: Renoise MCP generation + 5 editing styles + 48 ",
       "url": "https://github.com/andyhuo520/digital-human-koubo",
@@ -84,84 +84,84 @@
   ],
   "hn_stories": [
     {
-      "title": "Git for US Legislation",
-      "url": "https://lexifina.com/blog/git-for-the-us-code",
-      "score": 36,
-      "comments": 19,
-      "by": "alansaber",
-      "hn_url": "https://news.ycombinator.com/item?id=50268380"
+      "title": "Qwenputer: A functioning, deterministic RISC-V CPU inside Qwen3.5",
+      "url": "https://divagr.com/blog/qwenputer",
+      "score": 175,
+      "comments": 37,
+      "by": "csmantle",
+      "hn_url": "https://news.ycombinator.com/item?id=50282838"
     },
     {
-      "title": "Genie 4",
-      "url": "https://deepmind.google/blog/genie-4-a-new-generation-of-world-simulation/",
-      "score": 770,
-      "comments": 466,
-      "by": "acossta",
-      "hn_url": "https://news.ycombinator.com/item?id=50261319"
+      "title": "Why is this fingerprinting script creating bioweapons?",
+      "url": "https://nullpt.rs/fingerprinting-bioweapons",
+      "score": 928,
+      "comments": 195,
+      "by": "hazebooth",
+      "hn_url": "https://news.ycombinator.com/item?id=50276998"
     },
     {
-      "title": "Ink droplets in motion snag top prize in Nikon Small World contest",
-      "url": "https://arstechnica.com/science/2026/10/meet-the-2026-winner-of-nikons-small-world-photomicrography-contest/",
-      "score": 97,
-      "comments": 14,
-      "by": "_Microft",
-      "hn_url": "https://news.ycombinator.com/item?id=50234796"
-    },
-    {
-      "title": "Ghostty 1.4",
-      "url": "https://ghostty.org/docs/install/release-notes/1-4-0",
-      "score": 818,
-      "comments": 246,
-      "by": "deaux",
-      "hn_url": "https://news.ycombinator.com/item?id=50261998"
-    },
-    {
-      "title": "Early progress on accelerating drug development with Claude",
-      "url": "https://www.anthropic.com/research/early-progress-drug-development",
-      "score": 154,
-      "comments": 134,
-      "by": "dataking",
-      "hn_url": "https://news.ycombinator.com/item?id=50265609"
-    },
-    {
-      "title": "Tailscale SSH: Investigation and remediation update",
-      "url": "https://tailscale.com/ssh-investigation-update",
-      "score": 214,
-      "comments": 114,
-      "by": "figmert",
-      "hn_url": "https://news.ycombinator.com/item?id=50264857"
-    },
-    {
-      "title": "Survival LLM: AI assistant and emergency library that runs on your own computer",
-      "url": "https://www.brangus.io/survival-llm",
-      "score": 213,
-      "comments": 109,
-      "by": "Luc",
-      "hn_url": "https://news.ycombinator.com/item?id=50264853"
-    },
-    {
-      "title": "Tabletop Whale is an original science illustration blog",
-      "url": "https://tabletopwhale.com",
-      "score": 19,
-      "comments": 2,
-      "by": "Levitating",
-      "hn_url": "https://news.ycombinator.com/item?id=50217978"
-    },
-    {
-      "title": "Raspberry Pi Zero 3W and Pi 4 Model A spotted in device trees",
-      "url": "https://bret.dk/raspberry-pi-zero-3-w-pi-4-model-a/",
-      "score": 112,
+      "title": "GitLab Security Incident: Attempted Exploitation of CVE-2026-97229",
+      "url": "https://alpinelinux.org/posts/GitLab-security-incident-CVE-2026-97229.html",
+      "score": 109,
       "comments": 43,
-      "by": "sthlmb",
-      "hn_url": "https://news.ycombinator.com/item?id=50265594"
+      "by": "sashk",
+      "hn_url": "https://news.ycombinator.com/item?id=50282544"
     },
     {
-      "title": "81 Jokes for the ZX81",
-      "url": "https://spelk.press/gb/products/81-jokes-for-the-zx81",
-      "score": 46,
-      "comments": 2,
-      "by": "robin_reala",
-      "hn_url": "https://news.ycombinator.com/item?id=50242688"
+      "title": "A Health Update",
+      "url": "https://furbo.org/2026/10/28/a-health-update/",
+      "score": 140,
+      "comments": 17,
+      "by": "frizlab",
+      "hn_url": "https://news.ycombinator.com/item?id=50280974"
+    },
+    {
+      "title": "CNC Stone Carving",
+      "url": "https://carmelitegothic.com/cnc-stone-carving/",
+      "score": 425,
+      "comments": 122,
+      "by": "bschne",
+      "hn_url": "https://news.ycombinator.com/item?id=50274409"
+    },
+    {
+      "title": "Human-enhanced tsunami hazard in large lakes",
+      "url": "https://www.nature.com/articles/s41467-026-78272-8",
+      "score": 11,
+      "comments": 0,
+      "by": "gumby",
+      "hn_url": "https://news.ycombinator.com/item?id=50242873"
+    },
+    {
+      "title": "Richest 0.1% (8M) produce more carbon pollution than 3.5B",
+      "url": "https://www.oxfam.org/en/press-releases/ultra-rich-01-produce-more-carbon-pollution-nearly-half-humanity-while-cashing",
+      "score": 21,
+      "comments": 0,
+      "by": "botanical",
+      "hn_url": "https://news.ycombinator.com/item?id=50284089"
+    },
+    {
+      "title": "Gemini 4 Carbon",
+      "url": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+      "score": 836,
+      "comments": 698,
+      "by": "acossta",
+      "hn_url": "https://news.ycombinator.com/item?id=50276792"
+    },
+    {
+      "title": "StackOverflow now gets fewer than 1000 questions a month",
+      "url": "https://data.stackexchange.com/stackoverflow/query/1926661#graph?t=1",
+      "score": 164,
+      "comments": 170,
+      "by": "babelfish",
+      "hn_url": "https://news.ycombinator.com/item?id=50282454"
+    },
+    {
+      "title": "Formlabs Studio 1 $699 Resin Printer",
+      "url": "https://formlabs.com/products/form-studio-1-basic-founders-edition/",
+      "score": 141,
+      "comments": 91,
+      "by": "mhb",
+      "hn_url": "https://news.ycombinator.com/item?id=50281044"
     }
   ]
 }
