@@ -1,0 +1,86 @@
+{
+  "collected_at": "2026-10-30T03:42:31.844631",
+  "source": "Hacker News API",
+  "data": [
+    {
+      "title": "Binance-hacker-1029 \u2013 $5.6B stolen from Binance",
+      "url": "https://arkm.com/explorer/entity/21a94755-f604-45e5-9501-6542e23005e8",
+      "score": 877,
+      "comments": 512,
+      "by": "Tiberium",
+      "hn_url": "https://news.ycombinator.com/item?id=50296470"
+    },
+    {
+      "title": "We're releasing the weights of Mistral Large 4",
+      "url": "https://mistral.ai/news/mistral-large-4-oss/",
+      "score": 1254,
+      "comments": 350,
+      "by": "kuberwastaken",
+      "hn_url": "https://news.ycombinator.com/item?id=50289418"
+    },
+    {
+      "title": "Cuis: The Modern Smalltalk-80",
+      "url": "https://cuis.st/",
+      "score": 16,
+      "comments": 1,
+      "by": "theanonymousone",
+      "hn_url": "https://news.ycombinator.com/item?id=50255343"
+    },
+    {
+      "title": "We ran AI agent swarms in Minecraft and Mindustry",
+      "url": "https://labs.ycombinator.com/projects/games/index.html",
+      "score": 211,
+      "comments": 68,
+      "by": "sandslash",
+      "hn_url": "https://news.ycombinator.com/item?id=50296486"
+    },
+    {
+      "title": "Astroterm: A Planetarium for Your Terminal",
+      "url": "https://github.com/da-luce/astroterm",
+      "score": 19,
+      "comments": 1,
+      "by": "nvmdbljstm",
+      "hn_url": "https://news.ycombinator.com/item?id=50270651"
+    },
+    {
+      "title": "I'm so bad at billiards that I ended up in the hyperbolic plane [video]",
+      "url": "https://www.youtube.com/watch?v=kL9BTbIGxLg",
+      "score": 18,
+      "comments": 2,
+      "by": "surprisetalk",
+      "hn_url": "https://news.ycombinator.com/item?id=50273104"
+    },
+    {
+      "title": "A tiny world model running games on a Raspberry Pi Pico 2 W",
+      "url": "https://github.com/SheepSeb/tinyworldformer",
+      "score": 161,
+      "comments": 8,
+      "by": "airinei",
+      "hn_url": "https://news.ycombinator.com/item?id=50295450"
+    },
+    {
+      "title": "CVE-2026-98432: Linux TCP Use-After-Free Risk and Patch Validation",
+      "url": "https://www.penligent.ai/hackinglabs/cve-2026-98432/",
+      "score": 7,
+      "comments": 1,
+      "by": "cobychapple",
+      "hn_url": "https://news.ycombinator.com/item?id=50299182"
+    },
+    {
+      "title": "Pico CSS is no longer maintained",
+      "url": "https://github.com/picocss/pico/discussions/754",
+      "score": 51,
+      "comments": 18,
+      "by": "henrid",
+      "hn_url": "https://news.ycombinator.com/item?id=50298964"
+    },
+    {
+      "title": "H.264 Is Magic (2016)",
+      "url": "https://sidbala.com/h-264-is-magic/",
+      "score": 356,
+      "comments": 130,
+      "by": "ea016",
+      "hn_url": "https://news.ycombinator.com/item?id=50291054"
+    }
+  ]
+}
